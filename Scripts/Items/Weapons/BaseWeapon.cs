@@ -931,7 +931,6 @@ namespace Server.Items
 
         public virtual TimeSpan OnSwing( Mobile attacker, Mobile defender, double damageBonus )
         {
-
             if (Core.AOS)
             {
                 canSwing = (!attacker.Paralyzed && !attacker.Frozen);
@@ -979,7 +978,7 @@ namespace Server.Items
                 }
             }
 
-            if (this.Parent is Player && this is BaseWeapon)
+            if (Parent is Player && this is BaseWeapon)
             {
                 Item weapon = attacker.Weapon as BaseWeapon;
 
@@ -995,6 +994,34 @@ namespace Server.Items
                             attacker.Stam -= (int)(((weapon.Weight + 2) / 2) + 2);
                         }             
                 }
+            }
+
+            if (canSwing)
+            {
+                Layer[] layers = new Layer[] 
+                { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.OuterTorso, Layer.OuterLegs };
+
+                int totalWeight = 0;
+
+                for (int i = 0; i <= layers.Length; i++)
+                {
+                    if(attacker is Player)
+                    {
+                        Item item = ((Player)attacker).FindItemOnLayer(layers[i]);
+                        if(item != null) totalWeight += (int)item.Weight;
+                    }
+                }
+
+                double strReductionRatio = (Math.Sqrt(attacker.Str) / 100);
+                int staminaReduction = (int)(Math.Sqrt(totalWeight) * strReductionRatio);
+
+                if (staminaReduction > attacker.Stam)
+                {
+                    attacker.SendMessage("Thou art too encumbered to swing..");
+                    canSwing = false;
+                }
+
+                else attacker.Stam -= staminaReduction;
             }
 
             if( canSwing && attacker.HarmfulCheck(defender) )
