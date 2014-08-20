@@ -999,7 +999,7 @@ namespace Server.Items
             if (canSwing)
             {
                 Layer[] layers = new Layer[] 
-                { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.OuterTorso, Layer.OuterLegs };
+                { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
 
                 int totalWeight = 0;
 
