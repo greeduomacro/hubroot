@@ -1,0 +1,184 @@
+0.0.1
+Running now affects hunger and thirst.
+Players are no longer required to be in a thieve's guild to steal from other players.
+The Markman's bonus range increased (from 2 to 3).
+Chance to parry now affected by shield's weight.
+The Rogue ability Assassination no longer produces bonus damage on miss.
+Platemail leggings now protect feet from damage when running.
+Active weapon abilities consume Stamina, even when parried.
+Reduced the chance of passive weapon abilities, based on Anatomy.
+Non-Player Characters and Creatures now regenerate hits, stamina, and mana based on corresponding attributes.
+Weapons, armor, and shields no longer produce the affect Reflect Physical Damage.
+Runic Abilities on craft and loot modified, removed, enhanced.
+Pugilist evasion bonus now grants partial bonus to weapons.
+The Beastmaster and Summoner follower bonuses now stack.
+Summoner abilities now affect summoned daemons and fire elementals.
+Monk's dispel ability reduced (to 66% from 100%).
+Summoners may summon a maximum of four creatures at a time.
+All weapons require a minimum of 2 stamina to swing, including fists.
+Players now start with 10,000 Essence of Character.
+Spirit Speak now heals hitpoints, as per AOS.
+Players may now increase skillcaps via the Character Overview display.
+Decreasing skillcaps now returns 1/3 of the EoC spent.
+Starting Skills reduced (from 550 to 450).
+Overall Skillcap reduced to 1,000.
+Individual Statcap increased (from 140 to 150).
+Ingot weight increased (from 1 to 5 stones).
+Increased the amount of EoC generated when striking an opponent.
+Hit Lower Attack and Defend now produce results when using ItemID.
+
+0.0.2
+Getting hit no longer reduces stamina.
+Weapon Life, Stamina, and Mana leech abilities now absorb 50% of damage dealt.
+Pack Instinct bonus range increased (from 1 to 3).
+Bows now consume proper stamina on swing.
+Modifications made to stamina-loss while running.
+Warlock is no longer able to leech mana with ranged weapons.
+Stamina regeneration now increases as a player loses hitpoints.
+Increased chance of degrading equipment on death.
+Players no longer lose skillpoints on Knock Out.
+Players are now required to be on an altar to mark recall runes.
+Wooden shields no longer produce empty results on ItemID.
+Server no longer automatically restarts every 24 hours.
+Sever now saves every 30 minutes, as opposed to two hours.
+Items now take up to 28 days to decay.
+
+0.0.3
+Orc Kin Masks no longer reduce karma.
+The Character Overview can now be accessed via context menu.
+Character Overview now displays Knock Out Counts.
+Character Overview no longer displays murders counts.
+Reduced speed of stamina regen with low health.
+Knock-Out Gump now displays KO's.
+Time spent unconscious now based on current KO count.
+Increased chance to degrade equipment on Knockout.
+The door knock context menu no longer appears empty.
+Running now negates stamina regeneration bonuses.
+Players must now rest after running before regaining stamina.
+Cannons now check player distance on firing.
+Minimum jump range increased to two tiles.
+Race Abilities can now be accessed via context menu.
+Players now start with 20,000 Essence of Character
+Each race now has individual stat-caps.
+Level 5 Acrobat Perk now grants +35 dexterity.
+Reduced affect of Magic resist on fire-field.
+Increased fire-field damage.
+Scrolls no longer require mana to use.
+Spells no longer require reagents to cast.
+Reagents now reduce the mana required to cast by 50%
+The Kobold race ability no longer works when targetting self.
+Ophidians, Terathans, and Liches now resist poison.
+Lowered intelligence reduction on werewolves while transformed.
+Increased EOC cost to play the Liche Race.
+
+0.0.4
+Race System Overhaul: New races, new gump, new abilities.
+
+0.0.5
+Weapons and shields can no longer be held by characters in non-human form.
+Each non-human race now do extra melee damage in place of weapons.
+Shapeshifters now do extra melee damage based on body assumed.
+Players now regenerate stamina when running on a mount.
+Elementals now regenerate mana much faster in water-form.
+Reduced base regeneation speed of both mana and stamina.
+Jump stamina requirement now accounts for player weight in relation to capacity.
+Ogres now suffer a -1 jump range penalty.
+Terathans now have a +1 jump range bonus.
+Elementals can now jump on water in liquid form.
+Modifications to how weight affects jumping.
+Reduced amount of weight players can carry, based on Strength.
+Reduced base follower limit to 2.
+
+0.0.6
+Disguise kits now provide a name selection gump.
+Disguise kits now require the forensic evalutation skill.
+Disguised names now appear on objects tampered with (bodies, containers, doors).
+Guards now construct with proper AI_Types.
+Added OnThink() functionality to Backtrolian Guards to provide controllable response time.
+Doors now automatically close after 10 seconds when used by an NPC.
+Cannons now require the armslore skill, with a chance of miss-fire based on skill.
+Cannon base damage reduced, damage to targets near explosion increased.
+
+0.0.7
+The server now displays the Packet ID of incoming connections.
+The Level 5 Acrobat perk (olympian) now provides +40 maximum stamina.
+Certain perks now cause emotes when dodging, or deflecting an attack.
+Players are no longer able to jump while mounted.
+Player bodyweight is no longer accounted for in weight carried.
+Added Medics to accompany the Backtrolian Guard.
+Added Line of Sight check to Backtrolian Guards.
+Backtrolian guards are now guards because I'm tired of writing backtrolian guards..
+Healer AI no longer heals enemy combatants.
+The server will now annoy players if they do not meet client version requirements.
+Liches may now equip staff-type weapons.
+Elementals and Liches are no longer required to eat.
+Liches are no longer required to drink.
+Elementals become thirsty faster than other races.
+NPC's capable of teaching now require copper as payment.
+Sail boat captains now accept copper as payment for travel.
+
+0.0.8
+Jumping down from over a story now damages players.
+Decreased the default wait time to regain consciousness.
+Copper to Gold conversion ratio is now 1 to 1,000.
+Assassination contracts now pay out copper.
+Bank checks now cash out copper coins by default.
+Creatures now have alignments which affect who they attack.
+
+0.0.9
+Creatures attacking due to alignment now appear orange to combatants.
+Adjusted Karma Ranges for each alignment to provide more 'realism'.
+Creatures will no longer attack staff, no matter alignment.
+Anything that lowers stamina now has a chance to reduce hunger and thirst levels.
+Console header text now modifiable in header.txt
+
+0.1.0
+Perks now Validate Equipment on level up to instantly display stat changes.
+Reduced the height players can jump based on strength and dexterity.
+Hunger & Thirst will now reduce mana and stamina if too low.
+Running with 0 thirst or 0 hunger will now damage a player.
+Stamina lost when running now accounts for Hunger and Thirst.
+
+0.1.1
+Guards will now attack creatures based upon both notoriety and alignment.
+Flying carpets may now be commanded at a range of twelve tiles.
+Lowered Individual stat-caps for Humans (now 125 in each category).
+Creatures killed outside a 32-tile radius of a player will no longer leave corpses.
+Flying Carpets will now stop once outside a 12 tile radius from its' master.
+Players now start as human and are no longer displayed the Race Gump on creation.
+Carpet Shadows no longer appear above carpets when at ground level.
+
+0.1.2
+Guards now call of assistance when at low levels of health.
+Staff may now toggle whether or not they are recognized by the corpse production process.
+Pets will now refuse to attack guards out of fear.
+Corrected magery level on wizard type guards.
+Bank Boxes no longer fall to backpacks on knockout.
+
+
+https://docs.google.com/uc?export=download&confirm=Y-Fx&id=0B8alYNlu3SuoLWVuUXpyQzlFaGc
+
+TODO:
+-
+Flying carpets need the wrap function.
+Flying carpets shouldn't be able to fly over black tiles.
+Tents need to check placement.
+Chance to parry/hit should be reduced if not facing opponent.
+Life/Death?
+Resources/Craft
+Armslore / Gump?
+ItemID Rename Gump
+Need to change Cliloc to say cp instead of gp
+Need to reduce the height to strength/dex ratio on jump.
+HEaler AI needs to heal players?
+Cannons need a control gump
+Languages need an overview gump
+Studded armor should allow full med.
+Need currency converting mobile.
+Need to edit cliloc on follower limit ("You have too many followers" should be "You can not control this many followers")
+Summon creature needs new, selectable summons.
+Carpets need to serialize entities
+
+
+
+
