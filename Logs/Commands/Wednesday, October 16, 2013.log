@@ -1,0 +1,158 @@
+﻿###################################
+Logging started on 10/16/2013 12:41:02 AM
+
+10/16/2013 12:42:49 AM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'admin '
+10/16/2013 12:43:04 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'admin '
+10/16/2013 12:43:31 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'help '
+10/16/2013 12:43:38 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'help menu'
+10/16/2013 12:43:44 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'help '
+10/16/2013 12:43:45 AM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/16/2013 12:43:46 AM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'help '
+10/16/2013 12:43:53 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/16/2013 12:43:57 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'helpinfo '
+10/16/2013 12:44:06 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'deletecharacter '
+10/16/2013 12:44:10 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting character 0x5 "Test" ('Enroq').
+###################################
+Logging started on 10/16/2013 12:44:50 AM
+
+10/16/2013 12:46:52 AM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'admin '
+10/16/2013 12:47:07 AM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') adding new account: Atrophic
+###################################
+Logging started on 10/16/2013 12:54:12 AM
+
+10/16/2013 12:55:04 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'admin '
+10/16/2013 12:55:27 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'deletecharacter '
+10/16/2013 12:55:30 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting character 0x5 "Test" ('Enroq').
+10/16/2013 12:55:43 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') adding new account: Enroq1
+10/16/2013 12:55:46 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'save '
+###################################
+Logging started on 10/16/2013 1:26:42 PM
+
+###################################
+Logging started on 10/16/2013 1:53:02 PM
+
+10/16/2013 1:54:29 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 1:54:30 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+10/16/2013 1:55:26 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken set hitsmaxseed 1000 hits 1000'
+10/16/2013 1:55:27 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5690, 333, 6) in Backtrol: "chicken" "set" "hitsmaxseed" "1000" "hits" "1000"
+10/16/2013 1:55:27 PM: 127.0.0.1: Serials: 0x1B; 
+10/16/2013 1:55:30 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set cantwalk true'
+10/16/2013 1:55:32 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'cantwalk' of 0x1B "a chicken" (no account) to 'True'
+10/16/2013 1:55:36 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'self get hunger'
+10/16/2013 1:56:32 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 1:57:12 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set rawstr 125'
+10/16/2013 1:57:13 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'rawstr' of 0x1B "a chicken" (no account) to '125'
+10/16/2013 1:58:28 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 1:58:36 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 1:58:44 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/16/2013 1:58:45 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x1B "a chicken" (no account) to '100'
+10/16/2013 1:59:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'move '
+10/16/2013 1:59:05 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') moving 0x1B "a chicken" (no account) to (5697, 341, 5)
+10/16/2013 1:59:14 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken'
+10/16/2013 1:59:15 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5696, 339, 7) in Backtrol: "chicken"
+10/16/2013 1:59:15 PM: 127.0.0.1: Serials: 0x22; 
+###################################
+Logging started on 10/16/2013 2:06:48 PM
+
+10/16/2013 2:21:33 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken'
+10/16/2013 2:21:34 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5702, 344, 5) in Backtrol: "chicken"
+10/16/2013 2:21:34 PM: 127.0.0.1: Serials: 0x2B; 
+10/16/2013 2:21:37 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 2:21:39 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+###################################
+Logging started on 10/16/2013 2:23:24 PM
+
+10/16/2013 2:26:19 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken'
+10/16/2013 2:26:20 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5701, 343, 5) in Backtrol: "chicken"
+10/16/2013 2:26:20 PM: 127.0.0.1: Serials: 0x1D; 
+10/16/2013 2:26:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 2:26:27 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+###################################
+Logging started on 10/16/2013 2:29:47 PM
+
+10/16/2013 2:30:16 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 2:30:17 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+10/16/2013 2:30:20 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken'
+10/16/2013 2:30:21 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5702, 343, 5) in Backtrol: "chicken"
+10/16/2013 2:30:21 PM: 127.0.0.1: Serials: 0xD; 
+###################################
+Logging started on 10/16/2013 2:34:42 PM
+
+###################################
+Logging started on 10/16/2013 2:36:15 PM
+
+###################################
+Logging started on 10/16/2013 2:38:57 PM
+
+###################################
+Logging started on 10/16/2013 2:45:38 PM
+
+###################################
+Logging started on 10/16/2013 2:49:18 PM
+
+10/16/2013 2:52:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 2:52:12 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+10/16/2013 2:52:22 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add deer'
+10/16/2013 2:52:26 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add hind'
+10/16/2013 2:52:27 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5681, 342, 4) in Backtrol: "hind"
+10/16/2013 2:52:27 PM: 127.0.0.1: Serials: 0x1D; 
+10/16/2013 3:05:24 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/16/2013 3:05:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/16/2013 3:06:03 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 3:06:04 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+###################################
+Logging started on 10/16/2013 3:07:06 PM
+
+10/16/2013 3:07:28 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 3:07:29 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+10/16/2013 3:07:31 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'skills '
+10/16/2013 3:07:40 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property '[Wrestling: 100].Base' of 0x5 "Test" ('Enroq') to '100'
+10/16/2013 3:07:44 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property '[Tactics: 100].Base' of 0x5 "Test" ('Enroq') to '100'
+10/16/2013 3:07:50 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property '[Anatomy: 100].Base' of 0x5 "Test" ('Enroq') to '100'
+10/16/2013 3:08:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add hind'
+10/16/2013 3:08:02 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5683, 335, 5) in Backtrol: "hind"
+10/16/2013 3:08:02 PM: 127.0.0.1: Serials: 0x1A; 
+10/16/2013 3:10:24 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add hind'
+10/16/2013 3:10:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5681, 345, 5) in Backtrol: "hind"
+10/16/2013 3:12:14 PM: 127.0.0.1: Serials: 0x1E; 
+10/16/2013 5:06:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'tele '
+###################################
+Logging started on 10/16/2013 8:59:53 PM
+
+10/16/2013 9:00:36 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 0'
+10/16/2013 9:00:38 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '0'
+10/16/2013 9:00:43 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add hind'
+10/16/2013 9:00:44 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5697, 338, 5) in Backtrol: "hind"
+10/16/2013 9:00:44 PM: 127.0.0.1: Serials: 0x4; 
+10/16/2013 9:01:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set maxhitsseed 1000'
+10/16/2013 9:01:17 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set maxhitsseed 1000'
+10/16/2013 9:01:26 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set maxhitseed 1000'
+10/16/2013 9:01:34 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set maxhitsseed 1000'
+10/16/2013 9:01:37 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/16/2013 9:02:09 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set hitsmaxseed 1000'
+10/16/2013 9:02:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'hitsmaxseed' of 0x4 "a hind" (no account) to '1000'
+10/16/2013 9:02:16 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'heal '
+10/16/2013 9:02:24 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'get hits'
+10/16/2013 9:02:31 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set cantwalk true'
+10/16/2013 9:02:32 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'cantwalk' of 0x4 "a hind" (no account) to 'True'
+10/16/2013 9:02:37 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 9:04:23 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 9:05:49 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add golem set cantwalk true'
+10/16/2013 9:05:51 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5699, 338, 6) in Backtrol: "golem" "set" "cantwalk" "true"
+10/16/2013 9:05:51 PM: 127.0.0.1: Serials: 0x22; 
+10/16/2013 9:06:03 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/16/2013 9:06:06 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x27 "a treefellow" (no account)
+10/16/2013 9:07:39 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 9:10:22 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/16/2013 9:10:28 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x27 "a treefellow" (no account)
+10/16/2013 9:11:49 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 9:12:30 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/16/2013 9:28:21 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 9:33:20 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'help '
+10/16/2013 9:33:21 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/16/2013 9:33:23 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x22 "a golem" (no account)
+10/16/2013 9:33:24 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/16/2013 9:33:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x30 "a treefellow" (no account)
+10/16/2013 9:33:27 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/16/2013 10:40:51 PM: 127.0.0.1: Player 0x5 "Test" ('Enroq') used command 'calt '
+10/16/2013 10:40:56 PM: 127.0.0.1: Player 0x5 "Test" ('Enroq') used command 'helpinfo '

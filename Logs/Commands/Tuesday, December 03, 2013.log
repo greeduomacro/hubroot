@@ -1,0 +1,47 @@
+﻿###################################
+Logging started on 12/3/2013 12:05:36 AM
+
+12/3/2013 12:27:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hits 1 mana 1 stam 1'
+12/3/2013 12:27:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hits' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'mana' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'stam' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 0'
+12/3/2013 12:27:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '0'
+12/3/2013 12:27:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hits 1 stam 1 mana 1'
+12/3/2013 12:27:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hits' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'stam' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'mana' of 0x1 "Test" ('Admin') to '1'
+12/3/2013 12:27:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast nightsight'
+12/3/2013 12:28:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast nightsight'
+12/3/2013 12:28:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get lightlevel'
+12/3/2013 12:28:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 99'
+12/3/2013 12:28:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+12/3/2013 12:29:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/3/2013 12:29:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/3/2013 12:29:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 22'
+12/3/2013 12:29:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '22'
+12/3/2013 12:29:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/3/2013 12:29:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 16'
+12/3/2013 12:29:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '16'
+12/3/2013 12:29:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/3/2013 12:29:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 15'
+12/3/2013 12:29:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '15'
+12/3/2013 12:29:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/3/2013 12:30:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+12/3/2013 12:30:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '100'
+12/3/2013 12:36:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'M TELE'
+###################################
+Logging started on 12/3/2013 4:40:44 AM
+
+###################################
+Logging started on 12/3/2013 11:12:51 PM
+
+12/3/2013 11:14:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/3/2013 11:17:39 PM
+
+12/3/2013 11:24:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+12/3/2013 11:24:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x4 "an ogre" (no account)
+12/3/2013 11:41:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add clock'
+12/3/2013 11:41:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5703, 262, 20) in Backtrol: "clock"
+12/3/2013 11:41:48 PM: 127.0.0.1: Serials: 0x40000011; 

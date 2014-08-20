@@ -1,0 +1,2 @@
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Scripts\bin\Debug\Scripts.exe.config
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Scripts\obj\Debug\Scripts.csprojResolveAssemblyReference.cache

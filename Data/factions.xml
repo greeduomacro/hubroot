@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Factions limit="11">
+	<faction serial="0x00000000" name="El Faction" leader="0x00000001" hue="1175" mountID="16034">0x00000001</faction>
+	<faction serial="0x00000000" name="El Faction Otra" leader="0x00000002" hue="1309" mountID="16034">0x00000002</faction>
+</Factions>

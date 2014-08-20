@@ -1,0 +1,84 @@
+﻿###################################
+Logging started on 5/6/2014 3:10:48 AM
+
+5/6/2014 3:12:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add sail'
+5/6/2014 3:12:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1496, 661, -33) in Ilshenar: "SailBoatEastWest"
+5/6/2014 3:12:49 AM: 127.0.0.1: Serials: 0x40000026; 
+5/6/2014 3:12:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/6/2014 3:12:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000003C (AddonComponent)
+5/6/2014 3:12:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1498, 660, -33) in Ilshenar: "SailBoatNorthSouth2"
+5/6/2014 3:12:55 AM: 127.0.0.1: Serials: 0x40000061; 
+5/6/2014 3:13:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/6/2014 3:13:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000077 (AddonComponent)
+5/6/2014 3:13:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1506, 657, -14) in Ilshenar: "SailMaster"
+5/6/2014 3:13:01 AM: 127.0.0.1: Serials: 0x9; 
+5/6/2014 3:14:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/6/2014 3:14:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x400000AE (SmithHammer)
+5/6/2014 3:14:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1506, 658, -14) in Ilshenar: "SailTimerCheck"
+5/6/2014 3:14:13 AM: 127.0.0.1: Serials: 0x400000B0; 
+5/6/2014 3:14:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/6/2014 3:14:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x400000B0 (SailTimerCheck)
+5/6/2014 3:14:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set amount 5000'
+5/6/2014 3:14:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'amount' of 0x40000008 (Copper) to '5000'
+5/6/2014 3:16:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm tele'
+5/6/2014 3:16:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self get map'
+5/6/2014 3:17:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm tele'
+5/6/2014 3:17:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'x' of 0x1 "Test" ('admin') to '400'
+5/6/2014 3:17:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'y' of 0x1 "Test" ('admin') to '3000'
+5/6/2014 3:17:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set x 400 y 3000'
+5/6/2014 3:17:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/6/2014 3:17:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'x' of 0x1 "Test" ('admin') to '400'
+5/6/2014 3:17:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'y' of 0x1 "Test" ('admin') to '3300'
+5/6/2014 3:17:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set x 400 y 3300'
+5/6/2014 3:17:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm tele'
+###################################
+Logging started on 5/6/2014 3:22:38 AM
+
+5/6/2014 3:23:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+5/6/2014 3:24:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'mana' of 0x1 "Test" ('admin') to '0'
+5/6/2014 3:24:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set mana 0'
+5/6/2014 3:26:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'rawstr' of 0x1 "Test" ('admin') to '150'
+5/6/2014 3:26:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set rawstr 150'
+5/6/2014 3:26:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'dex' of 0x1 "Test" ('admin') to '150'
+5/6/2014 3:26:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set dex 150'
+5/6/2014 3:27:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+5/6/2014 3:29:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm tele'
+5/6/2014 3:29:43 AM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 5/6/2014 4:29:52 AM
+
+###################################
+Logging started on 5/6/2014 4:32:03 AM
+
+5/6/2014 4:36:59 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+5/6/2014 4:37:01 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+5/6/2014 4:37:02 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+5/6/2014 4:37:04 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+5/6/2014 4:37:07 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'jump '
+5/6/2014 4:43:24 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add weaponsmith'
+5/6/2014 4:43:25 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (296, 3338, 10) in Backtrol: "weaponsmith"
+5/6/2014 4:43:25 AM: 127.0.0.1: Serials: 0x9; 
+5/6/2014 4:44:14 AM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/6/2014 4:45:05 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/6/2014 4:45:08 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+5/6/2014 4:45:19 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm delete'
+5/6/2014 4:45:20 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000045 (Mace)
+5/6/2014 4:45:22 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000047 (Mace)
+5/6/2014 4:45:23 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000041 (WarMace)
+5/6/2014 4:45:24 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000046 (Mace)
+5/6/2014 4:45:25 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000042 (WarMace)
+###################################
+Logging started on 5/6/2014 5:52:47 AM
+
+5/6/2014 5:53:36 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'set amount 1000000'
+5/6/2014 5:53:38 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'amount' of 0x40000044 (Copper) to '1000000'
+5/6/2014 5:53:45 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'bank '
+5/6/2014 5:53:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') opening bank box of 0x6 "Test" ('admin')
+5/6/2014 5:53:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/6/2014 5:53:56 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000017 (Copper)
+5/6/2014 5:53:59 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'set amount 1000000'
+5/6/2014 5:54:01 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'amount' of 0x40000044 (Copper) to '1000000'
+5/6/2014 5:55:11 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add bankcheck 1000'
+5/6/2014 5:55:11 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3395, 10) in Backtrol: "bankcheck" "1000"
+5/6/2014 5:55:11 AM: 127.0.0.1: Serials: 0x40000032; 
+5/6/2014 5:55:20 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get hue'

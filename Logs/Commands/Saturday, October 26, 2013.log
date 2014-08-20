@@ -1,0 +1,340 @@
+﻿###################################
+Logging started on 10/26/2013 2:19:17 PM
+
+10/26/2013 2:21:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/26/2013 2:24:19 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'skills '
+10/26/2013 2:32:13 PM: 127.0.0.1: Administrator 0x2C "Enoch" ('Enroq') used command 'm tele'
+###################################
+Logging started on 10/26/2013 2:33:51 PM
+
+10/26/2013 2:34:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'm tele'
+###################################
+Logging started on 10/26/2013 2:38:20 PM
+
+###################################
+Logging started on 10/26/2013 2:39:18 PM
+
+###################################
+Logging started on 10/26/2013 2:39:41 PM
+
+###################################
+Logging started on 10/26/2013 2:41:38 PM
+
+###################################
+Logging started on 10/26/2013 2:41:58 PM
+
+###################################
+Logging started on 10/26/2013 2:42:17 PM
+
+###################################
+Logging started on 10/26/2013 8:46:53 PM
+
+###################################
+Logging started on 10/26/2013 8:49:50 PM
+
+10/26/2013 9:09:14 PM: 127.0.0.1: Administrator 0x1B "Egam" ('Enroq') used command 'jump '
+10/26/2013 9:10:50 PM: 127.0.0.1: Administrator 0x1B "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 10/26/2013 9:36:28 PM
+
+###################################
+Logging started on 10/26/2013 9:48:47 PM
+
+###################################
+Logging started on 10/26/2013 9:49:41 PM
+
+10/26/2013 9:50:36 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'motd Test'
+10/26/2013 9:50:40 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'motd '
+10/26/2013 9:50:43 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'motd '
+10/26/2013 9:50:53 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'motd '
+10/26/2013 9:50:58 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'help '
+10/26/2013 9:54:35 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'remove '
+10/26/2013 9:54:37 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') deleting 0x400008F5 (XmlSpawner)
+10/26/2013 9:54:45 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 9:57:02 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'save '
+###################################
+Logging started on 10/26/2013 9:58:36 PM
+
+10/26/2013 10:00:45 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:00:48 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:00:49 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:00:53 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 10:02:46 PM
+
+10/26/2013 10:02:57 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:04 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:08 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:10 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:34 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'm tele'
+10/26/2013 10:03:40 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:42 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:45 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:48 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:51 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:03:54 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'go '
+10/26/2013 10:04:01 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:04:12 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set rawstr 100'
+10/26/2013 10:04:13 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'rawstr' of 0x2 "Edenai" ('Enroq') to '100'
+10/26/2013 10:04:16 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set rawdex 100'
+10/26/2013 10:04:17 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'rawdex' of 0x2 "Edenai" ('Enroq') to '100'
+10/26/2013 10:04:19 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'heal '
+10/26/2013 10:04:22 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:04:26 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 10:07:21 PM
+
+10/26/2013 10:07:33 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:08:02 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'props '
+10/26/2013 10:08:45 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set rawdex 100'
+10/26/2013 10:08:46 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'rawdex' of 0x2 "Edenai" ('Enroq') to '100'
+10/26/2013 10:08:49 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set rawint 100'
+10/26/2013 10:08:50 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'rawint' of 0x2 "Edenai" ('Enroq') to '100'
+10/26/2013 10:08:54 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:09:03 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set rawstr 100'
+10/26/2013 10:09:04 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'rawstr' of 0x2 "Edenai" ('Enroq') to '100'
+10/26/2013 10:09:07 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:09:10 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'heal '
+10/26/2013 10:09:33 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set stam 0'
+10/26/2013 10:09:34 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'stam' of 0x2 "Edenai" ('Enroq') to '0'
+10/26/2013 10:09:51 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set hunger 18'
+10/26/2013 10:09:52 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'hunger' of 0x2 "Edenai" ('Enroq') to '18'
+10/26/2013 10:10:30 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'save '
+###################################
+Logging started on 10/26/2013 10:11:31 PM
+
+10/26/2013 10:12:09 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'status '
+10/26/2013 10:12:13 PM: 127.0.0.1: Player 0x2 "Edenai" ('Enroq') used command 'calt '
+10/26/2013 10:12:18 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'calt '
+10/26/2013 10:12:19 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'set hunger 18'
+10/26/2013 10:12:20 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'hunger' of 0x2 "Edenai" ('Enroq') to '18'
+10/26/2013 10:12:23 PM: 127.0.0.1: Player 0x2 "Edenai" ('Enroq') used command 'calt '
+10/26/2013 10:12:42 PM: 127.0.0.1: Player 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:12:53 PM: 127.0.0.1: Player 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:12:55 PM: 127.0.0.1: Player 0x2 "Edenai" ('Enroq') used command 'jump '
+10/26/2013 10:13:01 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'calt '
+10/26/2013 10:13:32 PM: 127.0.0.1: Administrator 0x1A "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:13:36 PM: 127.0.0.1: Administrator 0x1A "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:13:41 PM: 127.0.0.1: Administrator 0x1A "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:13:43 PM: 127.0.0.1: Administrator 0x1A "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:13:46 PM: 127.0.0.1: Administrator 0x1A "Enoch" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 10:15:17 PM
+
+10/26/2013 10:15:44 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:15:48 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:15:51 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:15:56 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:16:02 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:16:06 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:16:09 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:17:07 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:12 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:14 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:18 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:21 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'status '
+10/26/2013 10:17:25 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'calt '
+10/26/2013 10:17:28 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:32 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:34 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:37 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:39 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:17:41 PM: 127.0.0.1: Player 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:20 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'calt '
+10/26/2013 10:18:27 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'set rawdex 50'
+10/26/2013 10:18:28 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') set property 'rawdex' of 0x14 "Enoch" ('Enroq') to '50'
+10/26/2013 10:18:31 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'set rawstr 50'
+10/26/2013 10:18:32 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') set property 'rawstr' of 0x14 "Enoch" ('Enroq') to '50'
+10/26/2013 10:18:35 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:39 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:18:42 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:46 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:50 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:54 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:57 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:18:59 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:02 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:03 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:13 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'set rawstr 100'
+10/26/2013 10:19:14 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') set property 'rawstr' of 0x14 "Enoch" ('Enroq') to '100'
+10/26/2013 10:19:17 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:19 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:22 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:28 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:30 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:32 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:34 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:35 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:36 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:38 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:47 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:49 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:19:53 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:01 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:20:03 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:09 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'set rawdex 100'
+10/26/2013 10:20:10 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') set property 'rawdex' of 0x14 "Enoch" ('Enroq') to '100'
+10/26/2013 10:20:26 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:35 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:20:40 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:45 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:49 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:20:51 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 10:28:20 PM
+
+10/26/2013 10:28:30 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:28:36 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:28:39 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:28:42 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:28:45 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:28:50 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'props '
+10/26/2013 10:29:00 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:04 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:08 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:16 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:18 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:21 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:29:23 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:29:26 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:29:28 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:30 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'heal '
+10/26/2013 10:29:46 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'tele '
+10/26/2013 10:29:55 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:58 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:29:59 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:30:14 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:30:23 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+10/26/2013 10:30:27 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'props '
+10/26/2013 10:30:31 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'get z'
+10/26/2013 10:30:45 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'set rawstr 100'
+10/26/2013 10:30:46 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') set property 'rawstr' of 0x14 "Enoch" ('Enroq') to '100'
+10/26/2013 10:30:55 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'props '
+10/26/2013 10:31:01 PM: 127.0.0.1: Administrator 0x14 "Enoch" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 10:32:22 PM
+
+10/26/2013 10:34:34 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:34:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:34:43 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:34:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:34:51 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'heal '
+10/26/2013 10:35:22 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:35:24 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:35:30 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:36:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 10/26/2013 10:37:48 PM
+
+10/26/2013 10:38:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:38:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:39:15 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:39:19 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:39:21 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:39:28 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:39:33 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'get z'
+10/26/2013 10:39:37 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'get z'
+10/26/2013 10:39:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'get z'
+10/26/2013 10:39:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'get z'
+10/26/2013 10:40:33 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 10/26/2013 10:41:43 PM
+
+10/26/2013 10:41:57 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:42:05 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:42:08 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:42:20 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 10:43:02 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/26/2013 10:48:04 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'who '
+10/26/2013 10:48:06 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') going to 0x23 "Iris" ('iraa'), Location (5667, 399, 20), Map Backtrol
+10/26/2013 10:50:36 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/26/2013 10:50:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x4000079C (DecorativeDAxeNorth)
+10/26/2013 10:50:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/26/2013 10:50:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x400007A9 (DecorativeGoldShield)
+10/26/2013 10:50:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/26/2013 10:50:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x400007C4 (PottedTree)
+10/26/2013 10:50:50 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add potted'
+10/26/2013 10:50:53 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5673, 347, 7) in Backtrol: "PottedTree"
+10/26/2013 10:50:53 PM: 127.0.0.1: Serials: 0x40000426; 
+10/26/2013 10:50:57 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5679, 341, 7) in Backtrol: "PottedCactus5"
+10/26/2013 10:50:57 PM: 127.0.0.1: Serials: 0x40000429; 
+10/26/2013 10:51:02 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm inc z 1'
+10/26/2013 10:51:12 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set movable false'
+10/26/2013 10:51:13 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'movable' of 0x40000426 (PottedTree) to 'False'
+10/26/2013 10:51:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set movable false'
+10/26/2013 10:51:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'movable' of 0x40000429 (PottedCactus5) to 'False'
+10/26/2013 10:51:25 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'move '
+10/26/2013 10:51:27 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') moving 0x400006B2 (Brazier) to (5679, 344, 7)
+10/26/2013 10:51:30 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'move '
+10/26/2013 10:51:32 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') moving 0x400006B2 (Brazier) to (5681, 341, 5)
+10/26/2013 10:51:52 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/26/2013 10:52:04 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'RegenHits' of ... to '1000'
+10/26/2013 10:52:08 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'RegenStam' of ... to '100'
+10/26/2013 10:52:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add ogre'
+10/26/2013 10:52:15 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5689, 332, 7) in Backtrol: "ogre"
+10/26/2013 10:52:15 PM: 127.0.0.1: Serials: 0x2C; 
+10/26/2013 10:52:29 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/26/2013 10:52:31 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x2C "an ogre" (no account)
+10/26/2013 10:52:36 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/26/2013 10:52:58 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add ettin'
+10/26/2013 10:52:59 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5690, 249, 20) in Backtrol: "ettin"
+10/26/2013 10:52:59 PM: 127.0.0.1: Serials: 0x2E; 
+10/26/2013 10:53:04 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+10/26/2013 10:54:37 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'status '
+10/26/2013 10:55:40 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'status '
+10/26/2013 10:58:18 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'status '
+10/26/2013 11:13:29 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:13:34 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:13:36 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:13:37 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:14:06 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'calt '
+10/26/2013 11:14:08 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'status '
+10/26/2013 11:14:10 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'save '
+10/26/2013 11:14:13 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 10/26/2013 11:22:29 PM
+
+10/26/2013 11:22:59 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:23:10 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:23:11 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:23:12 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:23:13 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:23:17 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 11:30:03 PM
+
+10/26/2013 11:30:16 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'heal '
+10/26/2013 11:30:30 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:32 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:33 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:34 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:36 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:39 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:41 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:30:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:31:31 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:31:35 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:31:40 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:31:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/26/2013 11:31:56 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+###################################
+Logging started on 10/26/2013 11:45:39 PM
+
+10/26/2013 11:46:19 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set hitsmaxseed 10000'
+10/26/2013 11:46:21 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'hitsmaxseed' of 0x2E "an ettin" (no account) to '10000'
+10/26/2013 11:46:23 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'heal '
+10/26/2013 11:46:27 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'status '
+10/26/2013 11:50:43 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'perks '
+10/27/2013 12:09:56 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'perks '
+10/27/2013 12:15:56 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'perks '
+10/27/2013 12:30:49 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add carpe'
+10/27/2013 12:30:55 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add flyin'
+10/27/2013 12:30:57 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add carp'
+10/27/2013 12:31:01 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5701, 252, 20) in Backtrol: "SmallRedCarpetRoll"
+10/27/2013 12:31:01 AM: 127.0.0.1: Serials: 0x40000FE3; 
+10/27/2013 12:31:46 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'helpinfo '
+10/27/2013 2:29:47 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add clock'
+10/27/2013 2:29:50 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5827, 216, 20) in Backtrol: "clock"
+10/27/2013 2:29:50 AM: 127.0.0.1: Serials: 0x40001366; 

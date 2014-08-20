@@ -1,0 +1,42 @@
+﻿###################################
+Logging started on 12/11/2013 9:33:14 AM
+
+###################################
+Logging started on 12/11/2013 9:52:39 AM
+
+12/11/2013 9:52:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skill'
+12/11/2013 9:52:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skills'
+12/11/2013 9:52:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skillsc'
+12/11/2013 9:52:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 401, 20) in Backtrol: "SkillScroll"
+12/11/2013 9:52:58 AM: 127.0.0.1: Serials: 0x4000000B; 
+###################################
+Logging started on 12/11/2013 9:55:43 AM
+
+12/11/2013 9:56:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skillscroll'
+12/11/2013 9:56:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 401, 20) in Backtrol: "skillscroll"
+12/11/2013 9:56:12 AM: 127.0.0.1: Serials: 0x4000000B; 
+###################################
+Logging started on 12/11/2013 10:04:01 AM
+
+12/11/2013 10:04:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/11/2013 10:05:16 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') used command 'addtopack skillscroll'
+12/11/2013 10:05:18 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') building at (5666, 400, 20) in Backtrol: "skillscroll"
+12/11/2013 10:05:18 AM: 127.0.0.1: Serials: 0x40000010; 
+12/11/2013 10:05:47 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') used command 'addtopack skillscroll'
+12/11/2013 10:05:47 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') building at (5666, 400, 20) in Backtrol: "skillscroll"
+12/11/2013 10:05:47 AM: 127.0.0.1: Serials: 0x40000011; 
+###################################
+Logging started on 12/11/2013 10:09:22 AM
+
+12/11/2013 10:11:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skillscroll'
+12/11/2013 10:11:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 401, 20) in Backtrol: "skillscroll"
+12/11/2013 10:11:59 AM: 127.0.0.1: Serials: 0x4000000B; 
+###################################
+Logging started on 12/11/2013 10:16:13 AM
+
+###################################
+Logging started on 12/11/2013 10:58:57 AM
+
+###################################
+Logging started on 12/11/2013 12:18:34 PM
+

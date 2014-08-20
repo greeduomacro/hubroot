@@ -1,0 +1,152 @@
+﻿###################################
+Logging started on 10/6/2013 7:16:49 PM
+
+10/6/2013 7:18:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add guard'
+10/6/2013 7:18:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1621, 754, 5) in Backtrol: "WarriorGuard"
+10/6/2013 7:18:39 PM: 127.0.0.1: Serials: 0x5A; 
+10/6/2013 7:19:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add mage'
+10/6/2013 7:19:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1615, 758, 5) in Backtrol: "mage"
+10/6/2013 7:19:21 PM: 127.0.0.1: Serials: 0x6B; 
+10/6/2013 7:19:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:19:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x6B "Galen" (no account)
+10/6/2013 7:19:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add guard'
+10/6/2013 7:19:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1636, 718, 11) in Backtrol: "ArcherGuard"
+10/6/2013 7:19:55 PM: 127.0.0.1: Serials: 0x79; 
+10/6/2013 7:20:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set criminal true'
+10/6/2013 7:20:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'criminal' of 0x1EF "Chanah" (no account) to 'True'
+10/6/2013 7:20:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add nob'
+10/6/2013 7:20:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1635, 716, 5) in Backtrol: "Noble"
+10/6/2013 7:20:30 PM: 127.0.0.1: Serials: 0x84; 
+10/6/2013 7:20:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add creaturecont'
+10/6/2013 7:20:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1639, 715, 5) in Backtrol: "CreatureController"
+10/6/2013 7:20:40 PM: 127.0.0.1: Serials: 0x40000C38; 
+10/6/2013 7:20:50 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add guard'
+10/6/2013 7:20:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1634, 717, 5) in Backtrol: "WarriorGuard"
+10/6/2013 7:20:52 PM: 127.0.0.1: Serials: 0x8C; 
+10/6/2013 7:21:08 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add region'
+10/6/2013 7:21:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm delete'
+10/6/2013 7:21:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000D75 (Corpse)
+10/6/2013 7:21:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x1EF "Chanah" (no account)
+10/6/2013 7:23:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/6/2013 7:24:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+10/6/2013 7:24:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xC3 "a zombie" (no account).
+10/6/2013 7:24:13 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+10/6/2013 7:24:14 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xBB "a zombie" (no account).
+10/6/2013 7:24:16 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+10/6/2013 7:24:17 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xBA "a zombie" (no account).
+10/6/2013 7:24:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm kill'
+10/6/2013 7:24:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xB8 "a zombie" (no account).
+10/6/2013 7:24:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm kill'
+10/6/2013 7:24:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xB4 "a zombie" (no account).
+10/6/2013 7:24:25 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xCC "a zombie" (no account).
+10/6/2013 7:24:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xB3 "a zombie" (no account).
+10/6/2013 7:24:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xB2 "a zombie" (no account).
+10/6/2013 7:24:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xB0 "a zombie" (no account).
+10/6/2013 7:24:28 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xAA "a zombie" (no account).
+10/6/2013 7:24:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xA8 "a zombie" (no account).
+10/6/2013 7:24:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xA5 "a zombie" (no account).
+10/6/2013 7:24:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xA0 "a zombie" (no account).
+10/6/2013 7:24:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x9A "a zombie" (no account).
+10/6/2013 7:24:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xCD "a zombie" (no account).
+10/6/2013 7:24:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x99 "a zombie" (no account).
+10/6/2013 7:24:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x96 "a zombie" (no account).
+10/6/2013 7:24:33 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xCE "a zombie" (no account).
+10/6/2013 7:24:33 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x91 "a zombie" (no account).
+10/6/2013 7:24:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x89 "a zombie" (no account).
+10/6/2013 7:24:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x81 "a zombie" (no account).
+10/6/2013 7:24:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x7D "a zombie" (no account).
+10/6/2013 7:24:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area kill'
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x1A "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x25 "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x5B "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x5D "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x63 "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x64 "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x75 "a zombie" (no account).
+10/6/2013 7:24:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 7 mobiles.
+10/6/2013 7:25:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/6/2013 7:29:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ingot'
+10/6/2013 7:29:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1689, 685, 5) in Backtrol: "VeriteIngot"
+10/6/2013 7:29:52 PM: 127.0.0.1: Serials: 0x400012EF; 
+10/6/2013 7:29:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1689, 685, 5) in Backtrol: "DullCopperIngot"
+10/6/2013 7:29:55 PM: 127.0.0.1: Serials: 0x400012F0; 
+10/6/2013 7:29:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1690, 684, 5) in Backtrol: "CopperIngot"
+10/6/2013 7:29:59 PM: 127.0.0.1: Serials: 0x400012FF; 
+10/6/2013 7:30:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1690, 685, 5) in Backtrol: "BronzeIngot"
+10/6/2013 7:30:02 PM: 127.0.0.1: Serials: 0x40001300; 
+10/6/2013 7:30:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1691, 684, 5) in Backtrol: "AgapiteIngot"
+10/6/2013 7:30:04 PM: 127.0.0.1: Serials: 0x40001301; 
+10/6/2013 7:30:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1691, 685, 5) in Backtrol: "GoldIngot"
+10/6/2013 7:30:09 PM: 127.0.0.1: Serials: 0x40001303; 
+10/6/2013 7:30:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+10/6/2013 7:30:33 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/6/2013 7:30:35 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'help '
+10/6/2013 7:30:47 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'mymarket '
+10/6/2013 7:30:49 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'perks '
+10/6/2013 7:31:16 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'help '
+10/6/2013 7:31:20 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'viewmarket '
+10/6/2013 7:31:31 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'viewmarket '
+10/6/2013 7:31:37 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'viewmessages '
+10/6/2013 7:31:42 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'msg '
+10/6/2013 7:31:52 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'help '
+10/6/2013 7:31:56 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'status '
+10/6/2013 7:32:01 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'describeitem '
+10/6/2013 7:32:06 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'describeitem '
+10/6/2013 7:32:41 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'mymarket '
+10/6/2013 7:34:25 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'help '
+10/6/2013 7:34:43 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'helpinfo '
+10/6/2013 7:34:50 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/6/2013 7:34:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'helpinfo '
+10/6/2013 7:35:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setguarded false'
+10/6/2013 7:35:28 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setguarded '
+10/6/2013 7:35:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setguarded true'
+10/6/2013 7:36:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'b '
+10/6/2013 7:40:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000C8E (XmlSpawner)
+10/6/2013 7:40:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:07 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0xBD "Kiefer," (no account)
+10/6/2013 7:40:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000BDA (XmlSpawner)
+10/6/2013 7:40:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000064C (WayPoint)
+10/6/2013 7:40:13 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000B26 (WayPoint)
+10/6/2013 7:40:16 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400008BA (WayPoint)
+10/6/2013 7:40:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000822 (WayPoint)
+10/6/2013 7:40:22 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/6/2013 7:40:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000797 (WayPoint)
+10/6/2013 7:40:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'wipe '
+10/6/2013 7:40:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') wiping from (1677, 676, 5) to (1679, 679, 5) in Backtrol (Items, Mobiles)
+10/6/2013 7:40:44 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/6/2013 7:40:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/6/2013 7:40:49 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 100'
+10/6/2013 7:40:50 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '100'
+10/6/2013 7:41:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set rawt str 125 rawdex 125 rawint 125'
+10/6/2013 7:41:17 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set rawstr 125 rawdex 125 rawint 125'
+10/6/2013 7:41:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawstr' of 0x20 "Enroq" ('Enroq') to '125'
+10/6/2013 7:41:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawdex' of 0x20 "Enroq" ('Enroq') to '125'
+10/6/2013 7:41:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawint' of 0x20 "Enroq" ('Enroq') to '125'
+10/6/2013 7:41:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'heal '
+10/6/2013 7:41:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set hue 1'
+10/6/2013 7:41:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'hue' of 0x4000055D (Robe) to '1'
+10/6/2013 7:42:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add kata'
+10/6/2013 7:42:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/6/2013 7:42:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'DurabilityLevel' of 0x4000056F (Katana) to 'Indestructible'
+10/6/2013 7:43:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'DamageLevel' of 0x4000056F (Katana) to 'Vanq'
+10/6/2013 7:44:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ogre'
+10/6/2013 7:44:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1647, 678, 5) in Backtrol: "ogre"
+10/6/2013 7:44:21 PM: 127.0.0.1: Serials: 0x10E; 
+10/6/2013 7:44:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add bandage'
+10/6/2013 7:44:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1646, 678, 5) in Backtrol: "bandage"
+10/6/2013 7:44:55 PM: 127.0.0.1: Serials: 0x40001367; 
+10/6/2013 7:45:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set amount 1000'
+10/6/2013 7:45:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'amount' of 0x40001367 (Bandage) to '1000'
+10/6/2013 8:03:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/6/2013 8:07:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/6/2013 8:08:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+10/6/2013 8:14:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+10/6/2013 8:16:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+10/6/2013 8:17:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'

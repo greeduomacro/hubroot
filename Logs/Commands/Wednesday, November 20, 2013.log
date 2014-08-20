@@ -1,0 +1,232 @@
+﻿###################################
+Logging started on 11/20/2013 1:40:20 AM
+
+###################################
+Logging started on 11/20/2013 1:41:08 AM
+
+###################################
+Logging started on 11/20/2013 1:45:28 AM
+
+###################################
+Logging started on 11/20/2013 1:49:23 AM
+
+###################################
+Logging started on 11/20/2013 1:54:00 AM
+
+###################################
+Logging started on 11/20/2013 1:55:47 AM
+
+###################################
+Logging started on 11/20/2013 2:39:58 AM
+
+###################################
+Logging started on 11/20/2013 2:42:55 AM
+
+11/20/2013 2:44:37 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/20/2013 2:46:02 AM
+
+###################################
+Logging started on 11/20/2013 3:00:42 AM
+
+11/20/2013 3:02:29 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'who '
+11/20/2013 3:02:33 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') bringing 0x1 "Test" ('EnroqTest') to Location (667, 2831, 5), Map Backtrol
+###################################
+Logging started on 11/20/2013 3:05:20 AM
+
+###################################
+Logging started on 11/20/2013 3:13:05 AM
+
+11/20/2013 3:13:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 3:13:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'CurrentLanguage' of 0x2 "Eidenai" ('Enroq') to 'Ancient'
+###################################
+Logging started on 11/20/2013 3:18:56 AM
+
+11/20/2013 3:20:00 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+###################################
+Logging started on 11/20/2013 3:46:19 AM
+
+11/20/2013 3:46:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 3:46:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'CurrentLanguage' of 0x2 "Eidenai" ('Enroq') to 'Ancient'
+###################################
+Logging started on 11/20/2013 3:48:14 AM
+
+11/20/2013 3:48:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 3:49:01 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'CurrentLanguage' of 0x2 "Eidenai" ('Enroq') to 'Ancient'
+###################################
+Logging started on 11/20/2013 4:04:39 AM
+
+11/20/2013 4:11:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOf'
+11/20/2013 4:11:11 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2138, 793, 5) in Backtrol: "BookOfLanguage"
+11/20/2013 4:11:11 AM: 127.0.0.1: Serials: 0x4000039C; 
+11/20/2013 4:11:17 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 4:11:20 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'BookType' of 0x4000039C (BookOfLanguage) to 'Ancient'
+11/20/2013 4:11:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+###################################
+Logging started on 11/20/2013 4:17:49 AM
+
+11/20/2013 4:20:10 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 4:20:14 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'CurrentLanguage' of 0x2 "Eidenai" ('Enroq') to 'Ancient'
+11/20/2013 4:20:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage BookType Ancient'
+11/20/2013 4:20:47 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2137, 793, 5) in Backtrol: "BookOfLanguage" "BookType" "Ancient"
+11/20/2013 4:20:53 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage BookType.Acient'
+11/20/2013 4:20:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage Ancient'
+11/20/2013 4:20:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2137, 793, 5) in Backtrol: "BookOfLanguage" "Ancient"
+11/20/2013 4:21:05 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage BookType.Ancient'
+11/20/2013 4:21:06 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2136, 792, 5) in Backtrol: "BookOfLanguage" "BookType.Ancient"
+11/20/2013 4:21:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage BookType 2'
+11/20/2013 4:21:39 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2137, 793, 5) in Backtrol: "BookOfLanguage" "BookType" "2"
+11/20/2013 4:21:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage BookType 1'
+11/20/2013 4:21:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2138, 793, 5) in Backtrol: "BookOfLanguage" "BookType" "1"
+11/20/2013 4:21:43 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add BookOfLanguage 1'
+11/20/2013 4:21:43 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2138, 793, 5) in Backtrol: "BookOfLanguage" "1"
+11/20/2013 4:23:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add bookoflanguage'
+11/20/2013 4:23:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add bookoflanguage booktype 0'
+11/20/2013 4:23:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2137, 793, 5) in Backtrol: "bookoflanguage" "booktype" "0"
+11/20/2013 4:23:43 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add bookoflanguage'
+11/20/2013 4:23:43 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2136, 793, 5) in Backtrol: "bookoflanguage"
+11/20/2013 4:23:43 AM: 127.0.0.1: Serials: 0x4000039C; 
+11/20/2013 4:23:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 4:23:49 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'BookType' of 0x4000039C (BookOfLanguage) to 'Ancient'
+###################################
+Logging started on 11/20/2013 9:03:17 AM
+
+11/20/2013 9:03:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add shield'
+11/20/2013 9:03:48 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2137, 793, 5) in Backtrol: "ChaosShield"
+11/20/2013 9:03:48 AM: 127.0.0.1: Serials: 0x4000039C; 
+11/20/2013 9:03:52 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/20/2013 9:04:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'SpellDamage' of ... to '15'
+11/20/2013 9:04:53 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'CastRecovery' of ... to '1'
+11/20/2013 9:05:04 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'BonusMana' of ... to '5'
+###################################
+Logging started on 11/20/2013 9:08:51 AM
+
+11/20/2013 9:15:21 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add shield'
+11/20/2013 9:15:23 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2136, 800, 7) in Backtrol: "ChaosShield"
+11/20/2013 9:15:23 AM: 127.0.0.1: Serials: 0x4000039C; 
+11/20/2013 9:15:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/20/2013 9:16:09 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Inscription: 0].Base' of 0x3 "Egam" ('Enroq') to '0'
+11/20/2013 9:16:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/20/2013 9:16:41 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Inscription: 100].Base' of 0x3 "Egam" ('Enroq') to '100'
+11/20/2013 9:17:17 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+###################################
+Logging started on 11/20/2013 1:03:34 PM
+
+11/20/2013 1:03:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:03:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Ancient'
+11/20/2013 1:04:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add langua'
+11/20/2013 1:04:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (555, 2711, 5) in Backtrol: "BookOfLanguage"
+11/20/2013 1:04:52 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/20/2013 1:04:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:05:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'BookType' of 0x4000039E (BookOfLanguage) to 'Ancient'
+###################################
+Logging started on 11/20/2013 1:07:00 PM
+
+11/20/2013 1:07:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookof'
+11/20/2013 1:07:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (543, 2710, 5) in Backtrol: "BookOfLanguage"
+11/20/2013 1:07:20 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/20/2013 1:07:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:07:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'BookType' of 0x4000039E (BookOfLanguage) to 'Ancient'
+11/20/2013 1:08:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype ancient'
+11/20/2013 1:08:03 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (543, 2711, 5) in Backtrol: "bookoflanguage" "set" "booktype" "ancient"
+11/20/2013 1:08:03 PM: 127.0.0.1: Serials: 0x400003CC; 
+11/20/2013 1:08:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:08:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype ancient'
+11/20/2013 1:08:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (544, 2711, 5) in Backtrol: "bookoflanguage" "set" "booktype" "ancient"
+11/20/2013 1:08:18 PM: 127.0.0.1: Serials: 0x400003CD; 
+11/20/2013 1:08:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/20/2013 1:09:59 PM
+
+11/20/2013 1:10:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype ancient'
+11/20/2013 1:10:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (541, 2711, 5) in Backtrol: "bookoflanguage" "set" "booktype" "ancient"
+11/20/2013 1:10:13 PM: 127.0.0.1: Serials: 0x4000039E; 
+###################################
+Logging started on 11/20/2013 1:16:23 PM
+
+###################################
+Logging started on 11/20/2013 1:18:24 PM
+
+###################################
+Logging started on 11/20/2013 1:36:25 PM
+
+11/20/2013 1:37:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookof'
+11/20/2013 1:37:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (542, 2711, 5) in Backtrol: "BookOfLanguage"
+11/20/2013 1:37:04 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/20/2013 1:37:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype 1'
+11/20/2013 1:37:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (543, 2710, 5) in Backtrol: "bookoflanguage" "set" "booktype" "1"
+11/20/2013 1:37:22 PM: 127.0.0.1: Serials: 0x400003CC; 
+11/20/2013 1:37:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype 2'
+11/20/2013 1:37:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (543, 2711, 5) in Backtrol: "bookoflanguage" "set" "booktype" "2"
+11/20/2013 1:37:27 PM: 127.0.0.1: Serials: 0x400003CD; 
+11/20/2013 1:37:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype Ancient'
+11/20/2013 1:37:36 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (544, 2712, 5) in Backtrol: "bookoflanguage" "set" "booktype" "Ancient"
+11/20/2013 1:37:36 PM: 127.0.0.1: Serials: 0x400003CF; 
+11/20/2013 1:37:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/20/2013 1:40:28 PM
+
+###################################
+Logging started on 11/20/2013 1:47:33 PM
+
+11/20/2013 1:47:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookof'
+11/20/2013 1:47:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (542, 2711, 5) in Backtrol: "BookOfLanguage"
+11/20/2013 1:47:54 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/20/2013 1:47:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:48:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'BookType' of 0x4000039E (BookOfLanguage) to 'Ancient'
+11/20/2013 1:48:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookoflanguage set booktype ancient'
+11/20/2013 1:48:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (542, 2711, 5) in Backtrol: "bookoflanguage" "set" "booktype" "ancient"
+11/20/2013 1:48:27 PM: 127.0.0.1: Serials: 0x400003CC; 
+###################################
+Logging started on 11/20/2013 1:50:38 PM
+
+11/20/2013 1:57:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 1:57:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Ancient'
+11/20/2013 1:57:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'speechhue' of 0x3 "Egam" ('Enroq') to '0'
+11/20/2013 1:57:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set speechhue 0'
+11/20/2013 1:57:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'speechhue' of 0x3 "Egam" ('Enroq') to '0'
+11/20/2013 1:57:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set speechhue 0'
+11/20/2013 1:57:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'speechhue' of 0x3 "Egam" ('Enroq') to '1'
+11/20/2013 1:57:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set speechhue 1'
+11/20/2013 1:57:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bookof'
+###################################
+Logging started on 11/20/2013 2:39:36 PM
+
+###################################
+Logging started on 11/20/2013 2:45:52 PM
+
+11/20/2013 2:46:29 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 2:46:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Ancient'
+11/20/2013 2:46:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Arcanic'
+11/20/2013 2:46:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 2:47:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Astral'
+###################################
+Logging started on 11/20/2013 2:50:35 PM
+
+###################################
+Logging started on 11/20/2013 3:02:00 PM
+
+11/20/2013 3:02:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 3:02:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Astral'
+11/20/2013 4:09:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 4:21:05 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/20/2013 4:21:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/20/2013 4:21:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/20/2013 4:21:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'CurrentLanguage' of 0x3 "Egam" ('Enroq') to 'Common'
+11/20/2013 4:21:44 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/20/2013 11:39:26 PM
+
+###################################
+Logging started on 11/20/2013 11:39:59 PM
+
+11/20/2013 11:42:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak common'
+11/20/2013 11:42:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak '
+11/20/2013 11:42:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak a'
+11/20/2013 11:42:49 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak ancient'
+###################################
+Logging started on 11/20/2013 11:51:20 PM
+
+11/20/2013 11:51:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak Common'
+11/20/2013 11:51:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak ancient'
+11/20/2013 11:52:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speak ab'

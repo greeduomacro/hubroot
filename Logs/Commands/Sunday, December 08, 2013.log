@@ -1,0 +1,128 @@
+﻿###################################
+Logging started on 12/8/2013 12:19:05 AM
+
+12/8/2013 12:19:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak abyssal'
+12/8/2013 12:19:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak abyssal'
+12/8/2013 12:20:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak aaa'
+###################################
+Logging started on 12/8/2013 12:37:25 AM
+
+###################################
+Logging started on 12/8/2013 12:37:45 AM
+
+###################################
+Logging started on 12/8/2013 12:38:43 AM
+
+12/8/2013 12:43:38 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'speak common'
+12/8/2013 12:43:41 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'speak blag'
+12/8/2013 12:43:44 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'speak blarg'
+12/8/2013 12:43:49 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'speak ancient'
+12/8/2013 12:43:53 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'speak glyph'
+12/8/2013 12:44:17 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') used command 'props '
+12/8/2013 12:44:31 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') set property 'CurrentLanguage' of 0x2 "Test" ('Administrator') to 'Glyph'
+12/8/2013 12:44:40 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') set property 'CurrentLanguage' of 0x2 "Test" ('Administrator') to 'Pagan'
+12/8/2013 12:44:45 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') set property 'CurrentLanguage' of 0x2 "Test" ('Administrator') to 'Tribal'
+12/8/2013 12:44:51 AM: 127.0.0.1: Administrator 0x2 "Test" ('Administrator') set property 'CurrentLanguage' of 0x2 "Test" ('Administrator') to 'Common'
+###################################
+Logging started on 12/8/2013 12:58:31 AM
+
+###################################
+Logging started on 12/8/2013 4:36:09 AM
+
+###################################
+Logging started on 12/8/2013 4:38:16 AM
+
+12/8/2013 4:39:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/8/2013 4:39:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000000'
+12/8/2013 4:39:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000000'
+12/8/2013 4:39:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/8/2013 4:40:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/8/2013 4:40:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set rawint 100 rawstr 100 rawdex 100'
+12/8/2013 4:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawint' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawstr' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawdex' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:40:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:41:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/8/2013 4:42:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5696, 337, 5) in Backtrol: "ogre"
+12/8/2013 4:42:02 AM: 127.0.0.1: Serials: 0x2; 
+12/8/2013 4:42:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:42:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/8/2013 4:42:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5696, 336, 6) in Backtrol: "ogre"
+12/8/2013 4:42:57 AM: 127.0.0.1: Serials: 0x3; 
+12/8/2013 4:43:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add troll'
+12/8/2013 4:43:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5695, 338, 6) in Backtrol: "troll"
+12/8/2013 4:43:04 AM: 127.0.0.1: Serials: 0x4; 
+12/8/2013 4:43:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:43:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:43:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:43:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/8/2013 4:48:58 AM
+
+12/8/2013 4:50:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/8/2013 4:50:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:50:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set rawint 100 rawdex 100 rawstr 100'
+12/8/2013 4:50:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawint' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:50:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawdex' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:50:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawstr' of 0x1 "Test" ('Administrator') to '100'
+12/8/2013 4:51:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:51:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '10000'
+12/8/2013 4:51:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 10000'
+12/8/2013 4:51:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000000'
+12/8/2013 4:51:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000000'
+12/8/2013 4:51:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/8/2013 4:51:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'perkadmin '
+12/8/2013 4:52:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/8/2013 4:52:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 357, 6) in Backtrol: "ogre"
+12/8/2013 4:52:07 AM: 127.0.0.1: Serials: 0x2; 
+12/8/2013 4:52:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:52:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:52:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:52:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:52:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:52:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:53:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:54:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/8/2013 4:56:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add cloak'
+12/8/2013 4:56:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5671, 359, 5) in Backtrol: "cloak"
+12/8/2013 4:56:10 AM: 127.0.0.1: Serials: 0x40000042; 
+12/8/2013 4:56:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add dagger'
+12/8/2013 4:56:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5671, 359, 5) in Backtrol: "dagger"
+12/8/2013 4:56:14 AM: 127.0.0.1: Serials: 0x40000043; 
+12/8/2013 4:56:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/8/2013 4:56:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5671, 356, 5) in Backtrol: "ogre"
+12/8/2013 4:56:20 AM: 127.0.0.1: Serials: 0x3; 
+12/8/2013 4:56:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:56:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:56:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:56:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:56:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:56:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hitsmaxseed 10000 hits 100000'
+12/8/2013 4:56:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hitsmaxseed' of 0x3 "an ogre" (no account) to '10000'
+12/8/2013 4:56:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x3 "an ogre" (no account) to '100000'
+12/8/2013 4:57:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/8/2013 4:58:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'hide '
+12/8/2013 4:58:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') hiding 0x3 "an ogre" (no account)
+12/8/2013 4:58:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'hide '
+12/8/2013 4:58:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') hiding 0x1 "Test" ('Administrator')
+###################################
+Logging started on 12/8/2013 5:27:17 AM
+
+###################################
+Logging started on 12/8/2013 5:30:26 AM
+
+###################################
+Logging started on 12/8/2013 5:35:02 AM
+
+###################################
+Logging started on 12/8/2013 5:35:58 AM
+
+###################################
+Logging started on 12/8/2013 5:37:56 AM
+

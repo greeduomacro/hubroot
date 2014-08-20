@@ -1,0 +1,226 @@
+﻿###################################
+Logging started on 11/19/2013 12:42:28 AM
+
+11/19/2013 12:45:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'help '
+11/19/2013 12:45:31 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/19/2013 12:45:33 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/19/2013 12:45:36 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'character '
+11/19/2013 12:49:55 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/19/2013 12:49:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'speedboost '
+11/19/2013 12:50:02 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/19/2013 4:40:22 AM
+
+11/19/2013 1:01:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'adddoor '
+11/19/2013 1:01:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'Add MetalDoor EastCCW'
+11/19/2013 1:01:49 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (664, 2829, 6) in Backtrol: "MetalDoor" "EastCCW"
+11/19/2013 1:01:49 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/19/2013 1:01:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'Add MetalDoor WestCW'
+11/19/2013 1:01:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (663, 2829, 5) in Backtrol: "MetalDoor" "WestCW"
+11/19/2013 1:01:51 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/19/2013 1:01:55 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/19/2013 1:02:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add tinker'
+11/19/2013 1:02:05 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add tinke'
+11/19/2013 1:02:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (664, 2832, 5) in Backtrol: "TinkersTools"
+11/19/2013 1:02:07 PM: 127.0.0.1: Serials: 0x400003CC; 
+11/19/2013 1:02:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/19/2013 1:13:09 PM
+
+11/19/2013 1:30:46 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'm tele'
+11/19/2013 1:30:58 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'adddoor '
+11/19/2013 1:31:01 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'Add MetalDoor NorthCCW'
+11/19/2013 1:31:01 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5649, 361, 8) in Backtrol: "MetalDoor" "NorthCCW"
+11/19/2013 1:31:01 PM: 127.0.0.1: Serials: 0x40000081; 
+11/19/2013 1:31:03 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'Add MetalDoor SouthCW'
+11/19/2013 1:31:04 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5649, 362, 8) in Backtrol: "MetalDoor" "SouthCW"
+11/19/2013 1:31:04 PM: 127.0.0.1: Serials: 0x4000009C; 
+11/19/2013 1:31:05 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'link '
+11/19/2013 1:31:07 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'Add MetalDoor EastCCW'
+11/19/2013 1:31:08 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5648, 363, 28) in Backtrol: "MetalDoor" "EastCCW"
+11/19/2013 1:31:08 PM: 127.0.0.1: Serials: 0x400000C1; 
+11/19/2013 1:31:09 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'Add MetalDoor WestCW'
+11/19/2013 1:31:10 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5647, 363, 28) in Backtrol: "MetalDoor" "WestCW"
+11/19/2013 1:31:10 PM: 127.0.0.1: Serials: 0x400000D6; 
+11/19/2013 1:31:10 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'link '
+11/19/2013 1:33:35 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add tinker'
+11/19/2013 1:33:37 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add tinke'
+11/19/2013 1:33:42 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5653, 361, 5) in Backtrol: "TinkersTools"
+11/19/2013 1:33:42 PM: 127.0.0.1: Serials: 0x400000F8; 
+11/19/2013 1:33:57 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack ironingot 100'
+11/19/2013 1:33:58 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5652, 361, 5) in Backtrol: "ironingot" "100"
+11/19/2013 1:33:58 PM: 127.0.0.1: Serials: 0x40000108; 
+11/19/2013 1:35:04 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack springs 10'
+11/19/2013 1:35:05 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5652, 361, 5) in Backtrol: "springs" "10"
+11/19/2013 1:35:05 PM: 127.0.0.1: Serials: 0x40000144; 
+11/19/2013 1:35:10 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack arrow 100'
+11/19/2013 1:35:10 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5652, 361, 5) in Backtrol: "arrow" "100"
+11/19/2013 1:35:10 PM: 127.0.0.1: Serials: 0x4000014E; 
+11/19/2013 1:35:15 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'skills '
+11/19/2013 1:35:31 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') set property '[Tinkering: 100].Base' of 0x3 "Test" ('Enroq') to '100'
+11/19/2013 1:35:36 PM: 127.0.0.1: Crafting 0x4000036B (DoorArrowTrapInstaller) with craft system DefTinkering
+11/19/2013 1:36:15 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add locksmith kit'
+11/19/2013 1:36:18 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5653, 361, 5) in Backtrol: "LocksmithTools"
+11/19/2013 1:36:18 PM: 127.0.0.1: Serials: 0x4000036D; 
+11/19/2013 1:36:43 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'props '
+11/19/2013 1:37:32 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack gears 10'
+11/19/2013 1:37:33 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5650, 361, 6) in Backtrol: "gears" "10"
+11/19/2013 1:37:33 PM: 127.0.0.1: Serials: 0x4000039B; 
+11/19/2013 1:37:40 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack hinges 100'
+11/19/2013 1:37:40 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5650, 361, 6) in Backtrol: "hinges" "100"
+11/19/2013 1:37:44 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack hinge 10'
+11/19/2013 1:37:44 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5650, 361, 6) in Backtrol: "hinge" "10"
+11/19/2013 1:37:44 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/19/2013 1:37:49 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'addtopack gears 10'
+11/19/2013 1:37:50 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5650, 361, 6) in Backtrol: "gears" "10"
+11/19/2013 1:37:50 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/19/2013 1:38:15 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'props '
+11/19/2013 1:49:11 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add daem'
+11/19/2013 1:49:15 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5660, 360, 5) in Backtrol: "DaemonBait"
+11/19/2013 1:49:15 PM: 127.0.0.1: Serials: 0x400003CD; 
+11/19/2013 1:49:55 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'heal '
+11/19/2013 1:50:42 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'setallskills 120'
+11/19/2013 1:50:44 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') set property 'EverySkill.Base' of 0x3 "Test" ('Enroq') to '120'
+11/19/2013 1:50:55 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add dragon'
+11/19/2013 1:50:57 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5710, 338, 10) in Backtrol: "dragon"
+11/19/2013 1:50:57 PM: 127.0.0.1: Serials: 0xA; 
+11/19/2013 1:51:13 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'heal '
+11/19/2013 1:51:30 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'heal '
+11/19/2013 1:51:38 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add harp'
+11/19/2013 1:51:42 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'add harp'
+11/19/2013 1:51:43 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') building at (5711, 348, 10) in Backtrol: "harp"
+11/19/2013 1:51:43 PM: 127.0.0.1: Serials: 0x4000044B; 
+11/19/2013 1:51:49 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'kill '
+11/19/2013 1:51:51 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') killed 0xA "Hresvelger," (no account).
+11/19/2013 1:51:51 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') used command 'kill '
+11/19/2013 1:51:52 PM: 127.0.0.1: Administrator 0x3 "Test" ('Enroq') killed 0x9 "Wormius" (no account).
+###################################
+Logging started on 11/19/2013 2:01:25 PM
+
+11/19/2013 2:04:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ring'
+11/19/2013 2:04:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (663, 2832, 5) in Backtrol: "GoldRing"
+11/19/2013 2:04:45 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/19/2013 2:04:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/19/2013 2:05:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add dragon'
+11/19/2013 2:05:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (663, 2832, 5) in Backtrol: "dragon"
+11/19/2013 2:05:21 PM: 127.0.0.1: Serials: 0x9; 
+11/19/2013 2:05:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add daemonbait'
+11/19/2013 2:05:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (664, 2829, 6) in Backtrol: "daemonbait"
+11/19/2013 2:05:26 PM: 127.0.0.1: Serials: 0x400003CC; 
+11/19/2013 2:05:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 200'
+11/19/2013 2:05:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0xA "El Chupacabra" (no account) to '200'
+11/19/2013 2:05:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/19/2013 2:07:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ancientwyrm'
+11/19/2013 2:07:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (659, 2840, 5) in Backtrol: "ancientwyrm"
+11/19/2013 2:07:34 PM: 127.0.0.1: Serials: 0xC; 
+11/19/2013 2:07:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 1'
+11/19/2013 2:07:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0xC "Nehebkau," (no account) to '1'
+11/19/2013 2:12:05 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add dragon'
+11/19/2013 2:12:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (659, 2837, 7) in Backtrol: "dragon"
+11/19/2013 2:12:07 PM: 127.0.0.1: Serials: 0xE; 
+11/19/2013 2:12:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 1'
+11/19/2013 2:12:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0xE "Coatlecue," (no account) to '1'
+11/19/2013 2:12:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add dragon'
+11/19/2013 2:12:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (659, 2838, 7) in Backtrol: "dragon"
+11/19/2013 2:12:35 PM: 127.0.0.1: Serials: 0xF; 
+11/19/2013 2:12:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 1'
+11/19/2013 2:12:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0xF "Ndengi," (no account) to '1'
+###################################
+Logging started on 11/19/2013 3:16:29 PM
+
+###################################
+Logging started on 11/19/2013 3:22:55 PM
+
+###################################
+Logging started on 11/19/2013 3:24:33 PM
+
+###################################
+Logging started on 11/19/2013 3:28:21 PM
+
+###################################
+Logging started on 11/19/2013 3:29:48 PM
+
+###################################
+Logging started on 11/19/2013 3:37:16 PM
+
+###################################
+Logging started on 11/19/2013 3:38:09 PM
+
+###################################
+Logging started on 11/19/2013 3:42:32 PM
+
+###################################
+Logging started on 11/19/2013 3:49:23 PM
+
+11/19/2013 3:50:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/19/2013 3:50:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Inscription: 0].Base' of 0x3 "Egam" ('Enroq') to '0'
+###################################
+Logging started on 11/19/2013 4:12:52 PM
+
+11/19/2013 4:13:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/19/2013 4:13:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/19/2013 4:13:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x3 "Egam" ('Enroq') to '100'
+###################################
+Logging started on 11/19/2013 4:18:27 PM
+
+###################################
+Logging started on 11/19/2013 4:20:57 PM
+
+11/19/2013 4:21:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add dragon'
+11/19/2013 4:21:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (664, 2833, 5) in Backtrol: "dragon"
+11/19/2013 4:21:48 PM: 127.0.0.1: Serials: 0x9; 
+11/19/2013 4:21:55 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 10'
+11/19/2013 4:21:55 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0x9 "Arith," (no account) to '10'
+###################################
+Logging started on 11/19/2013 4:33:30 PM
+
+###################################
+Logging started on 11/19/2013 4:45:57 PM
+
+11/19/2013 4:46:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/19/2013 4:46:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Inscription: 0].Base' of 0x3 "Egam" ('Enroq') to '0'
+11/19/2013 4:47:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/19/2013 5:02:53 PM
+
+11/19/2013 5:06:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/19/2013 5:07:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/19/2013 5:08:05 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Inscription: 0].Base' of 0x3 "Egam" ('Enroq') to '0'
+###################################
+Logging started on 11/19/2013 5:39:06 PM
+
+###################################
+Logging started on 11/19/2013 6:09:15 PM
+
+###################################
+Logging started on 11/19/2013 6:13:34 PM
+
+###################################
+Logging started on 11/19/2013 6:35:57 PM
+
+###################################
+Logging started on 11/19/2013 6:43:14 PM
+
+11/19/2013 6:44:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hue 1157'
+11/19/2013 6:45:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hue' of 0x40000015 (LeatherChest) to '1157'
+###################################
+Logging started on 11/19/2013 6:46:22 PM
+
+###################################
+Logging started on 11/19/2013 6:49:03 PM
+
+###################################
+Logging started on 11/19/2013 11:31:35 PM
+
+11/19/2013 11:34:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hue 1309'
+11/19/2013 11:34:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hue' of 0x40000015 (LeatherChest) to '1309'
+11/19/2013 11:35:08 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hue 1209'
+11/19/2013 11:35:09 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hue' of 0x40000015 (LeatherChest) to '1209'
+11/19/2013 11:35:15 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hue 1'
+11/19/2013 11:35:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hue' of 0x40000015 (LeatherChest) to '1'
+###################################
+Logging started on 11/19/2013 11:36:08 PM
+
+###################################
+Logging started on 11/19/2013 11:46:47 PM
+

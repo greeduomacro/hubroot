@@ -1,0 +1,45 @@
+﻿###################################
+Logging started on 12/13/2013 9:44:44 AM
+
+###################################
+Logging started on 12/13/2013 9:46:45 AM
+
+###################################
+Logging started on 12/13/2013 9:51:27 AM
+
+12/13/2013 9:51:52 AM: 127.0.0.1: 0x1 "Egam" ('Administrator'): setallskills 100
+###################################
+Logging started on 12/13/2013 9:56:42 AM
+
+###################################
+Logging started on 12/13/2013 10:05:32 AM
+
+12/13/2013 10:09:29 AM: 127.0.0.1: 0x1 "Test" ('Administrator'): all kill
+12/13/2013 10:12:51 AM: 127.0.0.1: 0x1 "Test" ('Administrator'): all kill
+###################################
+Logging started on 12/13/2013 10:17:08 AM
+
+12/13/2013 10:21:15 AM: 127.0.0.1: 0x1 "Test" ('Administrator'): all kill
+12/13/2013 10:21:47 AM: 127.0.0.1: 0x1 "Test" ('Administrator'): All kill
+###################################
+Logging started on 12/13/2013 10:33:41 AM
+
+###################################
+Logging started on 12/13/2013 10:43:48 AM
+
+###################################
+Logging started on 12/13/2013 10:57:52 AM
+
+###################################
+Logging started on 12/13/2013 11:00:15 AM
+
+###################################
+Logging started on 12/13/2013 12:40:09 PM
+
+###################################
+Logging started on 12/13/2013 12:48:25 PM
+
+12/13/2013 12:52:36 PM: 127.0.0.1: 0x1 "Test" ('Administrator'): all follow me
+12/13/2013 12:52:51 PM: 127.0.0.1: 0x1 "Test" ('Administrator'): all follow me
+12/13/2013 12:53:21 PM: 127.0.0.1: 0x1 "Test" ('Administrator'): all kill
+12/13/2013 12:56:21 PM: 127.0.0.1: 0x1 "Test" ('Administrator'): All kill

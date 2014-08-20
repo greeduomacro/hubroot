@@ -1,0 +1,42 @@
+﻿###################################
+Logging started on 11/24/2013 3:20:09 AM
+
+11/24/2013 3:20:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add orc'
+11/24/2013 3:20:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5779, 253, 20) in Backtrol: "orc"
+11/24/2013 3:20:29 AM: 127.0.0.1: Serials: 0x2; 
+11/24/2013 3:20:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/24/2013 3:20:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/24/2013 3:20:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add dagger'
+11/24/2013 3:20:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5779, 256, 21) in Backtrol: "dagger"
+11/24/2013 3:20:57 AM: 127.0.0.1: Serials: 0x4000003D; 
+11/24/2013 3:21:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/24/2013 3:21:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/24/2013 3:21:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get weight'
+###################################
+Logging started on 11/24/2013 3:26:30 AM
+
+11/24/2013 3:28:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add dagger'
+11/24/2013 3:28:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5779, 254, 20) in Backtrol: "dagger"
+11/24/2013 3:28:41 AM: 127.0.0.1: Serials: 0x4000000D; 
+11/24/2013 3:28:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add orc'
+11/24/2013 3:28:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5781, 250, 20) in Backtrol: "orc"
+11/24/2013 3:28:55 AM: 127.0.0.1: Serials: 0x2; 
+11/24/2013 3:29:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/24/2013 3:32:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add orc'
+11/24/2013 3:33:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5779, 242, 20) in Backtrol: "orc"
+11/24/2013 3:33:00 AM: 127.0.0.1: Serials: 0x3; 
+11/24/2013 3:35:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'jump '
+###################################
+Logging started on 11/24/2013 11:30:09 PM
+
+###################################
+Logging started on 11/24/2013 11:30:36 PM
+
+11/24/2013 11:31:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add dagger'
+11/24/2013 11:31:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5775, 255, 20) in Backtrol: "dagger"
+11/24/2013 11:31:05 PM: 127.0.0.1: Serials: 0x4000000D; 
+11/24/2013 11:31:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+11/24/2013 11:31:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5773, 255, 20) in Backtrol: "ogre"
+11/24/2013 11:31:13 PM: 127.0.0.1: Serials: 0x2; 
+11/24/2013 11:31:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/24/2013 11:31:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x2 "an ogre" (no account)

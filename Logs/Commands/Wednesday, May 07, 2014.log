@@ -1,0 +1,66 @@
+﻿###################################
+Logging started on 5/7/2014 1:53:30 AM
+
+###################################
+Logging started on 5/7/2014 1:56:06 AM
+
+5/7/2014 1:56:16 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add bear'
+5/7/2014 1:56:18 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3393, 10) in Backtrol: "BlackBear"
+5/7/2014 1:56:18 AM: 127.0.0.1: Serials: 0xB; 
+5/7/2014 1:56:23 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 1:57:29 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CreatureAlignment' of 0xB "a black bear" (no account) to 'Evil'
+5/7/2014 1:57:35 AM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/7/2014 1:57:43 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/7/2014 1:57:45 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self get karma'
+5/7/2014 1:58:47 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '100001'
+5/7/2014 1:58:47 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 100001'
+5/7/2014 1:58:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 1:58:58 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 1:59:06 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CreatureAlignment' of 0xB "a black bear" (no account) to 'Evil'
+5/7/2014 1:59:17 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set karma 20000'
+5/7/2014 1:59:19 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (368, 3406, 10) in Backtrol: "skeleton" "set" "karma" "20000"
+5/7/2014 1:59:19 AM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 5/7/2014 2:07:42 AM
+
+5/7/2014 2:08:09 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self inc lightlevel 99'
+5/7/2014 2:08:20 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add bear'
+5/7/2014 2:08:23 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (364, 3398, 10) in Backtrol: "GrizzlyBear"
+5/7/2014 2:08:23 AM: 127.0.0.1: Serials: 0xB; 
+5/7/2014 2:08:25 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 2:08:31 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CreatureAlignment' of 0xB "a grizzly bear" (no account) to 'Good'
+5/7/2014 2:08:35 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add daemon'
+5/7/2014 2:08:36 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (366, 3396, 10) in Backtrol: "daemon"
+5/7/2014 2:08:36 AM: 127.0.0.1: Serials: 0xC; 
+5/7/2014 2:08:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/7/2014 2:12:02 AM
+
+5/7/2014 2:12:38 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add bear'
+5/7/2014 2:12:40 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (366, 3397, 10) in Backtrol: "PolarBear"
+5/7/2014 2:12:40 AM: 127.0.0.1: Serials: 0xB; 
+5/7/2014 2:12:43 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 2:12:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CreatureAlignment' of 0xB "a polar bear" (no account) to 'Good'
+5/7/2014 2:12:57 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add daemon'
+5/7/2014 2:12:58 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (360, 3386, 10) in Backtrol: "daemon"
+5/7/2014 2:12:58 AM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 5/7/2014 2:15:14 AM
+
+5/7/2014 2:15:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add bear'
+5/7/2014 2:15:48 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (364, 3397, 10) in Backtrol: "GrizzlyBear"
+5/7/2014 2:15:48 AM: 127.0.0.1: Serials: 0xB; 
+5/7/2014 2:15:51 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/7/2014 2:16:08 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CreatureAlignment' of 0xB "a grizzly bear" (no account) to 'Good'
+5/7/2014 2:16:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set karma -12000'
+5/7/2014 2:16:22 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (369, 3411, 10) in Backtrol: "skeleton" "set" "karma" "-12000"
+5/7/2014 2:16:22 AM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 5/7/2014 6:41:50 PM
+
+5/7/2014 6:44:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add polarbear set creaturealignment evil'
+5/7/2014 6:44:40 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (364, 3397, 10) in Backtrol: "polarbear" "set" "creaturealignment" "evil"
+5/7/2014 6:44:40 PM: 127.0.0.1: Serials: 0xB; 
+5/7/2014 6:44:43 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add polarbear set creaturealignment good'
+5/7/2014 6:44:44 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (366, 3397, 10) in Backtrol: "polarbear" "set" "creaturealignment" "good"
+5/7/2014 6:44:44 PM: 127.0.0.1: Serials: 0xC; 

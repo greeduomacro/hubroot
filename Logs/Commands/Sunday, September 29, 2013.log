@@ -1,0 +1,68 @@
+﻿###################################
+Logging started on 9/29/2013 11:04:16 PM
+
+###################################
+Logging started on 9/29/2013 11:09:01 PM
+
+9/29/2013 11:10:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add locksmith'
+9/29/2013 11:15:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+9/29/2013 11:16:44 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:16:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:16:50 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'bank '
+9/29/2013 11:16:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') opening bank box of 0x20 "Enroq" ('Enroq')
+9/29/2013 11:17:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add check 5000'
+9/29/2013 11:17:08 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add bankcheck 5000'
+9/29/2013 11:17:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1598, 798, 5) in Backtrol: "bankcheck" "5000"
+9/29/2013 11:17:10 PM: 127.0.0.1: Serials: 0x400008D1; 
+9/29/2013 11:17:22 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:17:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:17:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 500'
+9/29/2013 11:17:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 1--'
+9/29/2013 11:17:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 100'
+9/29/2013 11:17:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '100'
+9/29/2013 11:17:45 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:18:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+9/29/2013 11:18:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'bank '
+9/29/2013 11:19:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') opening bank box of 0x20 "Enroq" ('Enroq')
+9/29/2013 11:19:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set amount 500'
+9/29/2013 11:19:17 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set amount 5000'
+9/29/2013 11:19:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'amount' of 0x400008D2 (Gold) to '5000'
+9/29/2013 11:24:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add copper'
+9/29/2013 11:24:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1657, 734, 5) in Backtrol: "copper"
+9/29/2013 11:24:39 PM: 127.0.0.1: Serials: 0x4000096C; 
+9/29/2013 11:24:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add copp'
+9/29/2013 11:24:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1657, 734, 5) in Backtrol: "CopperIngot"
+9/29/2013 11:24:51 PM: 127.0.0.1: Serials: 0x4000096D; 
+9/29/2013 11:24:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+9/29/2013 11:24:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get hue'
+9/29/2013 11:25:17 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+9/29/2013 11:25:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000096D (CopperIngot)
+9/29/2013 11:28:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add clock'
+9/29/2013 11:28:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1648, 697, 5) in Backtrol: "clock"
+9/29/2013 11:28:38 PM: 127.0.0.1: Serials: 0x400009A8; 
+9/29/2013 11:28:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get lightlevel'
+9/29/2013 11:28:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get lightlevel'
+9/29/2013 11:29:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get globallight'
+9/29/2013 11:29:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'globallight '
+9/29/2013 11:51:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/29/2013 11:52:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+9/29/2013 11:52:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x1E "Rad" (no account)
+9/29/2013 11:52:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+9/29/2013 11:53:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+9/29/2013 11:54:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+9/29/2013 11:54:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+9/29/2013 11:55:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add camp'
+9/29/2013 11:55:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1686, 669, 5) in Backtrol: "HealerCamp"
+9/29/2013 11:55:21 PM: 127.0.0.1: Serials: 0x40000B15; 
+9/29/2013 11:55:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'delete '
+9/29/2013 11:55:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'delete multi'
+9/29/2013 11:55:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'wipe multi'
+9/29/2013 11:55:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') wiping from (1680, 664, 23) to (1692, 673, 27) in Backtrol (Items, Mobiles)
+9/29/2013 11:55:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'wipe multi'
+9/29/2013 11:55:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') wiping from (1679, 663, 5) to (1692, 674, 5) in Backtrol (Items, Mobiles)
+9/29/2013 11:56:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area delete multi'
+9/29/2013 11:56:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000B15 (HealerCamp)
+9/29/2013 11:56:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area delete where mobile'
+9/29/2013 11:56:22 PM: 127.0.0.1: Awaiting confirmation...
+9/29/2013 11:56:23 PM: 127.0.0.1: Delete command confirmed.
+9/30/2013 12:03:19 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'restart '

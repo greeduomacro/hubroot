@@ -1,0 +1,288 @@
+﻿###################################
+Logging started on 10/15/2013 8:24:16 PM
+
+10/15/2013 8:25:51 PM: 127.0.0.1: Administrator 0xD "Atrophic" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 8:25:52 PM: 127.0.0.1: Administrator 0xD "Atrophic" ('Enroq') building at (5688, 335, 5) in Backtrol: "vorpalbunny"
+10/15/2013 8:25:52 PM: 127.0.0.1: Serials: 0x1A; 
+###################################
+Logging started on 10/15/2013 8:27:24 PM
+
+10/15/2013 8:27:52 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 8:27:53 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5666, 386, 20) in Backtrol: "vorpalbunny"
+10/15/2013 8:27:53 PM: 127.0.0.1: Serials: 0x1A; 
+10/15/2013 8:28:02 PM: 127.0.0.1: Player 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 8:30:13 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 8:30:16 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set cantwalk true'
+10/15/2013 8:30:18 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'cantwalk' of 0x1A "a vorpal bunny" (no account) to 'True'
+10/15/2013 9:00:55 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken'
+10/15/2013 9:00:57 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/15/2013 9:01:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5665, 378, 20) in Backtrol: "chicken"
+10/15/2013 9:01:01 PM: 127.0.0.1: Serials: 0x3B; 
+###################################
+Logging started on 10/15/2013 9:02:15 PM
+
+10/15/2013 9:02:44 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add chicken set hitsmaxseed 500 hits 500'
+10/15/2013 9:02:45 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5666, 398, 20) in Backtrol: "chicken" "set" "hitsmaxseed" "500" "hits" "500"
+10/15/2013 9:02:45 PM: 127.0.0.1: Serials: 0x1A; 
+###################################
+Logging started on 10/15/2013 9:04:00 PM
+
+10/15/2013 9:05:47 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'adddoor '
+10/15/2013 9:05:50 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'Add MetalDoor WestCW'
+10/15/2013 9:05:51 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5647, 363, 28) in Backtrol: "MetalDoor" "WestCW"
+10/15/2013 9:05:51 PM: 127.0.0.1: Serials: 0x40000243; 
+10/15/2013 9:05:52 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'Add MetalDoor EastCCW'
+10/15/2013 9:05:52 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5646, 361, 8) in Backtrol: "MetalDoor" "EastCCW"
+10/15/2013 9:05:52 PM: 127.0.0.1: Serials: 0x40000244; 
+10/15/2013 9:05:54 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'link '
+10/15/2013 9:05:57 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'Add MetalDoor EastCCW'
+10/15/2013 9:05:58 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5646, 361, 28) in Backtrol: "MetalDoor" "EastCCW"
+10/15/2013 9:05:58 PM: 127.0.0.1: Serials: 0x40000245; 
+10/15/2013 9:06:06 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'remove '
+10/15/2013 9:06:07 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') deleting 0x40000245 (MetalDoor)
+10/15/2013 9:06:11 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'Add MetalDoor EastCCW'
+10/15/2013 9:06:13 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5648, 364, 29) in Backtrol: "MetalDoor" "EastCCW"
+10/15/2013 9:06:13 PM: 127.0.0.1: Serials: 0x40000246; 
+10/15/2013 9:06:14 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'move '
+10/15/2013 9:06:16 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') moving 0x40000246 (MetalDoor) to (5648, 363, 28)
+10/15/2013 9:06:18 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'link '
+10/15/2013 9:06:29 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'remove '
+10/15/2013 9:06:30 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') deleting 0x40000244 (MetalDoor)
+10/15/2013 9:06:53 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'remove '
+10/15/2013 9:06:55 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') deleting 0x40009628 (XmlSpawner)
+10/15/2013 9:07:43 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'add chicken'
+10/15/2013 9:07:44 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5665, 387, 20) in Backtrol: "chicken"
+10/15/2013 9:07:44 PM: 127.0.0.1: Serials: 0x1E; 
+10/15/2013 9:07:59 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 9:08:00 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') building at (5665, 387, 20) in Backtrol: "vorpalbunny"
+10/15/2013 9:08:00 PM: 127.0.0.1: Serials: 0x22; 
+10/15/2013 9:08:05 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'setallskills 100'
+10/15/2013 9:08:06 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') set property 'EverySkill.Base' of 0xD "Eq" ('Enroq') to '100'
+10/15/2013 9:08:18 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'setallskills 0'
+10/15/2013 9:08:20 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') set property 'EverySkill.Base' of 0xD "Eq" ('Enroq') to '0'
+10/15/2013 9:08:22 PM: 127.0.0.1: Administrator 0xD "Eq" ('Enroq') used command 'skills '
+###################################
+Logging started on 10/15/2013 9:17:05 PM
+
+10/15/2013 9:17:39 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 9:17:40 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') building at (5666, 398, 20) in Backtrol: "vorpalbunny"
+10/15/2013 9:17:40 PM: 127.0.0.1: Serials: 0x1A; 
+###################################
+Logging started on 10/15/2013 9:22:00 PM
+
+###################################
+Logging started on 10/15/2013 9:22:28 PM
+
+10/15/2013 9:22:40 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 9:22:41 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5666, 400, 20) in Backtrol: "vorpalbunny"
+10/15/2013 9:22:41 PM: 127.0.0.1: Serials: 0xD; 
+###################################
+Logging started on 10/15/2013 9:40:17 PM
+
+10/15/2013 9:41:01 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 0'
+10/15/2013 9:41:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '0'
+10/15/2013 9:41:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 0'
+10/15/2013 9:41:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '0'
+10/15/2013 9:51:25 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'skills '
+10/15/2013 9:51:35 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') set property '[Wrestling: 100].Base' of 0x26 "Test" ('Enroq') to '100'
+10/15/2013 9:51:39 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 9:51:40 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') building at (5666, 400, 20) in Backtrol: "vorpalbunny"
+10/15/2013 9:51:40 PM: 127.0.0.1: Serials: 0x27; 
+10/15/2013 9:52:05 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'skills '
+10/15/2013 9:52:14 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') set property '[Parrying: 800].Base' of 0x26 "Test" ('Enroq') to '800'
+10/15/2013 9:53:53 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 9:53:55 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') set property 'EverySkill.Base' of 0x26 "Test" ('Enroq') to '100'
+10/15/2013 9:54:20 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'props '
+10/15/2013 9:55:26 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'add katana'
+10/15/2013 9:55:27 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') building at (5665, 401, 20) in Backtrol: "katana"
+10/15/2013 9:55:27 PM: 127.0.0.1: Serials: 0x40000469; 
+10/15/2013 9:55:32 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'props '
+10/15/2013 9:56:06 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') used command 'add chicken'
+10/15/2013 9:56:08 PM: 127.0.0.1: Administrator 0x26 "Test" ('Enroq') building at (5665, 401, 20) in Backtrol: "chicken"
+10/15/2013 9:56:08 PM: 127.0.0.1: Serials: 0x2B; 
+###################################
+Logging started on 10/15/2013 9:57:17 PM
+
+10/15/2013 10:00:36 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 10:00:38 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') building at (5665, 398, 20) in Backtrol: "vorpalbunny"
+10/15/2013 10:00:38 PM: 127.0.0.1: Serials: 0x1E; 
+10/15/2013 10:00:58 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'status '
+10/15/2013 10:01:11 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'skills '
+10/15/2013 10:01:39 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') set property '[Resisting Spells: 100].Base' of 0xD "Test" ('Enroq') to '100'
+10/15/2013 10:01:52 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 10:01:53 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') set property 'EverySkill.Base' of 0xD "Test" ('Enroq') to '100'
+10/15/2013 10:06:05 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'setallskills 0'
+10/15/2013 10:06:06 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') set property 'EverySkill.Base' of 0xD "Test" ('Enroq') to '0'
+###################################
+Logging started on 10/15/2013 10:09:27 PM
+
+10/15/2013 10:10:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'get strcap'
+10/15/2013 10:11:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 10/15/2013 10:14:57 PM
+
+10/15/2013 10:16:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:16:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:17:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:17:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 100'
+10/15/2013 10:17:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '100'
+10/15/2013 10:18:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/15/2013 10:18:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000056F (Katana)
+10/15/2013 10:18:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ancientlich'
+10/15/2013 10:18:12 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1684, 686, 5) in Backtrol: "ancientlich"
+10/15/2013 10:18:12 PM: 127.0.0.1: Serials: 0x1D; 
+10/15/2013 10:18:25 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'allspells '
+10/15/2013 10:18:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') filling spellbook 0x4000055E (Spellbook)
+10/15/2013 10:19:35 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'heal '
+10/15/2013 10:19:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:20:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm delete'
+10/15/2013 10:20:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000055B (LeatherChest)
+10/15/2013 10:20:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400009D8 (PlateLegs)
+10/15/2013 10:20:28 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400009D9 (PlateArms)
+10/15/2013 10:20:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000876 (ChainCoif)
+10/15/2013 10:20:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400009D4 (PlateGorget)
+10/15/2013 10:20:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/15/2013 10:20:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x1D "Baratoz" (no account)
+10/15/2013 10:20:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:20:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:21:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:21:25 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Cold' of ... to '100'
+10/15/2013 10:21:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Energy' of ... to '100'
+10/15/2013 10:21:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Fire' of ... to '100'
+10/15/2013 10:21:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Physical' of ... to '100'
+10/15/2013 10:21:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Poison' of ... to '100'
+10/15/2013 10:22:00 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/15/2013 10:27:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+###################################
+Logging started on 10/15/2013 10:32:07 PM
+
+10/15/2013 10:32:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:32:43 PM: 127.0.0.1: Seer 0x20 "Enroq" ('Enroq') used command 'calt seer'
+10/15/2013 10:32:46 PM: 127.0.0.1: Seer 0x20 "Enroq" ('Enroq') used command 'props '
+10/15/2013 10:32:51 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/15/2013 10:32:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/15/2013 10:34:37 PM: 127.0.0.1: Administrator 0x1D "Test" ('Enroq') used command 'props '
+###################################
+Logging started on 10/15/2013 10:37:11 PM
+
+10/15/2013 10:39:51 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'props '
+10/15/2013 10:40:09 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') set property 'FireBonus' of 0x40000934 (BronzeShield) to '10'
+10/15/2013 10:40:17 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'remove '
+10/15/2013 10:40:18 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') deleting 0x40000934 (BronzeShield)
+10/15/2013 10:40:30 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') used command 'add vorpalbunny'
+10/15/2013 10:40:31 PM: 127.0.0.1: Administrator 0xD "Test" ('Enroq') building at (5687, 335, 5) in Backtrol: "vorpalbunny"
+10/15/2013 10:40:32 PM: 127.0.0.1: Serials: 0x22; 
+10/15/2013 10:40:38 PM: 127.0.0.1: Player 0xD "Test" ('Enroq') used command 'calt '
+10/15/2013 10:40:48 PM: 127.0.0.1: Player 0xD "Test" ('Enroq') used command 'help '
+###################################
+Logging started on 10/15/2013 10:45:06 PM
+
+10/15/2013 10:47:34 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'status '
+10/15/2013 10:47:54 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'perks '
+10/15/2013 10:48:18 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add scroll'
+10/15/2013 10:48:19 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add scrol'
+10/15/2013 10:48:27 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5701, 344, 5) in Backtrol: "ClumsyScroll"
+10/15/2013 10:48:27 PM: 127.0.0.1: Serials: 0x400002C7; 
+10/15/2013 10:48:50 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'allspells '
+10/15/2013 10:48:52 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') filling spellbook 0x40000025 (Spellbook)
+10/15/2013 10:48:57 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 10:48:59 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 10:49:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'set rawstr 100 rawdex 100 rawint 100'
+10/15/2013 10:49:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'rawstr' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 10:49:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'rawdex' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 10:49:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'rawint' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 10:49:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'heal '
+10/15/2013 10:49:20 PM: 127.0.0.1: Player 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 10:54:03 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 10:54:06 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add scrol'
+10/15/2013 10:54:12 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5700, 344, 6) in Backtrol: "EnergyVortexScroll"
+10/15/2013 10:54:12 PM: 127.0.0.1: Serials: 0x400002DD; 
+10/15/2013 11:08:29 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'save '
+###################################
+Logging started on 10/15/2013 11:10:43 PM
+
+10/15/2013 11:11:04 PM: 127.0.0.1: Player 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 11:11:23 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'calt '
+10/15/2013 11:11:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add scroll'
+10/15/2013 11:11:26 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add scrol'
+10/15/2013 11:11:35 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5700, 344, 6) in Backtrol: "EnergyVortexScroll"
+10/15/2013 11:11:35 PM: 127.0.0.1: Serials: 0x40000018; 
+10/15/2013 11:13:05 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/15/2013 11:13:06 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x4000002E (BagOfReagents)
+10/15/2013 11:13:14 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'remove '
+10/15/2013 11:13:16 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') deleting 0x1A "an energy vortex" (no account)
+10/15/2013 11:21:09 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add halberd'
+10/15/2013 11:21:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5688, 330, 5) in Backtrol: "halberd"
+10/15/2013 11:21:10 PM: 127.0.0.1: Serials: 0x40000470; 
+10/15/2013 11:21:30 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 120'
+10/15/2013 11:21:31 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '120'
+10/15/2013 11:21:37 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 200'
+10/15/2013 11:21:39 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:21:53 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 11:21:55 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 11:22:10 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 200'
+10/15/2013 11:22:12 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:22:15 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'heal '
+10/15/2013 11:22:48 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/15/2013 11:22:52 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'heal '
+10/15/2013 11:23:33 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'WeaponDamage' of ... to '50'
+10/15/2013 11:23:40 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 11:23:41 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 11:24:01 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 200'
+10/15/2013 11:24:06 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 200'
+10/15/2013 11:24:07 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:27:59 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add ironingot 100'
+10/15/2013 11:28:00 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5674, 344, 10) in Backtrol: "ironingot" "100"
+10/15/2013 11:28:00 PM: 127.0.0.1: Serials: 0x400004CC; 
+10/15/2013 11:28:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add runichammer 9'
+10/15/2013 11:28:09 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5674, 344, 10) in Backtrol: "runichammer" "9"
+10/15/2013 11:28:09 PM: 127.0.0.1: Serials: 0x400004CD; 
+10/15/2013 11:28:19 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 11:28:20 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 11:28:26 PM: 127.0.0.1: Crafting 0x400004CF (Axe) with craft system DefBlacksmithy
+10/15/2013 11:28:40 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'skills '
+10/15/2013 11:28:55 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property '[Blacksmithy: 200].Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:29:10 PM: 127.0.0.1: Crafting 0x400004D1 (Axe) with craft system DefBlacksmithy
+10/15/2013 11:29:22 PM: 127.0.0.1: Crafting 0x400004D3 (PlateLegs) with craft system DefBlacksmithy
+10/15/2013 11:31:07 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/15/2013 11:31:25 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'BaseArmorRating' of 0x400004D3 (PlateLegs) to '80'
+10/15/2013 11:31:40 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add valoriteingot'
+10/15/2013 11:31:44 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add valoriteingot 1000'
+10/15/2013 11:31:45 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5675, 343, 10) in Backtrol: "valoriteingot" "1000"
+10/15/2013 11:31:45 PM: 127.0.0.1: Serials: 0x400004EE; 
+10/15/2013 11:31:56 PM: 127.0.0.1: Crafting 0x400004EF (PlateLegs) with craft system DefBlacksmithy
+10/15/2013 11:32:06 PM: 127.0.0.1: Crafting 0x400004F0 (Axe) with craft system DefBlacksmithy
+10/15/2013 11:32:09 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/15/2013 11:32:46 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/15/2013 11:33:02 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'props '
+10/15/2013 11:33:11 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'HitPoints' of 0x400004F0 (Axe) to '1000'
+10/15/2013 11:33:17 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'HitPoints' of 0x400004F0 (Axe) to '255'
+10/15/2013 11:33:59 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property '[Arms Lore: 200].Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:34:17 PM: 127.0.0.1: Crafting 0x400004FC (PlateLegs) with craft system DefBlacksmithy
+###################################
+Logging started on 10/15/2013 11:36:08 PM
+
+###################################
+Logging started on 10/15/2013 11:37:24 PM
+
+10/15/2013 11:37:51 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add runichammer 9'
+10/15/2013 11:37:53 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5675, 342, 10) in Backtrol: "runichammer" "9"
+10/15/2013 11:37:53 PM: 127.0.0.1: Serials: 0x40000018; 
+10/15/2013 11:38:04 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add ironingot 100'
+10/15/2013 11:38:05 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5674, 344, 10) in Backtrol: "ironingot" "100"
+10/15/2013 11:38:05 PM: 127.0.0.1: Serials: 0x4000001A; 
+10/15/2013 11:38:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'add ironingot 100'
+10/15/2013 11:38:08 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') building at (5674, 344, 10) in Backtrol: "ironingot" "100"
+10/15/2013 11:38:08 PM: 127.0.0.1: Serials: 0x4000001B; 
+10/15/2013 11:38:21 PM: 127.0.0.1: Crafting 0x400000CF (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:38:29 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 200'
+10/15/2013 11:38:29 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '200'
+10/15/2013 11:38:32 PM: 127.0.0.1: Crafting 0x400002C0 (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:38:59 PM: 127.0.0.1: Crafting 0x400002C1 (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:39:10 PM: 127.0.0.1: Crafting 0x400002C2 (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:39:32 PM: 127.0.0.1: Crafting 0x400002C3 (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:39:36 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 11:39:39 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') used command 'setallskills 100'
+10/15/2013 11:39:41 PM: 127.0.0.1: Administrator 0x5 "Test" ('Enroq') set property 'EverySkill.Base' of 0x5 "Test" ('Enroq') to '100'
+10/15/2013 11:39:49 PM: 127.0.0.1: Crafting 0x400002C4 (PlateHelm) with craft system DefBlacksmithy
+10/15/2013 11:40:05 PM: 127.0.0.1: Crafting 0x400002C6 (PlateHelm) with craft system DefBlacksmithy

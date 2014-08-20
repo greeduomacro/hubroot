@@ -1,0 +1,225 @@
+﻿###################################
+Logging started on 8/4/2014 1:20:22 AM
+
+###################################
+Logging started on 8/4/2014 2:12:40 AM
+
+8/4/2014 2:14:15 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/4/2014 2:14:25 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+###################################
+Logging started on 8/4/2014 2:18:51 AM
+
+8/4/2014 2:19:44 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get homerange'
+8/4/2014 2:19:47 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/4/2014 2:20:20 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add cyclops'
+8/4/2014 2:20:21 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3829, 20) in Backtrol: "cyclops"
+8/4/2014 2:20:21 AM: 127.0.0.1: Serials: 0x6; 
+8/4/2014 2:22:38 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/4/2014 2:23:12 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 8/4/2014 2:29:57 AM
+
+###################################
+Logging started on 8/4/2014 2:37:51 AM
+
+###################################
+Logging started on 8/4/2014 2:42:04 AM
+
+###################################
+Logging started on 8/4/2014 2:49:06 AM
+
+8/4/2014 2:56:36 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+8/4/2014 2:56:38 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3831, 20) in Backtrol: "townsigil"
+8/4/2014 2:56:38 AM: 127.0.0.1: Serials: 0x40000060; 
+8/4/2014 2:56:49 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:57:24 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:57:25 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/4/2014 2:57:32 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get karma'
+8/4/2014 2:57:38 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set karma 0'
+8/4/2014 2:57:39 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'karma' of 0x1 "test" ('admin') to '0'
+8/4/2014 2:57:42 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get karma'
+8/4/2014 2:57:47 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/4/2014 2:57:55 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:58:11 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:58:16 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/4/2014 2:58:22 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/4/2014 2:58:25 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x7 "Coralie," (no account).
+8/4/2014 2:58:50 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:58:52 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 2:59:06 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/4/2014 2:59:10 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/4/2014 2:59:12 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x40000060 (TownSigil)
+###################################
+Logging started on 8/4/2014 3:02:35 AM
+
+8/4/2014 3:03:10 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:06:12 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:06:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/4/2014 3:06:16 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/4/2014 3:06:31 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'AI' of 0x8 "Fisk," (no account) to 'AI_Use_Default'
+###################################
+Logging started on 8/4/2014 3:08:32 AM
+
+8/4/2014 3:09:27 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+###################################
+Logging started on 8/4/2014 3:12:37 AM
+
+8/4/2014 3:14:04 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guardswordsman'
+8/4/2014 3:14:08 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/4/2014 3:14:09 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3832, 20) in Backtrol: "guard" "swordsman"
+8/4/2014 3:14:09 AM: 127.0.0.1: Serials: 0x4; 
+8/4/2014 3:14:11 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:14:49 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:14:52 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get fightmode'
+###################################
+Logging started on 8/4/2014 3:19:22 AM
+
+8/4/2014 3:20:00 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/4/2014 3:20:01 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3830, 20) in Backtrol: "guard" "swordsman"
+8/4/2014 3:20:01 AM: 127.0.0.1: Serials: 0x4; 
+8/4/2014 3:20:02 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+###################################
+Logging started on 8/4/2014 3:26:04 AM
+
+8/4/2014 3:26:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/4/2014 3:26:38 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3832, 20) in Backtrol: "guard" "swordsman"
+8/4/2014 3:26:38 AM: 127.0.0.1: Serials: 0x4; 
+8/4/2014 3:26:39 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:26:58 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 3:26:59 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/4/2014 3:27:00 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x4 "Cameron," (no account).
+8/4/2014 3:27:10 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'self get map'
+###################################
+Logging started on 8/4/2014 3:40:46 AM
+
+8/4/2014 4:00:52 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/4/2014 4:00:52 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3832, 20) in Backtrol: "guard" "swordsman"
+8/4/2014 4:00:52 AM: 127.0.0.1: Serials: 0x4; 
+8/4/2014 4:01:00 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/4/2014 4:01:03 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x4 "Leo," (no account)
+8/4/2014 4:01:52 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/4/2014 4:02:06 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/4/2014 4:02:07 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/4/2014 4:02:09 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2761, 3845, 20) in Backtrol: "guard" "swordsman"
+8/4/2014 4:02:09 AM: 127.0.0.1: Serials: 0x7; 
+###################################
+Logging started on 8/4/2014 5:10:11 AM
+
+###################################
+Logging started on 8/4/2014 5:14:22 AM
+
+8/4/2014 5:16:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/4/2014 5:16:27 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x8 "Zeke," (no account)
+8/4/2014 5:16:28 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/4/2014 5:16:29 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x5 "Machi," (no account)
+8/4/2014 5:22:09 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/4/2014 5:22:11 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x3 "Ayaluna" (no account)
+8/4/2014 5:26:07 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 5:26:12 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x6 "Lawrence," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2E "Nigel," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0xF "Cheney," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0xD "Graham," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x22 "Brent," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1B "Ernest," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x14 "Avena," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2F "Blorn," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x3 "Nicola," (no account).
+8/4/2014 5:26:13 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 9 mobiles.
+8/4/2014 5:26:16 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 5:26:17 AM: 127.0.0.1: The process is complete. 26 mobiles have been killed (0.0 seconds).
+8/4/2014 5:26:24 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x20 "Braxton," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1C "Thai," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1A "Safiya," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2C "Edwin," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x10 "Brodny," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x17 "Sabiny," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x12 "Randall," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2A "Darlene," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x19 "Adena," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x9 "Kessie," (no account).
+8/4/2014 5:26:26 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 10 mobiles.
+###################################
+Logging started on 8/4/2014 6:31:15 AM
+
+8/4/2014 6:38:27 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x37 "Frederick," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x5 "Like," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x7 "Bonita," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x11 "Viveka," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x13 "Corbey," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x17 "Apolline," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x19 "Jivin," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2B "Arsen," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2F "Ogden," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x31 "Celia," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x33 "Neely," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1D "Matilda," (no account).
+8/4/2014 6:38:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 12 mobiles.
+8/4/2014 6:38:33 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 6:38:36 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'area kill where guard'
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1B "Adeben," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x9 "Weston," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0xF "Batya," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x3 "Okelani," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1F "Zena," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0xD "Tierra," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x15 "Matai," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x21 "Sesha," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x23 "Thaman," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x25 "Krischan," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x27 "Helen," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x29 "Bram," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x2D "Adeben," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x35 "Galeno," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0xB "Yarmilla," (no account).
+8/4/2014 6:38:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 15 mobiles.
+###################################
+Logging started on 8/4/2014 7:09:24 AM
+
+###################################
+Logging started on 8/4/2014 7:13:43 AM
+
+###################################
+Logging started on 8/4/2014 1:44:09 PM
+
+8/4/2014 1:44:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add corpse'
+8/4/2014 1:44:38 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3851, 15) in Backtrol: "corpse"
+8/4/2014 1:44:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add corpse'
+8/4/2014 1:44:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3849, 15) in Backtrol: "corpse"
+8/4/2014 1:44:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add corpse'
+8/4/2014 1:44:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3848, 15) in Backtrol: "corpse"
+###################################
+Logging started on 8/4/2014 4:02:37 PM
+
+8/4/2014 4:29:35 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'm add horse set cantwalk true'
+8/4/2014 4:29:36 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3845, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:36 PM: 127.0.0.1: Serials: 0x3; 
+8/4/2014 4:29:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3842, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:37 PM: 127.0.0.1: Serials: 0x4; 
+8/4/2014 4:29:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3840, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:37 PM: 127.0.0.1: Serials: 0x5; 
+8/4/2014 4:29:38 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2757, 3845, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:38 PM: 127.0.0.1: Serials: 0x6; 
+8/4/2014 4:29:39 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3847, 17) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:39 PM: 127.0.0.1: Serials: 0x7; 
+8/4/2014 4:29:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3849, 15) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:40 PM: 127.0.0.1: Serials: 0x8; 
+8/4/2014 4:29:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2757, 3850, 15) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:40 PM: 127.0.0.1: Serials: 0x9; 
+8/4/2014 4:29:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3841, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:42 PM: 127.0.0.1: Serials: 0xA; 
+8/4/2014 4:29:43 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2758, 3840, 20) in Backtrol: "horse" "set" "cantwalk" "true"
+8/4/2014 4:29:43 PM: 127.0.0.1: Serials: 0xB; 
+8/4/2014 4:29:48 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'move '
+8/4/2014 4:29:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') moving 0xB "a horse" (no account) to (2753, 3845, 20)
+8/4/2014 4:29:53 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'move '
+8/4/2014 4:30:05 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') moving 0x8 "a horse" (no account) to (2756, 3845, 20)
+8/4/2014 4:30:09 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'm delete'
+8/4/2014 4:30:10 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x9 "a horse" (no account)
+8/4/2014 4:30:11 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x7 "a horse" (no account)
+8/4/2014 4:30:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x4 "a horse" (no account)
+8/4/2014 4:30:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0xA "a horse" (no account)
+8/4/2014 4:30:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x5 "a horse" (no account)
+8/4/2014 4:30:27 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '

@@ -1,0 +1,14 @@
+﻿###################################
+Logging started on 11/21/2013 11:49:01 PM
+
+11/22/2013 1:54:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'character '
+11/22/2013 1:55:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'character '
+11/22/2013 1:56:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'character '
+11/22/2013 1:59:31 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/22/2013 1:59:33 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (421, 2652, 6) in Backtrol: "brigand"
+11/22/2013 1:59:33 AM: 127.0.0.1: Serials: 0x9; 
+11/22/2013 1:59:38 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/22/2013 1:59:43 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/22/2013 1:59:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/22/2013 1:59:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (414, 2659, 5) in Backtrol: "vorpalbunny"
+11/22/2013 1:59:49 AM: 127.0.0.1: Serials: 0xA; 

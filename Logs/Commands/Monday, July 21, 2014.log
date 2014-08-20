@@ -1,0 +1,122 @@
+﻿###################################
+Logging started on 7/21/2014 9:37:40 PM
+
+7/21/2014 9:40:25 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+7/21/2014 9:40:32 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'get location'
+7/21/2014 9:40:39 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeX' of 0x40000009 (TownSigil) to '1516'
+7/21/2014 9:40:46 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeY' of 0x40000009 (TownSigil) to '643'
+7/21/2014 9:40:50 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeZ' of 0x40000009 (TownSigil) to '-14'
+7/21/2014 9:41:10 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:41:44 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:41:51 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'admin '
+7/21/2014 9:42:03 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:42:06 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:42:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'alliances '
+7/21/2014 9:42:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set accesslevel player'
+7/21/2014 9:42:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'accesslevel' of 0xB "Test" ('test') to 'Player'
+7/21/2014 9:42:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set accesslevel administrator'
+7/21/2014 9:42:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'accesslevel' of 0xB "Test" ('test') to 'Administrator'
+7/21/2014 9:42:59 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:43:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set accesslevel player'
+7/21/2014 9:43:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'accesslevel' of 0xB "Test" ('test') to 'Player'
+7/21/2014 9:43:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 100'
+7/21/2014 9:43:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0xB "Test" ('test') to '100'
+7/21/2014 9:44:08 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 9:44:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 9:44:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backpack'
+7/21/2014 9:44:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 642, -14) in Ilshenar: "backpack"
+7/21/2014 9:44:41 PM: 127.0.0.1: Serials: 0x40000008; 
+7/21/2014 9:44:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/21/2014 9:44:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000009 (TownSigil)
+7/21/2014 9:44:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/21/2014 9:44:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 643, -14) in Ilshenar: "townsigil"
+7/21/2014 9:44:50 PM: 127.0.0.1: Serials: 0x40000009; 
+7/21/2014 9:44:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/21/2014 9:45:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get location'
+7/21/2014 9:45:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeX' of 0x40000009 (TownSigil) to '1516'
+7/21/2014 9:45:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeY' of 0x40000009 (TownSigil) to '643'
+7/21/2014 9:45:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeZ' of 0x40000009 (TownSigil) to '-14'
+7/21/2014 9:45:35 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/21/2014 10:39:50 PM
+
+7/21/2014 10:40:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/21/2014 10:40:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000009 (TownSigil)
+7/21/2014 10:43:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backpack'
+7/21/2014 10:43:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 643, -14) in Ilshenar: "backpack"
+7/21/2014 10:43:36 PM: 127.0.0.1: Serials: 0x40000008; 
+7/21/2014 10:43:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/21/2014 10:43:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 643, -14) in Ilshenar: "townsigil"
+7/21/2014 10:43:42 PM: 127.0.0.1: Serials: 0x40000009; 
+7/21/2014 10:43:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/21/2014 10:43:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get location'
+7/21/2014 10:44:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeX' of 0x40000009 (TownSigil) to '1517'
+7/21/2014 10:44:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeY' of 0x40000009 (TownSigil) to '643'
+7/21/2014 10:44:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeZ' of 0x40000009 (TownSigil) to '-14'
+7/21/2014 10:44:31 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:44:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:44:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'alliances '
+7/21/2014 10:45:28 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:47:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:47:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/21/2014 10:47:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000009 (TownSigil)
+7/21/2014 10:47:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/21/2014 10:47:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 643, -14) in Ilshenar: "townsigil"
+7/21/2014 10:47:55 PM: 127.0.0.1: Serials: 0x4000000A; 
+7/21/2014 10:48:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get location'
+7/21/2014 10:48:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/21/2014 10:48:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeX' of 0x4000000A (TownSigil) to '1517'
+7/21/2014 10:48:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeY' of 0x4000000A (TownSigil) to '643'
+7/21/2014 10:48:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'HomeZ' of 0x4000000A (TownSigil) to '-14'
+7/21/2014 10:49:08 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:49:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 10:49:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'alliances '
+7/21/2014 10:49:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/21/2014 10:51:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backpack'
+7/21/2014 10:51:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 644, -14) in Ilshenar: "backpack"
+7/21/2014 10:51:00 PM: 127.0.0.1: Serials: 0x4000000B; 
+7/21/2014 10:51:44 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 10:51:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set accesslevel player'
+7/21/2014 10:51:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'accesslevel' of 0xB "Test" ('test') to 'Player'
+7/21/2014 10:52:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+7/21/2014 10:52:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 100'
+7/21/2014 10:52:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0xB "Test" ('test') to '100'
+###################################
+Logging started on 7/21/2014 11:00:37 PM
+
+7/21/2014 11:03:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 100'
+7/21/2014 11:03:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0xB "Test" ('test') to '100'
+7/21/2014 11:03:26 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/21/2014 11:08:47 PM
+
+7/21/2014 11:15:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/21/2014 11:15:19 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:16:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:16:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 100'
+7/21/2014 11:16:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0xB "Test" ('test') to '100'
+7/21/2014 11:17:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'move '
+7/21/2014 11:17:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get hue'
+###################################
+Logging started on 7/21/2014 11:22:15 PM
+
+###################################
+Logging started on 7/21/2014 11:30:25 PM
+
+###################################
+Logging started on 7/21/2014 11:33:07 PM
+
+7/21/2014 11:37:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 100'
+7/21/2014 11:37:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0xB "Test" ('test') to '100'
+###################################
+Logging started on 7/21/2014 11:40:00 PM
+
+7/21/2014 11:43:06 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:43:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:43:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+###################################
+Logging started on 7/21/2014 11:43:52 PM
+
+7/21/2014 11:50:44 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:50:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/21/2014 11:51:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'alliances '

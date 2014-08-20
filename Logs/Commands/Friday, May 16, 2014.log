@@ -1,0 +1,90 @@
+﻿###################################
+Logging started on 5/16/2014 2:57:06 AM
+
+###################################
+Logging started on 5/16/2014 4:20:49 AM
+
+5/16/2014 4:27:26 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 4:27:27 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 4:27:28 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 4:27:32 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+5/16/2014 4:27:47 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+###################################
+Logging started on 5/16/2014 4:54:55 AM
+
+###################################
+Logging started on 5/16/2014 4:56:54 AM
+
+5/16/2014 4:57:08 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 4:57:10 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 4:57:12 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 4:57:15 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+5/16/2014 4:57:24 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+###################################
+Logging started on 5/16/2014 5:16:50 AM
+
+5/16/2014 5:17:05 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 5:17:06 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 5:17:09 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 5:17:11 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 5/16/2014 5:21:33 AM
+
+###################################
+Logging started on 5/16/2014 5:50:21 AM
+
+5/16/2014 5:50:44 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 5:50:46 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 5:50:48 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 5:50:50 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 5/16/2014 5:53:21 AM
+
+5/16/2014 5:53:37 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 5:53:39 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 5:53:41 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0x6 "Tano" ('admin').
+###################################
+Logging started on 5/16/2014 5:55:58 AM
+
+5/16/2014 5:56:29 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 5:56:31 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 5:56:32 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0x6 "Tano" ('admin').
+###################################
+Logging started on 5/16/2014 5:57:27 AM
+
+5/16/2014 5:57:36 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 5:57:38 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 5:57:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 5:57:44 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 5/16/2014 10:24:02 PM
+
+###################################
+Logging started on 5/16/2014 10:28:29 PM
+
+###################################
+Logging started on 5/16/2014 10:31:34 PM
+
+5/16/2014 10:32:06 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 10:32:07 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 10:54:59 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+###################################
+Logging started on 5/16/2014 10:57:49 PM
+
+5/16/2014 10:59:34 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/16/2014 10:59:35 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'admin '
+5/16/2014 10:59:43 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'admin '
+5/16/2014 10:59:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') adding new account: test
+5/16/2014 11:00:56 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'who '
+5/16/2014 11:01:00 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') bringing 0xB "Test" ('test') to Location (456, 3417, 10), Map Backtrol
+5/16/2014 11:02:38 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 11:39:05 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0xB "Test" ('test').
+###################################
+Logging started on 5/16/2014 11:48:51 PM
+
+###################################
+Logging started on 5/16/2014 11:51:57 PM
+
+5/16/2014 11:52:59 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/16/2014 11:53:26 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/16/2014 11:53:31 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '

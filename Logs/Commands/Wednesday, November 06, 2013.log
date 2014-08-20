@@ -1,0 +1,79 @@
+﻿###################################
+Logging started on 11/6/2013 12:36:54 AM
+
+11/6/2013 12:37:39 AM: 127.0.0.1: Crafting 0x4000002C (DoorArrowTrapInstaller) with craft system DefTinkering
+11/6/2013 12:37:44 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/6/2013 12:45:50 AM
+
+11/6/2013 12:46:08 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'perks '
+11/6/2013 12:46:33 AM: 127.0.0.1: Crafting 0x4000002C (DoorArrowTrapInstaller) with craft system DefTinkering
+11/6/2013 1:30:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add lantern'
+11/6/2013 1:30:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2133, 795, 5) in Backtrol: "lantern"
+11/6/2013 1:30:32 AM: 127.0.0.1: Serials: 0x40000030; 
+11/6/2013 1:30:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 100'
+11/6/2013 1:30:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Enroq') to '100'
+11/6/2013 1:31:00 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/6/2013 1:47:55 AM
+
+11/6/2013 1:49:00 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add lantern'
+11/6/2013 1:49:01 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2133, 796, 5) in Backtrol: "lantern"
+11/6/2013 1:49:01 AM: 127.0.0.1: Serials: 0x4000002C; 
+11/6/2013 1:49:05 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/6/2013 1:50:01 AM
+
+11/6/2013 1:50:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add lantern'
+11/6/2013 1:50:29 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2134, 796, 7) in Backtrol: "lantern"
+11/6/2013 1:50:29 AM: 127.0.0.1: Serials: 0x4000002C; 
+11/6/2013 1:50:44 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Enroq') used command 'calt '
+11/6/2013 1:50:53 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/6/2013 1:53:46 AM
+
+###################################
+Logging started on 11/6/2013 2:10:11 AM
+
+###################################
+Logging started on 11/6/2013 4:40:17 AM
+
+###################################
+Logging started on 11/6/2013 4:48:58 PM
+
+###################################
+Logging started on 11/6/2013 4:57:07 PM
+
+11/6/2013 4:58:02 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add rift'
+11/6/2013 4:58:04 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2134, 795, 5) in Backtrol: "DaggerOfTheRift"
+11/6/2013 4:58:04 PM: 127.0.0.1: Serials: 0x4000002C; 
+11/6/2013 4:58:11 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add ogre'
+11/6/2013 4:58:12 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2134, 797, 6) in Backtrol: "ogre"
+11/6/2013 4:58:12 PM: 127.0.0.1: Serials: 0x4; 
+11/6/2013 4:58:44 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add drake'
+11/6/2013 4:58:45 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2138, 799, 5) in Backtrol: "drake"
+11/6/2013 4:58:45 PM: 127.0.0.1: Serials: 0x5; 
+11/6/2013 4:59:38 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'heal '
+11/6/2013 4:59:44 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 100'
+11/6/2013 4:59:53 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 100'
+11/6/2013 4:59:53 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Enroq') to '100'
+11/6/2013 5:00:03 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'heal '
+11/6/2013 5:00:16 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'heal '
+11/6/2013 5:00:21 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'heal '
+11/6/2013 5:00:24 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'remove '
+11/6/2013 5:00:24 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') deleting 0x40000083 (Corpse)
+11/6/2013 5:00:37 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add recallrune'
+11/6/2013 5:00:40 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2135, 767, 6) in Backtrol: "recallrune"
+11/6/2013 5:00:40 PM: 127.0.0.1: Serials: 0x40000084; 
+11/6/2013 5:01:49 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'remove '
+11/6/2013 5:01:51 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') deleting 0x5 "a drake" (no account)
+11/6/2013 5:01:55 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add izkark'
+11/6/2013 5:01:57 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2139, 774, 5) in Backtrol: "IzkarksRing"
+11/6/2013 5:01:57 PM: 127.0.0.1: Serials: 0x40000091; 
+11/6/2013 5:02:24 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/6/2013 5:37:38 PM
+
+###################################
+Logging started on 11/6/2013 11:46:58 PM
+

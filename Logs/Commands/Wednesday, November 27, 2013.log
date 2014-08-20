@@ -1,0 +1,234 @@
+﻿###################################
+Logging started on 11/27/2013 1:07:22 AM
+
+11/27/2013 1:14:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/27/2013 1:14:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 1'
+11/27/2013 1:14:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '1'
+11/27/2013 1:14:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 99'
+11/27/2013 1:14:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+11/27/2013 1:15:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 0'
+11/27/2013 1:15:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '0'
+11/27/2013 1:15:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride null'
+11/27/2013 1:15:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride -1'
+11/27/2013 1:15:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '-1'
+11/27/2013 1:15:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 0'
+11/27/2013 1:15:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '0'
+11/27/2013 1:16:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 112288'
+11/27/2013 1:16:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '112288'
+11/27/2013 1:16:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 11228'
+11/27/2013 1:16:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '11228'
+11/27/2013 1:16:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 112277'
+11/27/2013 1:16:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '112277'
+11/27/2013 1:16:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set solidhueoverride 112211'
+11/27/2013 1:16:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'solidhueoverride' of 0x1 "Test" ('Admin') to '112211'
+11/27/2013 1:16:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'm inc solidhueoverride 1'
+11/27/2013 1:17:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ethe'
+11/27/2013 1:17:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5820, 239, 20) in Backtrol: "EtherealLlama"
+11/27/2013 1:17:24 AM: 127.0.0.1: Serials: 0x40000016; 
+11/27/2013 1:17:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+###################################
+Logging started on 11/27/2013 1:22:25 AM
+
+###################################
+Logging started on 11/27/2013 1:23:51 AM
+
+11/27/2013 1:24:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 100'
+11/27/2013 1:24:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '100'
+11/27/2013 1:24:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawint 100 rawdex 100 rawstr 100'
+11/27/2013 1:24:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawint' of 0x1 "Test" ('Admin') to '100'
+11/27/2013 1:24:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '100'
+11/27/2013 1:24:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '100'
+11/27/2013 1:24:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/27/2013 1:24:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/27/2013 1:25:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/27/2013 1:25:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'Physical' of ... to '55'
+11/27/2013 1:25:18 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'calt '
+11/27/2013 1:25:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'calt '
+11/27/2013 1:25:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 125'
+11/27/2013 1:25:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '125'
+11/27/2013 1:26:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 120'
+11/27/2013 1:26:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '120'
+11/27/2013 1:26:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 105'
+11/27/2013 1:26:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '105'
+11/27/2013 1:26:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/27/2013 1:29:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 0'
+11/27/2013 1:29:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '0'
+###################################
+Logging started on 11/27/2013 1:31:23 AM
+
+11/27/2013 1:33:03 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 40'
+11/27/2013 1:33:03 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '40'
+11/27/2013 1:33:10 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawdex 50'
+11/27/2013 1:33:13 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawdex 40'
+11/27/2013 1:33:13 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawdex' of 0x3 "Test" ('Admin') to '40'
+11/27/2013 1:33:17 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawint 40'
+11/27/2013 1:33:18 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawint' of 0x3 "Test" ('Admin') to '40'
+11/27/2013 1:33:21 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '
+11/27/2013 1:34:16 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'lightlevel' of 0x3 "Test" ('Admin') to '99'
+11/27/2013 1:34:16 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'self set lightlevel 99'
+11/27/2013 1:34:30 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add bandage 100'
+11/27/2013 1:34:31 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5696, 326, 6) in Backtrol: "bandage" "100"
+11/27/2013 1:34:31 AM: 127.0.0.1: Serials: 0x4000001C; 
+11/27/2013 1:34:52 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set amount 1000'
+11/27/2013 1:34:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'amount' of 0x4000001C (Bandage) to '1000'
+###################################
+Logging started on 11/27/2013 1:44:33 AM
+
+11/27/2013 1:47:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+11/27/2013 1:47:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'self set lightlevel 99'
+###################################
+Logging started on 11/27/2013 1:52:32 AM
+
+11/27/2013 1:52:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+11/27/2013 1:52:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'self set lightlevel 99'
+11/27/2013 1:53:50 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'lightlevel' of 0x3 "Test" ('Admin') to '99'
+11/27/2013 1:53:50 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'self set lightlevel 99'
+11/27/2013 1:56:17 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'adjusthair '
+11/27/2013 2:04:40 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:04:43 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x40000015 (HouseSign)
+11/27/2013 2:04:46 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'save '
+11/27/2013 2:16:56 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add halberd'
+11/27/2013 2:17:25 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set stam 0'
+11/27/2013 2:17:26 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'stam' of 0x3 "Test" ('Admin') to '0'
+11/27/2013 2:17:44 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:17:46 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'help '
+11/27/2013 2:17:48 AM: 127.0.0.1: Player 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 2:17:48 AM: 127.0.0.1: Player 0x3 "Test" ('Admin') used command 'help '
+11/27/2013 2:18:42 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 2:18:44 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add stat'
+11/27/2013 2:18:47 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add sta'
+11/27/2013 2:18:51 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add statu'
+11/27/2013 2:18:54 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5781, 258, 20) in Backtrol: "IslandStatue"
+11/27/2013 2:18:54 AM: 127.0.0.1: Serials: 0x4000001C; 
+11/27/2013 2:18:58 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:18:59 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x4000001C (IslandStatue)
+11/27/2013 2:19:01 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add statu'
+11/27/2013 2:19:04 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5781, 258, 20) in Backtrol: "MonsterStatuette"
+11/27/2013 2:19:05 AM: 127.0.0.1: Serials: 0x40000025; 
+11/27/2013 2:19:15 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add statu'
+11/27/2013 2:19:19 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5784, 258, 20) in Backtrol: "AngelStatueAddon"
+11/27/2013 2:19:19 AM: 127.0.0.1: Serials: 0x40000026; 
+11/27/2013 2:19:22 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:19:23 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x40000029 (AddonComponent)
+11/27/2013 2:19:27 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add statu'
+11/27/2013 2:19:31 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5786, 254, 20) in Backtrol: "SeerStatueAddon"
+11/27/2013 2:19:31 AM: 127.0.0.1: Serials: 0x4000002B; 
+11/27/2013 2:19:35 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:19:35 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x4000002D (AddonComponent)
+11/27/2013 2:19:39 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5782, 258, 20) in Backtrol: "StatueDeed"
+11/27/2013 2:19:39 AM: 127.0.0.1: Serials: 0x4000002F; 
+11/27/2013 2:20:21 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add statu'
+11/27/2013 2:20:23 AM: 127.0.0.1: Player 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 2:20:32 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 2:20:38 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:20:39 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x4000003E (Plinth)
+11/27/2013 2:20:42 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:20:42 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x6 "a statue of Test" (no account)
+11/27/2013 2:20:51 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5780, 250, 20) in Backtrol: "StatueDeed"
+11/27/2013 2:20:51 AM: 127.0.0.1: Serials: 0x4000003F; 
+11/27/2013 2:20:57 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5781, 248, 20) in Backtrol: "WarriorStatueEastAddon"
+11/27/2013 2:20:57 AM: 127.0.0.1: Serials: 0x40000040; 
+11/27/2013 2:21:03 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:21:05 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x40000041 (AddonComponent)
+11/27/2013 2:21:06 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5781, 248, 20) in Backtrol: "StatueWest"
+11/27/2013 2:21:06 AM: 127.0.0.1: Serials: 0x40000042; 
+11/27/2013 2:21:11 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'remove '
+11/27/2013 2:21:13 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') deleting 0x40000042 (StatueWest)
+11/27/2013 2:21:30 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'save '
+11/27/2013 2:23:33 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add katana'
+11/27/2013 2:23:34 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5780, 248, 20) in Backtrol: "katana"
+11/27/2013 2:23:34 AM: 127.0.0.1: Serials: 0x40000043; 
+11/27/2013 2:23:38 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add goat'
+11/27/2013 2:23:39 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5780, 247, 20) in Backtrol: "goat"
+11/27/2013 2:23:39 AM: 127.0.0.1: Serials: 0x7; 
+11/27/2013 2:23:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add hind'
+11/27/2013 2:23:55 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5780, 250, 20) in Backtrol: "hind"
+11/27/2013 2:23:55 AM: 127.0.0.1: Serials: 0x8; 
+11/27/2013 2:24:11 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '
+11/27/2013 2:32:17 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set name Hind Hides'
+11/27/2013 2:32:18 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'name' of 0x40000057 (Hides) to 'Hind'
+11/27/2013 2:32:31 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set name "Hind Hides"'
+11/27/2013 2:32:32 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'name' of 0x40000057 (Hides) to 'Hind Hides'
+11/27/2013 2:35:48 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '
+11/27/2013 2:35:58 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:50 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:52 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:54 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:55 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:56 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:57 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:36:59 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:37:01 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:37:03 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:37:04 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:39:15 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:39:24 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cov '
+11/27/2013 2:41:32 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add mongbat'
+11/27/2013 2:41:33 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5673, 351, 5) in Backtrol: "mongbat"
+11/27/2013 2:41:33 AM: 127.0.0.1: Serials: 0x9; 
+11/27/2013 3:46:22 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 3:46:23 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+11/27/2013 3:46:45 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawdex 125'
+11/27/2013 3:46:46 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawdex' of 0x3 "Test" ('Admin') to '125'
+11/27/2013 3:46:50 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawint 25'
+11/27/2013 3:46:51 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawint' of 0x3 "Test" ('Admin') to '25'
+11/27/2013 3:46:58 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '
+11/27/2013 3:47:30 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'add recallrune'
+11/27/2013 3:47:32 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') building at (5704, 348, 10) in Backtrol: "recallrune"
+11/27/2013 3:47:32 AM: 127.0.0.1: Serials: 0x40000064; 
+11/27/2013 3:47:34 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cast mark'
+11/27/2013 3:47:41 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'cast mark'
+11/27/2013 3:47:47 AM: 127.0.0.1: Player 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 3:47:48 AM: 127.0.0.1: Player 0x3 "Test" ('Admin') used command 'cast mark'
+11/27/2013 3:47:50 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'calt '
+11/27/2013 3:48:04 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'setallskills 100'
+11/27/2013 3:48:05 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'EverySkill.Base' of 0x3 "Test" ('Admin') to '100'
+###################################
+Logging started on 11/27/2013 3:51:29 AM
+
+11/27/2013 3:51:56 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 3:51:57 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+###################################
+Logging started on 11/27/2013 3:53:37 AM
+
+11/27/2013 3:54:20 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 3:54:21 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+###################################
+Logging started on 11/27/2013 3:56:02 AM
+
+11/27/2013 3:57:35 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 125'
+11/27/2013 3:57:36 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '125'
+11/27/2013 3:57:40 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 3:57:40 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+11/27/2013 3:57:48 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 125'
+11/27/2013 3:57:48 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '125'
+11/27/2013 3:57:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 100'
+11/27/2013 3:57:53 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '100'
+11/27/2013 3:58:06 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 125'
+11/27/2013 3:58:07 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '125'
+11/27/2013 3:58:11 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 3:58:12 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+###################################
+Logging started on 11/27/2013 3:59:18 AM
+
+11/27/2013 4:01:34 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 100'
+11/27/2013 4:01:35 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '100'
+11/27/2013 4:01:44 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 4:01:44 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+###################################
+Logging started on 11/27/2013 4:03:38 AM
+
+11/27/2013 4:04:54 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 100'
+11/27/2013 4:04:54 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '100'
+11/27/2013 4:04:57 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 125'
+11/27/2013 4:04:58 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '125'
+11/27/2013 4:05:01 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawstr 150'
+11/27/2013 4:05:01 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawstr' of 0x3 "Test" ('Admin') to '150'
+11/27/2013 4:05:55 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '
+11/27/2013 4:06:03 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawdex 100'
+11/27/2013 4:06:04 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawdex' of 0x3 "Test" ('Admin') to '100'
+11/27/2013 4:06:07 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'set rawint 50'
+11/27/2013 4:06:07 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') set property 'rawint' of 0x3 "Test" ('Admin') to '50'
+11/27/2013 4:06:10 AM: 127.0.0.1: Administrator 0x3 "Test" ('Admin') used command 'heal '

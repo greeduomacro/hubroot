@@ -1,0 +1,268 @@
+﻿###################################
+Logging started on 12/20/2013 5:42:36 AM
+
+12/20/2013 5:43:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:44:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:44:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/20/2013 5:44:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x7 "an ogre lord" (no account)
+12/20/2013 5:44:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/20/2013 5:44:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 404, -2) in Backtrol: "ogre"
+12/20/2013 5:44:34 AM: 127.0.0.1: Serials: 0x3; 
+12/20/2013 5:45:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:45:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:45:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:46:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:46:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'kill '
+12/20/2013 5:46:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') killed 0x3 "an ogre" (no account).
+12/20/2013 5:48:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/20/2013 5:48:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 405, 0) in Backtrol: "ogre"
+12/20/2013 5:48:05 AM: 127.0.0.1: Serials: 0x4; 
+12/20/2013 5:48:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogrelord'
+12/20/2013 5:48:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "ogrelord"
+12/20/2013 5:48:19 AM: 127.0.0.1: Serials: 0x5; 
+12/20/2013 5:48:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:48:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:48:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:48:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 5:48:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'kill '
+12/20/2013 5:48:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') killed 0x5 "an ogre lord" (no account).
+12/20/2013 5:49:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/20/2013 5:56:22 AM
+
+12/20/2013 5:58:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/20/2013 6:03:33 AM
+
+12/20/2013 6:04:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:04:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:04:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:06:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:07:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/20/2013 6:07:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 402, 0) in Backtrol: "lichlord"
+12/20/2013 6:07:54 AM: 127.0.0.1: Serials: 0x3; 
+12/20/2013 6:07:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:08:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/20/2013 6:08:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "ancientlich"
+12/20/2013 6:08:58 AM: 127.0.0.1: Serials: 0x4; 
+12/20/2013 6:09:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 1'
+12/20/2013 6:09:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x4 "Maliel" (no account) to '1'
+12/20/2013 6:09:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/20/2013 6:09:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 401, 1) in Backtrol: "ogre"
+12/20/2013 6:09:26 AM: 127.0.0.1: Serials: 0x5; 
+12/20/2013 6:11:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/20/2013 6:11:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "ogre"
+12/20/2013 6:11:39 AM: 127.0.0.1: Serials: 0x6; 
+12/20/2013 6:12:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/20/2013 6:12:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 400, 1) in Backtrol: "lichlord"
+12/20/2013 6:12:19 AM: 127.0.0.1: Serials: 0x7; 
+12/20/2013 6:13:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/20/2013 6:13:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 401, 1) in Backtrol: "lichlord"
+12/20/2013 6:13:21 AM: 127.0.0.1: Serials: 0x8; 
+12/20/2013 6:13:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:13:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:17:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/20/2013 6:28:01 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'calt '
+12/20/2013 6:31:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'calt '
+12/20/2013 6:31:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogrelord'
+12/20/2013 6:31:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5185, 65, 17) in Backtrol: "ogrelord"
+12/20/2013 6:31:08 AM: 127.0.0.1: Serials: 0x9; 
+12/20/2013 6:31:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:31:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/20/2013 6:32:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add refresh'
+12/20/2013 6:32:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5179, 46, 17) in Backtrol: "RefreshPotion"
+12/20/2013 6:32:17 AM: 127.0.0.1: Serials: 0x4000015C; 
+12/20/2013 6:32:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5179, 46, 17) in Backtrol: "RefreshPotion"
+12/20/2013 6:32:17 AM: 127.0.0.1: Serials: 0x4000015D; 
+12/20/2013 6:32:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5169, 33, 17) in Backtrol: "RefreshPotion"
+12/20/2013 6:32:23 AM: 127.0.0.1: Serials: 0x40000164; 
+12/20/2013 6:32:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:32:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:32:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:32:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/20/2013 6:32:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:32:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'Animation' of 0x400000A6 (CrescentBlade) to 'Slash2H'
+12/20/2013 6:33:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:33:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/20/2013 6:34:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/20/2013 6:34:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'HitLeechMana' of ... to '50'
+12/20/2013 6:34:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'HitLeechStam' of ... to '50'
+12/20/2013 6:34:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'HitLeechHits' of ... to '50'
+12/20/2013 6:34:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'HitHarm' of ... to '50'
+12/20/2013 6:34:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:34:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:35:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:35:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:35:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:35:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:35:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:36:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 6:36:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/20/2013 6:38:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'addtopack bolt 100'
+12/20/2013 6:38:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5163, 19, 27) in Backtrol: "bolt" "100"
+12/20/2013 6:38:08 AM: 127.0.0.1: Serials: 0x400001E7; 
+12/20/2013 6:38:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogrelord'
+12/20/2013 6:38:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5162, 26, 27) in Backtrol: "ogrelord"
+12/20/2013 6:38:18 AM: 127.0.0.1: Serials: 0xA; 
+12/20/2013 6:41:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/20/2013 7:18:16 AM
+
+12/20/2013 7:20:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/20/2013 7:20:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add bow'
+12/20/2013 7:20:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 403, 1) in Backtrol: "bow"
+12/20/2013 7:20:09 AM: 127.0.0.1: Serials: 0x4000001D; 
+12/20/2013 7:20:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add arrow 100'
+12/20/2013 7:20:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 403, 0) in Backtrol: "arrow" "100"
+12/20/2013 7:20:22 AM: 127.0.0.1: Serials: 0x4000001E; 
+12/20/2013 7:20:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+###################################
+Logging started on 12/20/2013 7:26:39 AM
+
+12/20/2013 7:27:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add bow'
+12/20/2013 7:27:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 402, 0) in Backtrol: "bow"
+12/20/2013 7:27:05 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 7:27:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add arrow 100'
+12/20/2013 7:27:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 403, -1) in Backtrol: "arrow" "100"
+12/20/2013 7:27:17 AM: 127.0.0.1: Serials: 0x40000016; 
+12/20/2013 7:27:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+###################################
+Logging started on 12/20/2013 7:31:39 AM
+
+###################################
+Logging started on 12/20/2013 8:36:16 AM
+
+12/20/2013 8:37:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add bow'
+12/20/2013 8:37:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 402, 0) in Backtrol: "bow"
+12/20/2013 8:37:03 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 8:37:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add arrow'
+12/20/2013 8:37:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 402, 0) in Backtrol: "arrow"
+12/20/2013 8:37:08 AM: 127.0.0.1: Serials: 0x40000016; 
+12/20/2013 8:37:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set amount 100'
+12/20/2013 8:37:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'amount' of 0x40000016 (Arrow) to '100'
+12/20/2013 8:37:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+###################################
+Logging started on 12/20/2013 9:09:52 AM
+
+12/20/2013 9:12:05 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set hits 1'
+12/20/2013 9:12:06 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'hits' of 0x2 "Eidenai" ('Administrator') to '1'
+###################################
+Logging started on 12/20/2013 9:14:18 AM
+
+12/20/2013 9:15:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addon'
+12/20/2013 9:15:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (817, 1194, -70) in Ilshenar: "AbbatoirAddon"
+12/20/2013 9:15:24 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:15:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addon'
+12/20/2013 9:16:03 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add pent'
+12/20/2013 9:16:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (820, 1192, -70) in Ilshenar: "PentagramAddon"
+12/20/2013 9:16:09 AM: 127.0.0.1: Serials: 0x40000020; 
+12/20/2013 9:16:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/20/2013 9:16:23 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x40000026 (AddonComponent)
+12/20/2013 9:16:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/20/2013 9:16:25 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x4000001B (AddonComponent)
+###################################
+Logging started on 12/20/2013 9:32:13 AM
+
+12/20/2013 9:32:29 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'setallskills 100'
+12/20/2013 9:32:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Administrator') to '100'
+12/20/2013 9:32:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addo'
+12/20/2013 9:32:35 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (777, 1138, -30) in Ilshenar: "AbbatoirAddon"
+12/20/2013 9:32:35 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:32:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add fullspellbook'
+12/20/2013 9:32:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (781, 1138, -30) in Ilshenar: "fullspellbook"
+12/20/2013 9:32:42 AM: 127.0.0.1: Serials: 0x40000020; 
+12/20/2013 9:32:52 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go fel'
+12/20/2013 9:32:55 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set map fel'
+12/20/2013 9:33:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set map felucca'
+12/20/2013 9:33:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set map felucca'
+12/20/2013 9:33:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'map' of 0x2 "Eidenai" ('Administrator') to 'Felucca'
+12/20/2013 9:33:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/20/2013 9:33:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'get map'
+12/20/2013 9:33:41 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go 0 0'
+12/20/2013 9:33:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/20/2013 9:33:49 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'map' of 0x2 "Eidenai" ('Administrator') to 'Trammel'
+12/20/2013 9:33:49 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set map Trammel'
+12/20/2013 9:33:51 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/20/2013 9:33:56 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'map' of 0x2 "Eidenai" ('Administrator') to 'Backtrol'
+12/20/2013 9:33:56 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set map backtrol'
+12/20/2013 9:33:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/20/2013 9:34:11 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add recallrune'
+12/20/2013 9:34:12 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1598, 792, 0) in Backtrol: "recallrune"
+12/20/2013 9:34:12 AM: 127.0.0.1: Serials: 0x40000021; 
+###################################
+Logging started on 12/20/2013 9:35:57 AM
+
+12/20/2013 9:36:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set map fel'
+12/20/2013 9:36:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'map' of 0x2 "Eidenai" ('Administrator') to 'Felucca'
+12/20/2013 9:36:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set map felucca'
+12/20/2013 9:36:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'z' of 0x2 "Eidenai" ('Administrator') to '5'
+12/20/2013 9:36:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set z 5'
+12/20/2013 9:36:44 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 4'
+12/20/2013 9:36:45 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/20/2013 9:36:51 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'setallskills 100'
+12/20/2013 9:36:52 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Administrator') to '100'
+12/20/2013 9:36:54 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'save '
+12/20/2013 9:36:58 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add fullspellbook'
+12/20/2013 9:36:59 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "fullspellbook"
+12/20/2013 9:36:59 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:37:16 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune 1'
+12/20/2013 9:37:18 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune 3'
+12/20/2013 9:37:19 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune" "3"
+12/20/2013 9:37:21 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune'
+12/20/2013 9:37:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune"
+12/20/2013 9:37:22 AM: 127.0.0.1: Serials: 0x40000016; 
+12/20/2013 9:37:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'dupe 2'
+12/20/2013 9:37:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') duping 0x40000016 (RecallRune) (inBag=False; amount=2)
+12/20/2013 9:37:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') duped 0x40000016 (RecallRune) creating 0x40000017 (RecallRune)
+12/20/2013 9:37:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') duped 0x40000016 (RecallRune) creating 0x40000018 (RecallRune)
+12/20/2013 9:37:44 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add abb'
+12/20/2013 9:37:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (780, 1137, 0) in Felucca: "AbbatoirAddon"
+12/20/2013 9:37:46 AM: 127.0.0.1: Serials: 0x40000019; 
+###################################
+Logging started on 12/20/2013 9:43:55 AM
+
+12/20/2013 9:44:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/20/2013 9:44:17 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add fullspellbook'
+12/20/2013 9:44:18 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1137, 0) in Felucca: "fullspellbook"
+12/20/2013 9:44:18 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:44:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack rune'
+12/20/2013 9:44:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "rune"
+12/20/2013 9:44:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune'
+12/20/2013 9:44:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune"
+12/20/2013 9:44:32 AM: 127.0.0.1: Serials: 0x40000016; 
+12/20/2013 9:44:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune'
+12/20/2013 9:44:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune"
+12/20/2013 9:44:33 AM: 127.0.0.1: Serials: 0x40000017; 
+12/20/2013 9:45:50 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addo'
+12/20/2013 9:45:53 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1137, 0) in Felucca: "AbbatoirAddon"
+12/20/2013 9:45:53 AM: 127.0.0.1: Serials: 0x40000018; 
+###################################
+Logging started on 12/20/2013 9:47:38 AM
+
+12/20/2013 9:49:07 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addon'
+12/20/2013 9:49:10 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (780, 1137, 0) in Felucca: "AbbatoirAddon"
+12/20/2013 9:49:10 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:49:17 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add spellbook'
+12/20/2013 9:49:18 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (778, 1138, 0) in Felucca: "spellbook"
+12/20/2013 9:49:18 AM: 127.0.0.1: Serials: 0x4000001F; 
+12/20/2013 9:49:20 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'allspells '
+12/20/2013 9:49:21 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') filling spellbook 0x4000001F (Spellbook)
+12/20/2013 9:49:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add recallrune'
+12/20/2013 9:49:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (778, 1137, 0) in Felucca: "recallrune"
+12/20/2013 9:49:38 AM: 127.0.0.1: Serials: 0x40000020; 
+###################################
+Logging started on 12/20/2013 9:53:14 AM
+
+12/20/2013 9:54:18 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add abb'
+12/20/2013 9:54:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (777, 1139, 0) in Felucca: "AbbatoirAddon"
+12/20/2013 9:54:22 AM: 127.0.0.1: Serials: 0x40000013; 
+12/20/2013 9:54:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune'
+12/20/2013 9:54:28 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune"
+12/20/2013 9:54:28 AM: 127.0.0.1: Serials: 0x4000001F; 
+12/20/2013 9:54:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'addtopack recallrune'
+12/20/2013 9:54:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, 5) in Felucca: "recallrune"
+12/20/2013 9:54:31 AM: 127.0.0.1: Serials: 0x40000020; 
+12/20/2013 9:54:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'save '
+12/20/2013 9:55:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add addon'
+12/20/2013 9:55:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (780, 1136, 0) in Felucca: "AbbatoirAddon"
+12/20/2013 9:55:32 AM: 127.0.0.1: Serials: 0x40000021; 

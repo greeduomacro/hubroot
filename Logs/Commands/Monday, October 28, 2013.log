@@ -1,0 +1,228 @@
+﻿###################################
+Logging started on 10/28/2013 11:16:48 PM
+
+###################################
+Logging started on 10/28/2013 11:18:24 PM
+
+10/28/2013 11:18:51 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add locksmith'
+10/28/2013 11:18:54 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5805, 223, 21) in Backtrol: "LocksmithTools"
+10/28/2013 11:18:54 PM: 127.0.0.1: Serials: 0x40000006; 
+10/28/2013 11:19:03 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add backpack'
+10/28/2013 11:19:04 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5806, 223, 21) in Backtrol: "backpack"
+10/28/2013 11:19:04 PM: 127.0.0.1: Serials: 0x40000007; 
+10/28/2013 11:19:18 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'adddoor '
+10/28/2013 11:19:21 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'Add MetalDoor2 EastCCW'
+10/28/2013 11:19:23 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5825, 215, 20) in Backtrol: "MetalDoor2" "EastCCW"
+10/28/2013 11:19:23 PM: 127.0.0.1: Serials: 0x40000008; 
+10/28/2013 11:19:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 100'
+10/28/2013 11:19:39 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '100'
+10/28/2013 11:19:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add ingot 100'
+10/28/2013 11:19:53 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add tinkertool'
+10/28/2013 11:19:55 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5824, 216, 20) in Backtrol: "TinkerTools"
+10/28/2013 11:19:55 PM: 127.0.0.1: Serials: 0x40000009; 
+10/28/2013 11:20:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack ironingot 100'
+10/28/2013 11:20:15 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5824, 216, 20) in Backtrol: "ironingot" "100"
+10/28/2013 11:20:15 PM: 127.0.0.1: Serials: 0x4000000A; 
+10/28/2013 11:20:23 PM: 127.0.0.1: Crafting 0x4000000B (Gears) with craft system DefTinkering
+10/28/2013 11:20:35 PM: 127.0.0.1: Crafting 0x4000000C (Springs) with craft system DefTinkering
+10/28/2013 11:20:37 PM: 127.0.0.1: Crafting 0x4000000D (Gears) with craft system DefTinkering
+10/28/2013 11:20:39 PM: 127.0.0.1: Crafting 0x4000000E (Springs) with craft system DefTinkering
+10/28/2013 11:20:41 PM: 127.0.0.1: Crafting 0x4000000F (Springs) with craft system DefTinkering
+10/28/2013 11:20:42 PM: 127.0.0.1: Crafting 0x40000010 (Springs) with craft system DefTinkering
+10/28/2013 11:20:45 PM: 127.0.0.1: Crafting 0x40000011 (Hinge) with craft system DefTinkering
+10/28/2013 11:20:48 PM: 127.0.0.1: Crafting 0x40000012 (Hinge) with craft system DefTinkering
+10/28/2013 11:20:50 PM: 127.0.0.1: Crafting 0x40000013 (Hinge) with craft system DefTinkering
+10/28/2013 11:21:02 PM: 127.0.0.1: Crafting 0x40000014 (Gears) with craft system DefTinkering
+10/28/2013 11:21:04 PM: 127.0.0.1: Crafting 0x40000015 (Gears) with craft system DefTinkering
+10/28/2013 11:21:06 PM: 127.0.0.1: Crafting 0x40000016 (Gears) with craft system DefTinkering
+10/28/2013 11:21:08 PM: 127.0.0.1: Crafting 0x40000017 (Gears) with craft system DefTinkering
+10/28/2013 11:21:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/28/2013 11:22:18 PM: 127.0.0.1: Crafting 0x4000001C (Gears) with craft system DefTinkering
+10/28/2013 11:22:20 PM: 127.0.0.1: Crafting 0x4000001D (Gears) with craft system DefTinkering
+10/28/2013 11:22:21 PM: 127.0.0.1: Crafting 0x4000001E (Gears) with craft system DefTinkering
+10/28/2013 11:22:24 PM: 127.0.0.1: Crafting 0x4000001F (Gears) with craft system DefTinkering
+10/28/2013 11:23:14 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:23:30 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:23:34 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add lockpick 100'
+10/28/2013 11:23:35 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5825, 217, 21) in Backtrol: "lockpick" "100"
+10/28/2013 11:23:35 PM: 127.0.0.1: Serials: 0x40000020; 
+10/28/2013 11:24:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add arrow 100'
+10/28/2013 11:24:47 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5825, 216, 20) in Backtrol: "arrow" "100"
+10/28/2013 11:24:47 PM: 127.0.0.1: Serials: 0x40000024; 
+10/28/2013 11:24:53 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set amount 100'
+10/28/2013 11:24:55 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'amount' of 0x4000000B (Gears) to '100'
+10/28/2013 11:24:55 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set amount 100'
+10/28/2013 11:24:56 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'amount' of 0x40000011 (Hinge) to '100'
+10/28/2013 11:24:57 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set amount 100'
+10/28/2013 11:24:59 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'amount' of 0x4000000C (Springs) to '100'
+10/28/2013 11:25:22 PM: 127.0.0.1: Crafting 0x40000025 (DoorArrowTrapInstaller) with craft system DefTinkering
+10/28/2013 11:26:20 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/28/2013 11:26:40 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set rawstr 200'
+10/28/2013 11:26:41 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'rawstr' of 0x1A "Egam" ('Enroq') to '200'
+10/28/2013 11:26:43 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 10/28/2013 11:33:54 PM
+
+10/28/2013 11:36:47 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/28/2013 11:38:37 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'adddoor '
+10/28/2013 11:38:41 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'Add StrongWoodDoor EastCCW'
+10/28/2013 11:38:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5827, 216, 20) in Backtrol: "StrongWoodDoor" "EastCCW"
+10/28/2013 11:38:42 PM: 127.0.0.1: Serials: 0x40000009; 
+10/28/2013 11:38:46 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add backpack'
+10/28/2013 11:38:47 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5826, 218, 21) in Backtrol: "backpack"
+10/28/2013 11:38:47 PM: 127.0.0.1: Serials: 0x4000000A; 
+10/28/2013 11:40:31 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add lock'
+10/28/2013 11:40:36 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5825, 219, 20) in Backtrol: "LocksmithTools"
+10/28/2013 11:40:36 PM: 127.0.0.1: Serials: 0x4000000B; 
+10/28/2013 11:40:59 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/28/2013 11:43:19 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/28/2013 11:43:20 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x40000009 (StrongWoodDoor)
+10/28/2013 11:46:25 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'tele '
+10/28/2013 11:46:30 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'tele '
+10/28/2013 11:50:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/28/2013 11:50:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'adddoor '
+10/28/2013 11:50:42 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'Add StrongWoodDoor EastCCW'
+10/28/2013 11:50:43 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 220, 23) in Backtrol: "StrongWoodDoor" "EastCCW"
+10/28/2013 11:50:43 PM: 127.0.0.1: Serials: 0x4000000C; 
+10/28/2013 11:50:47 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add townhous'
+10/28/2013 11:50:49 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5852, 221, 19) in Backtrol: "TownHouseSign"
+10/28/2013 11:50:49 PM: 127.0.0.1: Serials: 0x4000000D; 
+10/28/2013 11:50:58 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'flip '
+10/28/2013 11:51:01 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm inc z 1'
+10/28/2013 11:53:04 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/28/2013 11:53:08 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm inc z 1'
+10/28/2013 11:53:17 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/28/2013 11:54:01 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:54:11 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:54:12 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add copper 2000'
+10/28/2013 11:54:13 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5853, 223, 20) in Backtrol: "copper" "2000"
+10/28/2013 11:54:13 PM: 127.0.0.1: Serials: 0x400000E2; 
+10/28/2013 11:54:16 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:54:21 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:54:25 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'bank '
+10/28/2013 11:54:26 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') opening bank box of 0x1A "Egam" ('Enroq')
+10/28/2013 11:54:33 PM: 127.0.0.1: Player 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:55:49 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'calt '
+10/28/2013 11:55:50 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/28/2013 11:59:07 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack gear'
+10/28/2013 11:59:09 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack gear 100'
+10/28/2013 11:59:11 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "gear" "100"
+10/28/2013 11:59:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack gears 100'
+10/28/2013 11:59:14 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "gears" "100"
+10/28/2013 11:59:14 PM: 127.0.0.1: Serials: 0x400000E7; 
+10/28/2013 11:59:26 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack spring 100'
+10/28/2013 11:59:27 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "spring" "100"
+10/28/2013 11:59:31 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack springs 100'
+10/28/2013 11:59:32 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "springs" "100"
+10/28/2013 11:59:32 PM: 127.0.0.1: Serials: 0x400000E8; 
+10/28/2013 11:59:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack ingot 100'
+10/28/2013 11:59:39 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "ingot" "100"
+10/28/2013 11:59:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack ironingot 100'
+10/28/2013 11:59:45 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "ironingot" "100"
+10/28/2013 11:59:45 PM: 127.0.0.1: Serials: 0x400000E9; 
+10/28/2013 11:59:52 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack hinges'
+10/28/2013 11:59:53 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "hinges"
+10/28/2013 11:59:54 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack hinge'
+10/28/2013 11:59:55 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "hinge"
+10/28/2013 11:59:55 PM: 127.0.0.1: Serials: 0x400000EA; 
+10/28/2013 11:59:57 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'addtopack hinge 100'
+10/28/2013 11:59:57 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "hinge" "100"
+10/28/2013 11:59:57 PM: 127.0.0.1: Serials: 0x400000EB; 
+10/29/2013 12:01:00 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 200'
+10/29/2013 12:01:02 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '200'
+10/29/2013 12:01:27 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 12:01:30 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 12:01:50 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 100'
+10/29/2013 12:01:51 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '100'
+10/29/2013 12:02:49 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add tink'
+10/29/2013 12:02:51 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5853, 222, 19) in Backtrol: "TinkerTools"
+10/29/2013 12:02:51 AM: 127.0.0.1: Serials: 0x400000ED; 
+10/29/2013 12:02:54 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 222, 19) in Backtrol: "TinkersTools"
+10/29/2013 12:02:54 AM: 127.0.0.1: Serials: 0x400000EE; 
+10/29/2013 12:09:43 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add house'
+10/29/2013 12:09:48 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5903, 256, 20) in Backtrol: "FieldStoneHouseDeed"
+10/29/2013 12:09:48 AM: 127.0.0.1: Serials: 0x400000EF; 
+10/29/2013 12:09:57 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5904, 255, 20) in Backtrol: "HousePlacementTool"
+10/29/2013 12:09:57 AM: 127.0.0.1: Serials: 0x400000F0; 
+10/29/2013 12:10:21 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 12:11:38 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 12:12:22 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+10/29/2013 12:12:23 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x400000FD (HouseSign)
+10/29/2013 12:15:12 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'inc z 1'
+10/29/2013 12:16:12 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add arrow 100'
+10/29/2013 12:16:13 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 225, 20) in Backtrol: "arrow" "100"
+10/29/2013 12:16:13 AM: 127.0.0.1: Serials: 0x400000FE; 
+10/29/2013 12:16:31 AM: 127.0.0.1: Crafting 0x400000FF (DoorArrowTrapInstaller) with craft system DefTinkering
+10/29/2013 12:16:40 AM: 127.0.0.1: Crafting 0x40000100 (DoorArrowTrapInstaller) with craft system DefTinkering
+10/29/2013 12:16:51 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 12:17:22 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add lockpick'
+10/29/2013 12:17:23 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5854, 221, 21) in Backtrol: "lockpick"
+10/29/2013 12:17:23 AM: 127.0.0.1: Serials: 0x40000101; 
+10/29/2013 12:17:29 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'set amount 100'
+10/29/2013 12:17:30 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'amount' of 0x40000101 (Lockpick) to '100'
+10/29/2013 12:17:45 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 100'
+10/29/2013 12:17:50 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 200'
+10/29/2013 12:17:52 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '200'
+10/29/2013 12:24:02 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm tele'
+10/29/2013 12:24:57 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 180'
+10/29/2013 12:24:59 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '180'
+10/29/2013 12:26:21 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 190'
+10/29/2013 12:26:22 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '190'
+10/29/2013 12:29:22 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'setallskills 200'
+10/29/2013 12:29:23 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'EverySkill.Base' of 0x1A "Egam" ('Enroq') to '200'
+10/29/2013 12:57:37 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'm delete'
+10/29/2013 12:57:38 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x91 "Gracie" (no account)
+10/29/2013 12:57:39 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x92 "Castalia" (no account)
+10/29/2013 12:57:40 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0xF "Briellis" (no account)
+10/29/2013 1:00:58 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'who '
+10/29/2013 1:02:32 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:38 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:40 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:42 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:44 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:46 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:48 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:49 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:52 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:54 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:56 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:57 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:02:59 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:03:00 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:03:22 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:03:25 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:03:30 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:03:38 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:03:39 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:03:45 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:03:50 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:03:54 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:04:00 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:04:03 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:04:07 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:04:14 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:04:16 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'jump '
+10/29/2013 1:06:21 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add disguise'
+10/29/2013 1:06:23 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5909, 210, 45) in Backtrol: "DisguiseKit"
+10/29/2013 1:06:23 AM: 127.0.0.1: Serials: 0x40000109; 
+10/29/2013 1:06:33 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'props '
+10/29/2013 1:06:44 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') set property 'NpcGuild' of 0x1A "Egam" ('Enroq') to 'ThievesGuild'
+10/29/2013 1:10:33 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add crystalball'
+10/29/2013 1:10:35 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (6038, 254, 45) in Backtrol: "crystalball"
+10/29/2013 1:10:35 AM: 127.0.0.1: Serials: 0x4000010D; 
+10/29/2013 1:10:43 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add ball'
+10/29/2013 1:12:00 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add magic'
+10/29/2013 1:12:05 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5956, 200, 45) in Backtrol: "MagicalShortbow"
+10/29/2013 1:12:05 AM: 127.0.0.1: Serials: 0x4000010E; 
+10/29/2013 1:12:11 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5956, 202, 46) in Backtrol: "MagicWand"
+10/29/2013 1:12:11 AM: 127.0.0.1: Serials: 0x4000010F; 
+10/29/2013 1:12:17 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'props '
+10/29/2013 1:15:00 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add throw'
+10/29/2013 1:15:02 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5889, 212, 45) in Backtrol: "ThrowingDagger"
+10/29/2013 1:15:02 AM: 127.0.0.1: Serials: 0x40000122; 
+10/29/2013 1:15:22 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'props '
+10/29/2013 1:15:57 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add poison'
+10/29/2013 1:16:01 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'props '
+10/29/2013 1:18:42 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add dagger'
+10/29/2013 1:18:44 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5907, 245, 21) in Backtrol: "dagger"
+10/29/2013 1:18:44 AM: 127.0.0.1: Serials: 0x40000158; 

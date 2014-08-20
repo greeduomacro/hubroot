@@ -1,0 +1,120 @@
+﻿###################################
+Logging started on 5/14/2014 8:51:12 PM
+
+5/14/2014 8:56:44 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetad'
+5/14/2014 8:56:48 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/14/2014 8:56:51 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (371, 3410, 10) in Backtrol: "SmallRedCarpetRoll"
+5/14/2014 8:56:51 PM: 127.0.0.1: Serials: 0x40000016; 
+5/14/2014 8:57:04 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'tele '
+5/14/2014 8:57:07 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'tele '
+5/14/2014 8:57:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'tele '
+###################################
+Logging started on 5/14/2014 8:58:46 PM
+
+5/14/2014 8:58:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetrol'
+5/14/2014 8:59:00 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3424, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/14/2014 8:59:00 PM: 127.0.0.1: Serials: 0x40000016; 
+5/14/2014 8:59:37 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+###################################
+Logging started on 5/14/2014 10:10:38 PM
+
+5/14/2014 10:16:01 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'm tele'
+5/14/2014 10:16:07 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 10:16:08 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (446, 3421, 10) in Backtrol: "lich"
+5/14/2014 10:16:08 PM: 127.0.0.1: Serials: 0xB; 
+5/14/2014 10:16:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/14/2014 10:16:12 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (446, 3421, 10) in Backtrol: "guard" "swordsman"
+5/14/2014 10:16:12 PM: 127.0.0.1: Serials: 0xC; 
+5/14/2014 10:37:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 10:37:53 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3423, 10) in Backtrol: "lich"
+5/14/2014 10:37:53 PM: 127.0.0.1: Serials: 0xD; 
+5/14/2014 10:37:58 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/14/2014 10:37:58 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3423, 10) in Backtrol: "guard" "swordsman"
+5/14/2014 10:37:58 PM: 127.0.0.1: Serials: 0xE; 
+5/14/2014 10:38:01 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 10:38:26 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 10:38:27 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 10:39:20 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 10:39:22 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 10:39:23 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (446, 3413, 10) in Backtrol: "lich"
+5/14/2014 10:39:23 PM: 127.0.0.1: Serials: 0xF; 
+5/14/2014 10:39:36 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/14/2014 10:39:42 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/14/2014 10:39:58 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/14/2014 10:40:07 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get fightmode'
+5/14/2014 10:40:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get fightmode'
+5/14/2014 10:40:19 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+###################################
+Logging started on 5/14/2014 10:43:17 PM
+
+5/14/2014 10:53:32 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 10:53:35 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 10:53:36 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (452, 3414, 10) in Backtrol: "lich"
+5/14/2014 10:53:36 PM: 127.0.0.1: Serials: 0xB; 
+5/14/2014 10:53:38 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard'
+5/14/2014 10:53:41 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/14/2014 10:53:42 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (450, 3415, 10) in Backtrol: "guard" "swordsman"
+5/14/2014 10:53:42 PM: 127.0.0.1: Serials: 0xD; 
+5/14/2014 10:54:04 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+###################################
+Logging started on 5/14/2014 10:57:00 PM
+
+5/14/2014 11:00:25 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:00:26 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:00:27 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (444, 3406, 10) in Backtrol: "lich"
+5/14/2014 11:00:27 PM: 127.0.0.1: Serials: 0xB; 
+5/14/2014 11:00:46 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:00:48 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3406, 10) in Backtrol: "lich"
+5/14/2014 11:00:48 PM: 127.0.0.1: Serials: 0xD; 
+5/14/2014 11:00:51 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+###################################
+Logging started on 5/14/2014 11:07:10 PM
+
+5/14/2014 11:07:59 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:08:00 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:08:02 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (443, 3411, 10) in Backtrol: "lich"
+5/14/2014 11:08:03 PM: 127.0.0.1: Serials: 0xB; 
+###################################
+Logging started on 5/14/2014 11:10:20 PM
+
+5/14/2014 11:10:49 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:10:51 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:10:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (449, 3414, 10) in Backtrol: "lich"
+5/14/2014 11:10:52 PM: 127.0.0.1: Serials: 0xB; 
+5/14/2014 11:11:21 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:11:22 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+###################################
+Logging started on 5/14/2014 11:13:26 PM
+
+###################################
+Logging started on 5/14/2014 11:41:24 PM
+
+5/14/2014 11:45:58 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:46:00 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:46:01 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3411, 10) in Backtrol: "lich"
+5/14/2014 11:46:01 PM: 127.0.0.1: Serials: 0xB; 
+5/14/2014 11:46:08 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+5/14/2014 11:46:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:46:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (448, 3415, 10) in Backtrol: "lich"
+5/14/2014 11:46:16 PM: 127.0.0.1: Serials: 0xD; 
+5/14/2014 11:46:18 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:46:55 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:46:56 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:46:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (443, 3416, 10) in Backtrol: "lich"
+5/14/2014 11:46:57 PM: 127.0.0.1: Serials: 0xF; 
+5/14/2014 11:47:09 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+###################################
+Logging started on 5/14/2014 11:50:13 PM
+
+5/14/2014 11:51:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/14/2014 11:51:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/14/2014 11:51:12 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3406, 10) in Backtrol: "lich"
+5/14/2014 11:51:12 PM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 12:18:55 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'lightlevel' of 0x6 "Tano" ('admin') to '99'
+5/15/2014 12:18:55 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self set lightlevel 99'
+5/15/2014 12:18:57 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 12:18:58 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (447, 3404, 10) in Backtrol: "lich"
+5/15/2014 12:18:58 AM: 127.0.0.1: Serials: 0xD; 
+5/15/2014 12:19:04 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add etherealwarrior'
+5/15/2014 12:19:05 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3406, 10) in Backtrol: "etherealwarrior"
+5/15/2014 12:19:05 AM: 127.0.0.1: Serials: 0xF; 

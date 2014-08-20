@@ -1,0 +1,101 @@
+﻿###################################
+Logging started on 7/30/2014 6:28:43 PM
+
+7/30/2014 6:31:10 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/30/2014 6:31:18 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get location'
+7/30/2014 6:31:35 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeX' of 0x4000000F (TownSigil) to '2756'
+7/30/2014 6:31:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeY' of 0x4000000F (TownSigil) to '3825'
+7/30/2014 6:31:43 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeZ' of 0x4000000F (TownSigil) to '20'
+7/30/2014 6:32:07 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'RegionName' of 0x4000000F (TownSigil) to 'the Isle of Kesn'abuir'
+7/30/2014 6:32:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+7/30/2014 6:32:30 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+7/30/2014 6:32:38 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+7/30/2014 6:32:39 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 6:32:43 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/30/2014 6:32:46 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 7/30/2014 6:39:59 PM
+
+7/30/2014 6:42:25 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/30/2014 6:46:20 PM
+
+###################################
+Logging started on 7/30/2014 6:49:09 PM
+
+7/30/2014 6:49:31 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+7/30/2014 6:49:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 6:49:38 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/30/2014 6:49:39 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3825, 20) in Backtrol: "townsigil"
+7/30/2014 6:49:39 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/30/2014 6:49:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/30/2014 6:53:18 PM
+
+7/30/2014 6:53:57 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/30/2014 6:53:58 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3825, 20) in Backtrol: "townsigil"
+7/30/2014 6:53:58 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/30/2014 6:54:00 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/30/2014 6:55:36 PM
+
+###################################
+Logging started on 7/30/2014 6:57:39 PM
+
+7/30/2014 6:59:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/30/2014 6:59:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3825, 20) in Backtrol: "townsigil"
+7/30/2014 6:59:33 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/30/2014 6:59:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/30/2014 7:06:27 PM
+
+7/30/2014 7:07:44 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/30/2014 7:07:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3825, 20) in Backtrol: "townsigil"
+7/30/2014 7:07:45 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/30/2014 7:07:47 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/30/2014 7:11:51 PM
+
+7/30/2014 7:12:19 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/30/2014 7:12:20 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3824, 20) in Backtrol: "townsigil"
+7/30/2014 7:12:20 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/30/2014 7:12:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get location'
+7/30/2014 7:12:26 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/30/2014 7:12:36 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeX' of 0x4000000F (TownSigil) to '2756'
+7/30/2014 7:12:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeY' of 0x4000000F (TownSigil) to '3824'
+7/30/2014 7:12:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'HomeZ' of 0x4000000F (TownSigil) to '20'
+7/30/2014 7:13:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'RegionName' of 0x4000000F (TownSigil) to 'the Isle of Kesn'abuir'
+7/30/2014 7:13:34 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+7/30/2014 7:13:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+7/30/2014 7:13:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+7/30/2014 7:14:17 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 7/30/2014 7:14:47 PM
+
+7/30/2014 7:15:28 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 7:15:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/30/2014 7:16:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add allianceobject 1802'
+7/30/2014 7:16:25 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3825, 20) in Backtrol: "allianceobject" "1802"
+7/30/2014 7:16:25 PM: 127.0.0.1: Serials: 0x40000010; 
+7/30/2014 7:16:28 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+7/30/2014 7:16:29 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x40000010 (AllianceObject)
+###################################
+Logging started on 7/30/2014 7:26:58 PM
+
+###################################
+Logging started on 7/30/2014 7:33:35 PM
+
+7/30/2014 7:34:08 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 7/30/2014 9:13:20 PM
+
+7/30/2014 9:29:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 9:33:54 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+7/30/2014 9:55:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+7/30/2014 9:55:46 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/30/2014 9:56:03 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'Priority' of 0x4000000F (TownSigil) to '257'
+7/30/2014 10:19:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 10:20:37 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+7/30/2014 10:26:36 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+7/30/2014 10:26:52 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/30/2014 10:53:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '

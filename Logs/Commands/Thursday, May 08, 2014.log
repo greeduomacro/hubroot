@@ -1,0 +1,30 @@
+﻿###################################
+Logging started on 5/8/2014 7:54:03 PM
+
+5/8/2014 7:55:54 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set creaturealignment evil'
+5/8/2014 7:55:55 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3392, 10) in Backtrol: "skeleton" "set" "creaturealignment" "evil"
+5/8/2014 7:55:55 PM: 127.0.0.1: Serials: 0xB; 
+5/8/2014 7:56:03 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '10000'
+5/8/2014 7:56:03 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 10000'
+5/8/2014 7:56:12 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'kill '
+5/8/2014 7:56:13 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0xB "a skeleton" (no account).
+###################################
+Logging started on 5/8/2014 7:57:59 PM
+
+5/8/2014 7:58:33 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add sekelton se'
+5/8/2014 7:59:02 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set creaturealignment evil'
+5/8/2014 7:59:03 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3399, 10) in Backtrol: "skeleton" "set" "creaturealignment" "evil"
+5/8/2014 7:59:03 PM: 127.0.0.1: Serials: 0xB; 
+5/8/2014 7:59:15 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set creaturealignment good'
+5/8/2014 7:59:16 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3398, 10) in Backtrol: "skeleton" "set" "creaturealignment" "good"
+5/8/2014 7:59:16 PM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 5/8/2014 8:13:42 PM
+
+5/8/2014 8:15:16 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add skeleton set creaturealignment evil'
+5/8/2014 8:15:16 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (361, 3392, 10) in Backtrol: "skeleton" "set" "creaturealignment" "evil"
+5/8/2014 8:15:17 PM: 127.0.0.1: Serials: 0xB; 
+5/8/2014 8:15:22 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '10000'
+5/8/2014 8:15:22 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 10000'
+5/8/2014 8:15:33 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'kill '
+5/8/2014 8:15:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0xB "a skeleton" (no account).

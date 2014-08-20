@@ -1,0 +1,55 @@
+﻿###################################
+Logging started on 12/27/2013 8:57:57 AM
+
+###################################
+Logging started on 12/27/2013 9:05:54 AM
+
+12/27/2013 9:07:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/27/2013 9:07:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/27/2013 9:07:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/27/2013 9:07:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'kill '
+12/27/2013 9:07:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') killed 0x7 "an ogre lord" (no account).
+12/27/2013 9:08:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 1'
+12/27/2013 9:08:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x1 "Test" ('Administrator') to '1'
+12/27/2013 9:08:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set stam 0'
+12/27/2013 9:08:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'stam' of 0x1 "Test" ('Administrator') to '0'
+12/27/2013 9:09:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/27/2013 9:09:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 404, -1) in Backtrol: "ogre"
+12/27/2013 9:09:21 AM: 127.0.0.1: Serials: 0x3; 
+12/27/2013 9:10:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/27/2013 9:28:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add recallrune'
+12/27/2013 9:28:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5679, 403, -2) in Backtrol: "recallrune"
+12/27/2013 9:28:44 AM: 127.0.0.1: Serials: 0x40000065; 
+###################################
+Logging started on 12/27/2013 9:34:55 AM
+
+12/27/2013 9:36:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'addtopack recallrune'
+12/27/2013 9:36:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 402, 0) in Backtrol: "recallrune"
+12/27/2013 9:36:32 AM: 127.0.0.1: Serials: 0x4000000F; 
+12/27/2013 9:36:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:37:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:38:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/27/2013 9:39:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/27/2013 9:39:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '

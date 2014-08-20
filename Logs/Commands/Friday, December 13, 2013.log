@@ -1,0 +1,175 @@
+﻿###################################
+Logging started on 12/13/2013 9:44:44 AM
+
+12/13/2013 9:45:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'eoc' of 0x2 "Eidenai" ('Administrator') to '1000000'
+12/13/2013 9:45:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self set eoc 1000000'
+12/13/2013 9:45:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+12/13/2013 9:46:11 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'setallskills 100'
+12/13/2013 9:46:12 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Administrator') to '100'
+12/13/2013 9:46:15 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add fullspellbook'
+12/13/2013 9:46:16 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (779, 1138, -30) in Ilshenar: "fullspellbook"
+12/13/2013 9:46:16 AM: 127.0.0.1: Serials: 0x40000013; 
+###################################
+Logging started on 12/13/2013 9:46:45 AM
+
+###################################
+Logging started on 12/13/2013 9:51:27 AM
+
+12/13/2013 9:51:46 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') set property 'eoc' of 0x1 "Egam" ('Administrator') to '10000000'
+12/13/2013 9:51:46 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'self set eoc 10000000'
+12/13/2013 9:51:48 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'self set'
+12/13/2013 9:51:55 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'setallskills 100'
+12/13/2013 9:51:56 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') set property 'EverySkill.Base' of 0x1 "Egam" ('Administrator') to '100'
+12/13/2013 9:52:00 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'add fullspellbook'
+12/13/2013 9:52:01 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') building at (779, 1138, -30) in Ilshenar: "fullspellbook"
+12/13/2013 9:52:01 AM: 127.0.0.1: Serials: 0x40000013; 
+12/13/2013 9:52:39 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'cov '
+12/13/2013 9:53:19 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'remove '
+12/13/2013 9:53:21 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') deleting 0x3 "a grey wolf" (no account)
+12/13/2013 9:53:22 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'remove '
+12/13/2013 9:53:22 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') deleting 0x2 "a polar bear" (no account)
+12/13/2013 9:53:49 AM: 127.0.0.1: Administrator 0x1 "Egam" ('Administrator') used command 'props '
+###################################
+Logging started on 12/13/2013 9:56:42 AM
+
+12/13/2013 9:57:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 9:57:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 9:57:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 9:57:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 9:57:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/13/2013 9:57:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 403, 0) in Backtrol: "fullspellbook"
+12/13/2013 9:57:27 AM: 127.0.0.1: Serials: 0x4000000B; 
+12/13/2013 9:58:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/13/2013 9:59:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/13/2013 9:59:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a gorilla" (no account)
+12/13/2013 9:59:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x4 "an air elemental" (no account)
+12/13/2013 9:59:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "a grizzly bear" (no account)
+###################################
+Logging started on 12/13/2013 10:05:32 AM
+
+12/13/2013 10:06:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 10:06:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:06:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100000'
+12/13/2013 10:06:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:06:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 10:06:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/13/2013 10:06:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 403, 1) in Backtrol: "fullspellbook"
+12/13/2013 10:06:25 AM: 127.0.0.1: Serials: 0x4000000B; 
+12/13/2013 10:06:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:06:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 10:07:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 10:07:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 10:08:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/13/2013 10:08:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a water elemental" (no account)
+12/13/2013 10:08:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "a water elemental" (no account)
+12/13/2013 10:09:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add deamon'
+12/13/2013 10:09:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add daemon'
+12/13/2013 10:09:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 403, 0) in Backtrol: "daemon"
+12/13/2013 10:09:25 AM: 127.0.0.1: Serials: 0x7; 
+12/13/2013 10:09:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 10:12:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/13/2013 10:12:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 392, 0) in Backtrol: "ancientlich"
+12/13/2013 10:12:50 AM: 127.0.0.1: Serials: 0x8; 
+###################################
+Logging started on 12/13/2013 10:17:08 AM
+
+12/13/2013 10:19:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 10:19:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:19:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 10:19:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/13/2013 10:19:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5682, 404, 0) in Backtrol: "fullspellbook"
+12/13/2013 10:19:30 AM: 127.0.0.1: Serials: 0x4000000B; 
+12/13/2013 10:19:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 10:20:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add daemon'
+12/13/2013 10:20:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "daemon"
+12/13/2013 10:20:16 AM: 127.0.0.1: Serials: 0x3; 
+12/13/2013 10:21:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add balron'
+12/13/2013 10:21:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 401, 1) in Backtrol: "balron"
+12/13/2013 10:21:12 AM: 127.0.0.1: Serials: 0x6; 
+###################################
+Logging started on 12/13/2013 10:33:41 AM
+
+12/13/2013 10:34:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 10:34:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:34:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 10:34:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/13/2013 10:34:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/13/2013 10:34:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 403, 0) in Backtrol: "fullspellbook"
+12/13/2013 10:34:23 AM: 127.0.0.1: Serials: 0x4000000B; 
+12/13/2013 10:34:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 120'
+12/13/2013 10:34:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '120'
+12/13/2013 10:35:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 10:35:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "an air elemental" (no account)
+12/13/2013 10:35:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/13/2013 10:43:48 AM
+
+12/13/2013 10:44:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 10:44:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 10:44:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 10:44:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/13/2013 10:57:52 AM
+
+12/13/2013 10:58:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 10:58:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 10:58:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/13/2013 10:58:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/13/2013 10:58:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/13/2013 11:00:15 AM
+
+12/13/2013 11:00:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 11:00:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/13/2013 11:00:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/13/2013 11:00:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/13/2013 12:40:09 PM
+
+12/13/2013 12:40:31 PM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'calt '
+12/13/2013 12:40:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'calt '
+12/13/2013 12:40:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set lightlevel 99'
+12/13/2013 12:40:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'lightlevel' of 0x1 "Test" ('Administrator') to '99'
+12/13/2013 12:40:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 12:40:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/13/2013 12:40:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 12:41:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/13/2013 12:41:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/13/2013 12:41:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/13/2013 12:41:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 12:41:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "Aiwaz" (no account)
+###################################
+Logging started on 12/13/2013 12:48:25 PM
+
+12/13/2013 12:48:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/13/2013 12:48:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/13/2013 12:48:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/13/2013 12:48:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 12:50:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/13/2013 12:50:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set lightlevel 100'
+12/13/2013 12:50:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'lightlevel' of 0x1 "Test" ('Administrator') to '100'
+12/13/2013 12:51:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 12:51:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x6 "an air elemental" (no account)
+12/13/2013 12:51:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/13/2013 12:51:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x5 "an air elemental" (no account)
+12/13/2013 12:51:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a giant serpent" (no account)
+12/13/2013 12:51:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x4 "an air elemental" (no account)
+12/13/2013 12:51:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "an air elemental" (no account)
+12/13/2013 12:52:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/13/2013 12:52:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 12:52:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x8 "Segal" (no account)
+12/13/2013 12:52:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/13/2013 12:52:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xA "Mephistopheles" (no account)
+12/13/2013 12:53:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add balron'
+12/13/2013 12:53:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 392, 0) in Backtrol: "balron"
+12/13/2013 12:53:19 PM: 127.0.0.1: Serials: 0xC; 
+12/13/2013 12:54:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 12:54:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/13/2013 12:55:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add summonea'
+12/13/2013 12:55:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (780, 1138, -30) in Ilshenar: "SummonEarthElementalScroll"
+12/13/2013 12:55:36 PM: 127.0.0.1: Serials: 0x4000002F; 
+12/13/2013 12:55:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set amount 100'
+12/13/2013 12:55:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'amount' of 0x4000002F (SummonEarthElementalScroll) to '100'
+12/13/2013 12:56:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add daemon'
+12/13/2013 12:56:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (777, 1138, -30) in Ilshenar: "daemon"
+12/13/2013 12:56:17 PM: 127.0.0.1: Serials: 0x12; 

@@ -1,0 +1,9 @@
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\obj\x86\Debug\Script Library.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\Scripts.CS.dll
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\Scripts.CS.pdb
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\Server.debug.exe
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\System.Data.SQLite.dll
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\System.Data.SQLite.Linq.dll
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\Output\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\obj\x86\Debug\Scripts.CS.dll
+C:\Users\Adminstrator\Desktop\uoa_root\Scripts\obj\x86\Debug\Scripts.CS.pdb

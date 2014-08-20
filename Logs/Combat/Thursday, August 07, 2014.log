@@ -1,0 +1,52 @@
+﻿###################################
+Logging started on 8/7/2014 12:11:23 AM
+
+###################################
+Logging started on 8/7/2014 12:20:24 AM
+
+###################################
+Logging started on 8/7/2014 12:43:46 AM
+
+###################################
+Logging started on 8/7/2014 12:50:19 AM
+
+###################################
+Logging started on 8/7/2014 12:54:00 AM
+
+###################################
+Logging started on 8/7/2014 1:01:44 AM
+
+###################################
+Logging started on 8/7/2014 1:08:10 AM
+
+###################################
+Logging started on 8/7/2014 1:36:50 AM
+
+###################################
+Logging started on 8/7/2014 6:50:37 PM
+
+###################################
+Logging started on 8/7/2014 7:24:07 PM
+
+8/7/2014 7:27:29 PM: 127.0.0.1: 0x1 "test" ('admin'): initiated aggressive action against 0x2 "testinm" ('test')
+8/7/2014 7:28:06 PM: 127.0.0.1: 0x2 "testinm" ('test'): was killed by 0x1 "test" ('admin')
+8/7/2014 7:34:08 PM: 127.0.0.1: 0x1 "test" ('admin'): initiated aggressive action against 0x2 "testinm" ('test')
+8/7/2014 7:34:09 PM: 127.0.0.1: 0x2 "testinm" ('test'): was killed by 0x1 "test" ('admin')
+###################################
+Logging started on 8/7/2014 7:54:58 PM
+
+###################################
+Logging started on 8/7/2014 10:06:19 PM
+
+###################################
+Logging started on 8/7/2014 10:46:37 PM
+
+###################################
+Logging started on 8/7/2014 10:52:38 PM
+
+###################################
+Logging started on 8/7/2014 10:54:25 PM
+
+###################################
+Logging started on 8/7/2014 11:00:43 PM
+

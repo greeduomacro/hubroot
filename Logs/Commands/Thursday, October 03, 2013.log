@@ -1,0 +1,181 @@
+﻿###################################
+Logging started on 10/3/2013 3:57:28 PM
+
+10/3/2013 3:58:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/3/2013 3:58:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'allspells '
+10/3/2013 3:58:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') filling spellbook 0x4000055E (Spellbook)
+10/3/2013 3:58:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 100'
+10/3/2013 3:58:44 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '100'
+10/3/2013 3:58:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set rawstr 100 rawdex 100 rawint 100'
+10/3/2013 3:58:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawstr' of 0x20 "Enroq" ('Enroq') to '100'
+10/3/2013 3:58:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawdex' of 0x20 "Enroq" ('Enroq') to '100'
+10/3/2013 3:58:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawint' of 0x20 "Enroq" ('Enroq') to '100'
+10/3/2013 3:58:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'heal '
+10/3/2013 3:59:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/3/2013 3:59:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Energy' of ... to '800'
+###################################
+Logging started on 10/3/2013 4:09:39 PM
+
+10/3/2013 4:26:01 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/3/2013 4:26:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Physical' of ... to '100'
+###################################
+Logging started on 10/3/2013 4:39:48 PM
+
+###################################
+Logging started on 10/3/2013 5:04:25 PM
+
+###################################
+Logging started on 10/3/2013 5:08:15 PM
+
+###################################
+Logging started on 10/3/2013 5:14:46 PM
+
+###################################
+Logging started on 10/3/2013 5:18:14 PM
+
+10/3/2013 5:29:48 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:29:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:29:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/3/2013 5:30:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'Poison' of ... to '400'
+10/3/2013 5:30:04 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:32:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:32:49 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 5:33:21 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:33:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:33:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set rawstr 200 rawdex 200 rawint 200'
+10/3/2013 5:33:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawstr' of 0x20 "Enroq" ('Enroq') to '200'
+10/3/2013 5:33:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawdex' of 0x20 "Enroq" ('Enroq') to '200'
+10/3/2013 5:33:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawint' of 0x20 "Enroq" ('Enroq') to '200'
+10/3/2013 5:33:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'heal '
+10/3/2013 5:33:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 100'
+10/3/2013 5:33:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '100'
+10/3/2013 5:35:16 PM: 127.0.0.1: Crafting 0x40001004 (PlateChest) with craft system DefBlacksmithy
+10/3/2013 5:39:12 PM: 127.0.0.1: Crafting 0x40001020 (Katana) with craft system DefBlacksmithy
+10/3/2013 5:39:18 PM: 127.0.0.1: Crafting 0x40001021 (Katana) with craft system DefBlacksmithy
+10/3/2013 5:39:25 PM: 127.0.0.1: Crafting 0x40001022 (Katana) with craft system DefBlacksmithy
+10/3/2013 5:44:01 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+10/3/2013 5:45:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') added to XmlSpawner 0x400008B6 'Spawner' [5677, 341] (Backtrol) : FletcherTools
+10/3/2013 5:48:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'global interface where xmlspawner'
+10/3/2013 5:48:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073780264'
+10/3/2013 5:49:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073743896'
+10/3/2013 5:52:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745826'
+10/3/2013 5:52:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745826'
+10/3/2013 5:52:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745826'
+10/3/2013 5:52:30 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745825'
+10/3/2013 5:52:33 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073750788'
+10/3/2013 5:52:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073743971'
+10/3/2013 5:53:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'move '
+10/3/2013 5:54:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') moving 0x40000446 (AddonComponent) to (5713, 310, 40)
+10/3/2013 5:54:02 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:54:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'calt '
+10/3/2013 5:54:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'move '
+10/3/2013 5:54:08 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') moving 0x40000455 (AddonComponent) to (5711, 300, 25)
+10/3/2013 5:54:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'move '
+10/3/2013 5:54:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') moving 0x40000456 (AddonComponent) to (5713, 301, 40)
+10/3/2013 5:54:12 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'move '
+10/3/2013 5:54:13 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') moving 0x40000454 (AddonComponent) to (5713, 301, 40)
+10/3/2013 5:54:14 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'move '
+10/3/2013 5:54:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') moving 0x40000462 (AddonComponent) to (5713, 293, 40)
+10/3/2013 5:54:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm inc z 1'
+10/3/2013 5:54:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm inc z -1'
+10/3/2013 5:54:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 5:54:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400049C0 (XmlSpawner)
+10/3/2013 5:55:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm delete'
+10/3/2013 5:55:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400020BA (XmlSpawner)
+10/3/2013 5:55:22 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40002304 (XmlSpawner)
+10/3/2013 5:55:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm delete'
+10/3/2013 5:55:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000ACE (XmlSpawner)
+10/3/2013 5:55:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000B02 (XmlSpawner)
+10/3/2013 5:55:47 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 6:09:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:09:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000BDF (CopperIngot)
+10/3/2013 6:09:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:09:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000BD6 (BronzeIngot)
+10/3/2013 6:09:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 6:11:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area kill'
+10/3/2013 6:11:42 PM: 127.0.0.1: The process is complete. 69 mobiles have been killed (0.1 seconds).
+10/3/2013 6:11:44 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area kill'
+10/3/2013 6:11:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xAC "a lich lord" (no account).
+10/3/2013 6:11:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x3B "a lich" (no account).
+10/3/2013 6:11:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0xA1 "a zombie" (no account).
+10/3/2013 6:11:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x38 "a zombie" (no account).
+10/3/2013 6:11:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 4 mobiles.
+###################################
+Logging started on 10/3/2013 6:34:47 PM
+
+10/3/2013 6:35:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'gthome '
+10/3/2013 6:35:28 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'gthome '
+10/3/2013 6:45:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:48 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:49 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:50 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:45:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'status '
+10/3/2013 6:54:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 6:55:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:12 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000679 (XmlSpawner)
+10/3/2013 6:55:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400049C0 (XmlSpawner)
+10/3/2013 6:55:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000060D (XmlSpawner)
+10/3/2013 6:55:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000B02 (XmlSpawner)
+10/3/2013 6:55:44 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000ACE (XmlSpawner)
+10/3/2013 6:55:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x400020BA (XmlSpawner)
+10/3/2013 6:55:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:55:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40002304 (XmlSpawner)
+10/3/2013 6:56:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 6:57:16 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'region interface where xmlspawner'
+10/3/2013 6:57:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'help '
+10/3/2013 6:57:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'area interface where xmlspawner'
+10/3/2013 6:58:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'self inc x -100 y -100'
+10/3/2013 6:58:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'self inc x 200 y 200'
+10/3/2013 6:58:16 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073752450'
+10/3/2013 6:58:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:58:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40002982 (XmlSpawner)
+10/3/2013 6:58:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745825'
+10/3/2013 6:58:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745824'
+10/3/2013 6:58:35 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745826'
+10/3/2013 6:58:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745827'
+10/3/2013 6:58:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745966'
+10/3/2013 6:58:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 6:58:56 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000102E (XmlSpawner)
+10/3/2013 6:58:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073746602'
+10/3/2013 6:59:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'Go 1073745963'
+10/3/2013 6:59:21 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'SpawnRange' of 0x4000102B (XmlSpawner) to '100'
+10/3/2013 6:59:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'save '
+###################################
+Logging started on 10/3/2013 7:21:33 PM
+
+###################################
+Logging started on 10/3/2013 8:02:14 PM
+
+10/3/2013 8:06:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'go '
+10/3/2013 8:07:09 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add region'
+10/3/2013 8:07:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add regio'
+10/3/2013 8:07:53 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1574, 715, 5) in Backtrol: "RegionControl"
+10/3/2013 8:07:53 PM: 127.0.0.1: Serials: 0x40000F79; 
+10/3/2013 8:07:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 8:08:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000F79 (RegionControl)
+10/3/2013 8:08:28 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 8:08:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000BDF (CopperIngot)
+10/3/2013 8:08:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 8:08:33 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000BD6 (BronzeIngot)
+10/3/2013 8:23:33 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 8:23:44 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 8:23:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000057C (Forge)
+10/3/2013 8:23:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+10/3/2013 8:23:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x4000056A (Anvil)
+10/3/2013 8:23:47 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'm tele'
+10/3/2013 8:24:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 120'
+10/3/2013 8:24:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '120'
+10/3/2013 8:24:21 PM: 127.0.0.1: Crafting 0x40000FCF (PlateLegs) with craft system DefBlacksmithy
+10/3/2013 8:24:51 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'setallskills 0'
+10/3/2013 8:24:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'EverySkill.Base' of 0x20 "Enroq" ('Enroq') to '0'
+10/3/2013 8:26:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'tele '
+10/3/2013 8:26:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'tele '
+10/3/2013 8:27:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'tele '

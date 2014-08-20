@@ -1,0 +1,61 @@
+﻿###################################
+Logging started on 4/21/2014 6:58:14 PM
+
+4/21/2014 6:58:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add racescroll'
+4/21/2014 6:58:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 6:58:22 PM: 127.0.0.1: Serials: 0x4000000F; 
+4/21/2014 6:58:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable false'
+4/21/2014 6:58:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/21/2014 6:58:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 6:58:32 PM: 127.0.0.1: Serials: 0x40000010; 
+4/21/2014 6:58:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'eoc' of 0x1 "Test" ('admin') to '250000'
+4/21/2014 6:58:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set eoc 250000'
+4/21/2014 6:58:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add ogre'
+4/21/2014 6:58:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 639, -14) in Ilshenar: "ogre"
+4/21/2014 6:58:54 PM: 127.0.0.1: Serials: 0x3; 
+###################################
+Logging started on 4/21/2014 8:29:11 PM
+
+4/21/2014 8:32:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/21/2014 8:32:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 8:32:03 PM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 4/21/2014 8:39:04 PM
+
+4/21/2014 8:39:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/21/2014 8:39:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 8:39:23 PM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 4/21/2014 8:42:01 PM
+
+4/21/2014 8:42:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/21/2014 8:42:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 8:42:12 PM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 4/21/2014 8:49:59 PM
+
+4/21/2014 8:50:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/21/2014 8:50:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 639, -15) in Ilshenar: "racescroll"
+4/21/2014 8:50:35 PM: 127.0.0.1: Serials: 0x4000000F; 
+4/21/2014 8:50:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+###################################
+Logging started on 4/21/2014 8:52:55 PM
+
+###################################
+Logging started on 4/21/2014 8:54:22 PM
+
+###################################
+Logging started on 4/21/2014 8:57:08 PM
+
+###################################
+Logging started on 4/21/2014 8:59:50 PM
+
+###################################
+Logging started on 4/21/2014 9:04:01 PM
+
+###################################
+Logging started on 4/21/2014 9:05:57 PM
+
+###################################
+Logging started on 4/21/2014 9:17:15 PM
+

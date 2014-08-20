@@ -1,0 +1,127 @@
+﻿11/23/2013 9:43:25 PM: 127.0.0.1: 0x1 "Test" ('Admin'): [heal\
+11/23/2013 9:43:28 PM: 127.0.0.1: 0x1 "Test" ('Admin'): [heal
+11/23/2013 9:44:07 PM: 127.0.0.1: 0x1 "Test" ('Admin'): [addtopack arrow 100
+11/23/2013 9:44:10 PM: 127.0.0.1: 0x1 "Test" ('Admin'): [heal
+11/23/2013 9:47:06 PM: 127.0.0.1: 0x1 "Test" ('Admin'): [heal
+11/27/2013 2:18:41 AM: 127.0.0.1: 0x3 "Test" ('Admin'): [add stat
+12/8/2013 12:43:56 AM: 127.0.0.1: 0x1 "Test" ('Admin'): [props
+12/8/2013 12:43:58 AM: 127.0.0.1: 0x1 "Test" ('Admin'): [props
+4/19/2014 3:28:45 PM: 127.0.0.1: 0x4 "test" ('admin'): [addtopack ironingot 10
+4/19/2014 3:29:39 PM: 127.0.0.1: 0x4 "test" ('admin'): [heal
+4/19/2014 6:29:38 PM: 127.0.0.1: 0x4 "test" ('admin'): [addtopack sulfurousash 100
+4/20/2014 11:37:49 AM: 127.0.0.1: 0x1 "Test" ('admin'): [heal
+4/20/2014 5:11:02 PM: 127.0.0.1: 0x1 "Test" ('admin'): [add ogre
+4/20/2014 11:24:19 PM: 127.0.0.1: 0x1 "Test" ('admin'): [set hits 200
+4/24/2014 3:58:22 PM: 127.0.0.1: 0x1 "Test" ('admin'): *Jump*
+4/24/2014 3:59:02 PM: 127.0.0.1: 0x1 "Test" ('admin'): [addtopack racescroll
+4/24/2014 4:10:21 PM: 127.0.0.1: 0x1 "Test" ('admin'): [remove
+4/26/2014 4:51:30 PM: 127.0.0.1: 0x1 "Test" ('admin'): [heal
+5/2/2014 12:29:50 AM: 127.0.0.1: 0x6 "Test" ('admin'): [m tele
+5/2/2014 12:29:53 AM: 127.0.0.1: 0x6 "Test" ('admin'): [tele
+5/6/2014 4:45:03 AM: 127.0.0.1: 0x6 "Test" ('admin'): [m delete
+5/7/2014 1:57:41 AM: 127.0.0.1: 0x6 "Test" ('admin'): [self get karma
+5/9/2014 10:10:25 PM: 127.0.0.1: 0x6 "Test" ('admin'): [remove
+5/9/2014 10:17:19 PM: 127.0.0.1: 0x6 "Test" ('admin'): [props
+5/9/2014 10:44:49 PM: 127.0.0.1: 0x6 "Test" ('admin'): [remove
+5/12/2014 2:18:59 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [bank
+5/12/2014 2:24:05 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [bank
+5/14/2014 10:39:18 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/14/2014 10:53:30 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/14/2014 11:00:23 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/14/2014 11:07:56 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [ad dlich
+5/14/2014 11:07:58 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/14/2014 11:46:54 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/14/2014 11:51:08 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/15/2014 12:45:07 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [self set lightlevel 99
+5/15/2014 1:08:22 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [self set lightlevel 99
+5/15/2014 1:48:10 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add lich
+5/15/2014 2:20:52 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpetroll
+5/15/2014 2:26:02 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpetroll
+5/15/2014 2:37:59 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [ADD C
+5/15/2014 2:45:21 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpet
+5/15/2014 2:54:59 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpetroll
+5/15/2014 3:02:57 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpetroll
+5/15/2014 3:14:01 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add c
+5/15/2014 3:18:03 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [add carpetrol
+5/15/2014 3:21:09 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [get z
+5/15/2014 9:20:24 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [props
+5/15/2014 9:23:05 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [add ancientlich
+5/15/2014 9:41:07 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [props
+5/16/2014 4:27:24 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [kill
+5/16/2014 4:57:06 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [kill
+5/16/2014 5:53:36 AM: 127.0.0.1: 0x6 "Tano" ('admin'): [kill
+5/16/2014 10:59:32 PM: 127.0.0.1: 0x6 "Tano" ('admin'): [admin
+7/11/2014 8:46:21 PM: 127.0.0.1: 0x1 "Test" ('admin'): [add sigil
+7/11/2014 9:10:05 PM: 127.0.0.1: 0x1 "Test" ('admin'): I wish to form an alliance
+7/11/2014 9:40:07 PM: 127.0.0.1: 0x1 "Test" ('admin'): [props
+7/11/2014 9:58:27 PM: 127.0.0.1: 0x1 "Test" ('admin'): [props
+7/11/2014 10:53:12 PM: 127.0.0.1: 0x1 "Test" ('admin'): [props
+7/12/2014 1:39:33 AM: 127.0.0.1: 0x1 "Test" ('admin'): I wish to form an alliance
+7/12/2014 1:39:38 AM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/12/2014 1:39:40 AM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/12/2014 1:45:34 AM: 127.0.0.1: 0x1 "Test" ('admin'): [props
+7/12/2014 1:54:56 AM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/12/2014 1:58:26 AM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/12/2014 2:46:13 AM: 127.0.0.1: 0x1 "Test" ('admin'): [save
+7/12/2014 2:47:15 AM: 127.0.0.1: 0x1 "Test" ('admin'): I wish to form an alliance
+7/12/2014 3:27:08 AM: 127.0.0.1: 0x1 "Test" ('admin'): I wish to form an alliance
+7/19/2014 5:38:56 PM: 127.0.0.1: 0x1 "Test" ('admin'): [steallskill
+7/19/2014 5:38:59 PM: 127.0.0.1: 0x1 "Test" ('admin'): [setallskills 120
+7/21/2014 9:44:36 PM: 127.0.0.1: 0x1 "Test" ('admin'): [add backpack
+7/21/2014 10:47:47 PM: 127.0.0.1: 0x1 "Test" ('admin'): [remove
+7/21/2014 11:16:05 PM: 127.0.0.1: 0x1 "Test" ('admin'): [setallskills 100
+7/21/2014 11:43:20 PM: 127.0.0.1: 0x1 "Test" ('admin'): [save
+7/21/2014 11:50:57 PM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/27/2014 12:04:41 PM: 127.0.0.1: 0x1 "Test" ('admin'): [save
+7/27/2014 12:11:13 PM: 127.0.0.1: 0x1 "Test" ('admin'): [save
+7/27/2014 2:51:48 PM: 127.0.0.1: 0x1 "Test" ('admin'): [alliances
+7/27/2014 3:50:38 PM: 127.0.0.1: 0x2 "test" ('admin'): [alliances
+7/27/2014 5:26:39 PM: 127.0.0.1: 0x2 "test" ('admin'): [[props
+7/27/2014 5:26:41 PM: 127.0.0.1: 0x2 "test" ('admin'): [props
+7/28/2014 12:10:13 PM: 127.0.0.1: 0x2 "test" ('admin'): [props
+7/28/2014 5:33:53 PM: 127.0.0.1: 0x2 "test" ('admin'): [add allianceobject
+7/28/2014 6:05:25 PM: 127.0.0.1: 0x2 "test" ('admin'): [alliances
+7/28/2014 8:22:11 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to form an alliance
+7/28/2014 8:22:25 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to form an alliance
+7/28/2014 8:25:24 PM: 127.0.0.1: 0x2 "test" ('admin'): [cal
+7/28/2014 8:32:55 PM: 127.0.0.1: 0x2 "test" ('admin'): [move
+7/28/2014 8:33:20 PM: 127.0.0.1: 0x2 "test" ('admin'): [props
+7/28/2014 8:35:28 PM: 127.0.0.1: 0x2 "test" ('admin'): [set name "a sigillum stone"
+7/28/2014 8:35:41 PM: 127.0.0.1: 0x2 "test" ('admin'): [set hue 1175
+7/28/2014 8:37:05 PM: 127.0.0.1: 0x2 "test" ('admin'): [alliances
+7/28/2014 8:40:47 PM: 127.0.0.1: 0x2 "test" ('admin'): [save
+7/28/2014 9:24:43 PM: 127.0.0.1: 0x2 "test" ('admin'): [props
+7/28/2014 9:29:02 PM: 127.0.0.1: 0x2 "test" ('admin'): [alliances
+7/28/2014 10:30:39 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 10:30:51 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 10:37:00 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 10:41:04 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 10:48:06 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 11:45:58 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 11:50:15 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 11:50:25 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 11:55:50 PM: 127.0.0.1: 0x2 "test" ('admin'): I wish to manage my post
+7/28/2014 11:56:27 PM: 127.0.0.1: 0x2 "test" ('admin'): [props
+7/29/2014 1:25:31 AM: 127.0.0.1: 0x3 "test" ('admin'): [props
+7/29/2014 1:30:14 AM: 127.0.0.1: 0x3 "test" ('admin'): [save
+7/29/2014 2:06:04 AM: 127.0.0.1: 0x1 "test" ('admin'): [setallskills 120
+7/30/2014 6:32:36 PM: 127.0.0.1: 0x1 "test" ('admin'): [alliances
+7/30/2014 7:13:38 PM: 127.0.0.1: 0x1 "test" ('admin'): [save
+7/30/2014 9:55:43 PM: 127.0.0.1: 0x1 "test" ('admin'): [props
+7/30/2014 10:23:33 PM: 127.0.0.1: 0x1 "test" ('admin'): I wish to manage my post
+8/2/2014 4:18:44 PM: 127.0.0.1: 0x1 "test" ('admin'): I wish to manage my post
+8/2/2014 4:18:47 PM: 127.0.0.1: 0x1 "test" ('admin'): I wish to manage my post
+8/3/2014 12:33:30 AM: 127.0.0.1: 0x1 "test" ('admin'): [kill
+8/3/2014 3:05:23 PM: 127.0.0.1: 0x1 "test" ('admin'): [add horsebreeder
+8/4/2014 2:57:12 AM: 127.0.0.1: 0x1 "test" ('admin'): [props
+8/4/2014 2:57:23 AM: 127.0.0.1: 0x1 "test" ('admin'): [heal
+8/4/2014 3:06:10 AM: 127.0.0.1: 0x1 "test" ('admin'): [heal
+8/4/2014 3:09:47 AM: 127.0.0.1: 0x1 "test" ('admin'): [remove
+8/4/2014 3:14:47 AM: 127.0.0.1: 0x1 "test" ('admin'): [get fightmode
+8/4/2014 3:26:55 AM: 127.0.0.1: 0x1 "test" ('admin'): [kill
+8/4/2014 4:02:04 AM: 127.0.0.1: 0x1 "test" ('admin'): [add guard swordsman
+8/6/2014 9:50:51 PM: 127.0.0.1: 0x1 "test" ('admin'): [alliances
+8/6/2014 10:29:56 PM: 127.0.0.1: 0x1 "test" ('admin'): I wish to manage my post
+8/6/2014 10:44:22 PM: 127.0.0.1: 0x1 "test" ('admin'): [alliances
+8/8/2014 10:08:01 PM: 127.0.0.1: 0x1 "Qoern" ('admin'): I wish to manage my post
+8/17/2014 5:32:27 PM: 127.0.0.1: 0x1 "Qoern" ('admin'): I wish to form a faction

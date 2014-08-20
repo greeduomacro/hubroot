@@ -1,0 +1,212 @@
+﻿###################################
+Logging started on 8/7/2014 12:11:23 AM
+
+8/7/2014 12:14:27 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 12:14:41 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 12:14:47 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 12:20:24 AM
+
+8/7/2014 12:21:03 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'lightlevel' of 0x1 "test" ('admin') to '99'
+8/7/2014 12:21:03 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'self set lightlevel 99'
+8/7/2014 12:22:25 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 12:23:34 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 12:43:46 AM
+
+8/7/2014 12:44:19 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 12:50:19 AM
+
+8/7/2014 12:51:24 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 12:54:00 AM
+
+8/7/2014 12:54:30 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 12:56:38 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 1:01:44 AM
+
+8/7/2014 1:02:06 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:02:24 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+###################################
+Logging started on 8/7/2014 1:08:10 AM
+
+8/7/2014 1:08:35 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:08:43 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:08:51 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:09:25 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/7/2014 1:09:32 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/7/2014 1:09:35 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'm delete'
+8/7/2014 1:09:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x3 "Marylou" (no account)
+8/7/2014 1:09:39 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x6 "Klog" (no account)
+8/7/2014 1:10:06 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'm delete'
+8/7/2014 1:10:08 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x9 "a horse" (no account)
+8/7/2014 1:10:10 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+8/7/2014 1:11:16 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:12:02 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/7/2014 1:12:42 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'lightlevel' of 0x1 "test" ('admin') to '99'
+8/7/2014 1:12:42 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'self set lightlevel 99'
+8/7/2014 1:13:23 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/7/2014 1:13:25 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x6 "a war horse" (no account)
+8/7/2014 1:16:53 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel adminstrator'
+8/7/2014 1:17:09 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel administrator'
+8/7/2014 1:17:10 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Administrator'
+8/7/2014 1:17:20 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'lightlevel' of 0x2 "testinm" ('test') to '99'
+8/7/2014 1:17:20 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self set lightlevel 99'
+8/7/2014 1:18:04 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 1:18:25 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'kill '
+8/7/2014 1:18:30 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'kill '
+8/7/2014 1:18:30 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') killed 0x7 "Cassius," (no account).
+8/7/2014 1:21:00 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 1:21:23 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 1:21:33 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'setallskills 120'
+8/7/2014 1:21:34 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'EverySkill.Base' of 0x2 "testinm" ('test') to '120'
+8/7/2014 1:21:39 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set accesslevel 99'
+8/7/2014 1:21:42 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set accesslevel player'
+8/7/2014 1:21:43 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/7/2014 1:23:40 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel administrator'
+8/7/2014 1:23:41 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Administrator'
+###################################
+Logging started on 8/7/2014 1:36:50 AM
+
+###################################
+Logging started on 8/7/2014 6:50:37 PM
+
+8/7/2014 6:54:22 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel administrator'
+8/7/2014 6:54:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Administrator'
+8/7/2014 6:54:41 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'heal '
+8/7/2014 6:54:45 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'hide '
+8/7/2014 6:54:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') hiding 0x2 "testinm" ('test')
+8/7/2014 6:57:09 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 6:57:26 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel player'
+8/7/2014 6:57:27 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+###################################
+Logging started on 8/7/2014 7:24:07 PM
+
+8/7/2014 7:25:22 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+8/7/2014 7:25:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2753, 3835, 40) in Backtrol: "townsigil"
+8/7/2014 7:25:24 PM: 127.0.0.1: Serials: 0x4000000F; 
+8/7/2014 7:25:30 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/7/2014 7:26:04 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/7/2014 7:26:10 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'AllianceKills' of 0x1 "test" ('admin') to '305'
+8/7/2014 7:26:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+8/7/2014 7:26:29 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel administrator'
+8/7/2014 7:26:30 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Administrator'
+8/7/2014 7:27:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add halberd'
+8/7/2014 7:27:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3836, 20) in Backtrol: "halberd"
+8/7/2014 7:27:42 PM: 127.0.0.1: Serials: 0x40000027; 
+8/7/2014 7:27:49 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'setallskills 120'
+8/7/2014 7:27:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'EverySkill.Base' of 0x1 "test" ('admin') to '120'
+8/7/2014 7:27:53 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:27:58 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set rawstr 125'
+8/7/2014 7:27:59 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'rawstr' of 0x1 "test" ('admin') to '125'
+8/7/2014 7:28:30 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:29:44 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'inc z -10'
+8/7/2014 7:29:46 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'inc z 1'
+8/7/2014 7:29:48 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'inc z -1'
+8/7/2014 7:29:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'inc z -1'
+8/7/2014 7:29:54 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/7/2014 7:30:01 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'Resistance' of 0x4000000F (TownSigil) to '15'
+8/7/2014 7:30:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'RegionName' of 0x4000000F (TownSigil) to 'the Isle of Kesn'abuir'
+8/7/2014 7:30:17 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'Priority' of 0x4000000F (TownSigil) to '255'
+8/7/2014 7:34:24 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'heal '
+8/7/2014 7:34:31 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add townsigil'
+8/7/2014 7:34:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3857, 0) in Backtrol: "townsigil"
+8/7/2014 7:34:36 PM: 127.0.0.1: Serials: 0x40000044; 
+8/7/2014 7:34:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'props '
+8/7/2014 7:34:52 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Resistance' of 0x40000044 (TownSigil) to '5'
+8/7/2014 7:34:57 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Priority' of 0x40000044 (TownSigil) to '255'
+8/7/2014 7:35:06 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'RegionName' of 0x40000044 (TownSigil) to 'The Docks'
+8/7/2014 7:35:10 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/7/2014 7:35:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'hide '
+8/7/2014 7:35:43 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') hiding 0x2 "testinm" ('test')
+8/7/2014 7:36:21 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/7/2014 7:36:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/7/2014 7:36:49 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add ogre'
+8/7/2014 7:36:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3825, 20) in Backtrol: "ogre"
+8/7/2014 7:36:51 PM: 127.0.0.1: Serials: 0x6; 
+8/7/2014 7:36:56 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add creaturecontroller'
+8/7/2014 7:36:58 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3831, 20) in Backtrol: "creaturecontroller"
+8/7/2014 7:36:58 PM: 127.0.0.1: Serials: 0x40000053; 
+8/7/2014 7:37:06 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/7/2014 7:37:07 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x8 "a war horse" (no account)
+8/7/2014 7:37:11 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add ogrelord'
+8/7/2014 7:37:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2757, 3826, 20) in Backtrol: "ogrelord"
+8/7/2014 7:37:12 PM: 127.0.0.1: Serials: 0x7; 
+8/7/2014 7:37:28 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:37:52 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/7/2014 7:37:56 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/7/2014 7:37:57 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x8 "Adelaide," (no account).
+8/7/2014 7:38:03 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:39:19 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:40:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get hits'
+8/7/2014 7:40:31 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get hits'
+8/7/2014 7:41:01 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/7/2014 7:41:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:42:03 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'hide '
+8/7/2014 7:42:04 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') hiding 0x1 "test" ('admin')
+8/7/2014 7:42:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+8/7/2014 7:44:50 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'unhide '
+8/7/2014 7:44:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') unhiding 0x1 "test" ('admin')
+###################################
+Logging started on 8/7/2014 7:54:58 PM
+
+8/7/2014 8:02:22 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 8:03:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+###################################
+Logging started on 8/7/2014 10:06:19 PM
+
+8/7/2014 10:21:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 10:23:13 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add sigillum'
+8/7/2014 10:23:15 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2754, 3836, 20) in Backtrol: "sigillum"
+8/7/2014 10:23:15 PM: 127.0.0.1: Serials: 0x4000000F; 
+8/7/2014 10:23:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'move '
+8/7/2014 10:23:28 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') moving 0x4000000F (Sigillum) to (2753, 3835, 40)
+8/7/2014 10:23:31 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'inc z -2'
+8/7/2014 10:23:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x -50 y -50'
+8/7/2014 10:23:53 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x 100 y 100'
+8/7/2014 10:24:02 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x -50 y -50'
+8/7/2014 10:24:17 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'props '
+8/7/2014 10:24:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'RegionName' of 0x4000000F (Sigillum) to 'the Isle of Kesn'abuir'
+8/7/2014 10:24:39 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/7/2014 10:24:42 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Resistance' of 0x4000000F (Sigillum) to '10'
+8/7/2014 10:24:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Priority' of 0x4000000F (Sigillum) to '255'
+8/7/2014 10:24:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 10:26:20 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/7/2014 10:26:20 PM: 127.0.0.1: Player 0x2 "testinm" ('test') used command 'self set accesslevel player'
+8/7/2014 10:27:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get hits'
+8/7/2014 10:28:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set name Qorne'
+8/7/2014 10:28:15 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'name' of 0x2 "testinm" ('test') to 'Qorne'
+8/7/2014 10:28:16 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set name Qorne'
+8/7/2014 10:28:16 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'name' of 0x1 "test" ('admin') to 'Qorne'
+8/7/2014 10:28:46 PM: 127.0.0.1: Administrator 0x1 "Qorne" ('admin') used command 'set name Qoern'
+8/7/2014 10:28:47 PM: 127.0.0.1: Administrator 0x1 "Qorne" ('admin') set property 'name' of 0x1 "Qorne" ('admin') to 'Qoern'
+8/7/2014 10:28:59 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/7/2014 10:31:14 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'hide '
+8/7/2014 10:31:15 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') hiding 0x2 "Qorne" ('test')
+8/7/2014 10:31:25 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set accesslevel administrator'
+8/7/2014 10:31:26 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Administrator'
+8/7/2014 10:31:28 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/7/2014 10:31:40 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/7/2014 10:31:54 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'hide '
+8/7/2014 10:31:55 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') hiding 0x1 "Qoern" ('admin')
+8/7/2014 10:32:01 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+8/7/2014 10:36:19 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'kill '
+8/7/2014 10:36:20 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') killed 0x3 "Hanan," (no account).
+8/7/2014 10:36:57 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'unhide '
+8/7/2014 10:36:58 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') unhiding 0x2 "Qorne" ('test')
+###################################
+Logging started on 8/7/2014 10:46:37 PM
+
+8/7/2014 10:50:42 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+###################################
+Logging started on 8/7/2014 10:52:38 PM
+
+###################################
+Logging started on 8/7/2014 10:54:25 PM
+
+8/7/2014 10:58:48 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+###################################
+Logging started on 8/7/2014 11:00:43 PM
+

@@ -1,0 +1,298 @@
+﻿###################################
+Logging started on 12/9/2013 4:46:38 AM
+
+###################################
+Logging started on 12/9/2013 4:52:30 AM
+
+12/9/2013 4:53:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add backpack'
+12/9/2013 4:53:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5665, 400, 20) in Backtrol: "backpack"
+12/9/2013 4:53:14 AM: 127.0.0.1: Serials: 0x4000000D; 
+###################################
+Logging started on 12/9/2013 5:27:33 AM
+
+12/9/2013 5:27:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 5:28:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '5000000'
+12/9/2013 5:28:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 5000000'
+12/9/2013 5:28:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add headlessone'
+12/9/2013 5:28:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 385, 20) in Backtrol: "headlessone"
+12/9/2013 5:28:58 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 5:29:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:29:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 5:29:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 5:29:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 5:29:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 385, 20) in Backtrol: "wraith"
+12/9/2013 5:29:44 AM: 127.0.0.1: Serials: 0x3; 
+12/9/2013 5:29:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:29:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:29:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:29:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:30:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:30:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:30:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:30:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:30:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get mana'
+12/9/2013 5:30:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 5:30:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 5:35:22 AM
+
+###################################
+Logging started on 12/9/2013 5:37:31 AM
+
+12/9/2013 5:38:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000000'
+12/9/2013 5:38:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000000'
+12/9/2013 5:38:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set rawint 100 rawstr 100 rawdex 100'
+12/9/2013 5:38:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawint' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 5:38:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawstr' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 5:38:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawdex' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 5:38:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/9/2013 5:38:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:38:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 5:38:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 5:38:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:38:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 5:38:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'CurrentLanguage' of 0x1 "Test" ('Administrator') to 'Glyph'
+12/9/2013 5:39:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'jump '
+12/9/2013 5:39:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:39:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 5:40:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add bear'
+12/9/2013 5:40:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 379, 20) in Backtrol: "BlackBear"
+12/9/2013 5:40:26 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 5:40:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set summoned true'
+12/9/2013 5:40:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'summoned' of 0x2 "a black bear" (no account) to 'True'
+12/9/2013 5:41:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ironingot 100'
+12/9/2013 5:41:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5710, 343, 10) in Backtrol: "ironingot" "100"
+12/9/2013 5:41:26 AM: 127.0.0.1: Serials: 0x40000010; 
+12/9/2013 5:41:37 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'calt '
+12/9/2013 5:42:04 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'speak common'
+12/9/2013 5:42:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'calt '
+12/9/2013 5:42:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:42:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 5:42:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'CurrentLanguage' of 0x1 "Test" ('Administrator') to 'Glyph'
+12/9/2013 5:42:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'CurrentLanguage' of 0x1 "Test" ('Administrator') to 'Invalid'
+12/9/2013 5:42:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'CurrentLanguage' of 0x1 "Test" ('Administrator') to 'Common'
+12/9/2013 5:42:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 5:42:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 5:42:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 5:42:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'get weight'
+12/9/2013 5:44:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add headlessone'
+12/9/2013 5:44:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5710, 348, 10) in Backtrol: "headlessone"
+12/9/2013 5:44:03 AM: 127.0.0.1: Serials: 0x3; 
+12/9/2013 5:44:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:44:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 5:44:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 5:44:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add headlessone'
+12/9/2013 5:44:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5710, 348, 10) in Backtrol: "headlessone"
+12/9/2013 5:44:41 AM: 127.0.0.1: Serials: 0x4; 
+12/9/2013 5:44:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 5:44:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5708, 351, 5) in Backtrol: "wraith"
+12/9/2013 5:44:52 AM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 12/9/2013 6:05:11 AM
+
+12/9/2013 6:06:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:06:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:07:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 6:07:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 387, 20) in Backtrol: "wraith"
+12/9/2013 6:07:08 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:07:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:07:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 6:16:12 AM
+
+12/9/2013 6:16:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:16:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:16:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 6:16:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5665, 397, 20) in Backtrol: "wraith"
+12/9/2013 6:16:57 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:17:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:17:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:18:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/9/2013 6:18:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a wraith" (no account)
+###################################
+Logging started on 12/9/2013 6:19:38 AM
+
+12/9/2013 6:20:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:20:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:20:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 6:20:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 397, 20) in Backtrol: "wraith"
+12/9/2013 6:20:35 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:20:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 6:20:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 6:21:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 6:21:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 6:21:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 6:21:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 6:21:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:21:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:21:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:22:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:22:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:22:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:22:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 6:40:10 AM
+
+12/9/2013 6:40:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:40:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 6:40:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 397, 20) in Backtrol: "wraith"
+12/9/2013 6:40:43 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:40:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:40:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 6:40:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '66666'
+12/9/2013 6:41:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:41:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:41:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:41:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:41:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:42:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:42:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:42:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 6:45:46 AM
+
+12/9/2013 6:46:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:46:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:46:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 6:46:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5664, 398, 20) in Backtrol: "wraith"
+12/9/2013 6:46:34 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:46:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 6:46:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '66666'
+12/9/2013 6:46:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:47:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:47:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set cantwalk true'
+12/9/2013 6:47:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'cantwalk' of 0x2 "a wraith" (no account) to 'True'
+12/9/2013 6:47:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:47:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:47:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+12/9/2013 6:48:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set rawint 1000'
+12/9/2013 6:48:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawint' of 0x2 "a wraith" (no account) to '1000'
+12/9/2013 6:48:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:48:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:48:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+12/9/2013 6:48:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+12/9/2013 6:48:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '
+12/9/2013 6:48:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:50:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/9/2013 6:50:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:51:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:51:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:51:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set cantwalk true'
+12/9/2013 6:51:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'cantwalk' of 0x2 "a wraith" (no account) to 'True'
+12/9/2013 6:51:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 6:52:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:52:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:52:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:52:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'kill '
+12/9/2013 6:52:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') killed 0x2 "a wraith" (no account).
+12/9/2013 6:52:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 6:52:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+###################################
+Logging started on 12/9/2013 6:57:11 AM
+
+12/9/2013 6:57:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:57:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 6:57:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:57:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 6:58:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 6:58:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add imp'
+12/9/2013 6:58:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 398, 20) in Backtrol: "imp"
+12/9/2013 6:58:04 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 6:58:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 6:58:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '10000'
+12/9/2013 6:58:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:58:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:59:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 6:59:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 6:59:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 7:04:51 AM
+
+12/9/2013 7:05:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 7:05:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 7:05:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add imp'
+12/9/2013 7:05:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5665, 400, 20) in Backtrol: "imp"
+12/9/2013 7:05:24 AM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 7:05:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 7:05:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 7:05:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 7:05:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 7:05:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 7:05:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/9/2013 7:05:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "an imp" (no account)
+###################################
+Logging started on 12/9/2013 8:35:36 PM
+
+12/9/2013 8:36:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/9/2013 9:06:10 PM
+
+12/9/2013 9:06:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:06:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/9/2013 9:06:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add imp'
+12/9/2013 9:06:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 398, 20) in Backtrol: "imp"
+12/9/2013 9:06:58 PM: 127.0.0.1: Serials: 0x2; 
+12/9/2013 9:07:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/9/2013 9:07:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/9/2013 9:07:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 9:07:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:07:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:07:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/9/2013 9:07:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '10000'
+12/9/2013 9:07:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/9/2013 9:07:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "an imp" (no account)
+12/9/2013 9:07:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add wraith'
+12/9/2013 9:07:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5666, 397, 20) in Backtrol: "wraith"
+12/9/2013 9:07:57 PM: 127.0.0.1: Serials: 0x3; 
+12/9/2013 9:08:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:08:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:08:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:08:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:08:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/9/2013 9:08:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '

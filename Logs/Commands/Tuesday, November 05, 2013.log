@@ -1,0 +1,70 @@
+﻿###################################
+Logging started on 11/5/2013 5:56:12 PM
+
+###################################
+Logging started on 11/5/2013 5:58:48 PM
+
+###################################
+Logging started on 11/5/2013 6:01:05 PM
+
+###################################
+Logging started on 11/5/2013 6:11:23 PM
+
+###################################
+Logging started on 11/5/2013 7:01:01 PM
+
+11/5/2013 7:01:39 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'set rawstr 50'
+11/5/2013 7:01:40 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'rawstr' of 0x2 "Eidenai" ('Enroq') to '50'
+11/5/2013 7:01:42 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'set rawstr 100'
+11/5/2013 7:01:43 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'rawstr' of 0x2 "Eidenai" ('Enroq') to '100'
+###################################
+Logging started on 11/5/2013 7:07:19 PM
+
+###################################
+Logging started on 11/5/2013 7:09:50 PM
+
+11/5/2013 7:10:18 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'self get Maxweight'
+11/5/2013 7:10:20 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'props '
+11/5/2013 7:10:30 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'set amount 1000'
+11/5/2013 7:10:31 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'amount' of 0x40000014 (IronIngot) to '1000'
+11/5/2013 7:10:36 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'set amount 2000'
+11/5/2013 7:10:37 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'amount' of 0x40000014 (IronIngot) to '2000'
+11/5/2013 7:10:57 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 0'
+11/5/2013 7:10:58 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Enroq') to '0'
+###################################
+Logging started on 11/5/2013 7:15:33 PM
+
+###################################
+Logging started on 11/5/2013 7:16:46 PM
+
+###################################
+Logging started on 11/5/2013 7:32:43 PM
+
+11/5/2013 7:33:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'rawstr' of 0x3 "Egam" ('Enroq') to '50'
+11/5/2013 7:33:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set rawstr 50'
+11/5/2013 7:33:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'rawstr' of 0x3 "Egam" ('Enroq') to '100'
+11/5/2013 7:33:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set rawstr 100'
+###################################
+Logging started on 11/5/2013 7:55:32 PM
+
+11/5/2013 7:57:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'str' of 0x3 "Egam" ('Enroq') to '100'
+11/5/2013 7:57:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set str 100'
+11/5/2013 11:39:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/5/2013 11:39:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x40000025 (HouseSign)
+###################################
+Logging started on 11/5/2013 11:50:35 PM
+
+11/6/2013 12:04:02 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/6/2013 12:04:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x3 "Egam" ('Enroq') to '100'
+11/6/2013 12:05:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add horse'
+11/6/2013 12:05:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5897, 201, 45) in Backtrol: "horse"
+11/6/2013 12:05:48 AM: 127.0.0.1: Serials: 0x4; 
+11/6/2013 12:06:21 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/6/2013 12:06:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x4 "a horse" (no account)
+11/6/2013 12:07:01 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add meat'
+11/6/2013 12:07:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add apple'
+11/6/2013 12:07:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5897, 198, 45) in Backtrol: "apple"
+11/6/2013 12:07:08 AM: 127.0.0.1: Serials: 0x40000030; 
+11/6/2013 12:07:13 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add horse'
+11/6/2013 12:07:14 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5897, 199, 45) in Backtrol: "horse"
+11/6/2013 12:07:14 AM: 127.0.0.1: Serials: 0x5; 

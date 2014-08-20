@@ -1,0 +1,105 @@
+﻿###################################
+Logging started on 11/29/2013 12:44:12 AM
+
+###################################
+Logging started on 11/29/2013 4:18:55 AM
+
+11/29/2013 4:19:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'm tele'
+11/29/2013 4:19:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'self get map'
+###################################
+Logging started on 11/29/2013 4:25:03 AM
+
+###################################
+Logging started on 11/29/2013 4:43:08 AM
+
+###################################
+Logging started on 11/29/2013 4:48:00 AM
+
+###################################
+Logging started on 11/29/2013 4:52:50 AM
+
+###################################
+Logging started on 11/29/2013 4:55:43 AM
+
+###################################
+Logging started on 11/29/2013 5:04:00 AM
+
+###################################
+Logging started on 11/29/2013 3:59:04 PM
+
+11/29/2013 4:07:49 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm tele'
+11/29/2013 4:14:25 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'get itemid'
+11/29/2013 4:14:33 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'add static 5461'
+11/29/2013 4:14:35 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5818, 229, 48) in Backtrol: "static" "5461"
+11/29/2013 4:14:35 PM: 127.0.0.1: Serials: 0x40000014; 
+11/29/2013 4:14:39 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm inc z -1'
+11/29/2013 4:14:52 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'remove '
+11/29/2013 4:14:54 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x40000014 (Static)
+11/29/2013 4:16:41 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'adddoor '
+11/29/2013 4:16:46 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate WestCW'
+11/29/2013 4:16:47 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5811, 219, 20) in Backtrol: "DarkWoodGate" "WestCW"
+11/29/2013 4:16:47 PM: 127.0.0.1: Serials: 0x40000015; 
+11/29/2013 4:16:49 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate EastCCW'
+11/29/2013 4:16:49 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5814, 219, 20) in Backtrol: "DarkWoodGate" "EastCCW"
+11/29/2013 4:16:49 PM: 127.0.0.1: Serials: 0x4000001C; 
+11/29/2013 4:16:51 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:16:58 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add LightWoodGate EastCCW'
+11/29/2013 4:16:59 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5817, 216, 20) in Backtrol: "LightWoodGate" "EastCCW"
+11/29/2013 4:16:59 PM: 127.0.0.1: Serials: 0x40000023; 
+11/29/2013 4:17:05 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate EastCCW'
+11/29/2013 4:17:06 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5817, 216, 31) in Backtrol: "DarkWoodGate" "EastCCW"
+11/29/2013 4:17:06 PM: 127.0.0.1: Serials: 0x40000026; 
+11/29/2013 4:17:11 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:17:30 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'move '
+11/29/2013 4:17:32 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') moving 0x40000023 (LightWoodGate) to (5819, 218, 20)
+11/29/2013 4:17:33 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'move '
+11/29/2013 4:17:34 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') moving 0x40000026 (DarkWoodGate) to (5817, 216, 20)
+11/29/2013 4:17:35 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'move '
+11/29/2013 4:17:35 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') moving 0x40000023 (LightWoodGate) to (5817, 216, 26)
+11/29/2013 4:17:38 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm inc z 1'
+11/29/2013 4:17:57 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'adddoor '
+11/29/2013 4:18:03 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate WestCW'
+11/29/2013 4:18:04 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5809, 223, 20) in Backtrol: "DarkWoodGate" "WestCW"
+11/29/2013 4:18:04 PM: 127.0.0.1: Serials: 0x40000027; 
+11/29/2013 4:18:05 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate EastCCW'
+11/29/2013 4:18:06 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5811, 223, 20) in Backtrol: "DarkWoodGate" "EastCCW"
+11/29/2013 4:18:06 PM: 127.0.0.1: Serials: 0x40000028; 
+11/29/2013 4:18:09 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'move '
+11/29/2013 4:18:10 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') moving 0x40000028 (DarkWoodGate) to (5812, 223, 20)
+11/29/2013 4:18:15 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate WestCW'
+11/29/2013 4:18:16 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5811, 223, 20) in Backtrol: "DarkWoodGate" "WestCW"
+11/29/2013 4:18:16 PM: 127.0.0.1: Serials: 0x40000029; 
+11/29/2013 4:18:18 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate EastCCW'
+11/29/2013 4:18:18 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5810, 223, 20) in Backtrol: "DarkWoodGate" "EastCCW"
+11/29/2013 4:18:18 PM: 127.0.0.1: Serials: 0x4000002B; 
+11/29/2013 4:18:24 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:18:27 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:18:50 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate SouthCW'
+11/29/2013 4:18:50 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5820, 220, 20) in Backtrol: "DarkWoodGate" "SouthCW"
+11/29/2013 4:18:50 PM: 127.0.0.1: Serials: 0x4000002C; 
+11/29/2013 4:18:52 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate NorthCCW'
+11/29/2013 4:18:53 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5820, 219, 19) in Backtrol: "DarkWoodGate" "NorthCCW"
+11/29/2013 4:18:53 PM: 127.0.0.1: Serials: 0x4000002D; 
+11/29/2013 4:18:56 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'move '
+11/29/2013 4:18:58 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') moving 0x4000002C (DarkWoodGate) to (5820, 221, 20)
+11/29/2013 4:19:03 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:19:21 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:19:33 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:19:48 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm delete'
+11/29/2013 4:19:49 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x4000002B (DarkWoodGate)
+11/29/2013 4:19:50 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x40000028 (DarkWoodGate)
+11/29/2013 4:19:50 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x40000029 (DarkWoodGate)
+11/29/2013 4:19:51 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x40000027 (DarkWoodGate)
+11/29/2013 4:19:55 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate EastCCW'
+11/29/2013 4:19:56 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5812, 223, 20) in Backtrol: "DarkWoodGate" "EastCCW"
+11/29/2013 4:19:56 PM: 127.0.0.1: Serials: 0x4000002E; 
+11/29/2013 4:20:01 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'Add DarkWoodGate WestCW'
+11/29/2013 4:20:01 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') building at (5809, 223, 20) in Backtrol: "DarkWoodGate" "WestCW"
+11/29/2013 4:20:01 PM: 127.0.0.1: Serials: 0x4000002F; 
+11/29/2013 4:20:04 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'link '
+11/29/2013 4:20:21 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm delete'
+11/29/2013 4:20:22 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x4000002E (DarkWoodGate)
+11/29/2013 4:20:23 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x4000002F (DarkWoodGate)
+11/29/2013 4:44:50 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'remove '
+11/29/2013 4:44:52 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') deleting 0x2 "an ogre" (no account)
+11/29/2013 4:44:54 PM: 127.0.0.1: Administrator 0x1 "egam" ('Admin') used command 'm tele'

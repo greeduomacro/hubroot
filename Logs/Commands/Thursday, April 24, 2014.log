@@ -1,0 +1,101 @@
+﻿###################################
+Logging started on 4/24/2014 1:29:31 PM
+
+4/24/2014 1:32:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 1:32:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1521, 640, -12) in Ilshenar: "racescroll"
+4/24/2014 1:32:41 PM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 4/24/2014 2:38:41 PM
+
+###################################
+Logging started on 4/24/2014 2:45:12 PM
+
+4/24/2014 2:45:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get type'
+4/24/2014 2:45:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/24/2014 2:46:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/24/2014 2:46:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/24/2014 2:46:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 4/24/2014 2:53:19 PM
+
+4/24/2014 2:54:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'tele '
+4/24/2014 2:54:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add fish'
+4/24/2014 2:54:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add fis'
+4/24/2014 2:54:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1499, 660, -33) in Ilshenar: "FishingPole"
+4/24/2014 2:54:30 PM: 127.0.0.1: Serials: 0x40000016; 
+###################################
+Logging started on 4/24/2014 3:14:37 PM
+
+###################################
+Logging started on 4/24/2014 3:55:10 PM
+
+4/24/2014 3:56:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'mana' of 0x1 "Test" ('admin') to '1'
+4/24/2014 3:56:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set mana 1'
+4/24/2014 3:58:19 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+4/24/2014 3:59:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+4/24/2014 3:59:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 3:59:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1769, 837, -25) in Ilshenar: "racescroll"
+4/24/2014 3:59:05 PM: 127.0.0.1: Serials: 0x40000016; 
+4/24/2014 3:59:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 3:59:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000000F (EtherealSeaHorse)
+4/24/2014 4:00:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:00:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000007 (Silver)
+4/24/2014 4:00:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set amount 10000'
+4/24/2014 4:00:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'amount' of 0x40000008 (Copper) to '10000'
+4/24/2014 4:00:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:00:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set amount 1000'
+4/24/2014 4:00:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'amount' of 0x40000008 (Copper) to '1000'
+4/24/2014 4:00:32 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 4/24/2014 4:03:04 PM
+
+4/24/2014 4:03:26 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 4/24/2014 4:08:20 PM
+
+4/24/2014 4:08:40 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+4/24/2014 4:10:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+4/24/2014 4:10:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:10:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000009F (HouseSign)
+4/24/2014 4:13:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/24/2014 4:14:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm tele'
+4/24/2014 4:16:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 4:16:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (937, 506, -60) in Ilshenar: "racescroll"
+4/24/2014 4:16:46 PM: 127.0.0.1: Serials: 0x40000018; 
+4/24/2014 4:16:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self inc eoc 100000'
+4/24/2014 4:16:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self inc eoc 1000000'
+4/24/2014 4:17:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/24/2014 4:19:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 4:19:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (939, 503, -31) in Ilshenar: "racescroll"
+4/24/2014 4:19:13 PM: 127.0.0.1: Serials: 0x40000019; 
+4/24/2014 4:19:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self inc eoc 1000000'
+4/24/2014 4:19:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'race' of 0x1 "Test" ('admin') to 'HalfDaemon'
+4/24/2014 4:19:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set race halfdaemon'
+4/24/2014 4:20:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 4:20:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (939, 507, -60) in Ilshenar: "racescroll"
+4/24/2014 4:20:04 PM: 127.0.0.1: Serials: 0x4000001A; 
+4/24/2014 4:20:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 4/24/2014 4:30:57 PM
+
+###################################
+Logging started on 4/24/2014 4:33:38 PM
+
+4/24/2014 4:34:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/24/2014 4:34:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1525, 603, -17) in Ilshenar: "racescroll"
+4/24/2014 4:34:08 PM: 127.0.0.1: Serials: 0x4000000F; 
+4/24/2014 4:35:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000007 (Silver)
+4/24/2014 4:35:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/24/2014 4:35:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000074 (ChaosShield)
+4/24/2014 4:35:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000011F (Pitchfork)
+4/24/2014 4:35:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000079 (MetalShield)
+4/24/2014 4:35:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000050 (Kryss)
+4/24/2014 4:35:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000006C (Mace)
+4/24/2014 4:35:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/24/2014 4:35:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x400000A8 (WarHammer)

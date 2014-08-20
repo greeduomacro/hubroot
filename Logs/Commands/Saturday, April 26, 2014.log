@@ -1,0 +1,290 @@
+﻿###################################
+Logging started on 4/26/2014 2:45:17 PM
+
+4/26/2014 2:46:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard pikeman'
+4/26/2014 2:46:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 642, -14) in Ilshenar: "backtrolianguard" "pikeman"
+4/26/2014 2:46:27 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 2:46:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard wizard'
+4/26/2014 2:46:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1528, 635, -14) in Ilshenar: "backtrolianguard" "wizard"
+4/26/2014 2:46:32 PM: 127.0.0.1: Serials: 0x8; 
+4/26/2014 2:46:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add lichlord set criminal true'
+4/26/2014 2:46:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1521, 639, -13) in Ilshenar: "lichlord" "set" "criminal" "true"
+4/26/2014 2:46:43 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 2:46:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 2:47:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 4/26/2014 2:49:00 PM
+
+4/26/2014 2:49:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard wizard'
+4/26/2014 2:49:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1524, 638, -12) in Ilshenar: "backtrolianguard" "wizard"
+4/26/2014 2:49:11 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 2:49:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add lich set criminal true'
+4/26/2014 2:49:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add lichlord set criminal true'
+4/26/2014 2:49:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 640, -14) in Ilshenar: "lichlord" "set" "criminal" "true"
+4/26/2014 2:49:29 PM: 127.0.0.1: Serials: 0x8; 
+4/26/2014 2:50:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set criminal true'
+4/26/2014 2:50:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'criminal' of 0x1 "Test" ('admin') to 'True'
+4/26/2014 2:50:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/26/2014 2:52:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/26/2014 2:52:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x6 "Bentley," (no account).
+###################################
+Logging started on 4/26/2014 2:53:21 PM
+
+4/26/2014 2:53:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard wizard'
+4/26/2014 2:53:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 642, -14) in Ilshenar: "backtrolianguard" "wizard"
+4/26/2014 2:53:36 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 2:53:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add lichlord set criminal true'
+4/26/2014 2:53:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 644, -14) in Ilshenar: "lichlord" "set" "criminal" "true"
+4/26/2014 2:53:50 PM: 127.0.0.1: Serials: 0x8; 
+4/26/2014 2:54:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard wizard'
+4/26/2014 2:54:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1528, 638, -12) in Ilshenar: "backtrolianguard" "wizard"
+4/26/2014 2:54:07 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 2:54:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard wizard'
+4/26/2014 2:55:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake set crimianl true'
+4/26/2014 2:56:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1531, 635, -14) in Ilshenar: "drake" "set" "crimianl" "true"
+4/26/2014 2:56:00 PM: 127.0.0.1: Serials: 0xB; 
+4/26/2014 2:56:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set criminal true'
+4/26/2014 2:56:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'criminal' of 0xB "a drake" (no account) to 'True'
+4/26/2014 2:57:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard calvary'
+4/26/2014 2:57:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1531, 632, -14) in Ilshenar: "backtrolianguard" "calvary"
+4/26/2014 2:57:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard calvalry'
+4/26/2014 2:57:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1531, 632, -14) in Ilshenar: "backtrolianguard" "calvalry"
+4/26/2014 2:57:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 2:57:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1531, 632, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 2:57:19 PM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 4/26/2014 2:59:09 PM
+
+4/26/2014 3:00:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:00:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 642, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:00:08 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:00:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:00:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x6 "Ema," (no account)
+###################################
+Logging started on 4/26/2014 3:07:13 PM
+
+4/26/2014 3:08:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:08:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 640, -13) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:08:16 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:08:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+###################################
+Logging started on 4/26/2014 3:10:23 PM
+
+4/26/2014 3:10:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:10:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 641, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:10:37 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:10:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:10:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 643, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:10:38 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 3:10:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:10:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 645, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:10:39 PM: 127.0.0.1: Serials: 0xC; 
+###################################
+Logging started on 4/26/2014 3:10:53 PM
+
+###################################
+Logging started on 4/26/2014 3:12:48 PM
+
+4/26/2014 3:13:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:13:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 642, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:13:28 PM: 127.0.0.1: Serials: 0x6; 
+###################################
+Logging started on 4/26/2014 3:13:44 PM
+
+###################################
+Logging started on 4/26/2014 3:17:23 PM
+
+4/26/2014 3:17:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:17:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 642, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:17:38 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:17:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:17:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 643, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:17:42 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 3:17:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+###################################
+Logging started on 4/26/2014 3:21:30 PM
+
+4/26/2014 3:22:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add peasant'
+4/26/2014 3:22:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 641, -13) in Ilshenar: "peasant"
+4/26/2014 3:22:03 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:22:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:22:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 641, -13) in Ilshenar: "horse"
+4/26/2014 3:22:06 PM: 127.0.0.1: Serials: 0x8; 
+4/26/2014 3:22:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:22:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bod'
+4/26/2014 3:22:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get body'
+4/26/2014 3:22:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bodyvalue'
+4/26/2014 3:22:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:22:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Rider' of 0x8 "a horse" (no account) to '0x6 "Max"'
+4/26/2014 3:22:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Controlled' of 0x8 "a horse" (no account) to 'True'
+4/26/2014 3:22:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'ControlMaster' of 0x8 "a horse" (no account) to '0x6 "Max"'
+4/26/2014 3:23:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set stam 0'
+4/26/2014 3:23:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:23:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x6 "Max" (no account)
+4/26/2014 3:23:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set stam 0'
+4/26/2014 3:23:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'stam' of 0x8 "a horse" (no account) to '0'
+4/26/2014 3:23:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:23:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Rider' of 0x8 "a horse" (no account) to '0x6 "Max"'
+###################################
+Logging started on 4/26/2014 3:25:10 PM
+
+4/26/2014 3:25:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:25:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1521, 643, -12) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:25:24 PM: 127.0.0.1: Serials: 0x6; 
+###################################
+Logging started on 4/26/2014 3:27:33 PM
+
+4/26/2014 3:27:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:27:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 642, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:27:55 PM: 127.0.0.1: Serials: 0x6; 
+###################################
+Logging started on 4/26/2014 3:28:10 PM
+
+###################################
+Logging started on 4/26/2014 3:30:43 PM
+
+4/26/2014 3:31:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:31:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 641, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:31:03 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:31:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:31:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 644, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:31:38 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 3:31:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:31:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x9 "Renny," (no account)
+4/26/2014 3:31:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:31:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x6 "Zenia," (no account)
+###################################
+Logging started on 4/26/2014 3:35:22 PM
+
+4/26/2014 3:35:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:35:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 643, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:35:57 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:36:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:36:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x6 "Matthias," (no account)
+4/26/2014 3:36:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:36:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Rider' of 0x8 "a Backtrolian cavalry mount" (no account) to '0x6 "Matthias,"'
+4/26/2014 3:36:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dismount '
+4/26/2014 3:36:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') dismounting 0x6 "Matthias," (no account)
+4/26/2014 3:36:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:36:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1521, 638, -14) in Ilshenar: "horse"
+4/26/2014 3:36:36 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 3:36:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 640, -14) in Ilshenar: "horse"
+4/26/2014 3:36:38 PM: 127.0.0.1: Serials: 0xB; 
+4/26/2014 3:36:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 641, -14) in Ilshenar: "horse"
+4/26/2014 3:36:39 PM: 127.0.0.1: Serials: 0xC; 
+4/26/2014 3:36:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 640, -13) in Ilshenar: "horse"
+4/26/2014 3:36:41 PM: 127.0.0.1: Serials: 0xD; 
+4/26/2014 3:36:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "horse"
+4/26/2014 3:36:42 PM: 127.0.0.1: Serials: 0xE; 
+4/26/2014 3:36:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add horse'
+4/26/2014 3:36:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "horse"
+4/26/2014 3:36:43 PM: 127.0.0.1: Serials: 0xF; 
+4/26/2014 3:36:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:37:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:37:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:37:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/26/2014 3:37:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm delete'
+4/26/2014 3:37:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0xE "a horse" (no account)
+4/26/2014 3:37:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0xD "a horse" (no account)
+4/26/2014 3:37:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0xB "a horse" (no account)
+4/26/2014 3:37:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0xF "a horse" (no account)
+4/26/2014 3:37:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x9 "a horse" (no account)
+4/26/2014 3:37:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x6 "Matthias," (no account)
+4/26/2014 3:37:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x8 "a Backtrolian cavalry mount" (no account)
+4/26/2014 3:37:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0xC "a horse" (no account)
+4/26/2014 3:37:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add britannianguard cavalry'
+4/26/2014 3:37:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:38:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 641, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:38:00 PM: 127.0.0.1: Serials: 0x10; 
+4/26/2014 3:38:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:38:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 641, -14) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:38:02 PM: 127.0.0.1: Serials: 0x12; 
+4/26/2014 3:40:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/26/2014 3:41:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 3:41:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 641, -13) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 3:41:01 PM: 127.0.0.1: Serials: 0x14; 
+4/26/2014 3:41:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake set criminal true'
+4/26/2014 3:41:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 641, -14) in Ilshenar: "drake" "set" "criminal" "true"
+4/26/2014 3:41:07 PM: 127.0.0.1: Serials: 0x16; 
+4/26/2014 3:41:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake set criminal true'
+4/26/2014 3:41:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 643, -14) in Ilshenar: "drake" "set" "criminal" "true"
+4/26/2014 3:41:15 PM: 127.0.0.1: Serials: 0x17; 
+4/26/2014 3:41:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add dragon set criminal true'
+4/26/2014 3:41:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1520, 648, -14) in Ilshenar: "dragon" "set" "criminal" "true"
+4/26/2014 3:41:48 PM: 127.0.0.1: Serials: 0x18; 
+4/26/2014 3:45:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+4/26/2014 3:45:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'admin '
+4/26/2014 3:45:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') shutting down server (Restart: False) (Save: True)
+4/26/2014 3:45:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+###################################
+Logging started on 4/26/2014 3:46:23 PM
+
+###################################
+Logging started on 4/26/2014 3:47:14 PM
+
+4/26/2014 3:48:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add dragon set criminal true'
+4/26/2014 3:48:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1503, 640, -14) in Ilshenar: "dragon" "set" "criminal" "true"
+4/26/2014 3:48:34 PM: 127.0.0.1: Serials: 0x6; 
+4/26/2014 3:48:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake set criminal true cantwalk true'
+4/26/2014 3:48:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1507, 645, -14) in Ilshenar: "drake" "set" "criminal" "true" "cantwalk" "true"
+4/26/2014 3:48:48 PM: 127.0.0.1: Serials: 0x8; 
+4/26/2014 3:48:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/26/2014 3:48:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x6 "Iemish," (no account)
+4/26/2014 4:51:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backtrolianguard cavalry'
+4/26/2014 4:51:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1503, 627, -15) in Ilshenar: "backtrolianguard" "cavalry"
+4/26/2014 4:51:02 PM: 127.0.0.1: Serials: 0x9; 
+4/26/2014 4:51:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add lichlord'
+4/26/2014 4:51:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 620, -22) in Ilshenar: "lichlord"
+4/26/2014 4:51:12 PM: 127.0.0.1: Serials: 0xC; 
+4/26/2014 4:51:19 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+4/26/2014 4:51:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+4/26/2014 4:51:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 4/26/2014 5:14:18 PM
+
+4/26/2014 5:15:16 PM: 127.0.0.1: Administrator 0x6 "test" ('admin') used command 'props '
+###################################
+Logging started on 4/26/2014 5:18:49 PM
+
+###################################
+Logging started on 4/26/2014 5:56:59 PM
+
+4/26/2014 5:57:24 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get race'
+###################################
+Logging started on 4/26/2014 5:58:54 PM
+
+4/26/2014 6:02:13 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'set race none'
+4/26/2014 6:02:15 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'race' of 0x6 "Test" ('admin') to 'None'
+4/26/2014 6:02:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'set racebody 0'
+4/26/2014 6:02:35 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'racebody' of 0x6 "Test" ('admin') to '0'
+4/26/2014 6:37:15 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'help '
+4/26/2014 6:37:20 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'helpinfo '
+4/26/2014 6:37:31 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'delete character'
+4/26/2014 6:37:42 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add teleporter'
+4/26/2014 6:37:43 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (2756, 3862, -2) in Backtrol: "teleporter"
+4/26/2014 6:37:43 PM: 127.0.0.1: Serials: 0x4000001D; 
+4/26/2014 6:37:45 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+4/26/2014 6:37:57 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'MapDest' of 0x4000001D (Teleporter) to 'Felucca'
+4/26/2014 6:38:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'x' of 0x6 "Test" ('admin') to '330'
+4/26/2014 6:38:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'y' of 0x6 "Test" ('admin') to '3300'
+4/26/2014 6:38:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set x 330 y 3300'
+4/26/2014 6:38:17 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/26/2014 6:38:27 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'map' of 0x6 "Test" ('admin') to 'Felucca'
+4/26/2014 6:38:27 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set map felucca'
+###################################
+Logging started on 4/26/2014 6:43:11 PM
+
+###################################
+Logging started on 4/26/2014 6:46:25 PM
+
+4/26/2014 6:47:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'admin '
+4/26/2014 6:47:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'deletecharacter '
+4/26/2014 6:47:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting character 0x6 "Test" ('admin').
+###################################
+Logging started on 4/26/2014 6:52:24 PM
+

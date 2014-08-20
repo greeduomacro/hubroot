@@ -1,0 +1,26 @@
+﻿###################################
+Logging started on 4/29/2014 12:18:23 PM
+
+###################################
+Logging started on 4/29/2014 12:21:46 PM
+
+###################################
+Logging started on 4/29/2014 10:54:55 PM
+
+4/29/2014 10:56:07 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add katana'
+4/29/2014 10:56:08 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (2754, 3833, 20) in Backtrol: "katana"
+4/29/2014 10:56:08 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/29/2014 10:56:13 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'setallskills 100'
+4/29/2014 10:56:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'EverySkill.Base' of 0x6 "Test" ('admin') to '100'
+4/29/2014 10:56:24 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add fullspellbook'
+4/29/2014 10:56:25 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (2755, 3837, 20) in Backtrol: "fullspellbook"
+4/29/2014 10:56:25 PM: 127.0.0.1: Serials: 0x4000001D; 
+###################################
+Logging started on 4/29/2014 10:56:47 PM
+
+###################################
+Logging started on 4/29/2014 10:59:26 PM
+
+4/29/2014 11:00:01 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add katana'
+4/29/2014 11:00:02 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (2755, 3834, 20) in Backtrol: "katana"
+4/29/2014 11:00:02 PM: 127.0.0.1: Serials: 0x4000001C; 

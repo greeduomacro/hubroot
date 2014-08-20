@@ -1,0 +1,271 @@
+﻿###################################
+Logging started on 4/27/2014 2:39:53 PM
+
+4/27/2014 2:40:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 2:40:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor EastCCW'
+4/27/2014 2:40:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 622, -18) in Ilshenar: "StrongWoodDoor" "EastCCW"
+4/27/2014 2:40:18 PM: 127.0.0.1: Serials: 0x4000001C; 
+###################################
+Logging started on 4/27/2014 2:50:06 PM
+
+4/27/2014 2:50:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 2:50:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor SouthCW'
+4/27/2014 2:50:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, -19) in Ilshenar: "StrongWoodDoor" "SouthCW"
+4/27/2014 2:50:19 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 2:50:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add xmlspawner miner'
+4/27/2014 2:50:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1499, 618, -19) in Ilshenar: "xmlspawner" "miner"
+4/27/2014 2:50:28 PM: 127.0.0.1: Serials: 0x4000001D; 
+4/27/2014 2:50:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'move '
+4/27/2014 2:50:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') moving 0x8 "Shoshana" (no account) to (1499, 618, -19)
+4/27/2014 2:50:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor SouthCW'
+4/27/2014 2:50:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1506, 616, -19) in Ilshenar: "StrongWoodDoor" "SouthCW"
+4/27/2014 2:50:44 PM: 127.0.0.1: Serials: 0x40000052; 
+4/27/2014 2:50:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 4/27/2014 3:02:40 PM
+
+4/27/2014 3:03:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add cannon west'
+4/27/2014 3:03:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 622, -18) in Ilshenar: "cannon" "west"
+4/27/2014 3:03:04 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 3:03:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack cannonball'
+4/27/2014 3:03:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 623, -19) in Ilshenar: "cannonball"
+4/27/2014 3:03:22 PM: 127.0.0.1: Serials: 0x40000020; 
+4/27/2014 3:03:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack sulfurousask 50'
+4/27/2014 3:03:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 623, -19) in Ilshenar: "sulfurousask" "50"
+4/27/2014 3:03:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add sulfurousask'
+4/27/2014 3:03:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add sulfurousash'
+4/27/2014 3:03:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 624, -16) in Ilshenar: "sulfurousash"
+4/27/2014 3:03:36 PM: 127.0.0.1: Serials: 0x40000021; 
+4/27/2014 3:03:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dupe 100'
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duping 0x40000021 (SulfurousAsh) (inBag=False; amount=100)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000022 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000023 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000024 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000025 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000026 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000052 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000053 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000054 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000055 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000056 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000057 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000058 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000059 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005A (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005B (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005C (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005D (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005E (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000005F (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000060 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000061 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000062 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000063 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000064 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000065 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000066 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000067 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000068 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000069 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000006A (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000006B (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000006D (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000006E (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000006F (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000070 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000072 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000073 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000075 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000076 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000077 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000078 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007A (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007B (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007C (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007D (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007E (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000007F (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000080 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000081 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000082 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000083 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000084 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000085 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000086 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000087 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000088 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000089 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000008A (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000008C (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000008E (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000008F (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000092 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000093 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000094 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000095 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000096 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000097 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000098 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x40000099 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x4000009A (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000A0 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000A7 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000A9 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AA (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AB (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AC (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AD (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AE (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000AF (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B0 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B1 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B2 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B3 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B4 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B5 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B6 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B7 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B8 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000B9 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BA (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BB (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BC (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BD (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BE (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000BF (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000C0 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000C2 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000C3 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000C4 (SulfurousAsh)
+4/27/2014 3:03:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x40000021 (SulfurousAsh) creating 0x400000C5 (SulfurousAsh)
+4/27/2014 3:03:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 0'
+4/27/2014 3:03:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0x1 "Test" ('admin') to '0'
+4/27/2014 3:04:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 3:04:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 3:04:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 3:04:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 3:04:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/27/2014 3:04:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000001E (CannonComponent)
+###################################
+Logging started on 4/27/2014 3:09:03 PM
+
+4/27/2014 3:09:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack sulfurousash 50'
+4/27/2014 3:09:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack sulfurousash 50'
+4/27/2014 3:09:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 623, -17) in Ilshenar: "sulfurousash" "50"
+4/27/2014 3:09:17 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 3:09:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack cannonball 5'
+4/27/2014 3:09:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 623, -17) in Ilshenar: "cannonball" "5"
+4/27/2014 3:09:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack cannonball, 5'
+4/27/2014 3:09:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 623, -17) in Ilshenar: "cannonball," "5"
+4/27/2014 3:09:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack cannonball'
+4/27/2014 3:09:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 623, -17) in Ilshenar: "cannonball"
+4/27/2014 3:09:31 PM: 127.0.0.1: Serials: 0x4000001D; 
+4/27/2014 3:09:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'dupe 5'
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duping 0x4000001D (CannonBall) (inBag=False; amount=5)
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x4000001D (CannonBall) creating 0x4000001E (CannonBall)
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x4000001D (CannonBall) creating 0x4000001F (CannonBall)
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x4000001D (CannonBall) creating 0x40000020 (CannonBall)
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x4000001D (CannonBall) creating 0x40000021 (CannonBall)
+4/27/2014 3:09:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') duped 0x4000001D (CannonBall) creating 0x40000022 (CannonBall)
+4/27/2014 3:09:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add cannon west'
+4/27/2014 3:09:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 622, -18) in Ilshenar: "cannon" "west"
+4/27/2014 3:09:59 PM: 127.0.0.1: Serials: 0x40000023; 
+4/27/2014 3:10:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 80'
+4/27/2014 3:10:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0x1 "Test" ('admin') to '80'
+4/27/2014 3:10:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 3:10:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/27/2014 3:10:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000052 (Corpse)
+###################################
+Logging started on 4/27/2014 3:13:47 PM
+
+4/27/2014 3:14:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add cannon west'
+4/27/2014 3:14:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 621, -15) in Ilshenar: "cannon" "west"
+4/27/2014 3:14:08 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 3:14:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack cannonball'
+4/27/2014 3:14:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 622, -14) in Ilshenar: "cannonball"
+4/27/2014 3:14:16 PM: 127.0.0.1: Serials: 0x40000020; 
+4/27/2014 3:14:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack sulfurousash 50'
+4/27/2014 3:14:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 622, -14) in Ilshenar: "sulfurousash" "50"
+4/27/2014 3:14:25 PM: 127.0.0.1: Serials: 0x40000021; 
+4/27/2014 3:14:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 90'
+4/27/2014 3:14:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0x1 "Test" ('admin') to '90'
+4/27/2014 3:14:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'setallskills 80'
+4/27/2014 3:14:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'EverySkill.Base' of 0x1 "Test" ('admin') to '80'
+4/27/2014 3:15:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 4/27/2014 4:30:59 PM
+
+4/27/2014 4:33:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 4:33:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add xmlspawner miner'
+4/27/2014 4:33:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1499, 619, -19) in Ilshenar: "xmlspawner" "miner"
+4/27/2014 4:33:36 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 4:33:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor SouthCW'
+4/27/2014 4:33:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, -19) in Ilshenar: "StrongWoodDoor" "SouthCW"
+4/27/2014 4:33:39 PM: 127.0.0.1: Serials: 0x40000026; 
+4/27/2014 4:33:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'move '
+4/27/2014 4:33:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') moving 0x8 "Bonnie" (no account) to (1499, 618, -19)
+4/27/2014 4:33:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'tele '
+4/27/2014 4:33:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor SouthCW'
+4/27/2014 4:33:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 616, -20) in Ilshenar: "StrongWoodDoor" "SouthCW"
+4/27/2014 4:33:49 PM: 127.0.0.1: Serials: 0x40000052; 
+4/27/2014 4:34:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add creaturecontroller'
+4/27/2014 4:34:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 618, -18) in Ilshenar: "creaturecontroller"
+4/27/2014 4:34:17 PM: 127.0.0.1: Serials: 0x40000053; 
+###################################
+Logging started on 4/27/2014 4:37:34 PM
+
+4/27/2014 4:38:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 4:38:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor NorthCCW'
+4/27/2014 4:38:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, -19) in Ilshenar: "StrongWoodDoor" "NorthCCW"
+4/27/2014 4:38:23 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 4:38:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add xmlspawner minter'
+4/27/2014 4:38:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1498, 619, -19) in Ilshenar: "xmlspawner" "minter"
+4/27/2014 4:38:36 PM: 127.0.0.1: Serials: 0x4000001D; 
+4/27/2014 4:39:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack creaturecontroller'
+4/27/2014 4:39:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack creaturecontroller'
+4/27/2014 4:39:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1499, 618, -19) in Ilshenar: "creaturecontroller"
+4/27/2014 4:39:07 PM: 127.0.0.1: Serials: 0x40000058; 
+4/27/2014 4:39:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set spawnrange 0'
+4/27/2014 4:39:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'spawnrange' of 0x4000001D (XmlSpawner) to '0'
+4/27/2014 4:39:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set homerange 10'
+4/27/2014 4:39:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'homerange' of 0x4000001D (XmlSpawner) to '10'
+4/27/2014 4:39:42 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+4/27/2014 4:39:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+4/27/2014 4:39:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/27/2014 4:40:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/27/2014 4:40:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 4/27/2014 4:44:25 PM
+
+4/27/2014 4:50:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 4:50:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add DarkWoodDoor NorthCCW'
+4/27/2014 4:50:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, -19) in Ilshenar: "DarkWoodDoor" "NorthCCW"
+4/27/2014 4:50:07 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 4:50:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add minter'
+4/27/2014 4:50:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, 1) in Ilshenar: "minter"
+4/27/2014 4:50:16 PM: 127.0.0.1: Serials: 0x8; 
+4/27/2014 4:50:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'move '
+4/27/2014 4:50:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') moving 0x8 "Daly" (no account) to (1502, 619, -20)
+4/27/2014 4:50:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add creaturecontroller'
+4/27/2014 4:50:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1505, 623, -19) in Ilshenar: "creaturecontroller"
+4/27/2014 4:50:25 PM: 127.0.0.1: Serials: 0x40000022; 
+###################################
+Logging started on 4/27/2014 4:54:37 PM
+
+4/27/2014 4:56:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 4:56:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add StrongWoodDoor NorthCCW'
+4/27/2014 4:56:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1502, 619, -20) in Ilshenar: "StrongWoodDoor" "NorthCCW"
+4/27/2014 4:56:04 PM: 127.0.0.1: Serials: 0x4000001C; 
+4/27/2014 4:56:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add minter'
+4/27/2014 4:56:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1508, 620, -19) in Ilshenar: "minter"
+4/27/2014 4:56:18 PM: 127.0.0.1: Serials: 0x8; 
+4/27/2014 4:56:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add creaturecontroller'
+4/27/2014 4:56:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 624, -15) in Ilshenar: "creaturecontroller"
+4/27/2014 4:56:31 PM: 127.0.0.1: Serials: 0x40000022; 
+4/27/2014 4:57:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/27/2014 4:57:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000001C (StrongWoodDoor)
+4/27/2014 4:58:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'adddoor '
+4/27/2014 4:58:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'link '
+4/27/2014 4:58:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Add MetalDoor2 SouthCW'
+4/27/2014 4:58:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1501, 619, -19) in Ilshenar: "MetalDoor2" "SouthCW"
+4/27/2014 4:58:11 PM: 127.0.0.1: Serials: 0x40000023; 

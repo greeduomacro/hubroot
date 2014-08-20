@@ -1,0 +1,113 @@
+﻿###################################
+Logging started on 10/31/2013 12:06:00 AM
+
+###################################
+Logging started on 10/31/2013 12:10:17 AM
+
+10/31/2013 12:10:27 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add backpack'
+10/31/2013 12:10:29 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "backpack"
+10/31/2013 12:10:29 AM: 127.0.0.1: Serials: 0x40000009; 
+10/31/2013 12:10:35 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:10:36 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5856, 237, 20) in Backtrol: "disguisekit"
+10/31/2013 12:10:36 AM: 127.0.0.1: Serials: 0x4000000C; 
+###################################
+Logging started on 10/31/2013 12:16:35 AM
+
+10/31/2013 12:16:58 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add backpack'
+10/31/2013 12:17:00 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "backpack"
+10/31/2013 12:17:00 AM: 127.0.0.1: Serials: 0x40000009; 
+10/31/2013 12:17:04 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:17:06 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "disguisekit"
+10/31/2013 12:17:06 AM: 127.0.0.1: Serials: 0x4000000C; 
+10/31/2013 12:20:26 AM: 127.0.0.1: Administrator 0x1A "Test" ('Enroq') used command 'setallskills 0'
+10/31/2013 12:20:28 AM: 127.0.0.1: Administrator 0x1A "Test" ('Enroq') set property 'EverySkill.Base' of 0x1A "Test" ('Enroq') to '0'
+###################################
+Logging started on 10/31/2013 12:23:14 AM
+
+10/31/2013 12:24:23 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:24:24 AM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') building at (5857, 237, 20) in Backtrol: "disguisekit"
+10/31/2013 12:24:24 AM: 127.0.0.1: Serials: 0x40000009; 
+###################################
+Logging started on 10/31/2013 12:26:18 AM
+
+10/31/2013 12:26:50 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:26:52 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "disguisekit"
+10/31/2013 12:26:52 AM: 127.0.0.1: Serials: 0x40000009; 
+###################################
+Logging started on 10/31/2013 12:31:38 AM
+
+10/31/2013 12:33:23 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:33:24 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "disguisekit"
+10/31/2013 12:33:24 AM: 127.0.0.1: Serials: 0x40000009; 
+10/31/2013 12:33:29 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add backpack'
+10/31/2013 12:33:31 AM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5857, 237, 20) in Backtrol: "backpack"
+10/31/2013 12:33:31 AM: 127.0.0.1: Serials: 0x4000000C; 
+10/31/2013 12:40:05 AM: 127.0.0.1: Administrator 0x1A "" ('Enroq') used command 'save '
+###################################
+Logging started on 10/31/2013 12:40:51 AM
+
+###################################
+Logging started on 10/31/2013 12:41:59 AM
+
+10/31/2013 12:43:14 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add disguisekit'
+10/31/2013 12:43:15 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1727, 542, 5) in Backtrol: "disguisekit"
+10/31/2013 12:43:15 AM: 127.0.0.1: Serials: 0x4000000E; 
+10/31/2013 12:43:21 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'setallskills 99'
+10/31/2013 12:43:22 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Edenai" ('Enroq') to '99'
+10/31/2013 12:43:26 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'setallskills 100'
+10/31/2013 12:43:26 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Edenai" ('Enroq') to '100'
+10/31/2013 12:50:30 AM: 127.0.0.1: Administrator 0x2 "Eak" ('Enroq') used command 'adjusthair '
+10/31/2013 12:51:03 AM: 127.0.0.1: Administrator 0x2 "Eak" ('Enroq') used command 'add backpack'
+10/31/2013 12:51:04 AM: 127.0.0.1: Administrator 0x2 "Eak" ('Enroq') building at (1730, 539, 5) in Backtrol: "backpack"
+10/31/2013 12:51:04 AM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 10/31/2013 1:02:44 AM
+
+10/31/2013 1:03:46 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add backpack'
+10/31/2013 1:03:47 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1726, 542, 5) in Backtrol: "backpack"
+10/31/2013 1:03:48 AM: 127.0.0.1: Serials: 0x4000000E; 
+10/31/2013 1:03:51 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add disguisekit'
+10/31/2013 1:03:52 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1728, 542, 5) in Backtrol: "disguisekit"
+10/31/2013 1:03:52 AM: 127.0.0.1: Serials: 0x4000000F; 
+10/31/2013 1:04:02 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'setallskills 100'
+10/31/2013 1:04:03 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Edenai" ('Enroq') to '100'
+10/31/2013 1:04:23 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') used command 'set name ""'
+10/31/2013 1:04:23 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') set property 'name' of 0x2 "Alden" ('Enroq') to ''
+10/31/2013 1:04:30 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') used command 'set name ""'
+10/31/2013 1:04:31 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') set property 'name' of 0x2 "Alden" ('Enroq') to ''
+10/31/2013 1:04:39 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') used command 'set namemod ""'
+10/31/2013 1:04:40 AM: 127.0.0.1: Administrator 0x2 "Alden" ('Enroq') set property 'namemod' of 0x2 "Alden" ('Enroq') to ''
+10/31/2013 1:04:43 AM: 127.0.0.1: Administrator 0x2 "" ('Enroq') used command 'save '
+###################################
+Logging started on 10/31/2013 1:06:38 AM
+
+###################################
+Logging started on 10/31/2013 1:10:03 AM
+
+###################################
+Logging started on 10/31/2013 1:15:09 AM
+
+10/31/2013 1:18:12 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'setallskills 100'
+10/31/2013 1:18:14 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Edenai" ('Enroq') to '100'
+10/31/2013 1:18:16 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'props '
+10/31/2013 1:26:46 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'get namemod'
+10/31/2013 1:36:53 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'save '
+###################################
+Logging started on 10/31/2013 1:40:13 AM
+
+10/31/2013 1:41:51 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add backpack'
+10/31/2013 1:41:53 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1727, 542, 5) in Backtrol: "backpack"
+10/31/2013 1:41:53 AM: 127.0.0.1: Serials: 0x40000009; 
+10/31/2013 1:42:00 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'save '
+10/31/2013 1:42:03 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add disguisekit'
+10/31/2013 1:42:04 AM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1727, 542, 5) in Backtrol: "disguisekit"
+10/31/2013 1:42:04 AM: 127.0.0.1: Serials: 0x4000000C; 
+10/31/2013 1:42:17 AM: 127.0.0.1: Administrator 0x2 "Brok" ('Enroq') used command 'add mag'
+10/31/2013 1:42:29 AM: 127.0.0.1: Administrator 0x2 "Brok" ('Enroq') building at (1725, 542, 5) in Backtrol: "EvilMage"
+10/31/2013 1:42:29 AM: 127.0.0.1: Serials: 0x3; 
+10/31/2013 1:42:35 AM: 127.0.0.1: Administrator 0x2 "Brok" ('Enroq') used command 'setallskills 200'
+10/31/2013 1:42:36 AM: 127.0.0.1: Administrator 0x2 "Brok" ('Enroq') set property 'EverySkill.Base' of 0x2 "Brok" ('Enroq') to '200'
+10/31/2013 1:42:44 AM: 127.0.0.1: Administrator 0x2 "Brok" ('Enroq') used command 'heal '
+###################################
+Logging started on 10/31/2013 4:40:20 AM
+

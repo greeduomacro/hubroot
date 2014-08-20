@@ -1,0 +1,17 @@
+﻿###################################
+Logging started on 9/21/2013 10:30:05 PM
+
+###################################
+Logging started on 9/21/2013 10:45:23 PM
+
+9/21/2013 10:47:41 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'm tele'
+9/21/2013 10:48:50 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'x' of 0x2 "Eidenai" ('Enroq') to '1630'
+9/21/2013 10:48:50 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'y' of 0x2 "Eidenai" ('Enroq') to '790'
+9/21/2013 10:48:50 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'self set x 1630 y 790'
+9/21/2013 10:48:52 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'm tele'
+9/21/2013 10:52:37 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'm tele'
+9/21/2013 10:55:01 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'x' of 0x2 "Eidenai" ('Enroq') to '3856'
+9/21/2013 10:55:01 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'y' of 0x2 "Eidenai" ('Enroq') to '720'
+9/21/2013 10:55:01 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'self set x 3856 y 720'
+9/21/2013 10:55:04 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'm tele'
+9/21/2013 10:56:58 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'go '

@@ -1,0 +1,45 @@
+﻿###################################
+Logging started on 11/17/2013 2:14:18 AM
+
+11/17/2013 2:14:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:14:55 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:15:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 2:15:29 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:15:32 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:15:33 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:15:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:16:01 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:16:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get location'
+11/17/2013 2:16:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'm tele'
+###################################
+Logging started on 11/17/2013 2:17:49 AM
+
+11/17/2013 2:18:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'm tele'
+###################################
+Logging started on 11/17/2013 8:53:37 PM
+
+###################################
+Logging started on 11/17/2013 9:15:14 PM
+
+11/17/2013 9:16:14 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add halberd'
+11/17/2013 9:16:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2022, 461, 5) in Backtrol: "halberd"
+11/17/2013 9:16:16 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/17/2013 9:16:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/17/2013 9:16:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2020, 458, 5) in Backtrol: "ogre"
+11/17/2013 9:16:27 PM: 127.0.0.1: Serials: 0x9; 
+11/17/2013 9:16:36 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:16:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:16:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:17:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:17:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:17:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:17:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:18:09 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:18:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:20:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/17/2013 9:20:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2021, 452, 5) in Backtrol: "ogre"
+11/17/2013 9:20:11 PM: 127.0.0.1: Serials: 0xA; 
+11/17/2013 9:20:37 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:20:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:22:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/17/2013 9:30:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '

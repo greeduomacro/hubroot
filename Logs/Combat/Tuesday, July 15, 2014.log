@@ -1,0 +1,113 @@
+﻿###################################
+Logging started on 7/15/2014 3:34:21 PM
+
+7/15/2014 3:36:09 PM: 127.0.0.1: 0xB "Test" ('test'): initiated aggressive action against 0x1 "Test" ('admin')
+7/15/2014 3:36:14 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 6:31:56 PM
+
+###################################
+Logging started on 7/15/2014 6:53:44 PM
+
+###################################
+Logging started on 7/15/2014 6:55:48 PM
+
+###################################
+Logging started on 7/15/2014 7:07:37 PM
+
+###################################
+Logging started on 7/15/2014 7:21:39 PM
+
+###################################
+Logging started on 7/15/2014 7:42:54 PM
+
+###################################
+Logging started on 7/15/2014 7:43:15 PM
+
+###################################
+Logging started on 7/15/2014 7:43:56 PM
+
+7/15/2014 7:45:29 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 7:46:40 PM: 127.0.0.1: 0xB "Test" ('test'): initiated aggressive action against 0x1 "Test" ('admin')
+7/15/2014 7:46:50 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 7:48:37 PM
+
+###################################
+Logging started on 7/15/2014 7:49:42 PM
+
+7/15/2014 7:50:53 PM: 127.0.0.1: 0xB "Test" ('test'): initiated aggressive action against 0x1 "Test" ('admin')
+7/15/2014 7:50:57 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 7:54:01 PM
+
+###################################
+Logging started on 7/15/2014 8:01:01 PM
+
+###################################
+Logging started on 7/15/2014 8:06:14 PM
+
+7/15/2014 8:07:34 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 8:07:40 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 8:07:59 PM
+
+###################################
+Logging started on 7/15/2014 8:09:07 PM
+
+7/15/2014 8:10:42 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 8:10:47 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 8:13:39 PM
+
+###################################
+Logging started on 7/15/2014 8:28:18 PM
+
+###################################
+Logging started on 7/15/2014 8:30:01 PM
+
+7/15/2014 8:31:26 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 8:31:31 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 8:32:35 PM
+
+###################################
+Logging started on 7/15/2014 8:33:09 PM
+
+###################################
+Logging started on 7/15/2014 8:51:52 PM
+
+###################################
+Logging started on 7/15/2014 8:52:25 PM
+
+###################################
+Logging started on 7/15/2014 8:57:37 PM
+
+###################################
+Logging started on 7/15/2014 9:01:37 PM
+
+###################################
+Logging started on 7/15/2014 9:07:34 PM
+
+###################################
+Logging started on 7/15/2014 9:09:58 PM
+
+###################################
+Logging started on 7/15/2014 9:15:00 PM
+
+###################################
+Logging started on 7/15/2014 9:23:49 PM
+
+###################################
+Logging started on 7/15/2014 9:26:51 PM
+
+7/15/2014 9:31:29 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 9:31:34 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 9:32:53 PM
+
+7/15/2014 9:36:37 PM: 127.0.0.1: 0x1 "Test" ('admin'): initiated aggressive action against 0xB "Test" ('test')
+7/15/2014 9:36:44 PM: 127.0.0.1: 0xB "Test" ('test'): was killed by 0x1 "Test" ('admin')
+###################################
+Logging started on 7/15/2014 9:40:07 PM
+

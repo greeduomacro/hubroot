@@ -1,0 +1,118 @@
+﻿###################################
+Logging started on 12/17/2013 5:25:34 AM
+
+12/17/2013 5:26:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/17/2013 5:26:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000000'
+12/17/2013 5:26:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000000'
+12/17/2013 5:27:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add shield'
+12/17/2013 5:27:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 404, -1) in Backtrol: "ChaosShield"
+12/17/2013 5:27:49 AM: 127.0.0.1: Serials: 0x4000000F; 
+12/17/2013 5:28:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/17/2013 5:28:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/17/2013 5:28:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add katana'
+12/17/2013 5:28:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5679, 404, -1) in Backtrol: "katana"
+12/17/2013 5:28:14 AM: 127.0.0.1: Serials: 0x40000013; 
+12/17/2013 5:28:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/17/2013 5:28:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '500'
+12/17/2013 5:29:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lich'
+12/17/2013 5:29:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5678, 403, -3) in Backtrol: "lich"
+12/17/2013 5:29:20 AM: 127.0.0.1: Serials: 0x3; 
+12/17/2013 5:29:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/17/2013 5:29:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 404, -1) in Backtrol: "fullspellbook"
+12/17/2013 5:29:41 AM: 127.0.0.1: Serials: 0x40000026; 
+12/17/2013 5:29:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/17/2013 5:29:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5678, 403, -3) in Backtrol: "lichlord"
+12/17/2013 5:29:51 AM: 127.0.0.1: Serials: 0x4; 
+12/17/2013 5:29:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenStam' of ... to '100'
+12/17/2013 5:32:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/17/2013 5:33:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add spear'
+12/17/2013 5:33:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 404, -1) in Backtrol: "spear"
+12/17/2013 5:33:36 AM: 127.0.0.1: Serials: 0x40000068; 
+12/17/2013 5:33:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/17/2013 5:33:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 403, 0) in Backtrol: "lichlord"
+12/17/2013 5:33:58 AM: 127.0.0.1: Serials: 0x5; 
+12/17/2013 5:34:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add mace'
+12/17/2013 5:34:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 401, 1) in Backtrol: "mace"
+12/17/2013 5:34:57 AM: 127.0.0.1: Serials: 0x40000091; 
+12/17/2013 5:35:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/17/2013 5:35:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 404, -1) in Backtrol: "ogre"
+12/17/2013 5:35:16 AM: 127.0.0.1: Serials: 0x6; 
+12/17/2013 5:35:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+###################################
+Logging started on 12/17/2013 5:52:27 AM
+
+###################################
+Logging started on 12/17/2013 5:54:33 AM
+
+12/17/2013 5:57:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add shield'
+12/17/2013 5:57:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5679, 403, -2) in Backtrol: "BronzeShield"
+12/17/2013 5:57:35 AM: 127.0.0.1: Serials: 0x4000000F; 
+12/17/2013 5:57:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/17/2013 5:57:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5679, 403, -2) in Backtrol: "ancientlich"
+12/17/2013 5:57:48 AM: 127.0.0.1: Serials: 0x3; 
+12/17/2013 5:57:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/17/2013 5:58:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000000'
+12/17/2013 5:58:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000000'
+12/17/2013 5:58:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add katana'
+12/17/2013 5:58:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 404, -1) in Backtrol: "katana"
+12/17/2013 5:58:33 AM: 127.0.0.1: Serials: 0x40000015; 
+12/17/2013 5:58:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 5:58:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 5:58:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set allskills 100'
+12/17/2013 5:58:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 5:59:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/17/2013 5:59:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/17/2013 5:59:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 1'
+12/17/2013 5:59:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x3 "Kaltivel" (no account) to '1'
+12/17/2013 6:00:31 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'calt '
+12/17/2013 6:00:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'calt '
+12/17/2013 6:01:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/17/2013 6:01:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 404, -1) in Backtrol: "ogre"
+12/17/2013 6:01:13 AM: 127.0.0.1: Serials: 0x4; 
+12/17/2013 6:01:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add scepter'
+12/17/2013 6:01:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 404, -1) in Backtrol: "scepter"
+12/17/2013 6:01:29 AM: 127.0.0.1: Serials: 0x4000004D; 
+12/17/2013 6:01:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/17/2013 6:01:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 405, -1) in Backtrol: "ogre"
+12/17/2013 6:01:41 AM: 127.0.0.1: Serials: 0x5; 
+12/17/2013 6:04:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/17/2013 6:04:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 404, -1) in Backtrol: "ancientlich"
+12/17/2013 6:04:17 AM: 127.0.0.1: Serials: 0x6; 
+12/17/2013 6:04:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:04:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:04:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:04:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:04:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:04:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:05:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 1'
+12/17/2013 6:05:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x6 "Kaltivel" (no account) to '1'
+12/17/2013 6:05:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:09:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogrelord'
+12/17/2013 6:09:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 404, -1) in Backtrol: "ogrelord"
+12/17/2013 6:09:54 AM: 127.0.0.1: Serials: 0x7; 
+12/17/2013 6:10:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:10:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:10:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:11:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/17/2013 6:11:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 402, 0) in Backtrol: "fullspellbook"
+12/17/2013 6:11:04 AM: 127.0.0.1: Serials: 0x400000E4; 
+12/17/2013 6:11:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/17/2013 6:11:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:12:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:12:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:12:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/17/2013 6:12:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 20'
+12/17/2013 6:12:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x7 "an ogre lord" (no account) to '20'
+12/17/2013 6:13:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lizardman'
+12/17/2013 6:13:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "lizardman"
+12/17/2013 6:13:53 AM: 127.0.0.1: Serials: 0x8; 
+12/17/2013 6:15:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogrelord'
+12/17/2013 6:15:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5679, 404, -1) in Backtrol: "ogrelord"
+12/17/2013 6:15:11 AM: 127.0.0.1: Serials: 0x9; 
+12/17/2013 6:16:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'tele '

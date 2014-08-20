@@ -1,0 +1,47 @@
+﻿###################################
+Logging started on 11/4/2013 1:57:16 AM
+
+###################################
+Logging started on 11/4/2013 4:40:15 AM
+
+###################################
+Logging started on 11/4/2013 2:37:53 PM
+
+11/4/2013 2:44:03 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add backpack'
+11/4/2013 2:44:06 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5864, 247, 21) in Backtrol: "backpack"
+11/4/2013 2:44:06 PM: 127.0.0.1: Serials: 0x40000013; 
+11/4/2013 2:44:37 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') used command 'remove '
+11/4/2013 2:44:38 PM: 127.0.0.1: Administrator 0x1A "Egam" ('Enroq') deleting 0x40000025 (HouseSign)
+###################################
+Logging started on 11/4/2013 2:52:56 PM
+
+###################################
+Logging started on 11/4/2013 2:53:57 PM
+
+###################################
+Logging started on 11/4/2013 10:20:13 PM
+
+11/4/2013 10:23:40 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'perks '
+11/4/2013 10:23:43 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 0'
+11/4/2013 10:23:45 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Enroq') to '0'
+###################################
+Logging started on 11/4/2013 10:29:07 PM
+
+11/4/2013 10:29:40 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add ironingot 600'
+11/4/2013 10:29:41 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2059, 851, 5) in Backtrol: "ironingot" "600"
+11/4/2013 10:29:42 PM: 127.0.0.1: Serials: 0x40000013; 
+###################################
+Logging started on 11/4/2013 10:31:59 PM
+
+11/4/2013 10:32:29 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'setallskills 0'
+11/4/2013 10:32:30 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Eidenai" ('Enroq') to '0'
+###################################
+Logging started on 11/4/2013 11:24:44 PM
+
+11/4/2013 11:30:44 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') used command 'get weight'
+11/4/2013 11:31:07 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') used command 'add halberd'
+11/4/2013 11:31:08 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') building at (5677, 365, 10) in Backtrol: "halberd"
+11/4/2013 11:31:08 PM: 127.0.0.1: Serials: 0x4000001C; 
+11/4/2013 11:55:39 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') used command 'remove '
+11/4/2013 11:55:40 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') deleting 0x40000025 (HouseSign)
+11/4/2013 11:59:59 PM: 127.0.0.1: Administrator 0x3 "Yata" ('Enroq') used command 'jump '

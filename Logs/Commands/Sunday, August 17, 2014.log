@@ -1,0 +1,203 @@
+﻿###################################
+Logging started on 8/17/2014 4:41:11 PM
+
+8/17/2014 4:42:34 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add pylon'
+8/17/2014 4:42:39 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'm tele'
+8/17/2014 4:42:46 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'get itemid'
+8/17/2014 4:42:53 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add factiondecor 404'
+8/17/2014 5:01:02 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add factiondecor 404'
+8/17/2014 5:01:03 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2752, 3834, 20) in Backtrol: "factiondecor" "404"
+8/17/2014 5:01:03 PM: 127.0.0.1: Serials: 0x4000000E; 
+8/17/2014 5:01:12 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add sigillum'
+8/17/2014 5:01:14 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2752, 3834, 40) in Backtrol: "sigillum"
+8/17/2014 5:01:14 PM: 127.0.0.1: Serials: 0x4000000F; 
+8/17/2014 5:01:18 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'inc z -1'
+8/17/2014 5:01:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'inc z -1'
+8/17/2014 5:01:41 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/17/2014 5:30:39 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'self inc x -50 y -50'
+8/17/2014 5:30:45 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'self inc x 100 y 100'
+8/17/2014 5:31:02 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'self inc x -50 y -50'
+8/17/2014 5:31:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'RegionName' of 0x4000000F (Sigillum) to 'The Isle of Kesn'abuir'
+8/17/2014 5:31:20 PM: 127.0.0.1: Player 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:31:22 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:31:30 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'bank '
+8/17/2014 5:31:32 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') opening bank box of 0x1 "Qoern" ('admin')
+8/17/2014 5:32:10 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 5:32:23 PM: 127.0.0.1: Player 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:32:29 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:32:41 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'setallskills 120'
+8/17/2014 5:32:42 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'EverySkill.Base' of 0x1 "Qoern" ('admin') to '120'
+8/17/2014 5:32:46 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'setallskills 120'
+8/17/2014 5:32:46 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'EverySkill.Base' of 0x1 "Qoern" ('admin') to '120'
+8/17/2014 5:32:47 PM: 127.0.0.1: Player 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:32:52 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'calt '
+8/17/2014 5:36:18 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'factions '
+8/17/2014 5:38:30 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/17/2014 5:39:30 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add factiontrap'
+8/17/2014 5:39:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3836, 20) in Backtrol: "factiontrap"
+8/17/2014 5:39:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add factiontrapkit'
+8/17/2014 5:39:37 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3836, 20) in Backtrol: "factiontrapkit"
+8/17/2014 5:39:37 PM: 127.0.0.1: Serials: 0x4000001A; 
+8/17/2014 5:39:47 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack spoolofthread 10'
+8/17/2014 5:39:48 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3835, 20) in Backtrol: "spoolofthread" "10"
+8/17/2014 5:39:48 PM: 127.0.0.1: Serials: 0x4000001B; 
+8/17/2014 5:39:58 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack greaterexplosionpotion'
+8/17/2014 5:39:59 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3835, 20) in Backtrol: "greaterexplosionpotion"
+8/17/2014 5:39:59 PM: 127.0.0.1: Serials: 0x4000001D; 
+8/17/2014 5:40:02 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'dupe 50'
+8/17/2014 5:40:06 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'dupe 10'
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duping 0x4000001D (GreaterExplosionPotion) (inBag=False; amount=10)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x4000001E (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x4000001F (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000020 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000022 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000023 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000024 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000025 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000026 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000028 (GreaterExplosionPotion)
+8/17/2014 5:40:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000001D (GreaterExplosionPotion) creating 0x40000029 (GreaterExplosionPotion)
+8/17/2014 5:42:03 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack greaterpoisonpotion'
+8/17/2014 5:42:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack greaterpoisonpotion'
+8/17/2014 5:42:07 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3835, 20) in Backtrol: "greaterpoisonpotion"
+8/17/2014 5:42:07 PM: 127.0.0.1: Serials: 0x4000002C; 
+8/17/2014 5:42:11 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'dupe 6'
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duping 0x4000002C (GreaterPoisonPotion) (inBag=False; amount=6)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x4000002F (GreaterPoisonPotion)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x40000032 (GreaterPoisonPotion)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x40000033 (GreaterPoisonPotion)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x40000034 (GreaterPoisonPotion)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x40000035 (GreaterPoisonPotion)
+8/17/2014 5:42:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duped 0x4000002C (GreaterPoisonPotion) creating 0x40000036 (GreaterPoisonPotion)
+###################################
+Logging started on 8/17/2014 5:55:19 PM
+
+###################################
+Logging started on 8/17/2014 6:09:33 PM
+
+###################################
+Logging started on 8/17/2014 6:12:55 PM
+
+###################################
+Logging started on 8/17/2014 6:16:40 PM
+
+###################################
+Logging started on 8/17/2014 6:23:35 PM
+
+8/17/2014 6:24:43 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'calt '
+8/17/2014 6:24:51 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set accesslevel administrator'
+8/17/2014 6:24:52 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Administrator'
+8/17/2014 6:24:54 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 6:25:01 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 6:25:02 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 6:26:17 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'unhide '
+8/17/2014 6:26:18 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') unhiding 0x2 "Qorne" ('test')
+###################################
+Logging started on 8/17/2014 6:33:49 PM
+
+8/17/2014 6:36:23 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 6:36:24 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 6:36:58 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'set accesslevel 0'
+8/17/2014 6:36:59 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Player'
+###################################
+Logging started on 8/17/2014 6:47:15 PM
+
+###################################
+Logging started on 8/17/2014 7:03:49 PM
+
+###################################
+Logging started on 8/17/2014 7:19:45 PM
+
+8/17/2014 7:20:16 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'area delete'
+8/17/2014 7:20:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x4000002A (FactionExplosionTrap)
+8/17/2014 7:20:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x4000001E (FactionExplosionTrap)
+8/17/2014 7:20:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x4000002B (FactionExplosionTrap)
+8/17/2014 7:20:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x40000019 (FactionExplosionTrap)
+8/17/2014 7:20:28 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack springs 10'
+8/17/2014 7:20:29 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3829, 20) in Backtrol: "springs" "10"
+8/17/2014 7:20:29 PM: 127.0.0.1: Serials: 0x40000019; 
+8/17/2014 7:21:39 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 7:21:40 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 7:22:04 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'save '
+8/17/2014 7:22:08 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'set accesslevel 0'
+8/17/2014 7:22:09 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Player'
+8/17/2014 7:22:22 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'heal '
+8/17/2014 7:22:35 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set rawstr 125'
+8/17/2014 7:22:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'rawstr' of 0x2 "Qorne" ('test') to '125'
+8/17/2014 7:22:38 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'heal '
+8/17/2014 7:22:42 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'dupe '
+8/17/2014 7:22:45 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') duping 0x4000001D (FactionExplosionTrap) (inBag=False; amount=1)
+8/17/2014 7:23:44 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+###################################
+Logging started on 8/17/2014 7:27:00 PM
+
+###################################
+Logging started on 8/17/2014 7:40:30 PM
+
+###################################
+Logging started on 8/17/2014 7:51:07 PM
+
+###################################
+Logging started on 8/17/2014 7:56:09 PM
+
+###################################
+Logging started on 8/17/2014 8:11:10 PM
+
+8/17/2014 8:12:40 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'addtopack explosionpotion'
+8/17/2014 8:12:41 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2754, 3821, 20) in Backtrol: "explosionpotion"
+8/17/2014 8:12:41 PM: 127.0.0.1: Serials: 0x4000001D; 
+8/17/2014 8:12:44 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set amount 100'
+8/17/2014 8:12:45 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'amount' of 0x4000001D (ExplosionPotion) to '100'
+8/17/2014 8:12:48 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set amount 100'
+8/17/2014 8:12:48 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'amount' of 0x4000001B (SpoolOfThread) to '100'
+8/17/2014 8:12:49 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set amount 100'
+8/17/2014 8:12:50 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'amount' of 0x40000019 (Springs) to '100'
+8/17/2014 8:14:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'move '
+8/17/2014 8:14:33 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') moving 0x4000001E (FactionExplosionTrap) to (2754, 3825, 20)
+8/17/2014 8:14:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'move '
+8/17/2014 8:14:40 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'move '
+8/17/2014 8:14:41 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') moving 0x40000022 (FactionExplosionTrap) to (2754, 3827, 20)
+8/17/2014 8:14:43 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'heal '
+8/17/2014 8:15:38 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'move '
+8/17/2014 8:15:39 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') moving 0x4000001F (FactionExplosionTrap) to (2754, 3824, 20)
+8/17/2014 8:16:49 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'remove '
+8/17/2014 8:16:51 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x4000001F (FactionExplosionTrap)
+8/17/2014 8:16:56 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'remove '
+8/17/2014 8:16:56 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x40000020 (FactionExplosionTrap)
+8/17/2014 8:17:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'heal '
+###################################
+Logging started on 8/17/2014 9:50:20 PM
+
+8/17/2014 10:01:22 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'wipe '
+8/17/2014 10:01:23 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') wiping from (2754, 3820, 20) to (2757, 3830, 20) in Backtrol (Items, Mobiles)
+8/17/2014 10:01:26 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:32 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:32 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:33 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:33 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:35 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:36 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:37 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:37 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'save '
+8/17/2014 10:01:53 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add guard swordsman'
+8/17/2014 10:01:54 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2756, 3828, 20) in Backtrol: "guard" "swordsman"
+8/17/2014 10:01:54 PM: 127.0.0.1: Serials: 0x3; 
+8/17/2014 10:02:25 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'add ogrelord'
+8/17/2014 10:02:26 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') building at (2756, 3825, 20) in Backtrol: "ogrelord"
+8/17/2014 10:02:26 PM: 127.0.0.1: Serials: 0x4; 
+8/17/2014 10:02:30 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'get karma'
+8/17/2014 10:02:32 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'get karma'
+8/17/2014 10:05:02 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'heal '
+8/17/2014 10:05:18 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'setallskills 120'
+8/17/2014 10:05:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'EverySkill.Base' of 0x1 "Qoern" ('admin') to '120'
+8/17/2014 10:05:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'set rawstr 125'
+8/17/2014 10:05:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'rawstr' of 0x1 "Qoern" ('admin') to '125'
+8/17/2014 10:06:29 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'm tele'
+8/17/2014 10:06:33 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'm tele'
+8/17/2014 10:07:50 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'inc rank'
+8/17/2014 10:07:52 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'inc rank 1'
+8/17/2014 10:07:56 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/17/2014 10:08:29 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'factions '

@@ -1,0 +1,14 @@
+﻿###################################
+Logging started on 10/30/2013 4:40:20 AM
+
+10/30/2013 10:55:09 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add backpack'
+10/30/2013 10:55:11 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1728, 542, 5) in Backtrol: "backpack"
+10/30/2013 10:55:11 PM: 127.0.0.1: Serials: 0x40000009; 
+10/30/2013 10:55:17 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'add disguisekit'
+10/30/2013 10:55:18 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') building at (1727, 542, 5) in Backtrol: "disguisekit"
+10/30/2013 10:55:18 PM: 127.0.0.1: Serials: 0x4000000C; 
+10/30/2013 10:55:38 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'props '
+10/30/2013 10:55:43 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'setallskills 100'
+10/30/2013 10:55:44 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'EverySkill.Base' of 0x2 "Edenai" ('Enroq') to '100'
+10/30/2013 10:56:06 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') set property 'NpcGuild' of 0x2 "Edenai" ('Enroq') to 'ThievesGuild'
+10/30/2013 11:04:45 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'get itemid'

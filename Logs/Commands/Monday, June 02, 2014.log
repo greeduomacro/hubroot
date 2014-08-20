@@ -1,0 +1,81 @@
+﻿###################################
+Logging started on 6/2/2014 12:27:38 AM
+
+6/2/2014 12:28:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 1:05:52 AM
+
+6/2/2014 1:06:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 1:09:30 AM
+
+6/2/2014 1:09:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:10:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add guildstonedeed'
+6/2/2014 1:10:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "guildstonedeed"
+6/2/2014 1:10:18 AM: 127.0.0.1: Serials: 0x40000008; 
+6/2/2014 1:10:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add guildstone'
+6/2/2014 1:10:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 644, -14) in Ilshenar: "guildstone"
+6/2/2014 1:10:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add house'
+6/2/2014 1:10:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 644, -14) in Ilshenar: "SmallBrickHouseDeed"
+6/2/2014 1:10:35 AM: 127.0.0.1: Serials: 0x40000009; 
+6/2/2014 1:11:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack gold 3'
+6/2/2014 1:11:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 639, -7) in Ilshenar: "gold" "3"
+6/2/2014 1:11:23 AM: 127.0.0.1: Serials: 0x4000006C; 
+6/2/2014 1:11:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'bank '
+6/2/2014 1:11:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') opening bank box of 0x1 "Test" ('admin')
+6/2/2014 1:11:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:12:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 1:16:28 AM
+
+###################################
+Logging started on 6/2/2014 1:18:55 AM
+
+6/2/2014 1:19:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:19:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get allianceName'
+###################################
+Logging started on 6/2/2014 1:22:41 AM
+
+6/2/2014 1:23:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:23:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:23:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 1:23:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set currentalliance null'
+6/2/2014 1:24:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 1:29:51 AM
+
+6/2/2014 1:30:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 2:17:02 AM
+
+6/2/2014 2:18:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 2:18:34 AM
+
+###################################
+Logging started on 6/2/2014 2:23:06 AM
+
+6/2/2014 2:23:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 2:24:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 2:24:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'admin '
+6/2/2014 2:24:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') changing password of account test
+6/2/2014 2:25:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'who '
+6/2/2014 2:25:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') bringing 0xB "Test" ('test') to Location (1519, 646, -14), Map Ilshenar
+6/2/2014 2:25:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+6/2/2014 2:25:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set accesslevel administrator'
+6/2/2014 2:25:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'accesslevel' of 0xB "Test" ('test') to 'Administrator'
+6/2/2014 2:25:49 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+6/2/2014 2:29:10 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+6/2/2014 2:29:16 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+6/2/2014 2:29:19 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+###################################
+Logging started on 6/2/2014 4:08:27 AM
+
+6/2/2014 4:09:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 6/2/2014 4:11:22 AM
+
+6/2/2014 4:12:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 4:13:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 4:13:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+6/2/2014 4:13:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '

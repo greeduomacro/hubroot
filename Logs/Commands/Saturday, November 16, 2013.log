@@ -1,0 +1,360 @@
+﻿###################################
+Logging started on 11/16/2013 4:40:18 AM
+
+###################################
+Logging started on 11/16/2013 2:04:53 PM
+
+###################################
+Logging started on 11/16/2013 2:31:45 PM
+
+11/16/2013 2:32:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 3:28:53 PM
+
+###################################
+Logging started on 11/16/2013 3:29:19 PM
+
+###################################
+Logging started on 11/16/2013 3:31:56 PM
+
+11/16/2013 3:39:36 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 3:39:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/16/2013 3:39:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '360000'
+11/16/2013 3:39:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 360000'
+###################################
+Logging started on 11/16/2013 3:41:20 PM
+
+11/16/2013 3:42:04 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/16/2013 3:42:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/16/2013 3:42:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'allspells '
+11/16/2013 3:42:15 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') filling spellbook 0x4000001A (Spellbook)
+11/16/2013 3:42:23 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/16/2013 3:43:53 PM
+
+11/16/2013 3:44:46 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/16/2013 3:44:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/16/2013 3:44:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 3:44:55 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'allspells '
+11/16/2013 3:44:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') filling spellbook 0x4000001A (Spellbook)
+11/16/2013 3:44:58 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/16/2013 3:47:33 PM
+
+11/16/2013 3:47:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'allspells '
+11/16/2013 3:47:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') filling spellbook 0x4000001A (Spellbook)
+11/16/2013 3:47:53 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/16/2013 3:54:11 PM
+
+11/16/2013 3:54:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add rea'
+11/16/2013 3:54:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bagof'
+11/16/2013 3:54:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 5) in Backtrol: "BagOfReagents"
+11/16/2013 3:54:45 PM: 127.0.0.1: Serials: 0x4000036D; 
+###################################
+Logging started on 11/16/2013 3:55:58 PM
+
+11/16/2013 3:56:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 3:56:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bagof'
+11/16/2013 3:56:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 5) in Backtrol: "BagOfReagents"
+11/16/2013 3:56:20 PM: 127.0.0.1: Serials: 0x4000036D; 
+11/16/2013 3:57:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add scroll'
+11/16/2013 3:57:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add scrol'
+11/16/2013 3:57:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 5) in Backtrol: "BladeSpiritsScroll"
+11/16/2013 3:57:12 PM: 127.0.0.1: Serials: 0x40000430; 
+11/16/2013 3:57:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 3:57:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '360000'
+11/16/2013 3:57:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 360000'
+11/16/2013 3:57:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/16/2013 3:57:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 3:58:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add scrol'
+11/16/2013 3:58:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 5) in Backtrol: "BladeSpiritsScroll"
+11/16/2013 3:58:22 PM: 127.0.0.1: Serials: 0x40000431; 
+11/16/2013 3:58:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 6) in Backtrol: "BladeSpiritsScroll"
+11/16/2013 3:58:23 PM: 127.0.0.1: Serials: 0x40000432; 
+11/16/2013 3:58:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'allspells '
+11/16/2013 3:58:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 3:58:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') filling spellbook 0x4000001A (Spellbook)
+11/16/2013 4:08:09 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 4:13:08 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'm tele'
+###################################
+Logging started on 11/16/2013 5:03:26 PM
+
+###################################
+Logging started on 11/16/2013 5:29:08 PM
+
+11/16/2013 5:30:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bow'
+11/16/2013 5:30:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/16/2013 5:30:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 465, 5) in Backtrol: "bow"
+11/16/2013 5:30:04 PM: 127.0.0.1: Serials: 0x4000036D; 
+11/16/2013 5:30:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '1000000'
+11/16/2013 5:30:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 1000000'
+11/16/2013 5:30:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+11/16/2013 5:30:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 5:30:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord'
+11/16/2013 5:30:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2056, 461, 5) in Backtrol: "ogrelord"
+11/16/2013 5:30:28 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 5:30:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow 100'
+11/16/2013 5:30:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2028, 489, 5) in Backtrol: "arrow" "100"
+11/16/2013 5:30:39 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/16/2013 5:31:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 5:32:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 5:32:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 5:32:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 5:33:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 1'
+11/16/2013 5:33:03 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0x9 "an ogre lord" (no account) to '1'
+###################################
+Logging started on 11/16/2013 5:54:18 PM
+
+11/16/2013 6:07:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add glass'
+11/16/2013 6:07:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add glas'
+11/16/2013 6:07:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2053, 466, 5) in Backtrol: "Glassblower"
+11/16/2013 6:07:33 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 6:08:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add glass'
+11/16/2013 6:08:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add glas'
+11/16/2013 6:08:08 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2054, 466, 5) in Backtrol: "GlassblowingBook"
+11/16/2013 6:08:08 PM: 127.0.0.1: Serials: 0x4000045B; 
+11/16/2013 6:08:37 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add forge'
+11/16/2013 6:08:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2052, 468, 5) in Backtrol: "forge"
+11/16/2013 6:08:38 PM: 127.0.0.1: Serials: 0x4000045C; 
+11/16/2013 6:22:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 8:51:55 PM
+
+11/16/2013 8:52:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord'
+11/16/2013 8:52:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 8:52:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2053, 467, 5) in Backtrol: "ogrelord"
+11/16/2013 8:52:10 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 8:52:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow'
+11/16/2013 8:52:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2025, 492, 5) in Backtrol: "arrow"
+11/16/2013 8:52:40 PM: 127.0.0.1: Serials: 0x4000039E; 
+11/16/2013 8:52:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'dupe 100'
+11/16/2013 8:52:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow 1000'
+11/16/2013 8:52:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2014, 502, 6) in Backtrol: "arrow" "1000"
+11/16/2013 8:52:52 PM: 127.0.0.1: Serials: 0x400003FE; 
+11/16/2013 8:53:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 8:53:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bow'
+11/16/2013 8:53:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2047, 502, 5) in Backtrol: "bow"
+11/16/2013 8:53:35 PM: 127.0.0.1: Serials: 0x4000043E; 
+11/16/2013 8:54:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'kill '
+11/16/2013 8:54:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') killed 0x9 "an ogre lord" (no account).
+###################################
+Logging started on 11/16/2013 9:32:04 PM
+
+11/16/2013 9:32:32 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow 500'
+11/16/2013 9:32:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 465, 5) in Backtrol: "arrow" "500"
+11/16/2013 9:32:33 PM: 127.0.0.1: Serials: 0x4000039B; 
+11/16/2013 9:32:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 9:32:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2045, 467, 6) in Backtrol: "ogre"
+11/16/2013 9:32:42 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 9:32:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 9:32:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 9:32:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/16/2013 9:32:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x9 "an ogre" (no account)
+11/16/2013 9:33:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord'
+11/16/2013 9:33:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2050, 458, 5) in Backtrol: "ogrelord"
+11/16/2013 9:33:02 PM: 127.0.0.1: Serials: 0xA; 
+11/16/2013 9:33:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 9:34:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 9:34:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/16/2013 9:35:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/16/2013 9:35:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0xA "an ogre lord" (no account)
+###################################
+Logging started on 11/16/2013 9:37:53 PM
+
+11/16/2013 9:38:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 9:38:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 9:38:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2064, 460, 5) in Backtrol: "ogre"
+11/16/2013 9:38:41 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 9:38:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow 100'
+11/16/2013 9:38:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2034, 485, 5) in Backtrol: "arrow" "100"
+11/16/2013 9:38:52 PM: 127.0.0.1: Serials: 0x4000039E; 
+###################################
+Logging started on 11/16/2013 9:40:23 PM
+
+11/16/2013 9:40:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'addtopack arrow 100'
+11/16/2013 9:40:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 465, 5) in Backtrol: "arrow" "100"
+11/16/2013 9:40:59 PM: 127.0.0.1: Serials: 0x4000039B; 
+11/16/2013 9:41:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+11/16/2013 9:41:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 9:41:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 9:41:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2049, 469, 5) in Backtrol: "ogre"
+11/16/2013 9:41:39 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 9:41:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 9:41:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord'
+11/16/2013 9:41:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 457, 5) in Backtrol: "ogrelord"
+11/16/2013 9:41:54 PM: 127.0.0.1: Serials: 0xA; 
+11/16/2013 9:41:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set cantwalk true'
+11/16/2013 9:41:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'cantwalk' of 0xA "an ogre lord" (no account) to 'True'
+###################################
+Logging started on 11/16/2013 9:49:41 PM
+
+11/16/2013 9:50:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 9:50:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 9:50:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2046, 467, 5) in Backtrol: "ogre"
+11/16/2013 9:50:52 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 9:51:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/16/2013 9:51:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x9 "an ogre" (no account)
+###################################
+Logging started on 11/16/2013 9:57:05 PM
+
+11/16/2013 9:57:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 9:57:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2047, 467, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 9:57:19 PM: 127.0.0.1: Serials: 0x9; 
+###################################
+Logging started on 11/16/2013 9:59:55 PM
+
+11/16/2013 10:00:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:00:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2049, 466, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:00:39 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:00:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 10:01:31 PM
+
+11/16/2013 10:07:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk truew'
+11/16/2013 10:07:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:07:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2048, 467, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:07:45 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:08:09 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get weight'
+11/16/2013 10:11:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 10:12:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 10:12:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 10:22:28 PM
+
+11/16/2013 10:22:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:22:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2050, 465, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:22:59 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:23:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:23:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 10:27:07 PM
+
+11/16/2013 10:27:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:28:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:28:14 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2046, 467, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:28:14 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:28:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 10:33:27 PM
+
+11/16/2013 10:33:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:34:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:34:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2051, 466, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:34:24 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:34:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 200'
+11/16/2013 10:34:33 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x3 "Egam" ('Enroq') to '200'
+11/16/2013 10:34:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 10:37:20 PM
+
+11/16/2013 10:39:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:39:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk tru'
+11/16/2013 10:39:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:39:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2050, 470, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:39:27 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:39:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bow'
+11/16/2013 10:39:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2052, 470, 5) in Backtrol: "bow"
+11/16/2013 10:39:43 PM: 127.0.0.1: Serials: 0x40000434; 
+11/16/2013 10:39:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:40:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 10:40:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 10:42:07 PM
+
+11/16/2013 10:42:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:42:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk truew'
+11/16/2013 10:42:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:42:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2048, 467, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:42:44 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:42:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 10:44:52 PM
+
+11/16/2013 10:45:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 10:45:49 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord set cantwalk true'
+11/16/2013 10:45:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2047, 469, 5) in Backtrol: "ogrelord" "set" "cantwalk" "true"
+11/16/2013 10:45:51 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 10:46:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogrelord'
+11/16/2013 10:46:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2044, 464, 5) in Backtrol: "ogrelord"
+11/16/2013 10:46:50 PM: 127.0.0.1: Serials: 0xA; 
+###################################
+Logging started on 11/16/2013 10:53:53 PM
+
+###################################
+Logging started on 11/16/2013 10:56:15 PM
+
+11/16/2013 10:56:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 10:57:01 PM
+
+###################################
+Logging started on 11/16/2013 10:59:43 PM
+
+11/16/2013 11:00:08 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 11:02:15 PM
+
+11/16/2013 11:02:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/16/2013 11:25:29 PM
+
+11/16/2013 11:25:42 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 11:25:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bandage'
+11/16/2013 11:25:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bandage 100'
+11/16/2013 11:25:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2055, 466, 5) in Backtrol: "bandage" "100"
+11/16/2013 11:25:52 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/16/2013 11:25:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 50'
+11/16/2013 11:25:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0x3 "Egam" ('Enroq') to '50'
+11/16/2013 11:26:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 11:27:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set hits 10'
+11/16/2013 11:27:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'hits' of 0x3 "Egam" ('Enroq') to '10'
+11/16/2013 11:30:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 11:30:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2053, 471, 5) in Backtrol: "ogre"
+11/16/2013 11:30:02 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 11:30:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:30:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:30:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 11:30:32 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2049, 474, 5) in Backtrol: "ogre"
+11/16/2013 11:30:32 PM: 127.0.0.1: Serials: 0xA; 
+###################################
+Logging started on 11/16/2013 11:32:28 PM
+
+11/16/2013 11:32:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/16/2013 11:32:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2048, 466, 5) in Backtrol: "ogre"
+11/16/2013 11:32:53 PM: 127.0.0.1: Serials: 0x9; 
+11/16/2013 11:34:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bol'
+11/16/2013 11:35:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2027, 444, 5) in Backtrol: "BolaBall"
+11/16/2013 11:35:01 PM: 127.0.0.1: Serials: 0x40000434; 
+11/16/2013 11:35:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2027, 445, 5) in Backtrol: "Bola"
+11/16/2013 11:35:04 PM: 127.0.0.1: Serials: 0x40000435; 
+11/16/2013 11:35:15 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add savage'
+11/16/2013 11:35:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add savage rider'
+11/16/2013 11:35:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2026, 447, 5) in Backtrol: "savage" "rider"
+11/16/2013 11:35:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add savagerider'
+11/16/2013 11:35:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2025, 449, 5) in Backtrol: "savagerider"
+11/16/2013 11:35:25 PM: 127.0.0.1: Serials: 0xA; 
+11/16/2013 11:35:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:35:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:35:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/16/2013 11:37:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:37:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 11/16/2013 11:39:48 PM
+
+11/16/2013 11:42:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:42:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/16/2013 11:42:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/16/2013 11:48:39 PM
+
+11/16/2013 11:49:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/16/2013 11:49:37 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/16/2013 11:49:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/16/2013 11:49:44 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get z'
+11/16/2013 11:49:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get z'
+11/16/2013 11:49:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get z'
+11/16/2013 11:50:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get z'
+###################################
+Logging started on 11/16/2013 11:53:54 PM
+

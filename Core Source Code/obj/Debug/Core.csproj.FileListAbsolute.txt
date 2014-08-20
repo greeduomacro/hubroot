@@ -1,0 +1,24 @@
+C:\Users\Adminstrator\Desktop\root\Server.debug.exe.config
+C:\Users\Adminstrator\Desktop\root\Core Source Code\obj\Debug\Server.debug.exe
+C:\Users\Adminstrator\Desktop\root\Core Source Code\obj\Debug\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\root\Server.debug.exe
+C:\Users\Adminstrator\Desktop\root\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\root - Test\Server.debug.exe.config
+C:\Users\Adminstrator\Desktop\root - Test\Core Source Code\obj\Debug\Server.debug.exe
+C:\Users\Adminstrator\Desktop\root - Test\Core Source Code\obj\Debug\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\root - Test\Core Source Code\obj\Debug\Core.csprojResolveAssemblyReference.cache
+C:\Users\Adminstrator\Desktop\root - Test\Server.debug.exe
+C:\Users\Adminstrator\Desktop\root - Test\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\Codename Osiris\Server.debug.exe.config
+C:\Users\Adminstrator\Desktop\Codename Osiris\Core Source Code\obj\Debug\Server.debug.exe
+C:\Users\Adminstrator\Desktop\Codename Osiris\Core Source Code\obj\Debug\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\debugroot\root\Server.debug.exe.config
+C:\Users\Adminstrator\Desktop\debugroot\root\Core Source Code\obj\Debug\Server.debug.exe
+C:\Users\Adminstrator\Desktop\debugroot\root\Core Source Code\obj\Debug\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\debugroot\root\Server.debug.exe
+C:\Users\Adminstrator\Desktop\debugroot\root\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\aberration root\root\Server.debug.exe.config
+C:\Users\Adminstrator\Desktop\aberration root\root\Core Source Code\obj\Debug\Server.debug.exe
+C:\Users\Adminstrator\Desktop\aberration root\root\Core Source Code\obj\Debug\Server.debug.pdb
+C:\Users\Adminstrator\Desktop\aberration root\root\Server.debug.exe
+C:\Users\Adminstrator\Desktop\aberration root\root\Server.debug.pdb

@@ -1,0 +1,23 @@
+﻿###################################
+Logging started on 9/14/2013 4:40:20 AM
+
+9/14/2013 11:50:01 AM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add katana'
+9/14/2013 11:50:03 AM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') building at (5686, 335, 5) in Backtrol: "katana"
+9/14/2013 11:50:03 AM: 127.0.0.1: Serials: 0x4000001B; 
+9/14/2013 11:50:10 AM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'props '
+9/14/2013 11:59:53 AM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'props '
+9/14/2013 12:39:14 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'allspells '
+9/14/2013 12:39:16 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') filling spellbook 0x4000000A (Spellbook)
+9/14/2013 12:39:35 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'setallskills 100'
+9/14/2013 12:39:36 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') set property 'EverySkill.Base' of 0x1 "Eidenai" ('Enroq') to '100'
+9/14/2013 12:39:44 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'set lightlevel 0'
+9/14/2013 12:39:45 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') set property 'lightlevel' of 0x1 "Eidenai" ('Enroq') to '0'
+9/14/2013 12:39:53 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'set lightlevel 99'
+9/14/2013 12:39:54 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') set property 'lightlevel' of 0x1 "Eidenai" ('Enroq') to '99'
+9/14/2013 12:43:50 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add pot'
+9/14/2013 12:43:54 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add poti'
+9/14/2013 12:44:16 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add bomb'
+9/14/2013 12:44:20 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add goo'
+9/14/2013 12:44:23 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add slime'
+9/14/2013 12:44:24 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add slim'
+9/14/2013 12:45:54 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Enroq') used command 'add rift'

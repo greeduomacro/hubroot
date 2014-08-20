@@ -1,0 +1,55 @@
+﻿###################################
+Logging started on 7/23/2014 5:11:54 AM
+
+###################################
+Logging started on 7/23/2014 5:14:14 AM
+
+###################################
+Logging started on 7/23/2014 11:16:27 AM
+
+7/23/2014 11:19:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add guard pikeman'
+7/23/2014 11:19:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 643, -14) in Ilshenar: "guard" "pikeman"
+7/23/2014 11:19:33 AM: 127.0.0.1: Serials: 0x2; 
+7/23/2014 11:19:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add baseingredient test'
+7/23/2014 11:19:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "baseingredient" "test"
+7/23/2014 11:19:46 AM: 127.0.0.1: Serials: 0x40000016; 
+7/23/2014 11:19:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/23/2014 11:19:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000016 (BaseIngredient)
+7/23/2014 11:20:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add baseingredient'
+7/23/2014 11:20:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "baseingredient"
+7/23/2014 11:20:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add xmlspawner'
+7/23/2014 11:20:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "xmlspawner"
+7/23/2014 11:20:11 AM: 127.0.0.1: Serials: 0x40000017; 
+7/23/2014 11:20:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') added to XmlSpawner 0x40000017 'Spawner' [1519, 644] (Ilshenar) : baseingredient, test
+###################################
+Logging started on 7/23/2014 2:09:44 PM
+
+7/23/2014 2:10:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addingredient '
+7/23/2014 2:10:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add nightshade'
+7/23/2014 2:10:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1516, 645, -14) in Ilshenar: "nightshade"
+7/23/2014 2:10:37 PM: 127.0.0.1: Serials: 0x40000009; 
+7/23/2014 2:10:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get itemid'
+7/23/2014 2:11:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add baseingredient "magic herb"'
+7/23/2014 2:11:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 644, -14) in Ilshenar: "baseingredient" "magic herb"
+7/23/2014 2:11:34 PM: 127.0.0.1: Serials: 0x4000000A; 
+7/23/2014 2:11:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/23/2014 2:11:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/23/2014 2:11:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000000A (BaseIngredient)
+7/23/2014 2:11:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add baseingredient magicherb'
+7/23/2014 2:11:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 644, -14) in Ilshenar: "baseingredient" "magicherb"
+7/23/2014 2:11:51 PM: 127.0.0.1: Serials: 0x4000000C; 
+7/23/2014 2:11:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+7/23/2014 2:11:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x4000000C (BaseIngredient)
+###################################
+Logging started on 7/23/2014 2:17:16 PM
+
+7/23/2014 2:18:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addingredient '
+7/23/2014 2:18:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add baseingredient herb'
+7/23/2014 2:18:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 645, -14) in Ilshenar: "baseingredient" "herb"
+7/23/2014 2:18:48 PM: 127.0.0.1: Serials: 0x40000009; 
+7/23/2014 2:18:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get hue'
+###################################
+Logging started on 7/23/2014 4:55:54 PM
+
+7/23/2014 4:58:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addingredient '
+7/23/2014 4:58:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addingredient '

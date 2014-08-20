@@ -1,0 +1,91 @@
+﻿###################################
+Logging started on 12/16/2013 11:10:44 AM
+
+###################################
+Logging started on 12/16/2013 11:11:28 AM
+
+12/16/2013 11:11:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'skills '
+12/16/2013 11:11:56 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'calt '
+12/16/2013 11:12:20 AM: 127.0.0.1: Player 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/16/2013 11:15:56 AM
+
+12/16/2013 11:17:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:17:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '1000'
+12/16/2013 11:17:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 1000'
+12/16/2013 11:17:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/16/2013 11:20:39 AM
+
+12/16/2013 11:21:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:21:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 0'
+12/16/2013 11:21:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '0'
+12/16/2013 11:21:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '90000'
+12/16/2013 11:21:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 90000'
+###################################
+Logging started on 12/16/2013 11:26:17 AM
+
+12/16/2013 11:27:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:27:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 0'
+12/16/2013 11:27:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '0'
+12/16/2013 11:28:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skillscroll'
+12/16/2013 11:28:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5682, 404, 0) in Backtrol: "skillscroll"
+12/16/2013 11:28:03 AM: 127.0.0.1: Serials: 0x4000000C; 
+12/16/2013 11:29:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add skillscroll'
+12/16/2013 11:29:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5682, 404, 0) in Backtrol: "skillscroll"
+12/16/2013 11:29:02 AM: 127.0.0.1: Serials: 0x4000000D; 
+12/16/2013 11:29:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '60000'
+12/16/2013 11:29:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 60000'
+###################################
+Logging started on 12/16/2013 11:32:50 AM
+
+12/16/2013 11:35:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:35:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/16/2013 11:35:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/16/2013 11:35:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '60000'
+12/16/2013 11:35:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 60000'
+12/16/2013 11:35:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '90000'
+12/16/2013 11:35:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 90000'
+###################################
+Logging started on 12/16/2013 11:43:24 AM
+
+12/16/2013 11:44:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:44:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '90000'
+12/16/2013 11:44:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 90000'
+12/16/2013 11:44:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/16/2013 11:44:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/16/2013 11:45:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'skillcaps '
+12/16/2013 11:46:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'skills '
+12/16/2013 11:46:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property '[Stealth: 115].Base' of 0x1 "Test" ('Administrator') to '115'
+12/16/2013 11:48:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/16/2013 11:51:39 AM
+
+12/16/2013 11:52:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:52:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self setallskills 100'
+12/16/2013 11:52:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self setallskills 100'
+12/16/2013 11:52:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 0'
+12/16/2013 11:52:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '0'
+12/16/2013 11:52:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '90000'
+12/16/2013 11:52:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 90000'
+12/16/2013 11:52:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 11:53:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '0'
+12/16/2013 11:53:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 0'
+12/16/2013 11:55:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+12/16/2013 11:55:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+12/16/2013 11:59:21 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'save '
+12/16/2013 12:02:39 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+12/16/2013 12:03:31 PM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/16/2013 12:06:18 PM
+
+###################################
+Logging started on 12/16/2013 12:10:49 PM
+
+12/16/2013 1:42:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 1:43:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/16/2013 1:43:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+###################################
+Logging started on 12/16/2013 1:50:21 PM
+
+12/16/2013 1:51:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '

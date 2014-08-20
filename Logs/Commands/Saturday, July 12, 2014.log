@@ -1,0 +1,56 @@
+﻿###################################
+Logging started on 7/12/2014 1:38:34 AM
+
+7/12/2014 1:39:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 1:39:53 AM
+
+###################################
+Logging started on 7/12/2014 1:44:23 AM
+
+7/12/2014 1:45:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 1:53:15 AM
+
+7/12/2014 1:54:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 1:55:08 AM
+
+###################################
+Logging started on 7/12/2014 1:57:48 AM
+
+7/12/2014 1:58:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 2:01:32 AM
+
+7/12/2014 2:02:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 2:45:22 AM
+
+7/12/2014 2:46:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 2:46:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+7/12/2014 2:46:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/12/2014 2:47:10 AM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 2:47:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 2:47:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add statu'
+7/12/2014 2:47:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 644, -14) in Ilshenar: "MonsterStatuette"
+7/12/2014 2:47:32 AM: 127.0.0.1: Serials: 0x4000000E; 
+7/12/2014 2:47:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+7/12/2014 2:47:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Type' of 0x4000000E (MonsterStatuette) to 'Seahorse'
+7/12/2014 2:48:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'Type' of 0x4000000E (MonsterStatuette) to 'Llama'
+7/12/2014 2:48:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm inc itemid 1'
+7/12/2014 2:48:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm inc itemid -1'
+7/12/2014 2:49:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'm inc itemid 1'
+7/12/2014 2:49:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get itemid'
+7/12/2014 3:15:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get itemid'
+###################################
+Logging started on 7/12/2014 3:25:34 AM
+
+7/12/2014 3:27:04 AM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 3:27:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+###################################
+Logging started on 7/12/2014 3:30:34 AM
+
+7/12/2014 3:32:08 AM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 3:32:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'calt '
+7/12/2014 3:58:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'alliances '

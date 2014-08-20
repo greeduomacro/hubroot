@@ -1,0 +1,42 @@
+﻿###################################
+Logging started on 7/31/2014 12:55:26 AM
+
+7/31/2014 1:02:02 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 1:04:25 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 1:26:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 1:26:31 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 1:26:38 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'Priority' of 0x4000000F (TownSigil) to '255'
+###################################
+Logging started on 7/31/2014 6:03:10 PM
+
+7/31/2014 6:04:08 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/31/2014 6:04:10 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2756, 3828, 20) in Backtrol: "townsigil"
+7/31/2014 6:04:10 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/31/2014 6:04:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 7/31/2014 6:10:48 PM
+
+7/31/2014 6:11:20 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add townsigil'
+7/31/2014 6:11:21 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3836, 20) in Backtrol: "townsigil"
+7/31/2014 6:11:21 PM: 127.0.0.1: Serials: 0x4000000F; 
+7/31/2014 6:11:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 6:11:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'Priority' of 0x4000000F (TownSigil) to '255'
+7/31/2014 6:11:53 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'RegionName' of 0x4000000F (TownSigil) to 'the Isle of Kesn'abuir'
+7/31/2014 6:12:03 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+7/31/2014 6:13:27 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+7/31/2014 6:13:34 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 6:13:42 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+7/31/2014 6:13:47 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+7/31/2014 6:19:48 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 6:20:08 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 6:20:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 7/31/2014 6:20:53 PM
+
+7/31/2014 6:21:50 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+7/31/2014 8:10:04 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 8:44:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 8:58:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 8:58:48 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+7/31/2014 8:58:51 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '
+8/1/2014 11:57:55 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'alliances '

@@ -1,0 +1,248 @@
+﻿###################################
+Logging started on 11/25/2013 12:38:36 AM
+
+11/25/2013 12:39:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get time'
+11/25/2013 12:39:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add clock'
+11/25/2013 12:39:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5768, 245, 20) in Backtrol: "clock"
+11/25/2013 12:39:22 AM: 127.0.0.1: Serials: 0x4000000D; 
+11/25/2013 12:39:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get lightlevel'
+11/25/2013 12:41:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 18'
+11/25/2013 12:41:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '18'
+11/25/2013 12:41:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 0'
+11/25/2013 12:41:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '0'
+11/25/2013 12:41:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 100'
+11/25/2013 12:41:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 12:41:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 100'
+11/25/2013 12:41:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 12:41:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawint 100'
+11/25/2013 12:41:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawint' of 0x1 "Test" ('Admin') to '100'
+###################################
+Logging started on 11/25/2013 12:43:50 AM
+
+11/25/2013 12:44:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 100'
+11/25/2013 12:44:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 12:44:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 0'
+11/25/2013 12:44:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '0'
+11/25/2013 12:45:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add hood'
+11/25/2013 12:45:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add rob'
+11/25/2013 12:45:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5959, 205, 45) in Backtrol: "Robe"
+11/25/2013 12:45:38 AM: 127.0.0.1: Serials: 0x4000000D; 
+11/25/2013 12:45:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add hood'
+11/25/2013 12:45:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add shroud'
+11/25/2013 12:45:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hue 1'
+11/25/2013 12:45:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hue' of 0x4000000D (Robe) to '1'
+11/25/2013 12:46:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+11/25/2013 12:46:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5959, 204, 45) in Backtrol: "ogre"
+11/25/2013 12:46:06 AM: 127.0.0.1: Serials: 0x2; 
+11/25/2013 12:46:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:46:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 12:46:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x2 "an ogre" (no account)
+11/25/2013 12:47:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogrelord'
+11/25/2013 12:47:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5956, 205, 45) in Backtrol: "ogrelord"
+11/25/2013 12:47:01 AM: 127.0.0.1: Serials: 0x3; 
+11/25/2013 12:47:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogrelord'
+11/25/2013 12:47:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5957, 207, 45) in Backtrol: "ogrelord"
+11/25/2013 12:47:05 AM: 127.0.0.1: Serials: 0x4; 
+11/25/2013 12:47:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add creature'
+11/25/2013 12:47:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5959, 203, 45) in Backtrol: "CreatureController"
+11/25/2013 12:47:10 AM: 127.0.0.1: Serials: 0x40000043; 
+11/25/2013 12:48:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+11/25/2013 12:48:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x3 "an ogre lord" (no account) to '100'
+11/25/2013 12:48:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+11/25/2013 12:48:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 12:48:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+11/25/2013 12:48:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x4 "an ogre lord" (no account) to '100'
+11/25/2013 12:49:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add daemon'
+11/25/2013 12:49:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add daemo'
+11/25/2013 12:49:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5960, 199, 45) in Backtrol: "DaemonBait"
+11/25/2013 12:49:46 AM: 127.0.0.1: Serials: 0x40000064; 
+11/25/2013 12:49:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+11/25/2013 12:50:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x5 "Huictiigara" (no account) to '100'
+11/25/2013 12:50:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:50:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hits 1'
+11/25/2013 12:50:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hits' of 0x3 "an ogre lord" (no account) to '1'
+11/25/2013 12:50:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hits 1'
+11/25/2013 12:50:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hits' of 0x4 "an ogre lord" (no account) to '1'
+11/25/2013 12:50:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:50:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'kill '
+11/25/2013 12:50:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') killed 0x4 "an ogre lord" (no account).
+11/25/2013 12:50:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 12:56:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'm tele'
+11/25/2013 12:56:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 99'
+11/25/2013 12:56:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+11/25/2013 12:56:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 1:00:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'adddoor '
+11/25/2013 1:00:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'Add MetalDoor2 EastCCW'
+11/25/2013 1:00:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 209, 22) in Backtrol: "MetalDoor2" "EastCCW"
+11/25/2013 1:00:22 AM: 127.0.0.1: Serials: 0x40000094; 
+11/25/2013 1:00:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add locksmith'
+11/25/2013 1:00:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 212, 19) in Backtrol: "LocksmithTools"
+11/25/2013 1:00:26 AM: 127.0.0.1: Serials: 0x40000095; 
+11/25/2013 1:00:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack ironingot 100'
+11/25/2013 1:00:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 211, 20) in Backtrol: "ironingot" "100"
+11/25/2013 1:00:51 AM: 127.0.0.1: Serials: 0x40000096; 
+11/25/2013 1:00:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack Gears 50'
+11/25/2013 1:00:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 211, 20) in Backtrol: "Gears" "50"
+11/25/2013 1:00:57 AM: 127.0.0.1: Serials: 0x40000097; 
+11/25/2013 1:01:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack springs 3'
+11/25/2013 1:01:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 211, 20) in Backtrol: "springs" "3"
+11/25/2013 1:01:01 AM: 127.0.0.1: Serials: 0x40000098; 
+11/25/2013 1:01:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack hinge 100'
+11/25/2013 1:01:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5828, 211, 20) in Backtrol: "hinge" "100"
+11/25/2013 1:01:06 AM: 127.0.0.1: Serials: 0x40000099; 
+11/25/2013 1:01:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set amount 100'
+11/25/2013 1:01:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'amount' of 0x40000098 (Springs) to '100'
+11/25/2013 1:01:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set amount 100'
+11/25/2013 1:01:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'amount' of 0x40000099 (Hinge) to '100'
+11/25/2013 1:01:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set amount 100'
+11/25/2013 1:01:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'amount' of 0x40000097 (Gears) to '100'
+11/25/2013 1:01:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set amount 100'
+11/25/2013 1:01:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'amount' of 0x40000096 (IronIngot) to '100'
+###################################
+Logging started on 11/25/2013 1:16:50 AM
+
+###################################
+Logging started on 11/25/2013 3:14:05 AM
+
+11/25/2013 3:15:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'adddoor '
+11/25/2013 3:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'Add MetalDoor2 EastCCW'
+11/25/2013 3:15:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5764, 248, 20) in Backtrol: "MetalDoor2" "EastCCW"
+11/25/2013 3:15:30 AM: 127.0.0.1: Serials: 0x4000000D; 
+11/25/2013 3:15:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add locksmith'
+11/25/2013 3:15:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5764, 249, 22) in Backtrol: "LocksmithTools"
+11/25/2013 3:15:43 AM: 127.0.0.1: Serials: 0x4000000E; 
+11/25/2013 3:17:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add hous'
+11/25/2013 3:17:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5764, 250, 20) in Backtrol: "FieldStoneHouseDeed"
+11/25/2013 3:17:16 AM: 127.0.0.1: Serials: 0x40000010; 
+11/25/2013 3:18:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:19:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack ironingot 100'
+11/25/2013 3:19:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "ironingot" "100"
+11/25/2013 3:19:12 AM: 127.0.0.1: Serials: 0x40000016; 
+11/25/2013 3:19:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack gears 100'
+11/25/2013 3:19:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "gears" "100"
+11/25/2013 3:19:19 AM: 127.0.0.1: Serials: 0x40000017; 
+11/25/2013 3:19:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack springs 100'
+11/25/2013 3:19:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "springs" "100"
+11/25/2013 3:19:26 AM: 127.0.0.1: Serials: 0x40000018; 
+11/25/2013 3:19:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack hinges'
+11/25/2013 3:19:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "hinges"
+11/25/2013 3:19:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack hinge 100'
+11/25/2013 3:19:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "hinge" "100"
+11/25/2013 3:19:40 AM: 127.0.0.1: Serials: 0x40000019; 
+11/25/2013 3:20:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:22:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add lockpick 100'
+11/25/2013 3:22:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "lockpick" "100"
+11/25/2013 3:22:34 AM: 127.0.0.1: Serials: 0x4000001B; 
+11/25/2013 3:53:14 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'calt '
+11/25/2013 3:53:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'calt '
+11/25/2013 4:01:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add tinker'
+11/25/2013 4:02:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add tinkertools'
+11/25/2013 4:02:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 248, 20) in Backtrol: "tinkertools"
+11/25/2013 4:02:01 AM: 127.0.0.1: Serials: 0x40000023; 
+11/25/2013 4:02:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 4:02:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack arrow 100'
+11/25/2013 4:02:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "arrow" "100"
+11/25/2013 4:02:24 AM: 127.0.0.1: Serials: 0x40000025; 
+11/25/2013 4:02:27 AM: 127.0.0.1: Crafting 0x40000026 (DoorArrowTrapInstaller) with craft system DefTinkering
+11/25/2013 4:02:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 4:02:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'DoorTrapType' of 0x40000014 (DarkWoodHouseDoor) to 'Guillotine'
+11/25/2013 4:03:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 4:03:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'DoorTrapType' of 0x40000014 (DarkWoodHouseDoor) to 'Explosion'
+11/25/2013 4:03:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 4:03:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 4:04:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add explosionpotion 2'
+11/25/2013 4:04:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5766, 248, 20) in Backtrol: "explosionpotion" "2"
+11/25/2013 4:04:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add explosionpotion'
+11/25/2013 4:04:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 247, 24) in Backtrol: "explosionpotion"
+11/25/2013 4:04:18 AM: 127.0.0.1: Serials: 0x4000002C; 
+11/25/2013 4:04:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set amount 20'
+11/25/2013 4:04:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'amount' of 0x4000002C (ExplosionPotion) to '20'
+11/25/2013 4:04:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add sulfurousash 80'
+11/25/2013 4:04:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5768, 247, 24) in Backtrol: "sulfurousash" "80"
+11/25/2013 4:04:33 AM: 127.0.0.1: Serials: 0x4000002D; 
+11/25/2013 4:04:48 AM: 127.0.0.1: Crafting 0x4000002E (DoorExplosionTrapInstaller) with craft system DefTinkering
+11/25/2013 4:05:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 4:05:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'DoorTrapType' of 0x40000014 (DarkWoodHouseDoor) to 'None'
+11/25/2013 4:05:15 AM: 127.0.0.1: Crafting 0x4000002F (DoorExplosionTrapInstaller) with craft system DefTinkering
+11/25/2013 4:05:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 4:06:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'character '
+11/25/2013 4:08:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 4:09:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 4:09:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x40000012 (Key)
+11/25/2013 4:09:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 4:09:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x4000000D (MetalDoor2)
+11/25/2013 4:10:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'save '
+###################################
+Logging started on 11/25/2013 3:46:19 PM
+
+11/25/2013 3:47:27 PM: 127.0.0.1: Crafting 0x40000010 (DoorArrowTrapInstaller) with craft system DefTinkering
+11/25/2013 3:47:41 PM: 127.0.0.1: Crafting 0x40000012 (DoorExplosionTrapInstaller) with craft system DefTinkering
+###################################
+Logging started on 11/25/2013 3:51:14 PM
+
+11/25/2013 3:56:12 PM: 127.0.0.1: Crafting 0x40000010 (DoorExplosionTrapInstaller) with craft system DefTinkering
+11/25/2013 3:56:17 PM: 127.0.0.1: Crafting 0x40000012 (DoorArrowTrapInstaller) with craft system DefTinkering
+11/25/2013 3:56:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:57:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'DoorTrapType' of 0x40000014 (DarkWoodHouseDoor) to 'Poison'
+11/25/2013 3:57:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'TrapOnLockpick' of 0x40000014 (DarkWoodHouseDoor) to 'True'
+11/25/2013 3:57:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+11/25/2013 3:57:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:58:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:59:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+11/25/2013 3:59:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 3:59:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x40000015 (HouseSign)
+11/25/2013 3:59:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 3:59:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x4000001A (Key)
+11/25/2013 3:59:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+11/25/2013 3:59:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x4000001C (Key)
+###################################
+Logging started on 11/25/2013 10:13:25 PM
+
+11/25/2013 10:24:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak ab'
+11/25/2013 10:24:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak ab'
+11/25/2013 10:24:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'speak ab'
+###################################
+Logging started on 11/25/2013 10:30:50 PM
+
+11/25/2013 10:35:03 PM: 127.0.0.1: Administrator 0x2 "Zackery" ('Admin') used command 'm tele'
+11/25/2013 10:37:15 PM: 127.0.0.1: Administrator 0x2 "Zackery" ('Admin') used command 'm tele'
+11/25/2013 10:38:49 PM: 127.0.0.1: Administrator 0x2 "Zackery" ('Admin') used command 'setallskills 100'
+11/25/2013 10:38:49 PM: 127.0.0.1: Administrator 0x2 "Zackery" ('Admin') set property 'EverySkill.Base' of 0x2 "Zackery" ('Admin') to '100'
+11/25/2013 10:39:11 PM: 127.0.0.1: Administrator 0x2 "Zackery" ('Admin') used command 'props '
+###################################
+Logging started on 11/25/2013 11:28:09 PM
+
+###################################
+Logging started on 11/25/2013 11:34:48 PM
+
+###################################
+Logging started on 11/25/2013 11:37:24 PM
+
+###################################
+Logging started on 11/25/2013 11:44:47 PM
+
+###################################
+Logging started on 11/25/2013 11:45:34 PM
+
+11/25/2013 11:46:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set str 100'
+11/25/2013 11:46:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'str' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 11:46:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set str 112'
+11/25/2013 11:46:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'str' of 0x1 "Test" ('Admin') to '112'
+###################################
+Logging started on 11/25/2013 11:53:45 PM
+
+11/25/2013 11:54:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 100'
+11/25/2013 11:54:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '100'
+11/25/2013 11:54:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 125'
+11/25/2013 11:54:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '125'
+###################################
+Logging started on 11/25/2013 11:57:45 PM
+

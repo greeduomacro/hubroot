@@ -1,0 +1,172 @@
+﻿###################################
+Logging started on 8/2/2014 4:08:03 PM
+
+###################################
+Logging started on 8/2/2014 4:12:17 PM
+
+8/2/2014 4:13:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 8/2/2014 4:17:03 PM
+
+8/2/2014 4:18:43 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+###################################
+Logging started on 8/2/2014 4:23:14 PM
+
+###################################
+Logging started on 8/2/2014 4:25:46 PM
+
+###################################
+Logging started on 8/2/2014 6:03:21 PM
+
+8/2/2014 6:05:46 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'admin '
+8/2/2014 6:05:57 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') adding new account: test
+8/2/2014 6:06:37 PM: 127.0.0.1: Player 0x2 "testinm" ('test') used command 'calt '
+8/2/2014 6:06:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel administrator'
+8/2/2014 6:06:46 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Administrator'
+8/2/2014 6:06:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/2/2014 6:06:55 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/2/2014 6:06:57 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/2/2014 6:07:04 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'tele '
+8/2/2014 6:07:18 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel player'
+8/2/2014 6:07:18 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/2/2014 6:08:12 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack gold 10'
+8/2/2014 6:08:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3826, 20) in Backtrol: "gold" "10"
+8/2/2014 6:08:13 PM: 127.0.0.1: Serials: 0x40000018; 
+8/2/2014 6:08:26 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 6:08:27 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+8/2/2014 6:08:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack gold 1000'
+8/2/2014 6:08:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3826, 20) in Backtrol: "gold" "1000"
+8/2/2014 6:08:32 PM: 127.0.0.1: Serials: 0x40000019; 
+8/2/2014 6:08:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 6:08:43 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+###################################
+Logging started on 8/2/2014 6:09:13 PM
+
+###################################
+Logging started on 8/2/2014 6:11:36 PM
+
+8/2/2014 6:14:47 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 6:14:48 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+8/2/2014 6:14:52 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 6:14:52 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+8/2/2014 6:15:00 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+8/2/2014 6:15:05 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add gold 1000'
+8/2/2014 6:15:06 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2755, 3834, 20) in Backtrol: "gold" "1000"
+8/2/2014 6:15:06 PM: 127.0.0.1: Serials: 0x40000018; 
+8/2/2014 6:15:17 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 6:15:18 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+8/2/2014 6:15:28 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set accesslevel player'
+8/2/2014 6:15:29 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/2/2014 6:15:34 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 8/2/2014 6:18:08 PM
+
+###################################
+Logging started on 8/2/2014 6:19:06 PM
+
+###################################
+Logging started on 8/2/2014 7:04:44 PM
+
+8/2/2014 7:06:22 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'bank '
+8/2/2014 7:06:23 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') opening bank box of 0x2 "testinm" ('test')
+8/2/2014 7:09:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/2/2014 7:10:08 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 8/2/2014 7:34:28 PM
+
+8/2/2014 7:45:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 8/2/2014 8:05:19 PM
+
+8/2/2014 8:07:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+###################################
+Logging started on 8/2/2014 8:13:41 PM
+
+###################################
+Logging started on 8/2/2014 8:39:45 PM
+
+8/2/2014 8:41:01 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+###################################
+Logging started on 8/2/2014 9:14:04 PM
+
+###################################
+Logging started on 8/2/2014 11:29:34 PM
+
+8/2/2014 11:30:13 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add trap'
+8/2/2014 11:30:15 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2752, 3835, 20) in Backtrol: "AllyTrapKit"
+8/2/2014 11:30:15 PM: 127.0.0.1: Serials: 0x40000019; 
+###################################
+Logging started on 8/2/2014 11:34:11 PM
+
+8/2/2014 11:34:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add ally'
+8/2/2014 11:34:36 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2753, 3833, 20) in Backtrol: "AllyTrapKit"
+8/2/2014 11:34:36 PM: 127.0.0.1: Serials: 0x40000019; 
+###################################
+Logging started on 8/2/2014 11:37:47 PM
+
+8/2/2014 11:39:44 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add allytrap'
+8/2/2014 11:39:47 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2753, 3833, 20) in Backtrol: "AllyTrapKit"
+8/2/2014 11:39:47 PM: 127.0.0.1: Serials: 0x40000019; 
+8/2/2014 11:39:54 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add allytrap'
+8/2/2014 11:40:08 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack greaterexplosionpoiton'
+8/2/2014 11:40:09 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "greaterexplosionpoiton"
+8/2/2014 11:40:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack greaterexplosionpotion'
+8/2/2014 11:40:14 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "greaterexplosionpotion"
+8/2/2014 11:40:14 PM: 127.0.0.1: Serials: 0x4000001A; 
+8/2/2014 11:40:19 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack greaterexplosionpotion'
+8/2/2014 11:40:19 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "greaterexplosionpotion"
+8/2/2014 11:40:19 PM: 127.0.0.1: Serials: 0x4000001B; 
+8/2/2014 11:40:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack spoolofthread 10'
+8/2/2014 11:40:33 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "spoolofthread" "10"
+8/2/2014 11:40:34 PM: 127.0.0.1: Serials: 0x4000001C; 
+8/2/2014 11:40:40 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack spring 10'
+8/2/2014 11:40:42 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "spring" "10"
+8/2/2014 11:40:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack springs 10'
+8/2/2014 11:40:45 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "springs" "10"
+8/2/2014 11:40:45 PM: 127.0.0.1: Serials: 0x4000001D; 
+###################################
+Logging started on 8/2/2014 11:46:31 PM
+
+8/2/2014 11:47:04 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add ally'
+8/2/2014 11:47:06 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3833, 20) in Backtrol: "AllyTrapKit"
+8/2/2014 11:47:06 PM: 127.0.0.1: Serials: 0x40000019; 
+8/2/2014 11:47:23 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack greaterexplosionpotion'
+8/2/2014 11:47:24 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3834, 20) in Backtrol: "greaterexplosionpotion"
+8/2/2014 11:47:24 PM: 127.0.0.1: Serials: 0x4000001A; 
+8/2/2014 11:47:25 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack greaterexplosionpotion'
+8/2/2014 11:47:25 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3834, 20) in Backtrol: "greaterexplosionpotion"
+8/2/2014 11:47:25 PM: 127.0.0.1: Serials: 0x4000001B; 
+8/2/2014 11:47:30 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack spooloftrhead 10'
+8/2/2014 11:47:30 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3834, 20) in Backtrol: "spooloftrhead" "10"
+8/2/2014 11:47:36 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack spoolofthread 10'
+8/2/2014 11:47:37 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3834, 20) in Backtrol: "spoolofthread" "10"
+8/2/2014 11:47:37 PM: 127.0.0.1: Serials: 0x4000001C; 
+8/2/2014 11:47:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'addtopack springs 10'
+8/2/2014 11:47:41 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3834, 20) in Backtrol: "springs" "10"
+8/2/2014 11:47:41 PM: 127.0.0.1: Serials: 0x4000001D; 
+###################################
+Logging started on 8/2/2014 11:55:03 PM
+
+8/3/2014 12:26:14 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+8/3/2014 12:27:42 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'save '
+8/3/2014 12:28:37 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'deletecharacter '
+8/3/2014 12:28:40 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting character 0x2 "testinm" ('test').
+8/3/2014 12:30:11 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/3/2014 12:30:12 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2753, 3825, 20) in Backtrol: "guard" "swordsman"
+8/3/2014 12:30:13 AM: 127.0.0.1: Serials: 0x3; 
+8/3/2014 12:31:44 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'remove '
+8/3/2014 12:31:45 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') deleting 0x3 "Theodore," (no account)
+8/3/2014 12:32:52 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get karma'
+8/3/2014 12:32:54 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'get karma'
+8/3/2014 12:32:59 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'hide '
+8/3/2014 12:33:01 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') hiding 0x2 "testing" ('test')
+8/3/2014 12:33:10 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add guard swordsman'
+8/3/2014 12:33:11 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (2754, 3824, 20) in Backtrol: "guard" "swordsman"
+8/3/2014 12:33:11 AM: 127.0.0.1: Serials: 0x4; 
+8/3/2014 12:33:13 AM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+8/3/2014 12:33:33 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+8/3/2014 12:33:34 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/3/2014 12:33:35 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x1 "test" ('admin').
+8/3/2014 12:33:36 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'kill '
+8/3/2014 12:33:36 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') killed 0x4 "Eli," (no account).
+8/3/2014 12:33:39 AM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '

@@ -1,0 +1,233 @@
+﻿6/2/2014 2:25:49 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+6/2/2014 2:29:10 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+6/2/2014 2:29:16 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+6/2/2014 2:29:19 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+7/14/2014 2:48:00 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/14/2014 2:48:09 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/14/2014 2:48:13 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/14/2014 3:35:55 AM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 6:36:44 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 6:37:01 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+7/15/2014 6:37:21 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 6:37:25 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 6:54:14 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 6:54:20 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/15/2014 7:11:24 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 7:42:15 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 7:44:24 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/15/2014 7:44:33 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 7:50:12 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 8:07:11 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 8:09:25 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 8:15:01 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 8:28:49 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 8:30:32 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/15/2014 9:08:40 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 9:08:50 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 9:15:33 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 9:18:13 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 9:24:32 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 9:28:27 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/15/2014 9:28:40 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/15/2014 9:33:28 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'heal '
+7/15/2014 9:33:30 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/15/2014 9:35:01 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'save '
+7/19/2014 5:38:01 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'alliances '
+7/19/2014 5:38:32 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/19/2014 5:38:39 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/19/2014 5:38:41 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/19/2014 5:38:46 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'accesslevel' of 0xB "Test" ('test') to 'Player'
+7/21/2014 9:40:25 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'props '
+7/21/2014 9:40:32 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'get location'
+7/21/2014 9:40:39 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeX' of 0x40000009 (TownSigil) to '1516'
+7/21/2014 9:40:46 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeY' of 0x40000009 (TownSigil) to '643'
+7/21/2014 9:40:50 PM: 127.0.0.1: Administrator 0xB "Test" ('test') set property 'HomeZ' of 0x40000009 (TownSigil) to '-14'
+7/21/2014 9:41:10 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:41:44 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:41:51 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'admin '
+7/21/2014 9:42:03 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:42:06 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 9:42:59 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+7/21/2014 10:51:44 PM: 127.0.0.1: Administrator 0xB "Test" ('test') used command 'calt '
+8/2/2014 6:06:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/2/2014 6:06:55 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/2/2014 6:06:57 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/2/2014 6:07:04 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'tele '
+8/6/2014 5:41:21 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 5:41:28 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 5:41:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 5:41:48 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 5:41:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 5:42:34 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 5:42:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 5:42:37 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 10:32:29 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add townsigil'
+8/6/2014 10:32:34 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3857, 0) in Backtrol: "townsigil"
+8/6/2014 10:32:34 PM: 127.0.0.1: Serials: 0x40000022; 
+8/6/2014 10:32:48 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'props '
+8/6/2014 10:32:52 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Priority' of 0x40000022 (TownSigil) to '256'
+8/6/2014 10:32:59 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/6/2014 10:33:02 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/6/2014 10:33:08 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set accesslevel player'
+8/6/2014 10:33:09 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/6/2014 10:57:07 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/6/2014 10:57:42 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:57:43 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2751, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:57:43 PM: 127.0.0.1: Serials: 0xD; 
+8/6/2014 10:57:45 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:57:45 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2754, 3840, 20) in Backtrol: "horse"
+8/6/2014 10:57:45 PM: 127.0.0.1: Serials: 0xE; 
+8/6/2014 10:57:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:57:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2751, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:57:46 PM: 127.0.0.1: Serials: 0xF; 
+8/6/2014 10:57:47 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:57:48 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2755, 3842, 20) in Backtrol: "horse"
+8/6/2014 10:57:48 PM: 127.0.0.1: Serials: 0x10; 
+8/6/2014 10:57:53 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'm set cantwalk true'
+8/6/2014 10:57:54 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'cantwalk' of 0xC "a horse" (no account) to 'True'
+8/6/2014 10:57:55 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'cantwalk' of 0xF "a horse" (no account) to 'True'
+8/6/2014 10:57:56 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'cantwalk' of 0x10 "a horse" (no account) to 'True'
+8/6/2014 10:57:58 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:57:59 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2755, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:57:59 PM: 127.0.0.1: Serials: 0x11; 
+8/6/2014 10:58:00 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:00 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2757, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:58:00 PM: 127.0.0.1: Serials: 0x12; 
+8/6/2014 10:58:01 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:01 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2757, 3841, 20) in Backtrol: "horse"
+8/6/2014 10:58:01 PM: 127.0.0.1: Serials: 0x13; 
+8/6/2014 10:58:03 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:03 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3837, 20) in Backtrol: "horse"
+8/6/2014 10:58:03 PM: 127.0.0.1: Serials: 0x14; 
+8/6/2014 10:58:04 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:05 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2757, 3836, 20) in Backtrol: "horse"
+8/6/2014 10:58:05 PM: 127.0.0.1: Serials: 0x15; 
+8/6/2014 10:58:06 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:06 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3843, 20) in Backtrol: "horse"
+8/6/2014 10:58:06 PM: 127.0.0.1: Serials: 0x16; 
+8/6/2014 10:58:07 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:08 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3840, 20) in Backtrol: "horse"
+8/6/2014 10:58:08 PM: 127.0.0.1: Serials: 0x17; 
+8/6/2014 10:58:09 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:09 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2752, 3844, 20) in Backtrol: "horse"
+8/6/2014 10:58:09 PM: 127.0.0.1: Serials: 0x18; 
+8/6/2014 10:58:10 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:10 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2751, 3837, 20) in Backtrol: "horse"
+8/6/2014 10:58:10 PM: 127.0.0.1: Serials: 0x19; 
+8/6/2014 10:58:11 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:12 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2757, 3840, 20) in Backtrol: "horse"
+8/6/2014 10:58:12 PM: 127.0.0.1: Serials: 0x1A; 
+8/6/2014 10:58:13 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:13 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3837, 20) in Backtrol: "horse"
+8/6/2014 10:58:13 PM: 127.0.0.1: Serials: 0x1B; 
+8/6/2014 10:58:15 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:15 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2755, 3838, 20) in Backtrol: "horse"
+8/6/2014 10:58:15 PM: 127.0.0.1: Serials: 0x1C; 
+8/6/2014 10:58:16 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:16 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2752, 3841, 20) in Backtrol: "horse"
+8/6/2014 10:58:16 PM: 127.0.0.1: Serials: 0x1D; 
+8/6/2014 10:58:17 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:17 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:58:17 PM: 127.0.0.1: Serials: 0x1E; 
+8/6/2014 10:58:18 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:19 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3840, 20) in Backtrol: "horse"
+8/6/2014 10:58:19 PM: 127.0.0.1: Serials: 0x1F; 
+8/6/2014 10:58:20 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:20 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3841, 20) in Backtrol: "horse"
+8/6/2014 10:58:20 PM: 127.0.0.1: Serials: 0x20; 
+8/6/2014 10:58:21 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:21 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3841, 20) in Backtrol: "horse"
+8/6/2014 10:58:21 PM: 127.0.0.1: Serials: 0x21; 
+8/6/2014 10:58:23 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:23 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3841, 20) in Backtrol: "horse"
+8/6/2014 10:58:23 PM: 127.0.0.1: Serials: 0x22; 
+8/6/2014 10:58:24 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:24 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3842, 20) in Backtrol: "horse"
+8/6/2014 10:58:24 PM: 127.0.0.1: Serials: 0x23; 
+8/6/2014 10:58:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2753, 3842, 20) in Backtrol: "horse"
+8/6/2014 10:58:26 PM: 127.0.0.1: Serials: 0x24; 
+8/6/2014 10:58:27 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add horse'
+8/6/2014 10:58:28 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3839, 20) in Backtrol: "horse"
+8/6/2014 10:58:28 PM: 127.0.0.1: Serials: 0x25; 
+8/6/2014 10:58:35 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set movable false'
+8/6/2014 10:58:41 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set cantwalk true'
+8/6/2014 10:58:42 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'cantwalk' of 0x25 "a horse" (no account) to 'True'
+8/6/2014 10:58:48 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/6/2014 10:59:31 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/6/2014 10:59:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 10:59:57 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 11:00:15 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 11:00:17 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 11:00:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/6/2014 11:00:38 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 11:00:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get itemid'
+8/6/2014 11:00:53 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'get bodyvalue'
+8/7/2014 1:17:20 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'lightlevel' of 0x2 "testinm" ('test') to '99'
+8/7/2014 1:17:20 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self set lightlevel 99'
+8/7/2014 1:18:04 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 1:18:25 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'kill '
+8/7/2014 1:18:30 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'kill '
+8/7/2014 1:18:30 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') killed 0x7 "Cassius," (no account).
+8/7/2014 1:21:00 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 1:21:23 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 1:21:33 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'setallskills 120'
+8/7/2014 1:21:34 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'EverySkill.Base' of 0x2 "testinm" ('test') to '120'
+8/7/2014 1:21:39 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set accesslevel 99'
+8/7/2014 1:21:42 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'set accesslevel player'
+8/7/2014 1:21:43 AM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/7/2014 6:54:41 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'heal '
+8/7/2014 6:54:45 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'hide '
+8/7/2014 6:54:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') hiding 0x2 "testinm" ('test')
+8/7/2014 6:57:09 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 7:34:24 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'heal '
+8/7/2014 7:34:31 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add townsigil'
+8/7/2014 7:34:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2756, 3857, 0) in Backtrol: "townsigil"
+8/7/2014 7:34:36 PM: 127.0.0.1: Serials: 0x40000044; 
+8/7/2014 7:34:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'props '
+8/7/2014 7:34:52 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Resistance' of 0x40000044 (TownSigil) to '5'
+8/7/2014 7:34:57 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Priority' of 0x40000044 (TownSigil) to '255'
+8/7/2014 7:35:06 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'RegionName' of 0x40000044 (TownSigil) to 'The Docks'
+8/7/2014 7:35:10 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/7/2014 8:02:22 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 8:03:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 10:21:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'alliances '
+8/7/2014 10:23:13 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'add sigillum'
+8/7/2014 10:23:15 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') building at (2754, 3836, 20) in Backtrol: "sigillum"
+8/7/2014 10:23:15 PM: 127.0.0.1: Serials: 0x4000000F; 
+8/7/2014 10:23:26 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'move '
+8/7/2014 10:23:28 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') moving 0x4000000F (Sigillum) to (2753, 3835, 40)
+8/7/2014 10:23:31 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'inc z -2'
+8/7/2014 10:23:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x -50 y -50'
+8/7/2014 10:23:53 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x 100 y 100'
+8/7/2014 10:24:02 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'self inc x -50 y -50'
+8/7/2014 10:24:17 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'props '
+8/7/2014 10:24:36 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'RegionName' of 0x4000000F (Sigillum) to 'the Isle of Kesn'abuir'
+8/7/2014 10:24:39 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'save '
+8/7/2014 10:24:42 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Resistance' of 0x4000000F (Sigillum) to '10'
+8/7/2014 10:24:46 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'Priority' of 0x4000000F (Sigillum) to '255'
+8/7/2014 10:24:50 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') used command 'calt '
+8/7/2014 10:26:20 PM: 127.0.0.1: Administrator 0x2 "testinm" ('test') set property 'accesslevel' of 0x2 "testinm" ('test') to 'Player'
+8/7/2014 10:31:54 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'hide '
+8/7/2014 10:31:55 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') hiding 0x1 "Qoern" ('admin')
+8/7/2014 10:32:01 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+8/7/2014 10:36:19 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'kill '
+8/7/2014 10:36:20 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') killed 0x3 "Hanan," (no account).
+8/7/2014 10:36:57 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'unhide '
+8/7/2014 10:36:58 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') unhiding 0x2 "Qorne" ('test')
+8/7/2014 10:50:42 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+8/7/2014 10:58:48 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'alliances '
+8/17/2014 6:24:43 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'calt '
+8/17/2014 6:25:01 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 6:25:02 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 6:26:17 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'unhide '
+8/17/2014 6:26:18 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') unhiding 0x2 "Qorne" ('test')
+8/17/2014 6:36:23 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 6:36:24 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 6:36:58 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'set accesslevel 0'
+8/17/2014 6:36:59 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Player'
+8/17/2014 7:21:39 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'bank '
+8/17/2014 7:21:40 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') opening bank box of 0x2 "Qorne" ('test')
+8/17/2014 7:22:04 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'save '
+8/17/2014 7:22:08 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') used command 'set accesslevel 0'
+8/17/2014 7:22:09 PM: 127.0.0.1: Administrator 0x2 "Qorne" ('test') set property 'accesslevel' of 0x2 "Qorne" ('test') to 'Player'

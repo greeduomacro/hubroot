@@ -1,0 +1,428 @@
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using Server.Events;
+using Server.Items;
+using Server.Mobiles;
+using Server.Network;
+using Server.Targeting;
+using Server.Perks;
+
+namespace Server.SkillHandlers
+{
+    public class Stealing
+    {
+        public static void Initialize()
+        {
+            SkillInfo.Table[33].Callback = new SkillUseCallback(OnUse);
+        }
+
+        public static readonly bool ClassicMode = false;
+        public static readonly bool SuspendOnMurder = true;
+
+        public static bool IsInGuild( Mobile m )
+        {
+            return (m is PlayerMobile && ((PlayerMobile)m).NpcGuild == NpcGuild.ThievesGuild);
+        }
+
+        public static bool IsInnocentTo( Mobile from, Mobile to )
+        {
+            return (Notoriety.Compute(from, (Mobile)to) == Notoriety.Innocent);
+        }
+
+        private class StealingTarget : Target
+        {
+            private Mobile m_Thief;
+
+            public StealingTarget( Mobile thief )
+                : base(1, false, TargetFlags.None)
+            {
+                m_Thief = thief;
+
+                AllowNonlocal = true;
+            }
+
+            #region TryStealItem
+            private Item TryStealItem( Item toSteal, ref bool caught )
+            {
+                Item stolen = null;
+
+                object root = toSteal.RootParent;
+
+                if( !IsEmptyHanded(m_Thief) )
+                {
+                    m_Thief.SendLocalizedMessage(1005584); // Both hands must be free to steal.
+                }
+                /*else if( Server.Multis.BaseHouse.FindHouseAt(m_Thief) != null )
+                {
+                    m_Thief.SendMessage("You can't steal here!");
+                }
+                else if( root is Mobile && ((Mobile)root).Player && IsInnocentTo(m_Thief, (Mobile)root) && !IsInGuild(m_Thief) )
+                {
+                    m_Thief.SendLocalizedMessage(1005596); // You must be in the thieves guild to steal from other players.
+                }
+                else if( SuspendOnMurder && root is Mobile && ((Mobile)root).Player && IsInGuild(m_Thief) && m_Thief.Kills > 0 )
+                {
+                    m_Thief.SendLocalizedMessage(502706); // You are currently suspended from the thieves guild.
+                }*/
+                else if( root is BaseVendor && ((BaseVendor)root).IsInvulnerable )
+                {
+                    m_Thief.SendLocalizedMessage(1005598); // You can't steal from shopkeepers.
+                }
+                else if( root is PlayerVendor )
+                {
+                    m_Thief.SendLocalizedMessage(502709); // You can't steal from vendors.
+                }
+                else if( !m_Thief.CanSee(toSteal) )
+                {
+                    m_Thief.SendLocalizedMessage(500237); // Target can not be seen.
+                }
+                else if( m_Thief.Backpack == null || !m_Thief.Backpack.CheckHold(m_Thief, toSteal, false, true) )
+                {
+                    m_Thief.SendLocalizedMessage(1048147); // Your backpack can't hold anything else.
+                }
+                else if( toSteal.Parent == null || !toSteal.Movable )
+                {
+                    m_Thief.SendLocalizedMessage(502710); // You can't steal that!
+                }
+                else if( toSteal.LootType == LootType.Newbied || toSteal.CheckBlessed(root) )
+                {
+                    m_Thief.SendLocalizedMessage(502710); // You can't steal that!
+                }
+                else if( Core.AOS && toSteal is Container )
+                {
+                    m_Thief.SendLocalizedMessage(502710); // You can't steal that!
+                }
+                else if( !m_Thief.InRange(toSteal.GetWorldLocation(), 1) )
+                {
+                    m_Thief.SendLocalizedMessage(502703); // You must be standing next to an item to steal it.
+                }
+                else if( toSteal.Parent is Mobile )
+                {
+                    m_Thief.SendLocalizedMessage(1005585); // You cannot steal items which are equiped.
+                }
+                else if( root == m_Thief )
+                {
+                    m_Thief.SendLocalizedMessage(502704); // You catch yourself red-handed.
+                }
+                else if( root is Mobile && ((Mobile)root).AccessLevel > AccessLevel.Player )
+                {
+                    m_Thief.SendLocalizedMessage(502710); // You can't steal that!
+                }
+                else if( root is Mobile && !m_Thief.CanBeHarmful((Mobile)root) )
+                {
+                }
+                else if( (root is Mobile && (((Mobile)root).Player || ((Mobile)root).Body.IsHuman)) &&
+                    (toSteal is BaseArmor || toSteal is BaseWeapon) )
+                {
+                    m_Thief.SendLocalizedMessage(502710); //You can't steal that!
+                }
+                else
+                {
+                    double w = toSteal.Weight + toSteal.TotalWeight;
+
+                    if( w > 15.0 )
+                    {
+                        m_Thief.SendMessage("That is too heavy to steal.");
+                    }
+                    else
+                    {
+                        if( toSteal.Stackable && toSteal.Amount > 1 )
+                        {
+                            //ARTEGORDON
+                            // fix for zero-weight stackables
+                            int maxAmount = toSteal.Amount;
+                            if( toSteal.Weight > 0 )
+                                maxAmount = (int)((m_Thief.Skills[SkillName.Stealing].Value / 10.0) / toSteal.Weight);
+
+                            if( maxAmount < 1 )
+                                maxAmount = 1;
+                            else if( maxAmount > toSteal.Amount )
+                                maxAmount = toSteal.Amount;
+
+                            int amount = Utility.RandomMinMax(1, maxAmount);
+
+                            if( amount >= toSteal.Amount )
+                            {
+                                int pileWeight = (int)Math.Ceiling(toSteal.Weight * toSteal.Amount);
+                                pileWeight *= 10;
+
+                                if( m_Thief.CheckTargetSkill(SkillName.Stealing, toSteal, pileWeight - 22.5, pileWeight + 27.5) )
+                                    stolen = toSteal;
+                            }
+                            else
+                            {
+                                int pileWeight = (int)Math.Ceiling(toSteal.Weight * amount);
+                                pileWeight *= 10;
+
+                                if( m_Thief.CheckTargetSkill(SkillName.Stealing, toSteal, pileWeight - 22.5, pileWeight + 27.5) )
+                                {
+                                    stolen = Mobile.LiftItemDupe(toSteal, toSteal.Amount - amount);
+
+                                    if( stolen == null )
+                                        stolen = toSteal;
+                                }
+                            }
+                        }
+                        else
+                        {
+                            int iw = (int)Math.Ceiling(w);
+                            iw *= 10;
+
+                            if( m_Thief.CheckTargetSkill(SkillName.Stealing, toSteal, iw - 22.5, iw + 27.5) )
+                                stolen = toSteal;
+                        }
+
+                        if( stolen != null )
+                        {
+                            m_Thief.SendLocalizedMessage(502724); //You succesfully steal the item.
+
+                            if (m_Thief is Player)
+                            {
+                                Rogue rge = Perk.GetByType<Rogue>((Player)m_Thief);
+                                bool reveal = true;
+
+                                if (rge != null && rge.Unseen())
+                                    reveal = false;
+
+                                if(reveal)
+                                m_Thief.RevealingAction();
+                            }
+                            
+
+                            #region caught chance
+                            int noticeChance = Utility.Random(110);
+                            List<Mobile> witnesses = new List<Mobile>();
+                            int mobileCount = 0, guardCount = 0;
+
+                            foreach( Mobile m in m_Thief.GetMobilesInRange(12) )
+                            {
+                                if( !(m == m_Thief) && (m.CanSee(m_Thief) || m.InLOS(m_Thief)) )
+                                {
+                                    if( m is PlayerMobile || m is BaseVendor )
+                                    {
+                                        mobileCount++;
+                                        witnesses.Add(m);
+                                    }
+                                    else if( m is BaseGuard )
+                                    {
+                                        guardCount++;
+                                        witnesses.Add(m);
+                                    }
+                                }
+                            }
+
+                            //+1% for every player or vendor, +10% for every guard
+                            noticeChance += (mobileCount + (guardCount * 10));
+
+                            caught = ((m_Thief.Skills[SkillName.Stealing].Fixed / 10) < noticeChance);
+                            #endregion
+
+                            if( m_Thief.Player )
+                            {
+                                EventDispatcher.InvokePlayerSteal(new PlayerStealEventArgs((Player)m_Thief, stolen, (root as Mobile), caught, witnesses));
+                            }
+                        }
+                        else
+                        {
+                            m_Thief.SendLocalizedMessage(502723); // You fail to steal the item.
+                        }
+                    }
+                }
+
+                return stolen;
+            }
+            #endregion
+
+            protected override void OnTarget( Mobile from, object target )
+            {
+                Item stolen = null;
+                object root = null;
+                bool caught = false;
+
+                if( target is Item )
+                {
+                    root = ((Item)target).RootParent;
+                    stolen = TryStealItem((Item)target, ref caught);
+                }
+                else if( target is Mobile )
+                {
+                    Container pack = ((Mobile)target).Backpack;
+
+                    if( pack != null && pack.Items.Count > 0 )
+                    {
+                        int randomIndex = Utility.Random(pack.Items.Count);
+
+                        root = target;
+                        stolen = TryStealItem(pack.Items[randomIndex], ref caught);
+                    }
+                }
+                else
+                {
+                    m_Thief.SendLocalizedMessage(502710); // You can't steal that!
+                }
+
+                EventSink.InvokeSkillUsed(new SkillUsedEventArgs(from, from.Skills[SkillName.Stealing]));
+
+                if( stolen != null )
+                {
+                    from.AddToBackpack(stolen);
+
+                    StolenItem.Add(stolen, m_Thief, root as Mobile);
+                }
+
+                if( caught )
+                {
+                    if( root == null )
+                    {
+                        m_Thief.CriminalAction(false);
+                    }
+                    else if( root is Corpse && ((Corpse)root).IsCriminalAction(m_Thief) )
+                    {
+                        m_Thief.CriminalAction(false);
+                    }
+                    else if( root is Mobile )
+                    {
+                        Mobile mobRoot = (Mobile)root;
+
+                        if( !IsInGuild(mobRoot) && IsInnocentTo(m_Thief, mobRoot) )
+                            m_Thief.CriminalAction(false);
+
+                        string message = String.Format("You notice {0} trying to steal from {1}.", m_Thief.Name, mobRoot.Name);
+
+                        foreach( NetState ns in m_Thief.GetClientsInRange(8) )
+                        {
+                            if( ns.Mobile != m_Thief )
+                                ns.Mobile.SendMessage(message);
+                        }
+                    }
+                }
+
+                if( root is Mobile && ((Mobile)root).Player && m_Thief is PlayerMobile && IsInnocentTo(m_Thief, (Mobile)root) && !IsInGuild((Mobile)root) )
+                {
+                    PlayerMobile pm = (PlayerMobile)m_Thief;
+
+                    pm.PermaFlags.Add((Mobile)root);
+                    pm.Delta(MobileDelta.Noto);
+                }
+            }
+        }
+
+        public static bool IsEmptyHanded( Mobile from )
+        {
+            if( from.FindItemOnLayer(Layer.OneHanded) != null )
+                return false;
+
+            if( from.FindItemOnLayer(Layer.TwoHanded) != null )
+                return false;
+
+            return true;
+        }
+
+        public static TimeSpan OnUse( Mobile m )
+        {
+            if( !IsEmptyHanded(m) )
+            {
+                m.SendLocalizedMessage(1005584); // Both hands must be free to steal.
+            }
+            else
+            {
+                m.Target = new Stealing.StealingTarget(m);
+                m.SendLocalizedMessage(502698); // Which item do you want to steal?
+            }
+
+            return TimeSpan.FromSeconds(10.0);
+        }
+    }
+
+    #region StolenItem
+    public class StolenItem
+    {
+        public static readonly TimeSpan StealTime = TimeSpan.FromMinutes(30.0);
+
+        private Item m_Stolen;
+        private Mobile m_Thief;
+        private Mobile m_Victim;
+        private DateTime m_Expires;
+
+        public Item Stolen { get { return m_Stolen; } }
+        public Mobile Thief { get { return m_Thief; } }
+        public Mobile Victim { get { return m_Victim; } }
+        public DateTime Expires { get { return m_Expires; } }
+
+        public bool IsExpired { get { return (DateTime.Now >= m_Expires); } }
+
+        public StolenItem( Item stolen, Mobile thief, Mobile victim )
+        {
+            m_Stolen = stolen;
+            m_Thief = thief;
+            m_Victim = victim;
+
+            m_Expires = DateTime.Now + StealTime;
+        }
+
+        private static Queue m_Queue = new Queue();
+
+        public static void Add( Item item, Mobile thief, Mobile victim )
+        {
+            Clean();
+
+            m_Queue.Enqueue(new StolenItem(item, thief, victim));
+        }
+
+        public static bool IsStolen( Item item )
+        {
+            Mobile victim = null;
+
+            return IsStolen(item, ref victim);
+        }
+
+        public static bool IsStolen( Item item, ref Mobile victim )
+        {
+            Clean();
+
+            foreach( StolenItem si in m_Queue )
+            {
+                if( si.m_Stolen == item && !si.IsExpired )
+                {
+                    victim = si.m_Victim;
+                    return true;
+                }
+            }
+
+            return false;
+        }
+
+        public static void ReturnOnDeath( Mobile killed, Container corpse )
+        {
+            Clean();
+
+            foreach( StolenItem si in m_Queue )
+            {
+                if( si.m_Stolen.RootParent == corpse && si.m_Victim != null && !si.IsExpired )
+                {
+                    if( si.m_Victim.AddToBackpack(si.m_Stolen) )
+                        si.m_Victim.SendLocalizedMessage(1010464); // the item that was stolen is returned to you.
+                    else
+                        si.m_Victim.SendLocalizedMessage(1010463); // the item that was stolen from you falls to the ground.
+
+                    si.m_Expires = DateTime.Now; // such a hack
+                }
+            }
+        }
+
+        public static void Clean()
+        {
+            while( m_Queue.Count > 0 )
+            {
+                StolenItem si = (StolenItem)m_Queue.Peek();
+
+                if( si.IsExpired )
+                    m_Queue.Dequeue();
+                else
+                    break;
+            }
+        }
+    }
+    #endregion
+}

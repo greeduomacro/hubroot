@@ -1,0 +1,36 @@
+﻿###################################
+Logging started on 5/1/2014 8:13:20 PM
+
+###################################
+Logging started on 5/1/2014 11:51:45 PM
+
+5/2/2014 12:23:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'x' of 0x6 "Test" ('admin') to '400'
+5/2/2014 12:23:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'y' of 0x6 "Test" ('admin') to '3400'
+5/2/2014 12:23:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set x 400 y 3400'
+5/2/2014 12:23:27 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+5/2/2014 12:23:35 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'lightlevel' of 0x6 "Test" ('admin') to '99'
+5/2/2014 12:23:35 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set lightlevel 99'
+5/2/2014 12:24:12 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add recallrune'
+5/2/2014 12:24:13 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3369, 30) in Backtrol: "recallrune"
+5/2/2014 12:24:13 AM: 127.0.0.1: Serials: 0x4000001C; 
+5/2/2014 12:24:15 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add recallrune'
+5/2/2014 12:24:17 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+5/2/2014 12:24:19 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3373, 30) in Backtrol: "waypoint"
+5/2/2014 12:24:19 AM: 127.0.0.1: Serials: 0x4000001D; 
+5/2/2014 12:24:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+5/2/2014 12:24:23 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3390, 30) in Backtrol: "waypoint"
+5/2/2014 12:24:23 AM: 127.0.0.1: Serials: 0x4000001E; 
+5/2/2014 12:25:04 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+5/2/2014 12:25:16 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add guard'
+5/2/2014 12:25:17 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3373, 31) in Backtrol: "guard"
+5/2/2014 12:25:21 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add guard medic'
+5/2/2014 12:25:22 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3379, 30) in Backtrol: "guard" "medic"
+5/2/2014 12:25:22 AM: 127.0.0.1: Serials: 0x8; 
+5/2/2014 12:25:32 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/2/2014 12:25:42 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CurrentWayPoint' of 0x8 "Daryl," (no account) to '0x4000001D "WayPoint"'
+5/2/2014 12:26:30 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'CurrentWayPoint' of 0x8 "Daryl," (no account) to '0x4000001E "WayPoint"'
+5/2/2014 12:26:43 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'move '
+5/2/2014 12:26:48 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') moving 0x4000001E (WayPoint) to (427, 3380, 30)
+5/2/2014 12:28:46 AM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/2/2014 12:29:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/2/2014 12:29:55 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '

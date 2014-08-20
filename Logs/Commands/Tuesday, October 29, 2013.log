@@ -1,0 +1,46 @@
+﻿###################################
+Logging started on 10/29/2013 1:06:59 PM
+
+###################################
+Logging started on 10/29/2013 1:08:00 PM
+
+10/29/2013 1:12:38 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add deed'
+10/29/2013 1:12:58 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5894, 256, 20) in Backtrol: "DwarvenStatueAddonDeed"
+10/29/2013 1:12:58 PM: 127.0.0.1: Serials: 0x40000008; 
+10/29/2013 1:13:17 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5893, 256, 20) in Backtrol: "LargePatioDeed"
+10/29/2013 1:13:17 PM: 127.0.0.1: Serials: 0x40000010; 
+10/29/2013 1:13:54 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'remove '
+10/29/2013 1:13:56 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') deleting 0x40000016 (HouseSign)
+10/29/2013 1:14:11 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add smallhouse'
+10/29/2013 1:14:16 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add brickhouse'
+10/29/2013 1:14:18 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5856, 242, 20) in Backtrol: "SmallBrickHouseDeed"
+10/29/2013 1:14:18 PM: 127.0.0.1: Serials: 0x4000001A; 
+10/29/2013 1:14:29 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'remove '
+10/29/2013 1:14:29 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') deleting 0x4000001F (HouseSign)
+10/29/2013 1:14:34 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'add smallbrickhouse'
+10/29/2013 1:14:37 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') building at (5859, 231, 20) in Backtrol: "SmallBrickHouseDeed"
+10/29/2013 1:14:37 PM: 127.0.0.1: Serials: 0x40000020; 
+10/29/2013 1:14:45 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'tele '
+10/29/2013 1:15:04 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'props '
+10/29/2013 1:16:25 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'admin '
+10/29/2013 1:16:36 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') adding new account: EnroqTest
+10/29/2013 1:17:02 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'who '
+10/29/2013 1:17:05 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') bringing 0x1 "Test" ('EnroqTest') to Location (5857, 233, 28), Map Backtrol
+10/29/2013 1:17:07 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'move '
+10/29/2013 1:17:09 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') moving 0x1 "Test" ('EnroqTest') to (5857, 235, 25)
+10/29/2013 1:17:18 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'setallskills 100'
+10/29/2013 1:17:21 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'setallskills 100'
+10/29/2013 1:17:21 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') set property 'EverySkill.Base' of 0x1 "Test" ('EnroqTest') to '100'
+10/29/2013 1:17:33 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'remove '
+10/29/2013 1:17:34 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') deleting 0x40000026 (Backpack)
+10/29/2013 1:17:36 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'move '
+10/29/2013 1:17:39 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') moving 0x4000000A (Backpack) to (5858, 235, 25)
+10/29/2013 1:19:31 PM: 127.0.0.1: Administrator 0x1A "Bronson" ('Enroq') used command 'save '
+###################################
+Logging started on 10/29/2013 1:23:18 PM
+
+10/29/2013 1:29:46 PM: 127.0.0.1: Player 0x1 "Test" ('EnroqTest') used command 'calt '
+10/29/2013 1:30:11 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'm tele'
+10/29/2013 3:23:07 PM: 127.0.0.1: Awaiting confirmation...
+10/29/2013 3:23:07 PM: 127.0.0.1: Administrator 0x2 "Edenai" ('Enroq') used command 'global delete where mobile'
+10/29/2013 3:23:08 PM: 127.0.0.1: Delete command confirmed.

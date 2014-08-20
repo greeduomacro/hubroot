@@ -1,0 +1,100 @@
+﻿###################################
+Logging started on 7/9/2014 12:01:38 AM
+
+###################################
+Logging started on 7/9/2014 12:02:59 AM
+
+###################################
+Logging started on 7/9/2014 12:04:47 AM
+
+###################################
+Logging started on 7/9/2014 12:06:27 AM
+
+7/9/2014 12:07:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+7/9/2014 12:07:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x1 "Test" ('admin').
+7/9/2014 12:07:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+7/9/2014 12:07:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+7/9/2014 12:07:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/9/2014 12:07:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 645, -14) in Ilshenar: "townsigil"
+7/9/2014 12:07:26 AM: 127.0.0.1: Serials: 0x4000000E; 
+###################################
+Logging started on 7/9/2014 12:12:43 AM
+
+7/9/2014 12:13:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack townsigil'
+7/9/2014 12:13:54 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "townsigil"
+7/9/2014 12:13:54 AM: 127.0.0.1: Serials: 0x4000000A; 
+###################################
+Logging started on 7/9/2014 12:44:03 AM
+
+7/9/2014 12:45:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack townsigil'
+7/9/2014 12:45:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "townsigil"
+7/9/2014 12:45:06 AM: 127.0.0.1: Serials: 0x4000000A; 
+###################################
+Logging started on 7/9/2014 12:46:54 AM
+
+7/9/2014 12:47:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack townsigil'
+7/9/2014 12:47:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "townsigil"
+7/9/2014 12:47:48 AM: 127.0.0.1: Serials: 0x4000000A; 
+###################################
+Logging started on 7/9/2014 12:48:22 AM
+
+###################################
+Logging started on 7/9/2014 12:49:41 AM
+
+7/9/2014 12:50:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack townsigil'
+7/9/2014 12:50:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "townsigil"
+7/9/2014 12:50:39 AM: 127.0.0.1: Serials: 0x4000000A; 
+7/9/2014 12:50:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+###################################
+Logging started on 7/9/2014 1:24:47 AM
+
+7/9/2014 1:25:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack townsigil'
+7/9/2014 1:25:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 646, -14) in Ilshenar: "townsigil"
+7/9/2014 1:25:43 AM: 127.0.0.1: Serials: 0x4000000A; 
+###################################
+Logging started on 7/9/2014 1:26:03 AM
+
+###################################
+Logging started on 7/9/2014 1:29:00 AM
+
+7/9/2014 1:29:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/9/2014 1:29:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 644, -14) in Ilshenar: "townsigil"
+7/9/2014 1:29:44 AM: 127.0.0.1: Serials: 0x4000000A; 
+7/9/2014 1:29:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable false'
+7/9/2014 1:29:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable false'
+7/9/2014 1:29:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x4000000A (TownSigil) to 'False'
+7/9/2014 1:30:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable true'
+7/9/2014 1:30:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x4000000A (TownSigil) to 'True'
+###################################
+Logging started on 7/9/2014 1:41:53 AM
+
+7/9/2014 1:42:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil set movable true regioname New Region'
+7/9/2014 1:42:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1519, 643, -14) in Ilshenar: "townsigil" "set" "movable" "true" "regioname" "New" "Region"
+7/9/2014 1:42:27 AM: 127.0.0.1: Serials: 0x4000000A; 
+###################################
+Logging started on 7/9/2014 1:44:09 AM
+
+###################################
+Logging started on 7/9/2014 1:46:03 AM
+
+7/9/2014 1:46:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/9/2014 1:46:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1518, 644, -14) in Ilshenar: "townsigil"
+7/9/2014 1:46:35 AM: 127.0.0.1: Serials: 0x4000000A; 
+7/9/2014 1:46:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable true'
+7/9/2014 1:46:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x4000000A (TownSigil) to 'True'
+###################################
+Logging started on 7/9/2014 1:55:26 AM
+
+7/9/2014 1:55:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add townsigil'
+7/9/2014 1:55:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1517, 644, -14) in Ilshenar: "townsigil"
+7/9/2014 1:55:46 AM: 127.0.0.1: Serials: 0x4000000A; 
+7/9/2014 1:55:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable true'
+7/9/2014 1:55:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x4000000A (TownSigil) to 'True'
+7/9/2014 1:56:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'global interface townsigil'
+7/9/2014 1:56:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'global interface'
+7/9/2014 1:56:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'global interface where townsigil'
+7/9/2014 1:56:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'Go 1073741834'
+7/9/2014 1:56:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get location'
+###################################
+Logging started on 7/9/2014 2:02:02 AM
+

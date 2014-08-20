@@ -1,0 +1,243 @@
+﻿###################################
+Logging started on 5/15/2014 12:21:35 AM
+
+5/15/2014 12:45:09 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 12:45:10 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'lightlevel' of 0x6 "Tano" ('admin') to '99'
+5/15/2014 12:45:10 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self set lightlevel 99'
+5/15/2014 12:45:15 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 12:45:16 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (439, 3412, 10) in Backtrol: "lich"
+5/15/2014 12:45:16 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 12:45:43 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+###################################
+Logging started on 5/15/2014 1:00:37 AM
+
+5/15/2014 1:01:17 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:01:22 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+5/15/2014 1:01:26 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:01:27 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (444, 3420, 10) in Backtrol: "lich"
+5/15/2014 1:01:27 AM: 127.0.0.1: Serials: 0xB; 
+###################################
+Logging started on 5/15/2014 1:03:31 AM
+
+5/15/2014 1:03:59 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:04:02 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:04:03 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (451, 3414, 11) in Backtrol: "lich"
+5/15/2014 1:04:03 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 1:04:07 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+###################################
+Logging started on 5/15/2014 1:05:51 AM
+
+5/15/2014 1:06:28 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:06:31 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 20'
+5/15/2014 1:06:34 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:06:35 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (453, 3424, 10) in Backtrol: "lich"
+5/15/2014 1:06:35 AM: 127.0.0.1: Serials: 0xB; 
+###################################
+Logging started on 5/15/2014 1:08:09 AM
+
+5/15/2014 1:08:23 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:08:24 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'lightlevel' of 0x6 "Tano" ('admin') to '99'
+5/15/2014 1:08:24 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self set lightlevel 99'
+5/15/2014 1:08:26 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:08:28 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (452, 3415, 10) in Backtrol: "lich"
+5/15/2014 1:08:28 AM: 127.0.0.1: Serials: 0xB; 
+###################################
+Logging started on 5/15/2014 1:10:09 AM
+
+5/15/2014 1:10:15 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:10:16 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:10:19 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (452, 3415, 10) in Backtrol: "lich"
+5/15/2014 1:10:20 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 1:10:23 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+5/15/2014 1:10:56 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'set hits 1'
+5/15/2014 1:10:57 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'hits' of 0xB "a lich" (no account) to '1'
+###################################
+Logging started on 5/15/2014 1:26:52 AM
+
+5/15/2014 1:27:17 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:27:18 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:27:19 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (456, 3418, 10) in Backtrol: "lich"
+5/15/2014 1:27:19 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 1:27:25 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+###################################
+Logging started on 5/15/2014 1:30:52 AM
+
+5/15/2014 1:31:17 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:31:18 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:31:19 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (449, 3414, 10) in Backtrol: "lich"
+5/15/2014 1:31:20 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 1:31:24 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel'
+5/15/2014 1:31:25 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+###################################
+Logging started on 5/15/2014 1:46:37 AM
+
+5/15/2014 1:48:13 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:48:14 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:48:15 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (459, 3410, 10) in Backtrol: "lich"
+5/15/2014 1:48:16 AM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 1:48:21 AM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:48:22 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 1:48:26 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'inc lightlevel 99'
+5/15/2014 1:48:46 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lich'
+5/15/2014 1:48:48 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (449, 3413, 10) in Backtrol: "lich"
+5/15/2014 1:48:48 AM: 127.0.0.1: Serials: 0xD; 
+5/15/2014 1:48:49 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/15/2014 1:48:51 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0xD "a lich" (no account).
+###################################
+Logging started on 5/15/2014 2:09:17 AM
+
+###################################
+Logging started on 5/15/2014 2:20:39 AM
+
+5/15/2014 2:20:54 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 2:20:57 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 2:20:59 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (443, 3418, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 2:21:00 AM: 127.0.0.1: Serials: 0x40000016; 
+###################################
+Logging started on 5/15/2014 2:25:25 AM
+
+5/15/2014 2:26:04 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 2:26:06 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 2:26:08 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3423, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 2:26:08 AM: 127.0.0.1: Serials: 0x40000016; 
+###################################
+Logging started on 5/15/2014 2:37:31 AM
+
+5/15/2014 2:38:00 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 2:38:03 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 2:38:05 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (455, 3418, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 2:38:05 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 2:39:17 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:21 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:22 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:23 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:25 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:29 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:30 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 2:39:33 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'ADD C'
+5/15/2014 2:39:39 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'area interface'
+5/15/2014 2:39:47 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'Go 1073742124'
+###################################
+Logging started on 5/15/2014 2:44:51 AM
+
+5/15/2014 2:45:24 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 2:45:26 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carp'
+5/15/2014 2:45:29 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (439, 3417, 10) in Backtrol: "SmallRedCarpetRoll"
+5/15/2014 2:45:29 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 2:46:06 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+###################################
+Logging started on 5/15/2014 2:54:37 AM
+
+5/15/2014 2:55:00 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 2:55:03 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 2:55:04 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (455, 3417, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 2:55:04 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 2:55:35 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get '
+5/15/2014 2:55:36 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 2:55:38 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 2:55:40 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 2:55:43 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 2:55:46 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'inc z -1'
+5/15/2014 2:55:49 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'inc z -1'
+###################################
+Logging started on 5/15/2014 3:02:29 AM
+
+5/15/2014 3:02:59 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:03:02 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 3:03:04 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (443, 3417, 10) in Backtrol: "SmallRedCarpetRoll"
+5/15/2014 3:03:04 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 3:03:20 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:03:22 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:03:31 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+###################################
+Logging started on 5/15/2014 3:06:22 AM
+
+5/15/2014 3:06:51 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:06:53 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 3:06:56 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (455, 3418, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 3:06:56 AM: 127.0.0.1: Serials: 0x40000016; 
+###################################
+Logging started on 5/15/2014 3:11:47 AM
+
+5/15/2014 3:14:03 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:14:07 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 3:14:09 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (443, 3418, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 3:14:09 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 3:14:27 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:14:29 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:14:34 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+###################################
+Logging started on 5/15/2014 3:16:55 AM
+
+5/15/2014 3:18:06 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:18:08 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add carpetroll'
+5/15/2014 3:18:11 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (446, 3421, 10) in Backtrol: "SmallRoyalBlueCarpetRoll"
+5/15/2014 3:18:11 AM: 127.0.0.1: Serials: 0x40000016; 
+5/15/2014 3:18:28 AM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:21:11 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 3:21:12 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:21:16 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get z'
+5/15/2014 3:21:20 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get height'
+###################################
+Logging started on 5/15/2014 9:17:10 PM
+
+5/15/2014 9:20:25 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 9:20:26 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 9:20:40 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add ancientlich'
+5/15/2014 9:20:41 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3416, 10) in Backtrol: "ancientlich"
+5/15/2014 9:20:41 PM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 9:20:56 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'set hits 50'
+5/15/2014 9:20:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'hits' of 0xC "Rowland," (no account) to '50'
+###################################
+Logging started on 5/15/2014 9:22:44 PM
+
+5/15/2014 9:23:06 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 9:23:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add ancientlich'
+5/15/2014 9:23:10 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (449, 3416, 12) in Backtrol: "ancientlich"
+5/15/2014 9:23:10 PM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 9:23:20 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/15/2014 9:23:25 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (452, 3435, 10) in Backtrol: "guard" "swordsman"
+5/15/2014 9:23:25 PM: 127.0.0.1: Serials: 0xD; 
+5/15/2014 9:23:34 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'set hits 60'
+5/15/2014 9:23:37 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'hits' of 0xE "Kendall," (no account) to '60'
+5/15/2014 9:24:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+5/15/2014 9:24:17 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') deleting 0xD "Matana," (no account)
+5/15/2014 9:24:21 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+5/15/2014 9:24:21 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') deleting 0xE "Kendall," (no account)
+###################################
+Logging started on 5/15/2014 9:34:34 PM
+
+5/15/2014 9:36:20 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 9:36:27 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add lichlord'
+5/15/2014 9:36:28 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (437, 3410, 11) in Backtrol: "lichlord"
+5/15/2014 9:36:28 PM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 9:36:35 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get karma'
+5/15/2014 9:36:45 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'set hits 1'
+5/15/2014 9:36:47 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'hits' of 0xC "Rowland," (no account) to '1'
+5/15/2014 9:37:06 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+5/15/2014 9:37:19 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/15/2014 9:37:21 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (438, 3428, 10) in Backtrol: "guard" "swordsman"
+5/15/2014 9:37:21 PM: 127.0.0.1: Serials: 0xD; 
+5/15/2014 9:37:27 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'set hits 10'
+5/15/2014 9:37:28 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'hits' of 0xE "Kendall," (no account) to '10'
+###################################
+Logging started on 5/15/2014 9:40:26 PM
+
+5/15/2014 9:41:08 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/15/2014 9:41:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 9:41:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'ProduceCorpses' of 0x6 "Tano" ('admin') to 'False'
+5/15/2014 9:41:18 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/15/2014 9:41:19 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0xE "Kendall," (no account).
+5/15/2014 9:41:22 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/15/2014 9:41:25 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0xC "Rowland," (no account).
+5/15/2014 9:41:28 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'ProduceCorpses' of 0x6 "Tano" ('admin') to 'True'
+5/15/2014 9:41:49 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/15/2014 9:41:50 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (444, 3401, 10) in Backtrol: "guard" "swordsman"
+5/15/2014 9:41:50 PM: 127.0.0.1: Serials: 0xB; 
+5/15/2014 9:41:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/15/2014 9:41:54 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/15/2014 9:41:55 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') killed 0xB "Jivin," (no account).
+5/15/2014 9:42:40 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc str 20 dex 20'
+5/15/2014 9:42:43 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '
+5/15/2014 9:43:02 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc str 20 dex 20'
+5/15/2014 9:43:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'props '

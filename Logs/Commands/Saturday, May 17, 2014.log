@@ -1,0 +1,16 @@
+﻿###################################
+Logging started on 5/17/2014 12:23:00 AM
+
+5/17/2014 12:23:11 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'self inc lightlevel 99'
+5/17/2014 12:23:13 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/17/2014 12:23:15 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/17/2014 12:23:17 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+###################################
+Logging started on 5/17/2014 1:43:37 AM
+
+###################################
+Logging started on 5/17/2014 1:45:47 AM
+
+5/17/2014 1:46:12 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'kill '
+5/17/2014 1:46:13 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0x6 "Test" ('admin').
+5/17/2014 1:46:15 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '

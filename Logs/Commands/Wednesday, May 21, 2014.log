@@ -1,0 +1,17 @@
+﻿###################################
+Logging started on 5/21/2014 10:01:41 AM
+
+5/21/2014 10:03:50 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/21/2014 10:03:51 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (445, 3412, 10) in Backtrol: "guard" "swordsman"
+5/21/2014 10:03:51 AM: 127.0.0.1: Serials: 0xD; 
+5/21/2014 10:03:55 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add militia'
+5/21/2014 10:04:02 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add militiawarrior set kills 5'
+5/21/2014 10:04:03 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (447, 3409, 10) in Backtrol: "militiawarrior" "set" "kills" "5"
+5/21/2014 10:04:03 AM: 127.0.0.1: Serials: 0xF; 
+5/21/2014 10:04:07 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+5/21/2014 10:04:08 AM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') deleting 0xE "Kendall," (no account)
+5/21/2014 12:14:01 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'setallskills 80'
+5/21/2014 12:14:03 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'EverySkill.Base' of 0x6 "Tano" ('admin') to '80'
+5/21/2014 12:14:08 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'setallskills 870'
+5/21/2014 12:14:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'setallskills 70'
+5/21/2014 12:14:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') set property 'EverySkill.Base' of 0x6 "Tano" ('admin') to '70'

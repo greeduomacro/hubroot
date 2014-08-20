@@ -1,0 +1,32 @@
+﻿###################################
+Logging started on 11/13/2013 4:40:15 AM
+
+###################################
+Logging started on 11/13/2013 5:26:27 PM
+
+11/13/2013 5:27:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add carpet'
+11/13/2013 5:27:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2177, 1036, 5) in Backtrol: "SmallRedCarpetRoll"
+11/13/2013 5:27:06 PM: 127.0.0.1: Serials: 0x40000018; 
+11/13/2013 5:27:53 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:27:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:27:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:27:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:28:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:28:03 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:28:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:28:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get z'
+11/13/2013 5:28:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get z'
+11/13/2013 5:28:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/13/2013 5:29:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/13/2013 5:31:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self get z'
+11/13/2013 5:32:59 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/13/2013 5:33:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/13/2013 5:33:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:25 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:27 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'
+11/13/2013 5:33:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self inc z 1'

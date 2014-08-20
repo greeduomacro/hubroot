@@ -1,0 +1,180 @@
+﻿###################################
+Logging started on 5/9/2014 9:50:28 PM
+
+5/9/2014 9:51:41 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+5/9/2014 9:52:02 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self get karma'
+5/9/2014 9:52:04 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 9:52:05 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (297, 3336, 10) in Backtrol: "lich"
+5/9/2014 9:52:06 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 9:52:08 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 9:52:18 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/9/2014 9:55:22 PM
+
+###################################
+Logging started on 5/9/2014 9:56:06 PM
+
+5/9/2014 9:58:13 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 9:58:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3392, 10) in Backtrol: "lich"
+5/9/2014 9:58:14 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 9:58:17 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 9:58:31 PM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 9:58:36 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 9:58:53 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lichlord'
+5/9/2014 9:58:55 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (360, 3390, 10) in Backtrol: "lichlord"
+5/9/2014 9:58:55 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 9:58:56 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 9:59:04 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/9/2014 10:04:32 PM
+
+5/9/2014 10:07:06 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add robe set hue 1818'
+5/9/2014 10:07:07 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3395, 10) in Backtrol: "robe" "set" "hue" "1818"
+5/9/2014 10:07:07 PM: 127.0.0.1: Serials: 0x40000016; 
+5/9/2014 10:07:14 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'adjusthair '
+5/9/2014 10:07:21 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:07:22 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3393, 10) in Backtrol: "lich"
+5/9/2014 10:07:22 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:07:26 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add wisp'
+5/9/2014 10:07:27 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (360, 3391, 10) in Backtrol: "wisp"
+5/9/2014 10:07:27 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 10:07:29 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:07:35 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+5/9/2014 10:07:38 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:07:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0xC "a wisp" (no account)
+5/9/2014 10:08:20 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add '
+5/9/2014 10:08:36 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'Add EtherealWarrior'
+5/9/2014 10:08:37 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (358, 3389, 10) in Backtrol: "EtherealWarrior"
+5/9/2014 10:08:37 PM: 127.0.0.1: Serials: 0xD; 
+5/9/2014 10:08:48 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add ancientlich'
+5/9/2014 10:08:50 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (361, 3391, 10) in Backtrol: "ancientlich"
+5/9/2014 10:08:50 PM: 127.0.0.1: Serials: 0xE; 
+5/9/2014 10:09:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add balron'
+5/9/2014 10:09:35 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3390, 10) in Backtrol: "balron"
+5/9/2014 10:09:35 PM: 127.0.0.1: Serials: 0xF; 
+5/9/2014 10:09:58 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add pixie'
+5/9/2014 10:09:59 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (356, 3386, 10) in Backtrol: "pixie"
+5/9/2014 10:09:59 PM: 127.0.0.1: Serials: 0x10; 
+5/9/2014 10:10:00 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add pixie'
+5/9/2014 10:10:00 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3395, 10) in Backtrol: "pixie"
+5/9/2014 10:10:00 PM: 127.0.0.1: Serials: 0x11; 
+5/9/2014 10:10:10 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+5/9/2014 10:10:17 PM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:10:28 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:10:29 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:10:29 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0xF "the Collector of Souls" (no account)
+5/9/2014 10:10:30 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:10:31 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0xD "Arafel" (no account)
+5/9/2014 10:10:31 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:10:32 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000092 (Corpse)
+5/9/2014 10:10:33 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:10:33 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x400000BE (Corpse)
+5/9/2014 10:10:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:10:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x10 "Laeri" (no account)
+###################################
+Logging started on 5/9/2014 10:16:25 PM
+
+5/9/2014 10:17:01 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:17:02 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3389, 10) in Backtrol: "lich"
+5/9/2014 10:17:02 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:17:07 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '1'
+5/9/2014 10:17:07 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 1'
+5/9/2014 10:17:12 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '3000'
+5/9/2014 10:17:12 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 3000'
+5/9/2014 10:17:16 PM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:17:20 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:17:22 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:17:28 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/9/2014 10:20:38 PM
+
+5/9/2014 10:21:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:21:40 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3389, 10) in Backtrol: "lich"
+5/9/2014 10:21:40 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:21:43 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:21:50 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/9/2014 10:25:03 PM
+
+5/9/2014 10:25:37 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:25:37 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3390, 10) in Backtrol: "lich"
+5/9/2014 10:25:38 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:25:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:25:45 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'karma' of 0x6 "Test" ('admin') to '1'
+5/9/2014 10:25:45 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set karma 1'
+5/9/2014 10:25:50 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lichlord'
+5/9/2014 10:25:51 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3392, 10) in Backtrol: "lichlord"
+5/9/2014 10:25:51 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 10:25:53 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+###################################
+Logging started on 5/9/2014 10:27:27 PM
+
+5/9/2014 10:28:12 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:28:12 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (362, 3390, 10) in Backtrol: "lich"
+5/9/2014 10:28:12 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:28:19 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lichlord'
+5/9/2014 10:28:20 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (363, 3391, 11) in Backtrol: "lichlord"
+5/9/2014 10:28:20 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 10:28:26 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:28:29 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:28:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:28:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0xB "a lich" (no account)
+5/9/2014 10:28:40 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:28:41 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0xC "a lich lord" (no account)
+###################################
+Logging started on 5/9/2014 10:32:26 PM
+
+###################################
+Logging started on 5/9/2014 10:33:20 PM
+
+5/9/2014 10:33:38 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:33:39 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (361, 3391, 10) in Backtrol: "lich"
+5/9/2014 10:33:39 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:33:40 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:33:40 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (365, 3392, 10) in Backtrol: "lich"
+5/9/2014 10:33:40 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 10:33:44 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lichlord'
+5/9/2014 10:33:45 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (364, 3390, 10) in Backtrol: "lichlord"
+5/9/2014 10:33:45 PM: 127.0.0.1: Serials: 0xD; 
+5/9/2014 10:33:53 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+5/9/2014 10:33:59 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'get karma'
+###################################
+Logging started on 5/9/2014 10:40:46 PM
+
+5/9/2014 10:43:34 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add lich'
+5/9/2014 10:43:35 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (360, 3389, 10) in Backtrol: "lich"
+5/9/2014 10:43:35 PM: 127.0.0.1: Serials: 0xB; 
+5/9/2014 10:43:36 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'props '
+5/9/2014 10:43:43 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add cow'
+5/9/2014 10:43:44 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (364, 3391, 11) in Backtrol: "cow"
+5/9/2014 10:43:44 PM: 127.0.0.1: Serials: 0xC; 
+5/9/2014 10:43:54 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+5/9/2014 10:43:55 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x40000032 (Corpse)
+5/9/2014 10:44:30 PM: 127.0.0.1: Player 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:44:50 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'calt '
+5/9/2014 10:44:54 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'heal '
+5/9/2014 10:44:58 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'kill '
+5/9/2014 10:44:59 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') killed 0xB "a lich" (no account).
+5/9/2014 10:53:55 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add disguisekit'
+5/9/2014 10:53:57 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (373, 3425, 10) in Backtrol: "disguisekit"
+5/9/2014 10:53:57 PM: 127.0.0.1: Serials: 0x4000003B; 
+5/9/2014 10:54:03 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'setallskills 100'
+5/9/2014 10:54:05 PM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'EverySkill.Base' of 0x6 "Test" ('admin') to '100'
+5/9/2014 10:57:31 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'get itemid'
+5/9/2014 11:14:55 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard, knight'
+5/9/2014 11:14:59 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard, swordsman'
+5/9/2014 11:15:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard, swordsman'
+5/9/2014 11:15:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard'
+5/9/2014 11:15:22 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard, swordsman'
+5/9/2014 11:15:31 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard, pikemen'
+5/9/2014 11:15:38 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard set type swordsman'
+5/9/2014 11:15:38 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3427, 10) in Backtrol: "guard" "set" "type" "swordsman"
+5/9/2014 11:15:46 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add guard swordsman'
+5/9/2014 11:15:47 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3427, 10) in Backtrol: "guard" "swordsman"
+5/9/2014 11:15:47 PM: 127.0.0.1: Serials: 0xD; 
+###################################
+Logging started on 5/9/2014 11:47:49 PM
+
+5/9/2014 11:52:34 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add sheep set hitsmaxseed 5000 hits 5000'
+5/9/2014 11:52:35 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3426, 10) in Backtrol: "sheep" "set" "hitsmaxseed" "5000" "hits" "5000"
+5/9/2014 11:52:35 PM: 127.0.0.1: Serials: 0xB; 

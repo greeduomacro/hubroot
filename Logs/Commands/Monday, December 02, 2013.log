@@ -1,0 +1,476 @@
+﻿###################################
+Logging started on 12/2/2013 2:31:47 AM
+
+12/2/2013 2:34:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 100'
+12/2/2013 2:34:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '100'
+12/2/2013 2:34:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 2:34:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5773, 248, 20) in Backtrol: "ogre"
+12/2/2013 2:35:00 AM: 127.0.0.1: Serials: 0x4; 
+12/2/2013 2:35:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 2:35:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'eoc' of 0x1 "Test" ('Admin') to '500000'
+12/2/2013 2:35:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'self set eoc 500000'
+12/2/2013 2:35:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:35:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:35:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'perkadmin '
+12/2/2013 2:35:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:36:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:36:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 2:36:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:36:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:37:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get hits'
+12/2/2013 2:37:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'get hitsmax'
+12/2/2013 2:37:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:38:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:38:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 150'
+12/2/2013 2:38:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '150'
+12/2/2013 2:38:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 100'
+12/2/2013 2:38:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '100'
+12/2/2013 2:39:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawdex 125'
+12/2/2013 2:39:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawdex' of 0x1 "Test" ('Admin') to '125'
+12/2/2013 2:39:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set int 25'
+12/2/2013 2:39:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'int' of 0x1 "Test" ('Admin') to '25'
+12/2/2013 2:39:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:39:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add harpy'
+12/2/2013 2:39:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5765, 259, 20) in Backtrol: "harpy"
+12/2/2013 2:39:28 AM: 127.0.0.1: Serials: 0x5; 
+12/2/2013 2:39:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add stoneharpy'
+12/2/2013 2:39:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5763, 257, 20) in Backtrol: "stoneharpy"
+12/2/2013 2:39:57 AM: 127.0.0.1: Serials: 0x6; 
+12/2/2013 2:40:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:40:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:40:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:40:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:40:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:40:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 120'
+12/2/2013 2:40:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'EverySkill.Base' of 0x1 "Test" ('Admin') to '120'
+12/2/2013 2:40:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'setallskills 120'
+12/2/2013 2:40:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 2:41:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 3:08:24 AM
+
+12/2/2013 3:08:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 3:08:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'eoc' of 0x1 "Test" ('Admin') to '1000000'
+12/2/2013 3:08:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'self set eoc 1000000'
+12/2/2013 3:08:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 3:09:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5767, 251, 20) in Backtrol: "ogre"
+12/2/2013 3:09:00 AM: 127.0.0.1: Serials: 0x4; 
+12/2/2013 3:09:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:09:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:09:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:09:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:09:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'save '
+###################################
+Logging started on 12/2/2013 3:11:20 AM
+
+12/2/2013 3:11:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 3:12:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5768, 253, 20) in Backtrol: "ogre"
+12/2/2013 3:12:11 AM: 127.0.0.1: Serials: 0x5; 
+12/2/2013 3:12:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 3:12:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5769, 252, 20) in Backtrol: "ogre"
+12/2/2013 3:12:17 AM: 127.0.0.1: Serials: 0x6; 
+12/2/2013 3:12:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 3:12:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:12:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:24 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:13:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 3:16:13 AM
+
+12/2/2013 3:16:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:16:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:16:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:16:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:17:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:18:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 3:45:13 AM
+
+12/2/2013 3:45:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:45:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:45:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:45:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:46:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:47:57 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:48:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:48:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:49:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:49:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawint 50'
+12/2/2013 3:49:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawint' of 0x1 "Test" ('Admin') to '50'
+12/2/2013 3:49:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:49:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set rawstr 125'
+12/2/2013 3:49:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'rawstr' of 0x1 "Test" ('Admin') to '125'
+###################################
+Logging started on 12/2/2013 3:23:30 PM
+
+12/2/2013 3:24:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:25:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:26:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:27:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:27:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:27:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 3:29:29 PM
+
+12/2/2013 3:29:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:29:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:29:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 3:30:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 4:28:05 PM
+
+###################################
+Logging started on 12/2/2013 5:42:58 PM
+
+12/2/2013 5:46:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 5:49:57 PM
+
+12/2/2013 5:52:04 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'help '
+12/2/2013 5:52:06 PM: 127.0.0.1: Player 0x1 "Egam" ('Admin') used command 'calt '
+12/2/2013 5:52:08 PM: 127.0.0.1: Player 0x1 "Egam" ('Admin') used command 'help '
+12/2/2013 5:52:21 PM: 127.0.0.1: Player 0x1 "Egam" ('Admin') used command 'motd '
+12/2/2013 5:55:32 PM: 127.0.0.1: Player 0x1 "Egam" ('Admin') used command 'msg egam'
+12/2/2013 5:56:08 PM: 127.0.0.1: Player 0x1 "Egam" ('Admin') used command 'msg '
+12/2/2013 5:56:19 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'calt '
+12/2/2013 5:56:20 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'msg '
+12/2/2013 5:57:34 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'add well'
+12/2/2013 5:57:37 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') building at (5715, 344, 5) in Backtrol: "WellAddon"
+12/2/2013 5:57:37 PM: 127.0.0.1: Serials: 0x40000016; 
+###################################
+Logging started on 12/2/2013 6:26:37 PM
+
+###################################
+Logging started on 12/2/2013 6:40:22 PM
+
+12/2/2013 6:41:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 6:41:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 6:45:13 PM
+
+12/2/2013 6:45:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 6:55:32 PM
+
+12/2/2013 6:55:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:01:29 PM
+
+12/2/2013 7:01:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:01:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:01:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:02:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:02:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:05:45 PM
+
+12/2/2013 7:06:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:07:53 PM
+
+12/2/2013 7:08:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:10:44 PM
+
+12/2/2013 7:11:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:12:39 PM
+
+12/2/2013 7:13:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:14:54 PM
+
+12/2/2013 7:15:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:15:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:15:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 7:18:02 PM
+
+12/2/2013 7:18:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:19:29 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hue 1151'
+12/2/2013 7:19:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hue' of 0x40000008 (LongPants) to '1151'
+12/2/2013 7:19:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set hue 1153'
+12/2/2013 7:19:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'hue' of 0x40000008 (LongPants) to '1153'
+###################################
+Logging started on 12/2/2013 7:23:45 PM
+
+12/2/2013 7:24:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 7:24:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 7:24:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 7:24:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 7:24:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5769, 249, 20) in Backtrol: "ogre"
+12/2/2013 7:24:40 PM: 127.0.0.1: Serials: 0x4; 
+###################################
+Logging started on 12/2/2013 8:26:43 PM
+
+12/2/2013 8:27:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:27:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 8:29:58 PM
+
+12/2/2013 8:30:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:30:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 8:32:12 PM
+
+12/2/2013 8:42:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:43:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:43:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+###################################
+Logging started on 12/2/2013 8:45:56 PM
+
+###################################
+Logging started on 12/2/2013 8:47:25 PM
+
+12/2/2013 8:47:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:47:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:47:59 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:48:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 8:51:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:52:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:52:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 8:54:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 9:22:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set map ilshenar'
+12/2/2013 9:22:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'map' of 0x1 "Test" ('Admin') to 'Ilshenar'
+12/2/2013 9:22:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set x 1000 y 100'
+12/2/2013 9:22:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'x' of 0x1 "Test" ('Admin') to '1000'
+12/2/2013 9:22:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'y' of 0x1 "Test" ('Admin') to '100'
+12/2/2013 9:22:38 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set x 1000 y 1000'
+12/2/2013 9:22:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'x' of 0x1 "Test" ('Admin') to '1000'
+12/2/2013 9:22:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'y' of 0x1 "Test" ('Admin') to '1000'
+12/2/2013 9:22:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'm tele'
+12/2/2013 9:27:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'go '
+12/2/2013 9:28:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'go '
+###################################
+Logging started on 12/2/2013 9:32:35 PM
+
+12/2/2013 9:33:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:33:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+###################################
+Logging started on 12/2/2013 9:36:59 PM
+
+12/2/2013 9:38:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:38:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5773, 249, 20) in Backtrol: "ogre"
+12/2/2013 9:38:31 PM: 127.0.0.1: Serials: 0x4; 
+12/2/2013 9:38:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:39:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:40:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'props '
+12/2/2013 9:40:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:40:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5722, 277, 23) in Backtrol: "ogre"
+12/2/2013 9:40:35 PM: 127.0.0.1: Serials: 0x5; 
+12/2/2013 9:40:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack bolt 100'
+12/2/2013 9:40:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5724, 269, 20) in Backtrol: "bolt" "100"
+12/2/2013 9:40:44 PM: 127.0.0.1: Serials: 0x4000007B; 
+12/2/2013 9:41:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:41:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:41:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:41:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:41:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5757, 257, 20) in Backtrol: "ogre"
+12/2/2013 9:41:39 PM: 127.0.0.1: Serials: 0x6; 
+12/2/2013 9:41:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:41:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5759, 257, 20) in Backtrol: "ogre"
+12/2/2013 9:41:41 PM: 127.0.0.1: Serials: 0x7; 
+12/2/2013 9:41:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:41:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5759, 256, 20) in Backtrol: "ogre"
+12/2/2013 9:41:42 PM: 127.0.0.1: Serials: 0x8; 
+12/2/2013 9:42:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:42:18 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:42:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 9:42:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:42:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogre'
+12/2/2013 9:42:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5739, 281, 19) in Backtrol: "ogre"
+12/2/2013 9:42:57 PM: 127.0.0.1: Serials: 0x9; 
+12/2/2013 9:43:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogrelord'
+12/2/2013 9:43:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5738, 264, 20) in Backtrol: "ogrelord"
+12/2/2013 9:43:12 PM: 127.0.0.1: Serials: 0xA; 
+###################################
+Logging started on 12/2/2013 9:45:55 PM
+
+12/2/2013 9:46:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 9:46:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 9:46:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 9:46:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add bow'
+12/2/2013 9:46:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5769, 253, 20) in Backtrol: "bow"
+12/2/2013 9:46:44 PM: 127.0.0.1: Serials: 0x40000015; 
+12/2/2013 9:46:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'addtopack arrow 100'
+12/2/2013 9:46:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5769, 252, 20) in Backtrol: "arrow" "100"
+12/2/2013 9:46:52 PM: 127.0.0.1: Serials: 0x4000001C; 
+12/2/2013 9:47:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add ogrelord'
+12/2/2013 9:47:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5758, 254, 20) in Backtrol: "ogrelord"
+12/2/2013 9:47:05 PM: 127.0.0.1: Serials: 0x4; 
+###################################
+Logging started on 12/2/2013 10:46:42 PM
+
+###################################
+Logging started on 12/2/2013 11:13:14 PM
+
+###################################
+Logging started on 12/2/2013 11:21:46 PM
+
+###################################
+Logging started on 12/2/2013 11:24:37 PM
+
+###################################
+Logging started on 12/2/2013 11:27:06 PM
+
+12/2/2013 11:27:31 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'get location'
+12/2/2013 11:27:38 PM: 127.0.0.1: Administrator 0x1 "Egam" ('Admin') used command 'get location'
+###################################
+Logging started on 12/2/2013 11:28:53 PM
+
+###################################
+Logging started on 12/2/2013 11:30:18 PM
+
+12/2/2013 11:32:34 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'help '
+12/2/2013 11:32:36 PM: 127.0.0.1: Player 0x1 "Eidenai" ('Admin') used command 'calt '
+12/2/2013 11:32:39 PM: 127.0.0.1: Player 0x1 "Eidenai" ('Admin') used command 'help '
+12/2/2013 11:34:32 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'calt '
+12/2/2013 11:34:33 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'heal '
+12/2/2013 11:35:02 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'heal '
+12/2/2013 11:39:13 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'heal '
+12/2/2013 11:40:03 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'm tele'
+12/2/2013 11:40:11 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'remove '
+12/2/2013 11:40:13 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') deleting 0x2 "an ogre" (no account)
+12/2/2013 11:40:15 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'm tele'
+12/2/2013 11:44:13 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'add copper 100'
+12/2/2013 11:44:14 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') building at (5818, 240, 20) in Backtrol: "copper" "100"
+12/2/2013 11:44:14 PM: 127.0.0.1: Serials: 0x4000001A; 
+12/2/2013 11:44:18 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'add silver 100'
+12/2/2013 11:44:18 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') building at (5818, 241, 20) in Backtrol: "silver" "100"
+12/2/2013 11:44:18 PM: 127.0.0.1: Serials: 0x4000001B; 
+12/2/2013 11:44:22 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'add copper'
+12/2/2013 11:44:23 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') building at (5819, 241, 20) in Backtrol: "copper"
+12/2/2013 11:44:23 PM: 127.0.0.1: Serials: 0x4000001C; 
+12/2/2013 11:44:27 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'add copperingot'
+12/2/2013 11:44:28 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') building at (5819, 242, 20) in Backtrol: "copperingot"
+12/2/2013 11:44:28 PM: 127.0.0.1: Serials: 0x40000023; 
+12/2/2013 11:44:33 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'add goldingot'
+12/2/2013 11:44:34 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') building at (5819, 242, 20) in Backtrol: "goldingot"
+12/2/2013 11:44:34 PM: 127.0.0.1: Serials: 0x40000024; 
+12/2/2013 11:44:38 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'get hue'
+12/2/2013 11:44:43 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'set hue 2413'
+12/2/2013 11:44:45 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') set property 'hue' of 0x4000001B (Silver) to '2413'
+12/2/2013 11:44:49 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'get hue'
+12/2/2013 11:44:55 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'set hue 2213'
+12/2/2013 11:44:56 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') set property 'hue' of 0x4000001B (Silver) to '2213'
+12/2/2013 11:45:07 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('Admin') used command 'get itemid'
+###################################
+Logging started on 12/2/2013 11:47:08 PM
+
+12/2/2013 11:48:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'set lightlevel 99'
+12/2/2013 11:48:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') set property 'lightlevel' of 0x1 "Test" ('Admin') to '99'
+12/2/2013 11:48:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast ebolt'
+12/2/2013 11:48:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast energybolt'
+12/2/2013 11:48:20 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast energybolt'
+12/2/2013 11:48:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast energybolt'
+12/2/2013 11:48:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 11:48:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cast energybolt'
+12/2/2013 11:48:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add copper 100'
+12/2/2013 11:48:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5773, 256, 20) in Backtrol: "copper" "100"
+12/2/2013 11:48:48 PM: 127.0.0.1: Serials: 0x40000028; 
+12/2/2013 11:48:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add gold 100'
+12/2/2013 11:48:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5772, 256, 20) in Backtrol: "gold" "100"
+12/2/2013 11:48:54 PM: 127.0.0.1: Serials: 0x40000029; 
+12/2/2013 11:49:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add silver 100'
+12/2/2013 11:49:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5772, 256, 20) in Backtrol: "silver" "100"
+12/2/2013 11:49:03 PM: 127.0.0.1: Serials: 0x4000002B; 
+12/2/2013 11:49:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add vendor'
+12/2/2013 11:49:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5773, 254, 20) in Backtrol: "BlacksmithBarterVendor"
+12/2/2013 11:49:26 PM: 127.0.0.1: Serials: 0x4; 
+12/2/2013 11:50:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'remove '
+12/2/2013 11:50:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') deleting 0x4 "Marina" (no account)
+12/2/2013 11:50:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add vendor'
+12/2/2013 11:50:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add mage'
+12/2/2013 11:50:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5772, 255, 20) in Backtrol: "mage"
+12/2/2013 11:50:33 PM: 127.0.0.1: Serials: 0x5; 
+12/2/2013 11:51:00 PM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'calt '
+###################################
+Logging started on 12/2/2013 11:53:05 PM
+
+12/2/2013 11:55:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 11:55:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'heal '
+12/2/2013 11:55:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'cov '
+12/2/2013 11:57:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add conve'
+12/2/2013 11:58:00 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add gold 5'
+12/2/2013 11:58:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5775, 252, 20) in Backtrol: "gold" "5"
+12/2/2013 11:58:01 PM: 127.0.0.1: Serials: 0x4000004E; 
+12/2/2013 11:58:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add copper 5'
+12/2/2013 11:58:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5776, 251, 20) in Backtrol: "copper" "5"
+12/2/2013 11:58:15 PM: 127.0.0.1: Serials: 0x4000004F; 
+12/2/2013 11:58:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') used command 'add blacksmith'
+12/2/2013 11:58:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('Admin') building at (5774, 249, 20) in Backtrol: "blacksmith"
+12/2/2013 11:58:32 PM: 127.0.0.1: Serials: 0x4; 
+12/2/2013 11:58:55 PM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'calt '
+12/3/2013 12:02:41 AM: 127.0.0.1: Player 0x1 "Test" ('Admin') used command 'cast nightsight'

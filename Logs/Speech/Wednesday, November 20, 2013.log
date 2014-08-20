@@ -1,0 +1,214 @@
+﻿###################################
+Logging started on 11/20/2013 1:40:20 AM
+
+11/20/2013 1:40:52 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 1:41:08 AM
+
+###################################
+Logging started on 11/20/2013 1:45:28 AM
+
+11/20/2013 1:45:44 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): a
+###################################
+Logging started on 11/20/2013 1:49:23 AM
+
+11/20/2013 1:49:34 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): a
+11/20/2013 1:49:37 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): B
+11/20/2013 1:49:38 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): C
+###################################
+Logging started on 11/20/2013 1:54:00 AM
+
+11/20/2013 1:54:35 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): A
+11/20/2013 1:54:37 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): B
+11/20/2013 1:54:40 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): C
+###################################
+Logging started on 11/20/2013 1:55:47 AM
+
+11/20/2013 1:56:02 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): A
+###################################
+Logging started on 11/20/2013 2:39:58 AM
+
+###################################
+Logging started on 11/20/2013 2:42:55 AM
+
+11/20/2013 2:44:31 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 2:46:02 AM
+
+11/20/2013 2:46:31 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 3:00:42 AM
+
+11/20/2013 3:00:54 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): a
+11/20/2013 3:00:58 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): A
+11/20/2013 3:02:38 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Afhdsjgsehjgdsjdgssdafdsa
+11/20/2013 3:02:43 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): fbfsdbjfdsdfsfsd
+11/20/2013 3:02:46 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): a
+11/20/2013 3:02:47 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): s
+11/20/2013 3:02:47 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): d
+11/20/2013 3:02:54 AM: 127.0.0.1: 0x1 "Test" ('EnroqTest'): A
+11/20/2013 3:02:59 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): A
+11/20/2013 3:03:01 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): B
+11/20/2013 3:03:03 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): CDDD
+11/20/2013 3:03:05 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Adkfgjdf
+11/20/2013 3:03:43 AM: 127.0.0.1: 0x3 "Egam" ('Enroq'): ABCDEFG
+###################################
+Logging started on 11/20/2013 3:05:20 AM
+
+11/20/2013 3:05:43 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:05:46 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:06:00 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing the new language system.
+11/20/2013 3:06:18 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): from.Send(new AsciiMessage(Serial.MinusOne, -1, MessageType.Regular, 1, 8, "Runes", runes));
+###################################
+Logging started on 11/20/2013 3:13:05 AM
+
+11/20/2013 3:13:29 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:13:39 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 3:18:56 AM
+
+11/20/2013 3:19:59 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 3:46:19 AM
+
+11/20/2013 3:46:37 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:43 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:45 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:46 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:46 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:47 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:48 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:48 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:49 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 3:46:50 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 3:48:14 AM
+
+11/20/2013 3:49:07 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:08 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:08 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:09 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:10 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:10 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:11 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:11 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:12 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:12 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:13 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:13 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:14 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:14 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:14 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:14 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): test
+11/20/2013 3:49:19 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): testTesting dasfsd
+11/20/2013 3:49:20 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): fhsdjhf
+11/20/2013 3:49:21 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): sdfbhsdhg
+11/20/2013 3:49:22 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): dsajghajk
+11/20/2013 3:49:26 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): args.Blocked = true;
+11/20/2013 3:49:28 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): args.Blocked = true;args.Blocked = true;
+11/20/2013 3:49:30 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:30 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:31 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:31 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:31 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:31 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:31 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:32 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:32 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:32 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:32 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:33 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): aa
+11/20/2013 3:49:33 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:33 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 3:49:34 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+###################################
+Logging started on 11/20/2013 4:04:39 AM
+
+###################################
+Logging started on 11/20/2013 4:17:49 AM
+
+11/20/2013 4:20:07 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Test
+11/20/2013 4:20:17 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing 123
+11/20/2013 4:20:18 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing 123
+11/20/2013 4:20:18 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing 123
+11/20/2013 4:20:21 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing 123   11
+11/20/2013 4:20:24 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): Testing 123   11
+11/20/2013 4:20:30 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): a
+11/20/2013 4:24:42 AM: 127.0.0.1: 0x2 "Eidenai" ('Enroq'): *test*
+###################################
+Logging started on 11/20/2013 9:03:17 AM
+
+###################################
+Logging started on 11/20/2013 9:08:51 AM
+
+###################################
+Logging started on 11/20/2013 1:03:34 PM
+
+11/20/2013 1:03:49 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:04:15 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:04:19 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:04:21 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Help
+11/20/2013 1:04:23 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Asafsd
+###################################
+Logging started on 11/20/2013 1:07:00 PM
+
+###################################
+Logging started on 11/20/2013 1:09:59 PM
+
+###################################
+Logging started on 11/20/2013 1:16:23 PM
+
+###################################
+Logging started on 11/20/2013 1:18:24 PM
+
+###################################
+Logging started on 11/20/2013 1:36:25 PM
+
+###################################
+Logging started on 11/20/2013 1:40:28 PM
+
+###################################
+Logging started on 11/20/2013 1:47:33 PM
+
+###################################
+Logging started on 11/20/2013 1:50:38 PM
+
+11/20/2013 1:57:24 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:57:25 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:57:32 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 1:57:50 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Testing 123
+11/20/2013 1:57:55 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Testing 1232
+11/20/2013 1:57:57 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Testing 1232
+11/20/2013 1:57:59 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): 2341243
+11/20/2013 1:58:04 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test 1243
+11/20/2013 1:58:06 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): hfhs
+11/20/2013 1:58:18 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Testing this block of text to show the runic font.
+###################################
+Logging started on 11/20/2013 2:39:36 PM
+
+###################################
+Logging started on 11/20/2013 2:45:52 PM
+
+11/20/2013 2:46:45 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 2:46:53 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 2:47:04 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+###################################
+Logging started on 11/20/2013 2:50:35 PM
+
+###################################
+Logging started on 11/20/2013 3:02:00 PM
+
+11/20/2013 3:02:45 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): I'm speaking in astral tongue.
+11/20/2013 3:02:57 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): I'm speaking in astral tongue.
+11/20/2013 4:21:16 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 4:21:18 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): Test
+11/20/2013 4:21:45 PM: 127.0.0.1: 0x3 "Egam" ('Enroq'): [test
+###################################
+Logging started on 11/20/2013 11:39:26 PM
+
+###################################
+Logging started on 11/20/2013 11:39:59 PM
+
+###################################
+Logging started on 11/20/2013 11:51:20 PM
+

@@ -1,0 +1,44 @@
+﻿###################################
+Logging started on 12/10/2013 10:59:30 PM
+
+12/10/2013 11:00:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/10/2013 11:02:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hits 10 mana 10 stam 10'
+12/10/2013 11:02:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hits' of 0x1 "Test" ('Administrator') to '10'
+12/10/2013 11:02:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'mana' of 0x1 "Test" ('Administrator') to '10'
+12/10/2013 11:02:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'stam' of 0x1 "Test" ('Administrator') to '10'
+12/10/2013 11:02:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'skills '
+12/10/2013 11:02:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property '[Meditation: 100].Base' of 0x1 "Test" ('Administrator') to '100'
+###################################
+Logging started on 12/10/2013 11:10:36 PM
+
+12/10/2013 11:11:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'skills '
+12/10/2013 11:11:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/10/2013 11:12:04 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property '[Meditation: 100].Base' of 0x1 "Test" ('Administrator') to '100'
+12/10/2013 11:15:10 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/10/2013 11:15:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 332, 5) in Backtrol: "ogre"
+12/10/2013 11:15:12 PM: 127.0.0.1: Serials: 0x2; 
+12/10/2013 11:15:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/10/2013 11:15:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:15:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:15:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:15:42 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:16:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:16:06 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/10/2013 11:16:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hue 1'
+12/10/2013 11:16:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hue' of 0x40000007 (FancyShirt) to '1'
+12/10/2013 11:16:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set hue 1'
+12/10/2013 11:16:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'hue' of 0x40000008 (LongPants) to '1'
+12/10/2013 11:16:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/10/2013 11:17:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'RegenHits' of ... to '400'
+12/10/2013 11:17:23 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:17:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/10/2013 11:17:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '100'
+12/10/2013 11:17:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 100'
+12/10/2013 11:17:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:17:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:18:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:18:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:18:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:19:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:19:37 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/10/2013 11:19:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '

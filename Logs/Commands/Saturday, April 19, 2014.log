@@ -1,0 +1,469 @@
+﻿###################################
+Logging started on 4/19/2014 10:11:45 AM
+
+###################################
+Logging started on 4/19/2014 10:12:02 AM
+
+4/19/2014 10:13:05 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'set map 0'
+4/19/2014 10:13:07 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') set property 'map' of 0x4 "Test" ('admin') to 'Felucca'
+4/19/2014 10:13:11 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'set map 1'
+4/19/2014 10:13:13 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') set property 'map' of 0x4 "Test" ('admin') to 'Trammel'
+4/19/2014 10:13:25 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'go 6000 100'
+4/19/2014 10:13:28 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'm tele'
+4/19/2014 10:13:36 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') set property 'lightlevel' of 0x4 "Test" ('admin') to '8'
+4/19/2014 10:13:36 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'self set lightlevel 8'
+4/19/2014 10:13:41 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'm tele'
+4/19/2014 10:13:45 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'm tele'
+4/19/2014 10:13:48 AM: 127.0.0.1: Administrator 0x4 "Test" ('admin') used command 'm tele'
+###################################
+Logging started on 4/19/2014 11:02:38 AM
+
+###################################
+Logging started on 4/19/2014 11:42:23 AM
+
+###################################
+Logging started on 4/19/2014 11:44:42 AM
+
+###################################
+Logging started on 4/19/2014 11:45:53 AM
+
+4/19/2014 11:46:09 AM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'save '
+###################################
+Logging started on 4/19/2014 12:35:29 PM
+
+###################################
+Logging started on 4/19/2014 12:40:18 PM
+
+4/19/2014 12:41:29 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'props '
+4/19/2014 12:41:34 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'get z'
+###################################
+Logging started on 4/19/2014 12:43:44 PM
+
+###################################
+Logging started on 4/19/2014 12:46:24 PM
+
+###################################
+Logging started on 4/19/2014 12:48:08 PM
+
+4/19/2014 12:48:24 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set race Human'
+4/19/2014 12:48:25 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'race' of 0x4 "test" ('admin') to 'Human'
+4/19/2014 12:48:29 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'cov '
+###################################
+Logging started on 4/19/2014 12:51:35 PM
+
+4/19/2014 12:52:01 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set kocount 10'
+4/19/2014 12:52:02 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'kocount' of 0x4 "test" ('admin') to '10'
+4/19/2014 12:52:07 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set race 1'
+4/19/2014 12:52:08 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'race' of 0x4 "test" ('admin') to 'Human'
+###################################
+Logging started on 4/19/2014 12:55:48 PM
+
+4/19/2014 12:56:05 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set hunger 10'
+4/19/2014 12:56:05 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'hunger' of 0x4 "test" ('admin') to '10'
+###################################
+Logging started on 4/19/2014 12:57:43 PM
+
+4/19/2014 12:58:36 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set hunger 10'
+4/19/2014 12:58:37 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'hunger' of 0x4 "test" ('admin') to '10'
+4/19/2014 12:58:44 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set hunger 15'
+4/19/2014 12:58:45 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'hunger' of 0x4 "test" ('admin') to '15'
+###################################
+Logging started on 4/19/2014 1:00:26 PM
+
+###################################
+Logging started on 4/19/2014 1:05:40 PM
+
+4/19/2014 1:05:51 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '9'
+4/19/2014 1:05:51 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 9'
+4/19/2014 1:05:55 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add clock'
+4/19/2014 1:05:56 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (779, 1137, -30) in Ilshenar: "clock"
+4/19/2014 1:05:56 PM: 127.0.0.1: Serials: 0x4000003D; 
+4/19/2014 1:06:01 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '0'
+4/19/2014 1:06:01 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 0'
+4/19/2014 1:06:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '10'
+4/19/2014 1:06:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 10'
+4/19/2014 1:06:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'hits' of 0x4 "test" ('admin') to '0'
+4/19/2014 1:06:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'stam' of 0x4 "test" ('admin') to '0'
+4/19/2014 1:06:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set hits 0 stam 0'
+4/19/2014 1:07:29 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+4/19/2014 1:07:48 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'cov '
+4/19/2014 1:08:47 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:08:48 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (802, 1137, -30) in Ilshenar: "drake"
+4/19/2014 1:08:48 PM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 4/19/2014 1:10:26 PM
+
+###################################
+Logging started on 4/19/2014 1:12:07 PM
+
+4/19/2014 1:13:16 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '9'
+4/19/2014 1:13:16 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 9'
+4/19/2014 1:13:26 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:13:27 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (781, 1137, -30) in Ilshenar: "drake"
+4/19/2014 1:13:27 PM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 4/19/2014 1:19:46 PM
+
+4/19/2014 1:20:18 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:20:19 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (779, 1136, -30) in Ilshenar: "drake"
+4/19/2014 1:20:19 PM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 4/19/2014 1:22:19 PM
+
+4/19/2014 1:22:49 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:22:50 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (779, 1136, -30) in Ilshenar: "drake"
+4/19/2014 1:22:50 PM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 4/19/2014 1:33:40 PM
+
+4/19/2014 1:33:59 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:34:00 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (780, 1138, -30) in Ilshenar: "drake"
+4/19/2014 1:34:00 PM: 127.0.0.1: Serials: 0x5; 
+4/19/2014 1:34:19 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 1:35:35 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 1:35:37 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+###################################
+Logging started on 4/19/2014 1:49:10 PM
+
+4/19/2014 1:49:35 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 1:49:37 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 1:49:39 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:49:40 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (780, 1140, -30) in Ilshenar: "drake"
+4/19/2014 1:49:40 PM: 127.0.0.1: Serials: 0x5; 
+4/19/2014 1:49:44 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '10'
+4/19/2014 1:49:44 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 10'
+4/19/2014 1:49:45 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+###################################
+Logging started on 4/19/2014 1:53:48 PM
+
+4/19/2014 1:56:53 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add drake'
+4/19/2014 1:56:54 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (778, 1135, -30) in Ilshenar: "drake"
+4/19/2014 1:56:54 PM: 127.0.0.1: Serials: 0x5; 
+4/19/2014 1:56:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add sword'
+4/19/2014 1:56:59 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (778, 1138, -30) in Ilshenar: "Longsword"
+4/19/2014 1:56:59 PM: 127.0.0.1: Serials: 0x4000003F; 
+4/19/2014 1:57:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (777, 1140, -30) in Ilshenar: "Longsword"
+4/19/2014 1:57:03 PM: 127.0.0.1: Serials: 0x40000040; 
+4/19/2014 1:57:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'save '
+4/19/2014 1:57:17 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'cov '
+4/19/2014 1:57:27 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'race' of 0x4 "test" ('admin') to 'Human'
+4/19/2014 1:57:27 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set race human'
+4/19/2014 1:57:30 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'cov '
+4/19/2014 1:57:32 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'save '
+###################################
+Logging started on 4/19/2014 2:04:18 PM
+
+4/19/2014 2:05:01 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+4/19/2014 2:05:10 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'lightlevel' of 0x4 "test" ('admin') to '15'
+4/19/2014 2:05:10 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set lightlevel 15'
+4/19/2014 2:05:12 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'remove '
+4/19/2014 2:05:14 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') deleting 0x40000044 (Corpse)
+4/19/2014 2:05:25 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 2:09:19 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 2:09:23 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+4/19/2014 2:09:27 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'set kocount 0'
+4/19/2014 2:09:28 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'kocount' of 0x4 "test" ('admin') to '0'
+4/19/2014 2:09:31 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'cov '
+4/19/2014 2:09:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'remove '
+4/19/2014 2:09:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') deleting 0x40000040 (Longsword)
+4/19/2014 2:16:47 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'remove '
+4/19/2014 2:16:51 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') deleting 0x4000004D (Corpse)
+4/19/2014 2:18:25 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'help '
+4/19/2014 2:18:26 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 2:18:27 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'help '
+4/19/2014 2:18:29 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 2:31:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'restart '
+###################################
+Logging started on 4/19/2014 2:37:41 PM
+
+###################################
+Logging started on 4/19/2014 2:41:32 PM
+
+4/19/2014 2:43:49 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set KOCounts 1'
+4/19/2014 2:43:52 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'props '
+4/19/2014 2:44:01 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'KOCount' of 0x4 "test" ('admin') to '1'
+4/19/2014 2:44:12 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'eoc' of 0x4 "test" ('admin') to '30000'
+4/19/2014 2:44:12 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set eoc 30000'
+4/19/2014 2:45:04 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'KOCount' of 0x4 "test" ('admin') to '2'
+4/19/2014 2:54:56 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'save '
+###################################
+Logging started on 4/19/2014 3:09:25 PM
+
+4/19/2014 3:10:04 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawdex' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:10:04 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawstr' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:10:04 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set rawdex 100 rawstr 100'
+4/19/2014 3:10:07 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+4/19/2014 3:10:29 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+###################################
+Logging started on 4/19/2014 3:18:33 PM
+
+4/19/2014 3:18:52 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'adddoor '
+4/19/2014 3:18:54 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'Add MetalDoor2 SouthCW'
+4/19/2014 3:18:55 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (817, 1154, -30) in Ilshenar: "MetalDoor2" "SouthCW"
+4/19/2014 3:18:55 PM: 127.0.0.1: Serials: 0x40000040; 
+4/19/2014 3:19:05 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'remove '
+4/19/2014 3:19:06 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') deleting 0x40000040 (MetalDoor2)
+4/19/2014 3:19:12 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+###################################
+Logging started on 4/19/2014 3:21:14 PM
+
+4/19/2014 3:21:25 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawstr' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:21:25 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set rawstr 100'
+4/19/2014 3:21:31 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawdex' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:21:31 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set rawdex 100'
+4/19/2014 3:21:42 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add ironingot 10'
+4/19/2014 3:21:43 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (818, 1153, -30) in Ilshenar: "ironingot" "10"
+4/19/2014 3:21:43 PM: 127.0.0.1: Serials: 0x40000040; 
+4/19/2014 3:21:51 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+###################################
+Logging started on 4/19/2014 3:27:51 PM
+
+4/19/2014 3:28:10 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawstr' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:28:10 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'rawdex' of 0x4 "test" ('admin') to '100'
+4/19/2014 3:28:10 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set rawstr 100 rawdex 100'
+4/19/2014 3:28:12 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'heal '
+4/19/2014 3:28:17 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:28:47 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:28:48 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack ironingot 10'
+4/19/2014 3:28:48 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (845, 1195, -69) in Ilshenar: "ironingot" "10"
+4/19/2014 3:28:48 PM: 127.0.0.1: Serials: 0x40000040; 
+4/19/2014 3:28:51 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:28:58 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:29:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'eoc' of 0x4 "test" ('admin') to '1000000'
+4/19/2014 3:29:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set eoc 1000000'
+4/19/2014 3:29:09 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:29:10 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'help '
+###################################
+Logging started on 4/19/2014 3:38:40 PM
+
+###################################
+Logging started on 4/19/2014 3:40:04 PM
+
+4/19/2014 3:40:18 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+###################################
+Logging started on 4/19/2014 3:43:11 PM
+
+4/19/2014 3:43:55 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:44:24 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 3:44:28 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') set property 'eoc' of 0x4 "test" ('admin') to '1000000'
+4/19/2014 3:44:28 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'self set eoc 1000000'
+4/19/2014 3:45:11 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 6:01:53 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+4/19/2014 6:01:56 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'wipe '
+4/19/2014 6:01:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') wiping from (816, 1168, -51) to (821, 1173, -44) in Ilshenar (Items, Mobiles)
+4/19/2014 6:28:53 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add cannon'
+4/19/2014 6:28:54 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (822, 1182, -64) in Ilshenar: "cannon"
+4/19/2014 6:28:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'add cannon east'
+4/19/2014 6:28:57 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (822, 1182, -64) in Ilshenar: "cannon" "east"
+4/19/2014 6:28:57 PM: 127.0.0.1: Serials: 0x40000040; 
+4/19/2014 6:29:03 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack cannonball 10'
+4/19/2014 6:29:04 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (823, 1181, -61) in Ilshenar: "cannonball" "10"
+4/19/2014 6:29:07 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack cannonball'
+4/19/2014 6:29:08 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (823, 1181, -61) in Ilshenar: "cannonball"
+4/19/2014 6:29:08 PM: 127.0.0.1: Serials: 0x40000044; 
+4/19/2014 6:29:11 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack cannonball'
+4/19/2014 6:29:12 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (823, 1181, -61) in Ilshenar: "cannonball"
+4/19/2014 6:29:12 PM: 127.0.0.1: Serials: 0x40000045; 
+4/19/2014 6:29:14 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack cannonball'
+4/19/2014 6:29:15 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (823, 1181, -61) in Ilshenar: "cannonball"
+4/19/2014 6:29:15 PM: 127.0.0.1: Serials: 0x40000046; 
+4/19/2014 6:29:22 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'addtopack sulfurousash 100'
+4/19/2014 6:29:23 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') building at (823, 1181, -61) in Ilshenar: "sulfurousash" "100"
+4/19/2014 6:29:23 PM: 127.0.0.1: Serials: 0x40000047; 
+4/19/2014 6:29:34 PM: 127.0.0.1: Player 0x4 "test" ('admin') used command 'calt '
+4/19/2014 6:29:41 PM: 127.0.0.1: Administrator 0x4 "test" ('admin') used command 'calt '
+###################################
+Logging started on 4/19/2014 8:33:01 PM
+
+4/19/2014 8:33:53 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('admin') set property 'race' of 0x1 "Eidenai" ('admin') to 'Orc'
+4/19/2014 8:33:53 PM: 127.0.0.1: Administrator 0x1 "Eidenai" ('admin') used command 'self set race 2'
+###################################
+Logging started on 4/19/2014 8:40:41 PM
+
+4/19/2014 8:41:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/19/2014 8:41:25 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add orc'
+4/19/2014 8:41:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (780, 1137, -30) in Ilshenar: "orc"
+4/19/2014 8:41:27 PM: 127.0.0.1: Serials: 0x2; 
+4/19/2014 8:41:30 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bodyvalue'
+###################################
+Logging started on 4/19/2014 8:45:39 PM
+
+4/19/2014 8:46:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set race 2'
+4/19/2014 8:46:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'race' of 0x1 "Test" ('admin') to 'Orc'
+###################################
+Logging started on 4/19/2014 8:48:36 PM
+
+4/19/2014 8:48:57 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set race 2'
+4/19/2014 8:48:58 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'race' of 0x1 "test" ('admin') to 'Orc'
+4/19/2014 8:49:23 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'props '
+4/19/2014 8:49:29 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'RaceBody' of 0x1 "test" ('admin') to '17'
+4/19/2014 8:50:22 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'add horse'
+4/19/2014 8:50:23 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') building at (811, 1136, -30) in Ilshenar: "horse"
+4/19/2014 8:50:23 PM: 127.0.0.1: Serials: 0x2; 
+4/19/2014 8:50:25 PM: 127.0.0.1: Player 0x1 "test" ('admin') used command 'calt '
+4/19/2014 8:50:29 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'calt '
+4/19/2014 8:50:32 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'heal '
+###################################
+Logging started on 4/19/2014 9:51:46 PM
+
+4/19/2014 9:52:21 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') used command 'set hue 1209'
+4/19/2014 9:52:22 PM: 127.0.0.1: Administrator 0x1 "test" ('admin') set property 'hue' of 0x40000009 (SkillScroll) to '1209'
+###################################
+Logging started on 4/19/2014 9:54:43 PM
+
+###################################
+Logging started on 4/19/2014 9:56:02 PM
+
+4/19/2014 9:59:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '
+###################################
+Logging started on 4/19/2014 10:01:30 PM
+
+4/19/2014 10:02:05 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add race'
+4/19/2014 10:02:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add racesc'
+4/19/2014 10:02:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (778, 1136, -30) in Ilshenar: "RaceScroll"
+4/19/2014 10:02:09 PM: 127.0.0.1: Serials: 0x40000010; 
+4/19/2014 10:02:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 10:02:15 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (778, 1136, -30) in Ilshenar: "racescroll"
+4/19/2014 10:02:16 PM: 127.0.0.1: Serials: 0x40000011; 
+4/19/2014 10:02:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/19/2014 10:02:36 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000010 (RaceScroll)
+4/19/2014 10:02:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/19/2014 10:02:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000009 (SkillScroll)
+4/19/2014 10:02:44 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add scrol'
+4/19/2014 10:02:53 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add skillscroll'
+4/19/2014 10:02:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (777, 1138, -30) in Ilshenar: "skillscroll"
+4/19/2014 10:02:54 PM: 127.0.0.1: Serials: 0x40000012; 
+4/19/2014 10:02:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+4/19/2014 10:02:57 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000012 (SkillScroll)
+4/19/2014 10:03:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 10:03:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (780, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 10:03:50 PM: 127.0.0.1: Serials: 0x40000013; 
+4/19/2014 10:04:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 10:04:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (780, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 10:04:58 PM: 127.0.0.1: Serials: 0x40000014; 
+4/19/2014 10:05:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/19/2014 10:07:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake'
+4/19/2014 10:07:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (816, 1137, -29) in Ilshenar: "drake"
+4/19/2014 10:07:47 PM: 127.0.0.1: Serials: 0x2; 
+4/19/2014 10:08:11 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:08:12 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x2 "a drake" (no account).
+4/19/2014 10:08:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'wipe '
+4/19/2014 10:08:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') wiping from (815, 1137, -30) to (815, 1140, -25) in Ilshenar (Items, Mobiles)
+4/19/2014 10:08:33 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'heal '
+4/19/2014 10:08:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'res '
+###################################
+Logging started on 4/19/2014 10:10:43 PM
+
+4/19/2014 10:11:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+4/19/2014 10:12:14 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add racescroll'
+4/19/2014 10:12:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 10:12:19 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (784, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 10:12:19 PM: 127.0.0.1: Serials: 0x40000011; 
+4/19/2014 10:12:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake'
+4/19/2014 10:12:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (787, 1136, -30) in Ilshenar: "drake"
+4/19/2014 10:12:27 PM: 127.0.0.1: Serials: 0x2; 
+###################################
+Logging started on 4/19/2014 10:17:41 PM
+
+4/19/2014 10:18:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake'
+4/19/2014 10:18:13 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (799, 1136, -30) in Ilshenar: "drake"
+4/19/2014 10:18:13 PM: 127.0.0.1: Serials: 0x2; 
+###################################
+Logging started on 4/19/2014 10:20:36 PM
+
+4/19/2014 10:20:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add drake'
+4/19/2014 10:20:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (779, 1136, -30) in Ilshenar: "drake"
+4/19/2014 10:20:47 PM: 127.0.0.1: Serials: 0x2; 
+###################################
+Logging started on 4/19/2014 10:22:25 PM
+
+4/19/2014 10:22:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bodyvalue'
+4/19/2014 10:22:49 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:22:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x1 "Test" ('admin').
+4/19/2014 10:22:54 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:23:01 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bodyvalue'
+4/19/2014 10:23:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'props '
+###################################
+Logging started on 4/19/2014 10:25:01 PM
+
+4/19/2014 10:25:08 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:25:09 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x1 "Test" ('admin').
+4/19/2014 10:25:16 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'get bodyvalue'
+4/19/2014 10:25:24 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'inc bodyvalue 1'
+4/19/2014 10:25:27 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'inc bodyvalue 1'
+###################################
+Logging started on 4/19/2014 10:26:33 PM
+
+4/19/2014 10:26:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:26:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x1 "Test" ('admin').
+###################################
+Logging started on 4/19/2014 10:28:25 PM
+
+4/19/2014 10:28:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'kill '
+4/19/2014 10:28:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') killed 0x1 "Test" ('admin').
+###################################
+Logging started on 4/19/2014 10:37:09 PM
+
+###################################
+Logging started on 4/19/2014 10:53:10 PM
+
+4/19/2014 10:53:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 10:53:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (818, 1167, -42) in Ilshenar: "racescroll"
+4/19/2014 10:53:56 PM: 127.0.0.1: Serials: 0x40000010; 
+###################################
+Logging started on 4/19/2014 11:18:46 PM
+
+4/19/2014 11:18:56 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 11:18:58 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (779, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 11:18:58 PM: 127.0.0.1: Serials: 0x40000010; 
+4/19/2014 11:19:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'eoc' of 0x1 "Test" ('admin') to '50000'
+4/19/2014 11:19:07 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set eoc 50000'
+4/19/2014 11:19:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 11:19:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (779, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 11:19:22 PM: 127.0.0.1: Serials: 0x40000011; 
+4/19/2014 11:19:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add orc'
+4/19/2014 11:19:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (778, 1139, -30) in Ilshenar: "orc"
+4/19/2014 11:19:48 PM: 127.0.0.1: Serials: 0x2; 
+###################################
+Logging started on 4/19/2014 11:24:33 PM
+
+4/19/2014 11:24:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 11:24:45 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (779, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 11:24:46 PM: 127.0.0.1: Serials: 0x40000010; 
+4/19/2014 11:27:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'eoc' of 0x1 "Test" ('admin') to '50000'
+4/19/2014 11:27:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set eoc 50000'
+###################################
+Logging started on 4/19/2014 11:37:09 PM
+
+4/19/2014 11:37:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add cow'
+4/19/2014 11:37:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (799, 1136, -30) in Ilshenar: "cow"
+4/19/2014 11:37:32 PM: 127.0.0.1: Serials: 0x2; 
+###################################
+Logging started on 4/19/2014 11:39:19 PM
+
+4/19/2014 11:39:26 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'tile cow'
+4/19/2014 11:39:28 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building from (778, 1137, -30) to (780, 1139, -30) in Ilshenar: "cow"
+4/19/2014 11:39:28 PM: 127.0.0.1: Serials: 0x2; 0x3; 0x4; 0x5; 0x6; 0x7; 0x8; 0x9; 0xA; 
+###################################
+Logging started on 4/19/2014 11:42:52 PM
+
+4/19/2014 11:43:34 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add racescroll'
+4/19/2014 11:43:35 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (781, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 11:43:35 PM: 127.0.0.1: Serials: 0x40000010; 
+4/19/2014 11:43:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable false'
+4/19/2014 11:43:40 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x40000010 (RaceScroll) to 'False'
+4/19/2014 11:43:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'set movable true'
+4/19/2014 11:43:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'movable' of 0x40000010 (RaceScroll) to 'True'
+4/19/2014 11:45:43 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add '
+4/19/2014 11:53:17 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'help '
+4/19/2014 11:53:20 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'calt '
+4/19/2014 11:53:21 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'help '
+4/19/2014 11:53:28 PM: 127.0.0.1: Player 0x1 "Test" ('admin') used command 'viewmarket '
+###################################
+Logging started on 4/19/2014 11:58:05 PM
+
+4/19/2014 11:58:21 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack racescroll'
+4/19/2014 11:58:22 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (779, 1138, -30) in Ilshenar: "racescroll"
+4/19/2014 11:58:22 PM: 127.0.0.1: Serials: 0x40000010; 
+4/20/2014 12:01:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') set property 'lightlevel' of 0x1 "Test" ('admin') to '99'
+4/20/2014 12:01:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set lightlevel 99'

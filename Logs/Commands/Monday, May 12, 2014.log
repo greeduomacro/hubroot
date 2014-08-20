@@ -1,0 +1,52 @@
+﻿###################################
+Logging started on 5/12/2014 2:14:54 PM
+
+5/12/2014 2:15:15 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add deed'
+5/12/2014 2:15:27 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add housedeed'
+5/12/2014 2:15:31 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add housedee'
+5/12/2014 2:15:34 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3429, 10) in Backtrol: "FieldStoneHouseDeed"
+5/12/2014 2:15:34 PM: 127.0.0.1: Serials: 0x40000016; 
+5/12/2014 2:15:53 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add housedee'
+5/12/2014 2:15:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3427, 10) in Backtrol: "FieldStoneHouseDeed"
+5/12/2014 2:15:57 PM: 127.0.0.1: Serials: 0x40000037; 
+5/12/2014 2:15:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3427, 10) in Backtrol: "FieldStoneHouseDeed"
+5/12/2014 2:15:57 PM: 127.0.0.1: Serials: 0x40000038; 
+5/12/2014 2:16:03 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:16:14 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:16:15 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:16:17 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')
+5/12/2014 2:17:29 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add houseplace'
+5/12/2014 2:17:31 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (375, 3430, 10) in Backtrol: "HousePlacementTool"
+5/12/2014 2:17:31 PM: 127.0.0.1: Serials: 0x40000040; 
+5/12/2014 2:17:44 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:17:45 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:17:53 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'addtopack gold 1000000'
+5/12/2014 2:17:54 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3427, 10) in Backtrol: "gold" "1000000"
+5/12/2014 2:17:54 PM: 127.0.0.1: Serials: 0x4000004B; 
+5/12/2014 2:17:56 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:17:57 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')
+5/12/2014 2:18:14 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'remove '
+5/12/2014 2:18:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') deleting 0x4000004B (Gold)
+5/12/2014 2:18:20 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add bankcheck 10000000000'
+5/12/2014 2:18:21 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (376, 3425, 10) in Backtrol: "bankcheck" "10000000000"
+5/12/2014 2:18:24 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'add bankcheck 10000000'
+5/12/2014 2:18:25 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') building at (378, 3426, 10) in Backtrol: "bankcheck" "10000000"
+5/12/2014 2:18:25 PM: 127.0.0.1: Serials: 0x4000004C; 
+5/12/2014 2:18:42 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:19:01 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:19:02 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:19:03 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')
+5/12/2014 2:19:06 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'm delete'
+5/12/2014 2:19:11 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') deleting 0x40000109 (Copper)
+5/12/2014 2:19:16 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'viewequip '
+5/12/2014 2:19:17 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') viewing equipment of 0x6 "Tano" ('admin')
+5/12/2014 2:19:23 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') moving equipment item 0x40000033 (BankBox) of 0x6 "Tano" ('admin')
+5/12/2014 2:19:23 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') moving 0x40000033 (BankBox) to (375, 3429, 10)
+5/12/2014 2:23:47 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:23:48 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')
+5/12/2014 2:23:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:23:52 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')
+5/12/2014 2:23:56 PM: 127.0.0.1: Player 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:24:06 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'calt '
+5/12/2014 2:24:08 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') used command 'bank '
+5/12/2014 2:24:09 PM: 127.0.0.1: Administrator 0x6 "Tano" ('admin') opening bank box of 0x6 "Tano" ('admin')

@@ -1,0 +1,50 @@
+﻿###################################
+Logging started on 5/27/2014 12:05:32 AM
+
+5/27/2014 12:11:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack nameregistry'
+5/27/2014 12:11:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 629, -14) in Ilshenar: "nameregistry"
+5/27/2014 12:11:22 AM: 127.0.0.1: Serials: 0x4000000F; 
+###################################
+Logging started on 5/27/2014 12:21:58 AM
+
+5/27/2014 12:28:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack nameregistry'
+5/27/2014 12:28:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 629, -14) in Ilshenar: "nameregistry"
+5/27/2014 12:28:19 AM: 127.0.0.1: Serials: 0x40000015; 
+5/27/2014 12:34:20 AM: 127.0.0.1: Administrator 0x1 "Test Anders" ('admin') set property 'name' of 0x1 "Test Anders" ('admin') to 'Test'
+5/27/2014 12:34:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'self set name Test'
+###################################
+Logging started on 5/27/2014 12:57:17 AM
+
+5/27/2014 12:59:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add nameregistry'
+5/27/2014 12:59:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 629, -14) in Ilshenar: "nameregistry"
+5/27/2014 12:59:10 AM: 127.0.0.1: Serials: 0x40000015; 
+###################################
+Logging started on 5/27/2014 9:38:33 PM
+
+5/27/2014 9:46:46 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add surnam'
+5/27/2014 9:46:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add registry'
+5/27/2014 9:46:52 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1503, 636, -15) in Ilshenar: "NameRegistry"
+5/27/2014 9:46:52 PM: 127.0.0.1: Serials: 0x40000015; 
+5/27/2014 9:46:55 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 636, -15) in Ilshenar: "NameRegistryScroll"
+5/27/2014 9:46:55 PM: 127.0.0.1: Serials: 0x40000046; 
+5/27/2014 9:47:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add surnamescroll'
+5/27/2014 9:47:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 637, -14) in Ilshenar: "surnamescroll"
+5/27/2014 9:47:31 PM: 127.0.0.1: Serials: 0x4000004C; 
+###################################
+Logging started on 5/27/2014 9:50:22 PM
+
+5/27/2014 9:51:31 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack nameregistry'
+5/27/2014 9:51:32 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1504, 629, -14) in Ilshenar: "nameregistry"
+5/27/2014 9:51:32 PM: 127.0.0.1: Serials: 0x40000015; 
+5/27/2014 9:51:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add namereg'
+5/27/2014 9:51:41 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1503, 629, -14) in Ilshenar: "NameRegistryScroll"
+5/27/2014 9:51:41 PM: 127.0.0.1: Serials: 0x40000046; 
+5/27/2014 9:59:47 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'remove '
+5/27/2014 9:59:48 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') deleting 0x40000006 (Backpack)
+5/27/2014 9:59:50 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'add backpack'
+5/27/2014 9:59:51 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1506, 648, -12) in Ilshenar: "backpack"
+5/27/2014 9:59:51 PM: 127.0.0.1: Serials: 0x4000004C; 
+5/27/2014 10:00:02 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'addtopack nameregistry'
+5/27/2014 10:00:03 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') building at (1506, 647, -13) in Ilshenar: "nameregistry"
+5/27/2014 10:00:03 PM: 127.0.0.1: Serials: 0x40000050; 
+5/27/2014 11:07:39 PM: 127.0.0.1: Administrator 0x1 "Test" ('admin') used command 'save '

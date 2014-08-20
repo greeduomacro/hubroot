@@ -1,0 +1,451 @@
+﻿###################################
+Logging started on 11/12/2013 12:07:49 AM
+
+11/12/2013 12:09:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'perks '
+11/12/2013 12:09:41 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add spear'
+11/12/2013 12:09:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2134, 796, 7) in Backtrol: "spear"
+11/12/2013 12:09:42 AM: 127.0.0.1: Serials: 0x40000018; 
+11/12/2013 12:09:49 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') used command 'add woodenshield'
+11/12/2013 12:09:50 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Enroq') building at (2133, 796, 5) in Backtrol: "woodenshield"
+11/12/2013 12:09:50 AM: 127.0.0.1: Serials: 0x40000019; 
+###################################
+Logging started on 11/12/2013 12:20:32 AM
+
+11/12/2013 12:21:41 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:21:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 12:22:13 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '1000000'
+11/12/2013 12:22:13 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 1000000'
+11/12/2013 12:22:15 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:22:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add spear'
+11/12/2013 12:22:20 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 697, 5) in Backtrol: "spear"
+11/12/2013 12:22:20 AM: 127.0.0.1: Serials: 0x40000018; 
+11/12/2013 12:22:36 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set layer onehanded'
+11/12/2013 12:22:36 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'layer' of 0x40000018 (Spear) to 'FirstValid'
+11/12/2013 12:22:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/12/2013 12:22:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x40000018 (Spear)
+11/12/2013 12:23:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add spear'
+11/12/2013 12:23:09 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 697, 5) in Backtrol: "spear"
+11/12/2013 12:23:09 AM: 127.0.0.1: Serials: 0x40000019; 
+11/12/2013 12:23:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+###################################
+Logging started on 11/12/2013 12:28:56 AM
+
+###################################
+Logging started on 11/12/2013 12:31:21 AM
+
+11/12/2013 12:32:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:32:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 12:32:56 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add torch'
+11/12/2013 12:32:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 697, 5) in Backtrol: "torch"
+11/12/2013 12:32:57 AM: 127.0.0.1: Serials: 0x40000018; 
+11/12/2013 12:33:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '1000000'
+11/12/2013 12:33:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 1000000'
+11/12/2013 12:33:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add spear'
+11/12/2013 12:33:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 696, 5) in Backtrol: "spear"
+11/12/2013 12:33:24 AM: 127.0.0.1: Serials: 0x40000019; 
+11/12/2013 12:33:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add shield'
+11/12/2013 12:33:32 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 695, 5) in Backtrol: "BronzeShield"
+11/12/2013 12:33:32 AM: 127.0.0.1: Serials: 0x40000024; 
+11/12/2013 12:33:37 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:34:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add drake'
+11/12/2013 12:34:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 699, 5) in Backtrol: "drake"
+11/12/2013 12:34:07 AM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 12:34:15 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:34:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 12:35:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'ProtectionLevel' of 0x40000015 (LeatherChest) to 'Invulnerability'
+11/12/2013 12:35:15 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'ProtectionLevel' of 0x40000015 (LeatherChest) to 'Fortification'
+11/12/2013 12:35:18 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'ProtectionLevel' of 0x40000015 (LeatherChest) to 'Invulnerability'
+11/12/2013 12:35:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'PhysicalBonus' of 0x40000015 (LeatherChest) to '60'
+11/12/2013 12:35:56 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:06 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:36:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:31 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:33 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:36:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/12/2013 12:36:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x4 "a drake" (no account)
+11/12/2013 12:36:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/12/2013 12:36:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1670, 698, 5) in Backtrol: "vorpalbunny"
+11/12/2013 12:36:54 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 12:37:01 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 12:42:17 AM
+
+11/12/2013 12:43:29 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 12:43:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '1000000'
+11/12/2013 12:43:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 1000000'
+11/12/2013 12:43:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+11/12/2013 12:43:42 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:44:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/12/2013 12:44:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 698, 5) in Backtrol: "vorpalbunny"
+11/12/2013 12:44:26 AM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 12:44:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 12:44:56 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 12:44:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "a vorpal bunny" (no account) to '100'
+11/12/2013 12:46:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:47:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get layer'
+11/12/2013 12:47:38 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 12:50:50 AM
+
+11/12/2013 12:51:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 12:51:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 12:51:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get layer'
+11/12/2013 12:52:02 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/12/2013 12:52:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 698, 5) in Backtrol: "vorpalbunny"
+11/12/2013 12:52:03 AM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 12:52:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 12:52:13 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "a vorpal bunny" (no account) to '100'
+11/12/2013 12:52:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 12:52:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 12:53:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 11/12/2013 12:54:35 AM
+
+11/12/2013 12:56:31 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 12:58:19 AM
+
+11/12/2013 12:59:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:00:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 1:02:19 AM
+
+11/12/2013 1:02:28 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:02:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 1:03:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 1:06:14 AM
+
+11/12/2013 1:06:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:06:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:06:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add heatershield'
+11/12/2013 1:07:01 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 697, 5) in Backtrol: "heatershield"
+11/12/2013 1:07:01 AM: 127.0.0.1: Serials: 0x4000005A; 
+###################################
+Logging started on 11/12/2013 1:11:20 AM
+
+11/12/2013 1:12:00 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:13:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 1:17:06 AM
+
+###################################
+Logging started on 11/12/2013 1:20:26 AM
+
+11/12/2013 1:20:56 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 1:20:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 698, 5) in Backtrol: "brigand"
+11/12/2013 1:20:57 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 1:21:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:21:15 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:21:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:21:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:21:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get stam'
+11/12/2013 1:22:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get stam'
+11/12/2013 1:22:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get stam'
+11/12/2013 1:22:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get stam'
+11/12/2013 1:22:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get weight'
+11/12/2013 1:23:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get str'
+11/12/2013 1:23:38 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:23:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:23:44 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:24:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get max stam'
+11/12/2013 1:24:14 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:24:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'GET STAM\'
+11/12/2013 1:24:37 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'GET STAM'
+11/12/2013 1:25:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add platelegs'
+11/12/2013 1:25:21 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 697, 5) in Backtrol: "platelegs"
+11/12/2013 1:25:21 AM: 127.0.0.1: Serials: 0x4000006E; 
+###################################
+Logging started on 11/12/2013 1:38:48 AM
+
+11/12/2013 1:43:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/12/2013 1:43:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 694, 5) in Backtrol: "vorpalbunny"
+11/12/2013 1:43:24 AM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 1:44:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 1:44:15 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 90'
+11/12/2013 1:44:17 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "a vorpal bunny" (no account) to '90'
+11/12/2013 1:44:20 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 90'
+11/12/2013 1:44:21 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "a vorpal bunny" (no account) to '90'
+11/12/2013 1:44:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 1:44:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "a vorpal bunny" (no account) to '100'
+11/12/2013 1:44:46 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/12/2013 1:44:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x4 "a vorpal bunny" (no account)
+11/12/2013 1:44:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 1:44:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 695, 5) in Backtrol: "brigand"
+11/12/2013 1:44:52 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 1:44:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:06 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:33 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:45:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'ADD dagger'
+11/12/2013 1:45:55 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 696, 5) in Backtrol: "dagger"
+11/12/2013 1:45:55 AM: 127.0.0.1: Serials: 0x4000007F; 
+11/12/2013 1:45:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:46:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 1:46:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x5 "Caton" (no account) to '100'
+11/12/2013 1:46:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:46:14 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 1:51:01 AM
+
+11/12/2013 1:51:14 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 1:51:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 697, 5) in Backtrol: "brigand"
+11/12/2013 1:51:16 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 1:51:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:51:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:51:44 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:55:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 1:55:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add club'
+11/12/2013 1:55:27 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 696, 5) in Backtrol: "club"
+11/12/2013 1:55:27 AM: 127.0.0.1: Serials: 0x40000054; 
+###################################
+Logging started on 11/12/2013 1:58:57 AM
+
+11/12/2013 1:59:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 1:59:20 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 696, 5) in Backtrol: "brigand"
+11/12/2013 1:59:20 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 1:59:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 1:59:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'PhysicalBonus' of 0x40000015 (LeatherChest) to '65'
+11/12/2013 2:00:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 2:03:44 AM
+
+11/12/2013 2:03:57 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 2:03:58 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 693, 5) in Backtrol: "brigand"
+11/12/2013 2:03:58 AM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 2:04:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:04:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add heatershield'
+11/12/2013 2:04:29 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 709, 5) in Backtrol: "heatershield"
+11/12/2013 2:04:29 AM: 127.0.0.1: Serials: 0x40000055; 
+11/12/2013 2:04:32 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:04:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:04:42 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set frozen true'
+11/12/2013 2:04:43 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'frozen' of 0x5 "Emelyne" (no account) to 'True'
+11/12/2013 2:04:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 2:05:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'ProtectionLevel' of 0x40000055 (HeaterShield) to 'Invulnerability'
+11/12/2013 2:05:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'PhysicalBonus' of 0x40000055 (HeaterShield) to '60'
+11/12/2013 2:05:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set frozen false'
+11/12/2013 2:05:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'frozen' of 0x5 "Emelyne" (no account) to 'False'
+11/12/2013 2:05:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:05:36 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:05:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:00 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:06:43 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/12/2013 2:06:44 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x5 "Emelyne" (no account)
+11/12/2013 2:07:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'allspells '
+11/12/2013 2:07:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') filling spellbook 0x4000001A (Spellbook)
+11/12/2013 2:07:41 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:07:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:07:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/12/2013 2:08:00 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Resisting Spells: 0].Base' of 0x3 "Egam" ('Enroq') to '0'
+11/12/2013 2:08:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:08:18 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:08:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:08:32 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:08:41 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:08:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add halberd'
+11/12/2013 2:08:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 702, 5) in Backtrol: "halberd"
+11/12/2013 2:08:50 AM: 127.0.0.1: Serials: 0x40000099; 
+11/12/2013 2:08:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 100'
+11/12/2013 2:08:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x3 "Egam" ('Enroq') to '100'
+11/12/2013 2:09:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 2:09:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 698, 5) in Backtrol: "ogre"
+11/12/2013 2:09:10 AM: 127.0.0.1: Serials: 0x6; 
+11/12/2013 2:09:18 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:09:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:10:17 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 2:10:18 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 706, 5) in Backtrol: "ogre"
+11/12/2013 2:10:18 AM: 127.0.0.1: Serials: 0x7; 
+11/12/2013 2:10:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set rawdex 125'
+11/12/2013 2:10:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'rawdex' of 0x3 "Egam" ('Enroq') to '125'
+11/12/2013 2:10:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 2:10:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1668, 701, 5) in Backtrol: "ogre"
+11/12/2013 2:10:54 AM: 127.0.0.1: Serials: 0x8; 
+11/12/2013 2:10:56 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add katana'
+11/12/2013 2:11:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 695, 5) in Backtrol: "katana"
+11/12/2013 2:11:30 AM: 127.0.0.1: Serials: 0x400000C5; 
+11/12/2013 2:11:36 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:42 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:11:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/12/2013 2:12:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add spear'
+11/12/2013 2:12:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1665, 700, 5) in Backtrol: "spear"
+11/12/2013 2:12:50 AM: 127.0.0.1: Serials: 0x400000D1; 
+11/12/2013 2:13:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add drake'
+11/12/2013 2:13:09 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 715, 5) in Backtrol: "drake"
+11/12/2013 2:13:09 AM: 127.0.0.1: Serials: 0x9; 
+11/12/2013 2:13:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 2:13:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:13:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:14:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get layer'
+11/12/2013 2:14:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get layer'
+11/12/2013 2:14:27 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 2:14:28 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 712, 5) in Backtrol: "brigand"
+11/12/2013 2:14:28 AM: 127.0.0.1: Serials: 0xA; 
+11/12/2013 2:14:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:18:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 2:18:30 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'FireBonus' of 0x40000015 (LeatherChest) to '50'
+11/12/2013 2:18:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 2:18:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 2:18:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'FireBonus' of 0x40000015 (LeatherChest) to '80'
+11/12/2013 2:18:59 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 4:07:10 PM
+
+11/12/2013 4:15:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+11/12/2013 4:16:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'PhysicalBonus' of 0x400000C1 (WoodenShield) to '70'
+11/12/2013 4:16:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add brigand'
+11/12/2013 4:16:32 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 695, 5) in Backtrol: "brigand"
+11/12/2013 4:16:33 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 4:16:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:16:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 120'
+11/12/2013 4:16:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x4 "Franklin" (no account) to '120'
+11/12/2013 4:17:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 4:17:14 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1668, 691, 5) in Backtrol: "ogre"
+11/12/2013 4:17:14 PM: 127.0.0.1: Serials: 0x5; 
+###################################
+Logging started on 11/12/2013 4:18:32 PM
+
+###################################
+Logging started on 11/12/2013 4:23:45 PM
+
+11/12/2013 4:25:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:25:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add heatershield'
+11/12/2013 4:25:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 698, 5) in Backtrol: "heatershield"
+11/12/2013 4:25:12 PM: 127.0.0.1: Serials: 0x4000006A; 
+11/12/2013 4:25:29 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add spear'
+11/12/2013 4:25:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 698, 5) in Backtrol: "spear"
+11/12/2013 4:25:30 PM: 127.0.0.1: Serials: 0x40000081; 
+11/12/2013 4:26:39 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:27:05 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add vorpalbunny'
+11/12/2013 4:27:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1666, 691, 5) in Backtrol: "vorpalbunny"
+11/12/2013 4:27:06 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 4:28:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add stam'
+11/12/2013 4:28:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:28:10 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add refresh'
+11/12/2013 4:28:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 698, 5) in Backtrol: "TotalRefreshPotion"
+11/12/2013 4:28:13 PM: 127.0.0.1: Serials: 0x40000123; 
+11/12/2013 4:28:38 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1667, 698, 5) in Backtrol: "RefreshPotion"
+11/12/2013 4:28:38 PM: 127.0.0.1: Serials: 0x4000013A; 
+11/12/2013 4:34:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add archer'
+11/12/2013 4:34:31 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1738, 527, 50) in Backtrol: "RatmanArcher"
+11/12/2013 4:34:31 PM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 4:34:45 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/12/2013 4:35:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/12/2013 4:35:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:35:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:35:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:36:08 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:36:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:36:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:37:13 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/12/2013 4:37:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/12/2013 4:37:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:37:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 4:37:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1746, 526, 6) in Backtrol: "ogre"
+11/12/2013 4:37:48 PM: 127.0.0.1: Serials: 0x6; 
+11/12/2013 4:38:32 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 4:38:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/12/2013 4:40:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/12/2013 4:41:09 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/12/2013 4:43:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 11/12/2013 4:47:41 PM
+
+11/12/2013 4:48:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ratman archer'
+11/12/2013 4:48:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2154, 1061, 5) in Backtrol: "ratman" "archer"
+11/12/2013 4:48:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add arche'
+11/12/2013 4:48:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2154, 1059, 5) in Backtrol: "RatmanArcher"
+11/12/2013 4:48:23 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 4:48:49 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set bodyvalue 400'
+11/12/2013 4:48:49 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'bodyvalue' of 0x4 "Eachik" (no account) to '400'
+11/12/2013 4:48:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 4:51:50 PM
+
+11/12/2013 4:54:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ratman'
+11/12/2013 4:54:28 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ratmanarcher'
+11/12/2013 4:54:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2156, 1060, 5) in Backtrol: "ratmanarcher"
+11/12/2013 4:54:30 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 4:56:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 4:56:23 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:56:34 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:56:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 4:56:45 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'remove '
+11/12/2013 4:56:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting 0x4 "Chiackukk" (no account)
+###################################
+Logging started on 11/12/2013 5:01:39 PM
+
+11/12/2013 5:02:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'mymarket '
+11/12/2013 5:02:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ratmanarcher'
+11/12/2013 5:02:36 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2157, 1059, 5) in Backtrol: "ratmanarcher"
+11/12/2013 5:02:36 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 5:03:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 5:13:58 PM
+
+11/12/2013 5:14:11 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add platelegs'
+11/12/2013 5:14:13 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2153, 1060, 5) in Backtrol: "platelegs"
+11/12/2013 5:14:13 PM: 127.0.0.1: Serials: 0x40000018; 
+11/12/2013 5:14:26 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add archer'
+11/12/2013 5:14:29 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2159, 1060, 5) in Backtrol: "RatmanArcher"
+11/12/2013 5:14:29 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 5:15:01 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/12/2013 5:15:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 5:18:23 PM
+
+###################################
+Logging started on 11/12/2013 5:20:42 PM
+
+11/12/2013 6:34:56 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set amount 1000'
+11/12/2013 6:34:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'amount' of 0x40000039 (ValoriteIngot) to '1000'
+11/12/2013 6:35:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set amount 1400'
+11/12/2013 6:35:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'amount' of 0x40000039 (ValoriteIngot) to '1400'
+11/12/2013 6:35:40 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add desert'
+11/12/2013 6:35:43 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2149, 1090, 5) in Backtrol: "DesertWolf"
+11/12/2013 6:35:43 PM: 127.0.0.1: Serials: 0x4; 
+11/12/2013 6:35:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2153, 1085, 5) in Backtrol: "DesertOstard"
+11/12/2013 6:35:47 PM: 127.0.0.1: Serials: 0x5; 
+11/12/2013 6:40:47 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/12/2013 6:42:59 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add shortspear'
+11/12/2013 6:43:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2665, 2356, 5) in Backtrol: "shortspear"
+11/12/2013 6:43:00 PM: 127.0.0.1: Serials: 0x40000024; 
+11/12/2013 6:44:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/12/2013 6:46:36 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 6:46:37 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2598, 1989, 5) in Backtrol: "ogre"
+11/12/2013 6:46:37 PM: 127.0.0.1: Serials: 0x6; 
+11/12/2013 6:47:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add ogre'
+11/12/2013 6:47:03 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2600, 1982, 5) in Backtrol: "ogre"
+11/12/2013 6:47:03 PM: 127.0.0.1: Serials: 0x7; 
+11/12/2013 6:47:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+###################################
+Logging started on 11/12/2013 7:17:09 PM
+
+11/12/2013 7:17:51 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'save '
+###################################
+Logging started on 11/12/2013 7:19:50 PM
+
+###################################
+Logging started on 11/12/2013 7:30:45 PM
+
+###################################
+Logging started on 11/12/2013 11:31:25 PM
+

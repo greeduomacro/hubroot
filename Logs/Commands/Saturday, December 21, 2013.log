@@ -1,0 +1,197 @@
+﻿###################################
+Logging started on 12/21/2013 9:14:06 AM
+
+12/21/2013 9:16:02 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/21/2013 9:24:20 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'tele '
+12/21/2013 9:24:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/21/2013 9:24:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'tele '
+12/21/2013 9:24:39 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'tele '
+12/21/2013 9:25:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'm tele'
+12/21/2013 9:29:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ball'
+12/21/2013 9:29:16 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (341, 993, 0) in Felucca: "BolaBall"
+12/21/2013 9:29:16 AM: 127.0.0.1: Serials: 0x4000000F; 
+12/21/2013 9:29:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (339, 993, 0) in Felucca: "SmallBagBall"
+12/21/2013 9:29:24 AM: 127.0.0.1: Serials: 0x4000002D; 
+12/21/2013 9:29:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (344, 992, 0) in Felucca: "LargeBagBall"
+12/21/2013 9:29:26 AM: 127.0.0.1: Serials: 0x4000002F; 
+12/21/2013 9:29:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 9:29:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x4000002F (LargeBagBall)
+12/21/2013 9:29:35 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 9:29:35 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x4000002D (SmallBagBall)
+12/21/2013 9:29:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add scale'
+12/21/2013 9:29:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (340, 992, 0) in Felucca: "RedScales"
+12/21/2013 9:29:40 AM: 127.0.0.1: Serials: 0x40000030; 
+12/21/2013 9:29:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (338, 994, 0) in Felucca: "ScaledSwampDragon"
+12/21/2013 9:29:42 AM: 127.0.0.1: Serials: 0x3; 
+12/21/2013 9:29:47 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 9:29:48 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x3 "a swamp dragon" (no account)
+12/21/2013 9:54:59 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/21/2013 9:55:13 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'self get map'
+12/21/2013 9:55:17 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go brittain'
+###################################
+Logging started on 12/21/2013 10:01:55 AM
+
+###################################
+Logging started on 12/21/2013 10:05:28 AM
+
+###################################
+Logging started on 12/21/2013 10:10:11 AM
+
+###################################
+Logging started on 12/21/2013 10:39:08 AM
+
+12/21/2013 10:41:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set rawstr 100 rawdex 100 rawint 100'
+12/21/2013 10:41:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'rawstr' of 0x2 "Eidenai" ('Administrator') to '100'
+12/21/2013 10:41:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'rawdex' of 0x2 "Eidenai" ('Administrator') to '100'
+12/21/2013 10:41:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'rawint' of 0x2 "Eidenai" ('Administrator') to '100'
+12/21/2013 10:41:29 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'heal '
+12/21/2013 10:41:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set rawint 80'
+12/21/2013 10:41:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'rawint' of 0x2 "Eidenai" ('Administrator') to '80'
+12/21/2013 10:41:41 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set rawint 100'
+12/21/2013 10:41:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'rawint' of 0x2 "Eidenai" ('Administrator') to '100'
+12/21/2013 10:41:50 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add headlessone'
+12/21/2013 10:41:52 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (783, 1134, 0) in Felucca: "headlessone"
+12/21/2013 10:41:52 AM: 127.0.0.1: Serials: 0x3; 
+12/21/2013 10:41:55 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/21/2013 10:42:18 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/21/2013 10:42:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add brit'
+12/21/2013 10:42:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannian'
+12/21/2013 10:42:51 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add Guard'
+12/21/2013 10:42:53 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1303, 3719, 0) in Felucca: "Guardsman"
+12/21/2013 10:42:53 AM: 127.0.0.1: Serials: 0x4; 
+12/21/2013 10:42:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1304, 3721, 0) in Felucca: "Guardsman"
+12/21/2013 10:42:57 AM: 127.0.0.1: Serials: 0x6; 
+12/21/2013 10:42:58 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1306, 3721, 0) in Felucca: "Guardsman"
+12/21/2013 10:42:58 AM: 127.0.0.1: Serials: 0x9; 
+12/21/2013 10:43:03 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'props '
+12/21/2013 10:43:06 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'props '
+12/21/2013 10:43:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britanniangaurd'
+###################################
+Logging started on 12/21/2013 10:44:54 AM
+
+12/21/2013 10:45:00 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add brit'
+12/21/2013 10:45:35 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard set type archer'
+12/21/2013 10:45:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (783, 1132, 0) in Felucca: "britannianguard" "set" "type" "archer"
+12/21/2013 10:45:45 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard'
+12/21/2013 10:45:46 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (781, 1133, 0) in Felucca: "britannianguard"
+12/21/2013 10:45:48 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard'
+12/21/2013 10:45:48 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (782, 1133, 0) in Felucca: "britannianguard"
+12/21/2013 10:46:25 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard britannianwarriortype.archer'
+12/21/2013 10:46:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (783, 1133, 0) in Felucca: "britannianguard" "britannianwarriortype.archer"
+12/21/2013 10:46:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard archer'
+12/21/2013 10:46:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (783, 1133, 0) in Felucca: "britannianguard" "archer"
+12/21/2013 10:46:32 AM: 127.0.0.1: Serials: 0x3; 
+12/21/2013 10:46:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 10:46:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x3 "Kepa," (no account)
+12/21/2013 10:46:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'go '
+12/21/2013 10:47:00 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/21/2013 10:47:03 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'save '
+12/21/2013 10:48:41 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 10:48:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1310, 3713, 0) in Felucca: "ghoul"
+12/21/2013 10:48:42 AM: 127.0.0.1: Serials: 0x4; 
+12/21/2013 10:48:44 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:48:59 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:49:03 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannian archer'
+12/21/2013 10:49:11 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard archer'
+12/21/2013 10:49:12 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1352, 3717, 0) in Felucca: "britannianguard" "archer"
+12/21/2013 10:49:12 AM: 127.0.0.1: Serials: 0x5; 
+12/21/2013 10:49:20 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:49:48 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:49:50 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 10:49:51 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x4 "a ghoul" (no account)
+12/21/2013 10:52:08 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'checkguarded '
+12/21/2013 10:52:20 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add baseguard'
+12/21/2013 10:52:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1343, 3719, 0) in Felucca: "baseguard"
+12/21/2013 10:52:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add guard'
+12/21/2013 10:52:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1348, 3720, 0) in Felucca: "WarriorGuard"
+12/21/2013 10:52:26 AM: 127.0.0.1: Serials: 0x6; 
+12/21/2013 10:52:29 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:52:32 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:52:35 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 10:52:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1342, 3723, 0) in Felucca: "ghoul"
+12/21/2013 10:52:36 AM: 127.0.0.1: Serials: 0x8; 
+12/21/2013 10:52:37 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:53:07 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 10:53:09 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 10:53:10 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x6 "Gordon" (no account)
+12/21/2013 10:53:14 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 10:53:15 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1347, 3714, 0) in Felucca: "ghoul"
+12/21/2013 10:53:15 AM: 127.0.0.1: Serials: 0x9; 
+12/21/2013 10:53:16 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+###################################
+Logging started on 12/21/2013 10:53:39 AM
+
+###################################
+Logging started on 12/21/2013 11:17:19 AM
+
+###################################
+Logging started on 12/21/2013 11:18:58 AM
+
+###################################
+Logging started on 12/21/2013 11:22:03 AM
+
+12/21/2013 11:22:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'season 1'
+12/21/2013 11:22:59 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add britannianguard archer'
+12/21/2013 11:23:00 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1428, 3782, 0) in Felucca: "britannianguard" "archer"
+12/21/2013 11:23:00 AM: 127.0.0.1: Serials: 0x3; 
+12/21/2013 11:23:06 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add xmlspawner'
+12/21/2013 11:23:07 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1428, 3781, 0) in Felucca: "xmlspawner"
+12/21/2013 11:23:07 AM: 127.0.0.1: Serials: 0x40000039; 
+12/21/2013 11:23:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') added to XmlSpawner 0x40000039 'Spawner' [1428, 3781] (Felucca) : britannianguard
+12/21/2013 11:23:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') changed XmlSpawner 0x40000039 'Spawner' [1428, 3781] (Felucca) : britannianguard to BritannianGuard
+12/21/2013 11:23:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') changed XmlSpawner 0x40000039 'Spawner' [1428, 3781] (Felucca) : BritannianGuard to BritannianGuard, Archer
+12/21/2013 11:23:52 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 11:23:53 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1430, 3781, 0) in Felucca: "ghoul"
+12/21/2013 11:23:53 AM: 127.0.0.1: Serials: 0x5; 
+12/21/2013 11:24:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'remove '
+12/21/2013 11:24:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') deleting 0x5 "a ghoul" (no account)
+12/21/2013 11:24:29 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 11:24:30 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1431, 3782, 0) in Felucca: "ghoul"
+12/21/2013 11:24:30 AM: 127.0.0.1: Serials: 0x6; 
+12/21/2013 11:25:32 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 11:26:31 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 11:26:33 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'add ghoul'
+12/21/2013 11:26:34 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') building at (1429, 3782, 0) in Felucca: "ghoul"
+12/21/2013 11:26:34 AM: 127.0.0.1: Serials: 0x9; 
+12/21/2013 11:26:40 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+###################################
+Logging started on 12/21/2013 11:34:53 AM
+
+12/21/2013 11:36:12 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'cov '
+12/21/2013 11:36:34 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:37 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:40 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:42 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:43 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:47 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:49 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:54 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:36:57 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:02 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'set map backtrol'
+12/21/2013 11:37:03 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') set property 'map' of 0x2 "Eidenai" ('Administrator') to 'Backtrol'
+12/21/2013 11:37:06 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:11 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:14 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:17 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:24 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:37:26 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:38:04 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'calt '
+12/21/2013 11:38:06 AM: 127.0.0.1: Player 0x2 "Eidenai" ('Administrator') used command 'jump '
+###################################
+Logging started on 12/21/2013 11:42:23 AM
+
+###################################
+Logging started on 12/21/2013 11:44:08 AM
+
+12/21/2013 11:44:34 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:44:36 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:44:38 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+###################################
+Logging started on 12/21/2013 11:45:58 AM
+
+12/21/2013 11:46:22 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:46:25 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+12/21/2013 11:46:27 AM: 127.0.0.1: Administrator 0x2 "Eidenai" ('Administrator') used command 'jump '
+###################################
+Logging started on 12/21/2013 11:47:03 AM
+

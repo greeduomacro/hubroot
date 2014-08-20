@@ -1,0 +1,22 @@
+﻿###################################
+Logging started on 8/8/2014 9:59:12 PM
+
+8/8/2014 10:06:44 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'unhide '
+8/8/2014 10:06:45 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') unhiding 0x1 "Qoern" ('admin')
+8/8/2014 10:07:12 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/8/2014 10:07:18 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/8/2014 10:07:27 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '
+8/8/2014 10:07:31 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'alliances '
+8/8/2014 10:07:37 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') set property 'Resistance' of 0x4000000F (Sigillum) to '0'
+8/8/2014 10:07:39 PM: 127.0.0.1: Player 0x1 "Qoern" ('admin') used command 'calt '
+8/8/2014 10:08:08 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'calt '
+8/8/2014 10:08:53 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'kill '
+8/8/2014 10:08:54 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') killed 0x7 "Alethea," (no account).
+8/8/2014 10:09:13 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'remove '
+8/8/2014 10:09:16 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'remove '
+8/8/2014 10:09:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'remove '
+8/8/2014 10:09:19 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') deleting 0x40000033 (Corpse)
+###################################
+Logging started on 8/8/2014 10:48:52 PM
+
+8/8/2014 11:16:48 PM: 127.0.0.1: Administrator 0x1 "Qoern" ('admin') used command 'props '

@@ -1,0 +1,63 @@
+﻿###################################
+Logging started on 4/30/2014 2:04:16 AM
+
+4/30/2014 2:11:29 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'x' of 0x6 "Test" ('admin') to '400'
+4/30/2014 2:11:29 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'y' of 0x6 "Test" ('admin') to '3350'
+4/30/2014 2:11:29 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set x 400 y 3350'
+4/30/2014 2:11:34 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:37 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:41 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:44 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:45 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:48 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'm tele'
+4/30/2014 2:11:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'set map backtrol'
+4/30/2014 2:11:55 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'map' of 0x6 "Test" ('admin') to 'Backtrol'
+4/30/2014 2:11:58 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+###################################
+Logging started on 4/30/2014 2:15:10 AM
+
+4/30/2014 2:15:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'x' of 0x6 "Test" ('admin') to '450'
+4/30/2014 2:15:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'y' of 0x6 "Test" ('admin') to '3400'
+4/30/2014 2:15:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'self set x 450 y 3400'
+4/30/2014 2:15:41 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+4/30/2014 2:15:43 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+4/30/2014 2:15:44 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+4/30/2014 2:15:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '
+4/30/2014 2:15:54 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+4/30/2014 2:15:55 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3403, 30) in Backtrol: "waypoint"
+4/30/2014 2:15:55 AM: 127.0.0.1: Serials: 0x4000001C; 
+4/30/2014 2:15:56 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+4/30/2014 2:15:57 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3418, 30) in Backtrol: "waypoint"
+4/30/2014 2:15:57 AM: 127.0.0.1: Serials: 0x4000001D; 
+4/30/2014 2:16:01 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add xmlspawner'
+4/30/2014 2:16:12 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add xmlspawner backtrolianguard set spawnrange 0'
+4/30/2014 2:16:13 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3422, 30) in Backtrol: "xmlspawner" "backtrolianguard" "set" "spawnrange" "0"
+4/30/2014 2:16:13 AM: 127.0.0.1: Serials: 0x4000001E; 
+4/30/2014 2:16:23 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') changed XmlSpawner 0x4000001E 'Spawner' [427, 3422] (Backtrol) : backtrolianguard to backtrolianguard, archer
+4/30/2014 2:16:39 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') set property 'WayPoint' of 0x4000001E (XmlSpawner) to '0x4000001C "WayPoint"'
+4/30/2014 2:16:52 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'add waypoint'
+4/30/2014 2:16:53 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') building at (427, 3391, 30) in Backtrol: "waypoint"
+4/30/2014 2:16:53 AM: 127.0.0.1: Serials: 0x40000056; 
+4/30/2014 2:17:18 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'move '
+4/30/2014 2:17:24 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') moving 0x4000001E (XmlSpawner) to (427, 3431, 30)
+4/30/2014 2:17:28 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'move '
+4/30/2014 2:17:30 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') moving 0x4000001E (XmlSpawner) to (428, 3432, 30)
+4/30/2014 2:17:34 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'move '
+4/30/2014 2:17:36 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') moving 0x4000001E (XmlSpawner) to (427, 3422, 30)
+4/30/2014 2:17:43 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'dupe '
+4/30/2014 2:17:45 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duping 0x4000001E (XmlSpawner) (inBag=False; amount=1)
+4/30/2014 2:17:45 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duped 0x4000001E (XmlSpawner) creating 0x4000018E (XmlSpawner)
+4/30/2014 2:17:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'dupe '
+4/30/2014 2:17:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duping 0x4000001E (XmlSpawner) (inBag=False; amount=1)
+4/30/2014 2:17:46 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duped 0x4000001E (XmlSpawner) creating 0x4000018F (XmlSpawner)
+4/30/2014 2:17:51 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+4/30/2014 2:17:52 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x4000018F (XmlSpawner)
+4/30/2014 2:17:58 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'remove '
+4/30/2014 2:17:59 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') deleting 0x4000018E (XmlSpawner)
+4/30/2014 2:18:00 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'dupe '
+4/30/2014 2:18:02 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duping 0x4000001E (XmlSpawner) (inBag=False; amount=1)
+4/30/2014 2:18:02 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') duped 0x4000001E (XmlSpawner) creating 0x4000019B (XmlSpawner)
+4/30/2014 2:18:04 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'move '
+4/30/2014 2:18:06 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') moving 0x4000019B (XmlSpawner) to (427, 3421, 30)
+4/30/2014 2:19:03 AM: 127.0.0.1: Administrator 0x6 "Test" ('admin') used command 'tele '

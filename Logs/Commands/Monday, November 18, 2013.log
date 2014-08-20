@@ -1,0 +1,327 @@
+﻿###################################
+Logging started on 11/18/2013 2:00:12 AM
+
+11/18/2013 2:00:43 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 2:02:34 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 2:02:39 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 2:02:44 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 2:16:20 AM
+
+11/18/2013 2:16:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 2:17:58 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'admin '
+11/18/2013 2:18:26 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'delete chaact'
+11/18/2013 2:18:28 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'deletecharacter '
+11/18/2013 2:18:31 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') deleting character 0x2 "Eidenai" ('Enroq').
+11/18/2013 2:18:38 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set maxfollowers 5'
+11/18/2013 2:18:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set followersmax 5'
+11/18/2013 2:18:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'followersmax' of 0x3 "Egam" ('Enroq') to '5'
+11/18/2013 2:18:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 2:19:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/18/2013 2:22:40 AM
+
+11/18/2013 2:23:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+###################################
+Logging started on 11/18/2013 2:26:20 AM
+
+11/18/2013 2:26:38 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 2:26:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 2:33:14 AM
+
+11/18/2013 2:39:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 2:39:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:08:42 AM
+
+11/18/2013 3:09:40 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:09:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:11:44 AM
+
+11/18/2013 3:14:00 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:17:01 AM
+
+11/18/2013 3:17:55 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:18:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:19:36 AM
+
+11/18/2013 3:19:47 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:25:31 AM
+
+11/18/2013 3:25:55 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:26:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:35:55 AM
+
+11/18/2013 3:38:01 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:38:52 AM
+
+11/18/2013 3:39:29 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:40:48 AM
+
+11/18/2013 3:41:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:41:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:43:58 AM
+
+11/18/2013 3:46:24 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:46:29 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 3:46:30 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 3:46:48 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'perks '
+11/18/2013 3:47:01 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:48:50 AM
+
+11/18/2013 3:49:06 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:51:04 AM
+
+11/18/2013 3:51:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 3:51:14 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 3:51:16 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 3:51:17 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+###################################
+Logging started on 11/18/2013 3:53:27 AM
+
+11/18/2013 3:53:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:54:57 AM
+
+###################################
+Logging started on 11/18/2013 4:40:21 AM
+
+###################################
+Logging started on 11/18/2013 8:33:02 AM
+
+11/18/2013 8:34:41 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 8:38:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add forge'
+11/18/2013 8:38:17 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2021, 460, 5) in Backtrol: "forge"
+11/18/2013 8:38:17 AM: 127.0.0.1: Serials: 0x4000039C; 
+11/18/2013 8:38:21 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add anvil'
+11/18/2013 8:38:23 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2022, 460, 5) in Backtrol: "anvil"
+11/18/2013 8:38:23 AM: 127.0.0.1: Serials: 0x4000039E; 
+11/18/2013 8:39:20 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 8:41:04 AM
+
+11/18/2013 8:42:34 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 8:46:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 8:46:14 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 8:46:17 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 8:46:25 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'motd '
+11/18/2013 8:46:32 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'viewmessages '
+11/18/2013 8:46:39 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg '
+11/18/2013 8:46:54 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 8:46:55 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 8:46:57 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg '
+11/18/2013 8:47:01 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 8:47:08 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'grab '
+11/18/2013 8:47:19 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'skillinc '
+11/18/2013 8:47:32 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 8:48:40 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg Egam'
+11/18/2013 8:48:55 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg 1'
+11/18/2013 8:48:58 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg some'
+11/18/2013 8:49:05 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg egam'
+11/18/2013 8:49:15 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'msg '
+###################################
+Logging started on 11/18/2013 8:54:19 AM
+
+###################################
+Logging started on 11/18/2013 8:55:29 AM
+
+11/18/2013 8:55:34 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 8:55:36 AM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'help '
+11/18/2013 9:00:06 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+###################################
+Logging started on 11/18/2013 9:00:27 AM
+
+11/18/2013 9:02:21 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/18/2013 9:02:25 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'admin '
+11/18/2013 9:06:34 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'help '
+11/18/2013 9:06:42 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'whereami '
+11/18/2013 9:07:17 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'status '
+11/18/2013 9:07:39 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'calt '
+11/18/2013 9:07:42 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'help '
+11/18/2013 9:07:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'viewmarket '
+11/18/2013 9:08:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'mymarket '
+11/18/2013 9:14:04 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add style'
+11/18/2013 9:14:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add styl'
+11/18/2013 9:14:09 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2020, 463, 5) in Backtrol: "HairStylist"
+11/18/2013 9:14:09 AM: 127.0.0.1: Serials: 0x9; 
+11/18/2013 9:14:31 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add barb'
+11/18/2013 9:14:35 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add hair'
+11/18/2013 9:14:36 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add hai'
+11/18/2013 9:14:50 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2022, 462, 6) in Backtrol: "HairRestylingDeed"
+11/18/2013 9:14:50 AM: 127.0.0.1: Serials: 0x400003CD; 
+11/18/2013 9:15:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add hair'
+11/18/2013 9:15:16 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add barber'
+11/18/2013 9:16:14 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'helpinfo '
+11/18/2013 9:16:47 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'whereami '
+11/18/2013 9:16:54 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'viewmessages '
+11/18/2013 9:17:38 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'password '
+11/18/2013 9:18:40 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'help '
+11/18/2013 9:20:03 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add wyrm'
+11/18/2013 9:20:07 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2015, 467, 5) in Backtrol: "ForestWyrm"
+11/18/2013 9:20:07 AM: 127.0.0.1: Serials: 0xA; 
+11/18/2013 9:21:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get cantwalk'
+11/18/2013 9:21:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'get canswim'
+11/18/2013 9:23:12 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add fores'
+11/18/2013 9:23:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1999, 489, 5) in Backtrol: "ForestWyrm"
+11/18/2013 9:23:19 AM: 127.0.0.1: Serials: 0xC; 
+11/18/2013 9:23:20 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1996, 492, 5) in Backtrol: "ForestWyrm"
+11/18/2013 9:23:20 AM: 127.0.0.1: Serials: 0xE; 
+11/18/2013 9:23:22 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (1993, 493, 5) in Backtrol: "ForestWyrm"
+11/18/2013 9:23:22 AM: 127.0.0.1: Serials: 0xF; 
+11/18/2013 9:30:25 AM: 127.0.0.1: Player 0x1 "Player" ('EnroqTest') used command 'help '
+###################################
+Logging started on 11/18/2013 9:31:59 AM
+
+11/18/2013 9:32:29 AM: 127.0.0.1: Player 0x1 "Test" ('EnroqTest') used command 'help '
+11/18/2013 9:32:40 AM: 127.0.0.1: Player 0x1 "Test" ('EnroqTest') used command 'helpinfo '
+###################################
+Logging started on 11/18/2013 9:40:32 AM
+
+11/18/2013 9:43:41 AM: 127.0.0.1: Player 0x1 "Test" ('EnroqTest') used command 'status '
+###################################
+Logging started on 11/18/2013 9:44:30 AM
+
+11/18/2013 9:45:00 AM: 127.0.0.1: Player 0x1 "Test" ('EnroqTest') used command 'help '
+11/18/2013 9:46:05 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'who '
+11/18/2013 9:46:08 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'admin '
+11/18/2013 9:47:11 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 9:49:32 AM
+
+11/18/2013 9:54:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 9:59:23 AM
+
+###################################
+Logging started on 11/18/2013 10:38:49 AM
+
+###################################
+Logging started on 11/18/2013 11:07:27 AM
+
+11/18/2013 11:07:48 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add lucky'
+11/18/2013 11:07:51 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add apple'
+11/18/2013 11:07:53 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add appl'
+###################################
+Logging started on 11/18/2013 11:10:44 AM
+
+11/18/2013 11:12:10 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add lucky'
+###################################
+Logging started on 11/18/2013 11:13:30 AM
+
+11/18/2013 11:13:49 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add lucky'
+11/18/2013 11:14:19 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add bait'
+###################################
+Logging started on 11/18/2013 11:16:08 AM
+
+11/18/2013 11:16:17 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add app'
+###################################
+Logging started on 11/18/2013 11:18:29 AM
+
+11/18/2013 11:18:43 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add app'
+###################################
+Logging started on 11/18/2013 11:23:27 AM
+
+11/18/2013 11:36:45 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set luck 100'
+11/18/2013 11:36:52 AM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'props '
+###################################
+Logging started on 11/18/2013 11:38:25 AM
+
+###################################
+Logging started on 11/18/2013 11:41:22 AM
+
+###################################
+Logging started on 11/18/2013 12:35:56 PM
+
+11/18/2013 12:37:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add pants'
+11/18/2013 12:37:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (2021, 460, 5) in Backtrol: "LongPants"
+11/18/2013 12:37:04 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/18/2013 12:37:20 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'm tele'
+11/18/2013 12:37:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'go '
+11/18/2013 12:37:32 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'm tele'
+11/18/2013 12:37:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'go '
+11/18/2013 12:47:56 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add Kho'
+11/18/2013 12:47:58 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') building at (5669, 366, 10) in Backtrol: "BlessingOfKhopesh"
+11/18/2013 12:47:58 PM: 127.0.0.1: Serials: 0x4000043E; 
+11/18/2013 12:48:06 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'setallskills 100'
+11/18/2013 12:48:07 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') set property 'EverySkill.Base' of 0x3 "Ian" ('Enroq') to '100'
+11/18/2013 12:48:08 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'heal '
+11/18/2013 1:22:03 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add arb'
+11/18/2013 1:22:07 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add add'
+11/18/2013 1:22:10 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add addo'
+11/18/2013 1:22:12 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') building at (5665, 366, 10) in Backtrol: "AbbatoirAddon"
+11/18/2013 1:22:12 PM: 127.0.0.1: Serials: 0x4000043F; 
+11/18/2013 1:22:26 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add addo'
+11/18/2013 1:22:45 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add addo'
+11/18/2013 1:22:57 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'add abbatoir'
+11/18/2013 1:50:56 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'remove '
+11/18/2013 1:50:56 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') deleting 0x40000444 (AddonComponent)
+11/18/2013 1:51:06 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'status '
+11/18/2013 1:51:16 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'setallskills 0'
+11/18/2013 1:51:17 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') set property 'EverySkill.Base' of 0x3 "Ian" ('Enroq') to '0'
+11/18/2013 1:51:20 PM: 127.0.0.1: Administrator 0x3 "Ian" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 1:54:26 PM
+
+11/18/2013 1:58:03 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 1:59:06 PM
+
+11/18/2013 1:59:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 1:59:29 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'admin '
+11/18/2013 1:59:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add carpet'
+11/18/2013 1:59:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5844, 240, 21) in Backtrol: "SmallRedCarpetRoll"
+11/18/2013 1:59:50 PM: 127.0.0.1: Serials: 0x4000039C; 
+11/18/2013 2:00:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add chair'
+11/18/2013 2:00:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add chair'
+11/18/2013 2:00:58 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5840, 236, 20) in Backtrol: "StoneChair"
+11/18/2013 2:00:58 PM: 127.0.0.1: Serials: 0x4000047C; 
+11/18/2013 2:01:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'move '
+11/18/2013 2:01:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') moving 0x4000047C (StoneChair) to (5844, 231, 40)
+11/18/2013 2:01:06 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'move '
+11/18/2013 2:01:07 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') moving 0x4000047C (StoneChair) to (5843, 231, 40)
+11/18/2013 2:01:18 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/18/2013 2:01:24 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'tele '
+11/18/2013 2:02:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 2:02:17 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'setallskills 0'
+11/18/2013 2:02:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'EverySkill.Base' of 0x3 "Egam" ('Enroq') to '0'
+11/18/2013 2:02:21 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 2:02:52 PM: 127.0.0.1: Player 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 2:02:54 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'calt '
+11/18/2013 2:03:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'eoc' of 0x3 "Egam" ('Enroq') to '50000'
+11/18/2013 2:03:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'self set eoc 50000'
+11/18/2013 2:03:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 2:07:16 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'skills '
+11/18/2013 2:07:57 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property '[Item Identification: 100].Base' of 0x3 "Egam" ('Enroq') to '100'
+11/18/2013 2:09:22 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'viewmarket '
+11/18/2013 2:09:30 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'viewmarket '
+11/18/2013 2:09:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 2:10:02 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 2:11:12 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'mymarket '
+11/18/2013 2:12:41 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add harve'
+11/18/2013 2:12:48 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'add dagge'
+11/18/2013 2:12:52 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') building at (5839, 235, 51) in Backtrol: "DaggerOfTheRift"
+11/18/2013 2:12:52 PM: 127.0.0.1: Serials: 0x4000047D; 
+11/18/2013 2:13:04 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'set name "Dagger of The Rift"'
+11/18/2013 2:13:05 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') set property 'name' of 0x4000047D (DaggerOfTheRift) to 'Dagger of The Rift'
+11/18/2013 2:13:19 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'perkadmin '
+11/18/2013 2:13:46 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+###################################
+Logging started on 11/18/2013 3:37:16 PM
+
+###################################
+Logging started on 11/18/2013 10:21:42 PM
+
+11/18/2013 10:55:00 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '
+11/18/2013 10:55:50 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'heal '
+11/18/2013 10:58:35 PM: 127.0.0.1: Administrator 0x3 "Egam" ('Enroq') used command 'status '

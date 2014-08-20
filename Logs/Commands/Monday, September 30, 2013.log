@@ -1,0 +1,157 @@
+﻿###################################
+Logging started on 9/30/2013 12:05:40 AM
+
+9/30/2013 12:07:02 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'lightlevel' of 0x20 "Enroq" ('Enroq') to '99'
+9/30/2013 12:07:02 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'self set lightlevel 99'
+9/30/2013 12:07:05 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add katana'
+9/30/2013 12:07:07 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1548, 802, 5) in Backtrol: "katana"
+9/30/2013 12:07:07 AM: 127.0.0.1: Serials: 0x40000524; 
+9/30/2013 12:07:19 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 12:10:19 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 9/30/2013 12:20:07 AM
+
+9/30/2013 12:20:45 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'allspells '
+9/30/2013 12:20:47 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') filling spellbook 0x4000055E (Spellbook)
+9/30/2013 12:20:56 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add katan'
+9/30/2013 12:20:58 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1546, 803, 5) in Backtrol: "Katana"
+9/30/2013 12:20:58 AM: 127.0.0.1: Serials: 0x400002E9; 
+9/30/2013 12:21:03 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 9/30/2013 12:22:07 AM
+
+9/30/2013 12:23:33 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set lightlevel 99'
+9/30/2013 12:23:34 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'lightlevel' of 0x20 "Enroq" ('Enroq') to '99'
+9/30/2013 12:23:37 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add katana'
+9/30/2013 12:23:38 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1546, 802, 5) in Backtrol: "katana"
+9/30/2013 12:23:38 AM: 127.0.0.1: Serials: 0x4000056F; 
+9/30/2013 12:23:44 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 12:51:36 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 12:59:13 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 1:00:24 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add guard'
+9/30/2013 1:59:32 AM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add '
+###################################
+Logging started on 9/30/2013 8:13:25 PM
+
+9/30/2013 8:17:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'bank '
+9/30/2013 8:17:32 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') opening bank box of 0x20 "Enroq" ('Enroq')
+9/30/2013 8:17:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add copper 500'
+9/30/2013 8:17:43 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add copper 5000'
+9/30/2013 8:17:43 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1634, 751, 5) in Backtrol: "copper" "5000"
+9/30/2013 8:17:43 PM: 127.0.0.1: Serials: 0x400008AB; 
+9/30/2013 8:17:53 PM: 127.0.0.1: Player 0x20 "Enroq" ('Enroq') used command 'calt '
+###################################
+Logging started on 9/30/2013 8:22:31 PM
+
+9/30/2013 8:22:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 8:23:04 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'AttackChance' of ... to '1'
+9/30/2013 8:27:37 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add runic'
+9/30/2013 8:27:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add hamm'
+9/30/2013 8:27:42 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1636, 774, 5) in Backtrol: "Hammer"
+9/30/2013 8:27:42 PM: 127.0.0.1: Serials: 0x4000092A; 
+9/30/2013 8:27:45 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1635, 774, 5) in Backtrol: "SmithHammer"
+9/30/2013 8:27:45 PM: 127.0.0.1: Serials: 0x4000092C; 
+9/30/2013 8:27:49 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 8:27:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add forge'
+9/30/2013 8:27:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1635, 776, 5) in Backtrol: "forge"
+9/30/2013 8:27:57 PM: 127.0.0.1: Serials: 0x4000092D; 
+9/30/2013 8:28:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add runichammer 9'
+9/30/2013 8:28:06 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1638, 773, 5) in Backtrol: "runichammer" "9"
+9/30/2013 8:28:06 PM: 127.0.0.1: Serials: 0x4000092E; 
+9/30/2013 8:28:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ironingot 100'
+9/30/2013 8:28:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1636, 775, 5) in Backtrol: "ironingot" "100"
+9/30/2013 8:28:20 PM: 127.0.0.1: Serials: 0x4000095A; 
+9/30/2013 8:28:27 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add anvil'
+9/30/2013 8:28:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1636, 775, 5) in Backtrol: "anvil"
+9/30/2013 8:28:29 PM: 127.0.0.1: Serials: 0x4000095B; 
+9/30/2013 8:28:38 PM: 127.0.0.1: Crafting 0x4000095C (Cutlass) with craft system DefBlacksmithy
+9/30/2013 8:31:09 PM: 127.0.0.1: Crafting 0x40000970 (Kryss) with craft system DefBlacksmithy
+9/30/2013 8:34:03 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 9/30/2013 8:37:41 PM
+
+###################################
+Logging started on 9/30/2013 8:39:32 PM
+
+9/30/2013 8:39:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 8:40:18 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add runichammer 9'
+9/30/2013 8:40:19 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1634, 775, 5) in Backtrol: "runichammer" "9"
+9/30/2013 8:40:19 PM: 127.0.0.1: Serials: 0x400002BF; 
+9/30/2013 8:40:22 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add forge'
+9/30/2013 8:40:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1635, 775, 5) in Backtrol: "forge"
+9/30/2013 8:40:23 PM: 127.0.0.1: Serials: 0x400002CD; 
+9/30/2013 8:40:25 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add anvil'
+9/30/2013 8:40:26 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1636, 775, 5) in Backtrol: "anvil"
+9/30/2013 8:40:26 PM: 127.0.0.1: Serials: 0x400002D8; 
+9/30/2013 8:40:35 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ironingot 100'
+9/30/2013 8:40:36 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1635, 774, 5) in Backtrol: "ironingot" "100"
+9/30/2013 8:40:36 PM: 127.0.0.1: Serials: 0x4000046E; 
+9/30/2013 8:40:48 PM: 127.0.0.1: Crafting 0x400004FF (Dagger) with craft system DefBlacksmithy
+9/30/2013 8:40:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 8:41:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'allspells '
+9/30/2013 8:41:17 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') filling spellbook 0x4000055E (Spellbook)
+9/30/2013 8:41:52 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add bear set hitsmaxseed 5000 hits 5600'
+9/30/2013 8:42:07 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add rabbit set hitsmaxseed 5000 hits 5000'
+9/30/2013 8:42:08 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1639, 773, 5) in Backtrol: "rabbit" "set" "hitsmaxseed" "5000" "hits" "5000"
+9/30/2013 8:42:08 PM: 127.0.0.1: Serials: 0x48; 
+9/30/2013 9:20:14 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add lichlord'
+9/30/2013 9:20:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1642, 773, 5) in Backtrol: "lichlord"
+9/30/2013 9:20:15 PM: 127.0.0.1: Serials: 0xC9; 
+9/30/2013 9:20:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set hits 1'
+9/30/2013 9:20:24 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'hits' of 0xC9 "a lich lord" (no account) to '1'
+9/30/2013 9:20:34 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:20:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:21:20 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'set rawstr 100'
+9/30/2013 9:21:22 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') set property 'rawstr' of 0x20 "Enroq" ('Enroq') to '100'
+9/30/2013 9:21:46 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:21:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'remove '
+9/30/2013 9:21:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') deleting 0x40000E33 (CompositeBow)
+9/30/2013 9:23:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add skeleton'
+9/30/2013 9:23:29 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1648, 772, 5) in Backtrol: "skeleton"
+9/30/2013 9:23:29 PM: 127.0.0.1: Serials: 0xCA; 
+###################################
+Logging started on 9/30/2013 9:30:30 PM
+
+9/30/2013 9:30:55 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add lich'
+9/30/2013 9:30:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1638, 773, 5) in Backtrol: "lich"
+9/30/2013 9:30:57 PM: 127.0.0.1: Serials: 0x4; 
+9/30/2013 9:30:58 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+9/30/2013 9:31:00 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x4 "a lich" (no account).
+9/30/2013 9:31:07 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ancientlich'
+9/30/2013 9:31:08 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1637, 775, 5) in Backtrol: "ancientlich"
+9/30/2013 9:31:08 PM: 127.0.0.1: Serials: 0x5; 
+9/30/2013 9:31:10 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+9/30/2013 9:31:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x5 "Kaltivel" (no account).
+9/30/2013 9:31:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:31:25 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 9/30/2013 9:43:23 PM
+
+9/30/2013 9:43:38 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ancientlich'
+9/30/2013 9:43:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1638, 775, 5) in Backtrol: "ancientlich"
+9/30/2013 9:43:40 PM: 127.0.0.1: Serials: 0x2; 
+9/30/2013 9:43:41 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+9/30/2013 9:43:43 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x2 "Kaltivel" (no account).
+9/30/2013 9:43:47 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:43:59 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:44:11 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:44:15 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:44:23 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:45:54 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:45:57 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:46:05 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'bank '
+9/30/2013 9:46:14 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:46:31 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:46:39 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'add ancientlich'
+9/30/2013 9:46:40 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') building at (1638, 774, 5) in Backtrol: "ancientlich"
+9/30/2013 9:46:40 PM: 127.0.0.1: Serials: 0x4F; 
+9/30/2013 9:46:43 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'kill '
+9/30/2013 9:46:43 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') killed 0x4F "Anshu" (no account).
+9/30/2013 9:46:47 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+9/30/2013 9:47:02 PM: 127.0.0.1: Administrator 0x20 "Enroq" ('Enroq') used command 'props '
+###################################
+Logging started on 9/30/2013 9:53:50 PM
+
+###################################
+Logging started on 9/30/2013 9:59:56 PM
+

@@ -1,0 +1,250 @@
+﻿###################################
+Logging started on 12/15/2013 4:53:52 AM
+
+###################################
+Logging started on 12/15/2013 4:55:17 AM
+
+12/15/2013 4:55:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm tele'
+12/15/2013 4:55:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/15/2013 4:55:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 4:56:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 4:56:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/15/2013 4:56:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+###################################
+Logging started on 12/15/2013 5:07:50 AM
+
+12/15/2013 5:07:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 5:09:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/15/2013 5:09:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/15/2013 5:09:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add dragon'
+12/15/2013 5:09:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 402, 1) in Backtrol: "dragon"
+12/15/2013 5:09:39 AM: 127.0.0.1: Serials: 0x6; 
+12/15/2013 5:10:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:10:59 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x6 "Gwiber," (no account)
+12/15/2013 5:11:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/15/2013 5:11:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 402, 0) in Backtrol: "lichlord"
+12/15/2013 5:11:14 AM: 127.0.0.1: Serials: 0xB; 
+12/15/2013 5:11:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:11:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x9 "an earth elemental" (no account)
+12/15/2013 5:11:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xA "an earth elemental" (no account)
+12/15/2013 5:11:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x7 "an earth elemental" (no account)
+12/15/2013 5:11:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x8 "an earth elemental" (no account)
+12/15/2013 5:12:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add dragon'
+12/15/2013 5:12:43 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5671, 421, 1) in Backtrol: "dragon"
+12/15/2013 5:12:43 AM: 127.0.0.1: Serials: 0x14; 
+12/15/2013 5:12:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:12:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x14 "Hresvelger," (no account)
+12/15/2013 5:13:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add massdis'
+12/15/2013 5:13:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5680, 403, 0) in Backtrol: "MassDispelScroll"
+12/15/2013 5:13:29 AM: 127.0.0.1: Serials: 0x40000051; 
+12/15/2013 5:13:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5681, 404, -1) in Backtrol: "MassDispelScroll"
+12/15/2013 5:13:30 AM: 127.0.0.1: Serials: 0x40000052; 
+12/15/2013 5:14:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add drake'
+12/15/2013 5:14:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 403, -1) in Backtrol: "drake"
+12/15/2013 5:14:06 AM: 127.0.0.1: Serials: 0x24; 
+12/15/2013 5:14:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add drake'
+12/15/2013 5:14:51 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 402, 0) in Backtrol: "drake"
+12/15/2013 5:14:51 AM: 127.0.0.1: Serials: 0x2B; 
+12/15/2013 5:15:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add energy'
+12/15/2013 5:15:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5676, 404, -1) in Backtrol: "EnergyVortexScroll"
+12/15/2013 5:15:23 AM: 127.0.0.1: Serials: 0x400000F0; 
+12/15/2013 5:15:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'dupe 5'
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duping 0x40000051 (MassDispelScroll) (inBag=False; amount=5)
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x40000051 (MassDispelScroll) creating 0x400000F1 (MassDispelScroll)
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x40000051 (MassDispelScroll) creating 0x400000F2 (MassDispelScroll)
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x40000051 (MassDispelScroll) creating 0x400000F3 (MassDispelScroll)
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x40000051 (MassDispelScroll) creating 0x400000F4 (MassDispelScroll)
+12/15/2013 5:15:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x40000051 (MassDispelScroll) creating 0x400000F5 (MassDispelScroll)
+12/15/2013 5:15:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'dupe 5'
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duping 0x400000F0 (EnergyVortexScroll) (inBag=False; amount=5)
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x400000F0 (EnergyVortexScroll) creating 0x400000F6 (EnergyVortexScroll)
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x400000F0 (EnergyVortexScroll) creating 0x400000F7 (EnergyVortexScroll)
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x400000F0 (EnergyVortexScroll) creating 0x400000F8 (EnergyVortexScroll)
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x400000F0 (EnergyVortexScroll) creating 0x400000F9 (EnergyVortexScroll)
+12/15/2013 5:15:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') duped 0x400000F0 (EnergyVortexScroll) creating 0x400000FA (EnergyVortexScroll)
+12/15/2013 5:15:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:15:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2C "an energy vortex" (no account)
+12/15/2013 5:15:58 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2D "an energy vortex" (no account)
+12/15/2013 5:16:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:16:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2E "Baal" (no account)
+12/15/2013 5:16:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:16:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x16 "a horse" (no account)
+12/15/2013 5:16:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:16:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2F "Agalierept" (no account)
+12/15/2013 5:16:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:16:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x30 "Azatoth" (no account)
+12/15/2013 5:17:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'perkadmin '
+12/15/2013 5:17:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:17:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x31 "Morail" (no account)
+12/15/2013 5:17:41 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 5:17:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 5:18:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:18:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x32 "an earth elemental" (no account)
+12/15/2013 5:18:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 5:18:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5689, 399, 1) in Backtrol: "ancientlich"
+12/15/2013 5:18:49 AM: 127.0.0.1: Serials: 0x37; 
+###################################
+Logging started on 12/15/2013 5:27:27 AM
+
+12/15/2013 5:28:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 5:28:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 110'
+12/15/2013 5:28:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '110'
+12/15/2013 5:28:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 5:29:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:29:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "a fire elemental" (no account)
+12/15/2013 5:29:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a fire elemental" (no account)
+12/15/2013 5:30:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 5:30:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x7 "an air elemental" (no account)
+12/15/2013 5:30:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x6 "an air elemental" (no account)
+12/15/2013 5:30:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x5 "an air elemental" (no account)
+12/15/2013 5:30:22 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x4 "an air elemental" (no account)
+###################################
+Logging started on 12/15/2013 5:46:06 AM
+
+12/15/2013 5:46:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 5:46:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'setallskills 120'
+12/15/2013 5:46:47 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'EverySkill.Base' of 0x1 "Test" ('Administrator') to '120'
+12/15/2013 5:46:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/15/2013 5:46:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 5:46:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'save '
+12/15/2013 5:47:35 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:47:36 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a fire elemental" (no account)
+12/15/2013 5:47:55 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 5:47:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "Faraii" (no account)
+###################################
+Logging started on 12/15/2013 5:53:20 AM
+
+###################################
+Logging started on 12/15/2013 5:59:03 AM
+
+12/15/2013 6:01:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:03:53 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add daemon'
+12/15/2013 6:03:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 405, -1) in Backtrol: "daemon"
+12/15/2013 6:03:56 AM: 127.0.0.1: Serials: 0xA; 
+12/15/2013 6:04:44 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add dragon'
+12/15/2013 6:04:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5686, 408, -1) in Backtrol: "dragon"
+12/15/2013 6:04:46 AM: 127.0.0.1: Serials: 0xB; 
+12/15/2013 6:05:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:05:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5689, 401, 1) in Backtrol: "ancientlich"
+12/15/2013 6:05:10 AM: 127.0.0.1: Serials: 0xC; 
+12/15/2013 6:05:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 6:05:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xB "Goryshche," (no account)
+12/15/2013 6:07:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:07:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:07:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 6:07:10 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xC "Anshu" (no account)
+12/15/2013 6:07:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:07:17 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5669, 424, 1) in Backtrol: "ancientlich"
+12/15/2013 6:07:17 AM: 127.0.0.1: Serials: 0x1D; 
+###################################
+Logging started on 12/15/2013 6:14:27 AM
+
+12/15/2013 6:14:50 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:16:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:16:08 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2 "a grizzly bear" (no account)
+12/15/2013 6:16:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x3 "a grizzly bear" (no account)
+12/15/2013 6:16:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x5 "a grizzly bear" (no account)
+12/15/2013 6:16:09 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x4 "a grizzly bear" (no account)
+12/15/2013 6:16:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:16:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x7 "Maleki" (no account)
+12/15/2013 6:16:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x6 "Be'elzebubba" (no account)
+12/15/2013 6:16:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:16:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xA "an air elemental" (no account)
+12/15/2013 6:16:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xB "an air elemental" (no account)
+12/15/2013 6:16:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x8 "an air elemental" (no account)
+12/15/2013 6:16:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x9 "an air elemental" (no account)
+12/15/2013 6:17:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:17:05 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xE "a black bear" (no account)
+12/15/2013 6:17:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xD "a black bear" (no account)
+12/15/2013 6:17:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xC "a black bear" (no account)
+12/15/2013 6:17:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0xF "a black bear" (no account)
+12/15/2013 6:17:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:17:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:17:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x10 "a fire elemental" (no account)
+12/15/2013 6:17:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x11 "a fire elemental" (no account)
+12/15/2013 6:17:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:17:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x13 "an air elemental" (no account)
+12/15/2013 6:17:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x14 "an air elemental" (no account)
+12/15/2013 6:17:48 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x15 "an air elemental" (no account)
+12/15/2013 6:17:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x12 "an air elemental" (no account)
+12/15/2013 6:18:29 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lichlord'
+12/15/2013 6:18:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5658, 424, -1) in Backtrol: "lichlord"
+12/15/2013 6:18:32 AM: 127.0.0.1: Serials: 0x19; 
+12/15/2013 6:18:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:18:52 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5658, 424, -1) in Backtrol: "ancientlich"
+12/15/2013 6:18:52 AM: 127.0.0.1: Serials: 0x1A; 
+12/15/2013 6:20:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/15/2013 6:21:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add repear'
+12/15/2013 6:21:40 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add repea'
+12/15/2013 6:21:42 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 395, -1) in Backtrol: "RepeatingCrossbow"
+12/15/2013 6:21:42 AM: 127.0.0.1: Serials: 0x400000EF; 
+12/15/2013 6:24:45 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:24:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5690, 396, 1) in Backtrol: "ancientlich"
+12/15/2013 6:24:46 AM: 127.0.0.1: Serials: 0x20; 
+12/15/2013 6:25:34 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add fullspellbook'
+12/15/2013 6:25:37 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5687, 394, -1) in Backtrol: "fullspellbook"
+12/15/2013 6:25:37 AM: 127.0.0.1: Serials: 0x40000122; 
+12/15/2013 6:26:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:28:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:28:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5685, 390, 2) in Backtrol: "ancientlich"
+12/15/2013 6:28:30 AM: 127.0.0.1: Serials: 0x26; 
+12/15/2013 6:29:04 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:29:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'eoc' of 0x1 "Test" ('Administrator') to '0'
+12/15/2013 6:29:11 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'self set eoc 0'
+12/15/2013 6:29:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add balron'
+12/15/2013 6:29:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5688, 399, 1) in Backtrol: "balron"
+12/15/2013 6:29:15 AM: 127.0.0.1: Serials: 0x27; 
+12/15/2013 6:29:49 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:30:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:30:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:30:18 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x24 "a fire elemental" (no account)
+12/15/2013 6:30:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x25 "a fire elemental" (no account)
+12/15/2013 6:30:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x23 "a fire elemental" (no account)
+12/15/2013 6:30:21 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:30:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:30:25 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'cov '
+12/15/2013 6:33:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ancientlich'
+12/15/2013 6:33:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5681, 389, -3) in Backtrol: "ancientlich"
+12/15/2013 6:33:02 AM: 127.0.0.1: Serials: 0x28; 
+12/15/2013 6:35:00 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:35:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2E "a giant serpent" (no account)
+12/15/2013 6:35:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x4000041E (Blood)
+12/15/2013 6:35:03 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x2D "a giant serpent" (no account)
+12/15/2013 6:36:01 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add balron'
+12/15/2013 6:36:02 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 389, -1) in Backtrol: "balron"
+12/15/2013 6:36:02 AM: 127.0.0.1: Serials: 0x33; 
+12/15/2013 6:38:32 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'props '
+12/15/2013 6:40:06 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add lich'
+12/15/2013 6:40:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 386, 2) in Backtrol: "lich"
+12/15/2013 6:40:07 AM: 127.0.0.1: Serials: 0x34; 
+12/15/2013 6:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'set rawdex 150'
+12/15/2013 6:40:19 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') set property 'rawdex' of 0x1 "Test" ('Administrator') to '150'
+12/15/2013 6:40:23 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:40:26 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 6:40:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x34 "a lich" (no account)
+12/15/2013 6:40:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add ogre'
+12/15/2013 6:40:30 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 386, 2) in Backtrol: "ogre"
+12/15/2013 6:40:30 AM: 127.0.0.1: Serials: 0x35; 
+12/15/2013 6:41:15 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add troll'
+12/15/2013 6:41:16 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5683, 388, 0) in Backtrol: "troll"
+12/15/2013 6:41:16 AM: 127.0.0.1: Serials: 0x36; 
+12/15/2013 6:41:28 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:41:31 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'remove '
+12/15/2013 6:41:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:42:12 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add drake'
+12/15/2013 6:42:14 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 392, 0) in Backtrol: "drake"
+12/15/2013 6:42:14 AM: 127.0.0.1: Serials: 0x37; 
+12/15/2013 6:42:20 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:42:38 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'add dragon'
+12/15/2013 6:42:39 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') building at (5684, 391, 1) in Backtrol: "dragon"
+12/15/2013 6:42:39 AM: 127.0.0.1: Serials: 0x38; 
+12/15/2013 6:42:46 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:42:56 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:43:07 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:43:13 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'heal '
+12/15/2013 6:43:27 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') used command 'm delete'
+12/15/2013 6:43:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x40000560 (Corpse)
+12/15/2013 6:43:33 AM: 127.0.0.1: Administrator 0x1 "Test" ('Administrator') deleting 0x38 "Dhaki Attlon," (no account)
+###################################
+Logging started on 12/15/2013 10:14:55 AM
+
