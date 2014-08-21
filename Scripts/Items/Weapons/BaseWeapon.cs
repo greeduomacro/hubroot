@@ -1002,19 +1002,24 @@ namespace Server.Items
                 { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
 
                 int totalWeight = 0;
+                int totalItems = 0;
 
                 for (int i = 0; i < layers.Length; i++)
                 {
                     if(attacker is Player)
                     {
                         Item item = ((Player)attacker).FindItemOnLayer(layers[i]);
-                        if(item != null) totalWeight += (int)item.Weight;
+                        if (item != null)
+                        {
+                            totalItems++;
+                            totalWeight += (int)item.Weight;
+                        }
                     }
                 }
 
                 double strReductionRatio = (Math.Sqrt(attacker.Str) / 100);
                 int staminaReduction = (int)(Math.Sqrt(totalWeight) * strReductionRatio);
-                staminaReduction = (staminaReduction * staminaReduction) / 2;
+                staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.66) + totalItems);
 
                 if (staminaReduction > attacker.Stam)
                 {
