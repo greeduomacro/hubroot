@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public PlateChest() : base( 0x1415 )
 		{
-			Weight = 10.0;
+			Weight = 20.0;
 		}
 
 		public PlateChest( Serial serial ) : base( serial )

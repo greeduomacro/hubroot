@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public ChainChest() : base( 0x13BF )
 		{
-			Weight = 7.0;
+			Weight = 15.0;
 		}
 
 		public ChainChest( Serial serial ) : base( serial )

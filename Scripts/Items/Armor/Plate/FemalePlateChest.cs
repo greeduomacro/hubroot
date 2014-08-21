@@ -29,7 +29,7 @@ namespace Server.Items
 		[Constructable]
 		public FemalePlateChest() : base( 0x1C04 )
 		{
-			Weight = 4.0;
+			Weight = 15.0;
 		}
 
 		public FemalePlateChest( Serial serial ) : base( serial )

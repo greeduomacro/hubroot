@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public PlateArms() : base( 0x1410 )
 		{
-			Weight = 5.0;
+			Weight = 15.0;
 		}
 
 		public PlateArms( Serial serial ) : base( serial )

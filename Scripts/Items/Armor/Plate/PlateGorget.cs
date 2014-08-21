@@ -26,7 +26,7 @@ namespace Server.Items
 		[Constructable]
 		public PlateGorget() : base( 0x1413 )
 		{
-			Weight = 2.0;
+			Weight = 5.0;
 		}
 
 		public PlateGorget( Serial serial ) : base( serial )

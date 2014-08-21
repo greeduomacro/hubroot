@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public PlateGloves() : base( 0x1414 )
 		{
-			Weight = 2.0;
+			Weight = 5.0;
 		}
 
 		public PlateGloves( Serial serial ) : base( serial )

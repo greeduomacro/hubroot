@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public RingmailLegs() : base( 0x13F0 )
 		{
-			Weight = 15.0;
+			Weight = 7.5;
 		}
 
 		public RingmailLegs( Serial serial ) : base( serial )

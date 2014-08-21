@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public ChainLegs() : base( 0x13BE )
 		{
-			Weight = 7.0;
+			Weight = 10.0;
 		}
 
 		public ChainLegs( Serial serial ) : base( serial )

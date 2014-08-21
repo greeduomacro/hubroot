@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public RingmailArms() : base( 0x13EE )
 		{
-			Weight = 15.0;
+			Weight = 5.0;
 		}
 
 		public RingmailArms( Serial serial ) : base( serial )

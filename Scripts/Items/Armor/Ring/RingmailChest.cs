@@ -27,7 +27,7 @@ namespace Server.Items
 		[Constructable]
 		public RingmailChest() : base( 0x13EC )
 		{
-			Weight = 15.0;
+			Weight = 10.0;
 		}
 
 		public RingmailChest( Serial serial ) : base( serial )
