@@ -929,6 +929,44 @@ namespace Server.Items
 
         public bool canSwing = true;
 
+        bool QueryEquippedWeight(Mobile attacker)
+        {
+            Layer[] layers = new Layer[] { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
+
+            int totalWeight = 0;
+            int totalItems = 0;
+
+            for (int i = 0; i < layers.Length; i++)
+            {
+                if (attacker is Player)
+                {
+                    Item item = ((Player)attacker).FindItemOnLayer(layers[i]);
+                    if (item != null)
+                    {
+                        totalItems++;
+                        totalWeight += (int)item.Weight;
+                    }
+                }
+            }           
+
+            double reductionRatio = (Math.Sqrt(attacker.Str) / (200 - attacker.Dex));
+            int staminaReduction = (int)(Math.Sqrt(totalWeight) - (totalWeight * reductionRatio));
+            staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.8325) + totalItems);
+
+            if (staminaReduction > attacker.Stam)
+            {
+                attacker.SendMessage("Thou art too encumbered to swing..");
+                canSwing = false;
+                return false;
+            }
+
+            else
+            {
+                attacker.Stam -= staminaReduction;
+                return true;
+            }
+        }
+
         public virtual TimeSpan OnSwing( Mobile attacker, Mobile defender, double damageBonus )
         {
             if (Core.AOS)
@@ -973,7 +1011,8 @@ namespace Server.Items
                     }
                     else
                     {
-                        attacker.Stam -= 2;
+                        if (QueryEquippedWeight(attacker))
+                            attacker.Stam -= 2;
                     }
                 }
             }
@@ -991,44 +1030,11 @@ namespace Server.Items
                         }
                         else
                         {
-                            attacker.Stam -= (int)(((weapon.Weight + 2) / 2) + 2);
+                            if(QueryEquippedWeight(attacker))
+                                attacker.Stam -= (int)(((weapon.Weight + 2) / 2) + 2);
                         }             
                 }
-            }
-
-            if (canSwing && attacker is Player)
-            {
-                Layer[] layers = new Layer[] 
-                { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
-
-                int totalWeight = 0;
-                int totalItems = 0;
-
-                for (int i = 0; i < layers.Length; i++)
-                {
-                    if(attacker is Player)
-                    {
-                        Item item = ((Player)attacker).FindItemOnLayer(layers[i]);
-                        if (item != null)
-                        {
-                            totalItems++;
-                            totalWeight += (int)item.Weight;
-                        }
-                    }
-                }
-
-                double strReductionRatio = (Math.Sqrt(attacker.Str) / ( 200 - attacker.Dex));
-                int staminaReduction = (int)(Math.Sqrt(totalWeight) - (totalWeight * strReductionRatio));
-                staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.667) + totalItems);
-
-                if (staminaReduction > attacker.Stam)
-                {
-                    attacker.SendMessage("Thou art too encumbered to swing..");
-                    canSwing = false;
-                }
-
-                else attacker.Stam -= staminaReduction;
-            }
+            }          
 
             if( canSwing && attacker.HarmfulCheck(defender) )
             {
