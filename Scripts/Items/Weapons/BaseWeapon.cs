@@ -996,7 +996,7 @@ namespace Server.Items
                 }
             }
 
-            if (canSwing)
+            if (canSwing && attacker is Player)
             {
                 Layer[] layers = new Layer[] 
                 { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
@@ -1017,9 +1017,9 @@ namespace Server.Items
                     }
                 }
 
-                double strReductionRatio = (Math.Sqrt(attacker.Str) / 100);
-                int staminaReduction = (int)(Math.Sqrt(totalWeight) * strReductionRatio);
-                staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.66) + totalItems);
+                double strReductionRatio = (Math.Sqrt(attacker.Str) / ( 200 - attacker.Dex));
+                int staminaReduction = (int)(Math.Sqrt(totalWeight) - (totalWeight * strReductionRatio));
+                staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.667) + totalItems);
 
                 if (staminaReduction > attacker.Stam)
                 {
