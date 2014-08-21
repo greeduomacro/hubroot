@@ -978,7 +978,7 @@ namespace Server.Items
                 }
             }
 
-            if (Parent is Player && this is BaseWeapon)
+            if (Parent is Player && attacker.Weapon is BaseWeapon)
             {
                 Item weapon = attacker.Weapon as BaseWeapon;
 
@@ -1003,7 +1003,7 @@ namespace Server.Items
 
                 int totalWeight = 0;
 
-                for (int i = 0; i <= layers.Length; i++)
+                for (int i = 0; i < layers.Length; i++)
                 {
                     if(attacker is Player)
                     {
@@ -1014,6 +1014,7 @@ namespace Server.Items
 
                 double strReductionRatio = (Math.Sqrt(attacker.Str) / 100);
                 int staminaReduction = (int)(Math.Sqrt(totalWeight) * strReductionRatio);
+                staminaReduction = (staminaReduction * staminaReduction) / 2;
 
                 if (staminaReduction > attacker.Stam)
                 {
