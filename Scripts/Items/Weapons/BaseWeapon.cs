@@ -949,7 +949,7 @@ namespace Server.Items
                 }
             }           
 
-            double reductionRatio = (Math.Sqrt(attacker.Str) / 100);
+            double reductionRatio = (Math.Sqrt(attacker.Str) / 91.1);
             int staminaReduction = (int)(Math.Sqrt(totalWeight * reductionRatio));
             staminaReduction = (int)(((staminaReduction * staminaReduction) * 0.8325) + totalItems);
 
