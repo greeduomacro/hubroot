@@ -155,6 +155,13 @@ Pets will now refuse to attack guards out of fear.
 Corrected magery level on wizard type guards.
 Bank Boxes no longer fall to backpacks on knockout.
 
+0.1.3
+Stamina lossed during combat now accounts for armor equipped.
+Fixed the Marksman Perk 'Dead Aim' - now produces proper bonus.
+Increased the speed at which players gain EoC both walking, both on-foot and mounted.
+Player combat accuracy now heavily reduced when not facing an opponent.
+Creatures and Players not facing their opponents are now much easier to hit.
+
 
 https://docs.google.com/uc?export=download&confirm=Y-Fx&id=0B8alYNlu3SuoLWVuUXpyQzlFaGc
 
@@ -163,7 +170,7 @@ TODO:
 Flying carpets need the wrap function.
 Flying carpets shouldn't be able to fly over black tiles.
 Tents need to check placement.
-Chance to parry/hit should be reduced if not facing opponent.
+//Chance to parry/hit should be reduced if not facing opponent.
 Life/Death?
 Resources/Craft
 Armslore / Gump?

@@ -782,6 +782,21 @@ namespace Server.Items
                      chance = 0;
             }
 
+            if (chance > 0)
+            {
+                Direction atkDirection = attacker.Direction;
+                Direction defDirection = defender.Direction;
+
+                Direction directionToDefender = attacker.GetDirectionTo(((IPoint2D)defender.Location));
+                Direction directionToAttacker = defender.GetDirectionTo(((IPoint2D)attacker.Location));
+
+                if (atkDirection != directionToDefender)
+                    chance -= 0.66;
+
+                if (defDirection != directionToAttacker)
+                    chance += 0.66;
+            }
+
             return attacker.CheckSkill(atkSkill.SkillName, chance);
         }
 
@@ -929,7 +944,7 @@ namespace Server.Items
 
         public bool canSwing = true;
 
-        bool QueryEquippedWeight(Mobile attacker)
+        bool CanMoveEquipped(Mobile attacker)
         {
             Layer[] layers = new Layer[] { Layer.Arms, Layer.Bracelet, Layer.Gloves, Layer.Neck, Layer.Helm, Layer.InnerTorso, Layer.Pants };
 
@@ -943,7 +958,9 @@ namespace Server.Items
                     Item item = ((Player)attacker).FindItemOnLayer(layers[i]);
                     if (item != null)
                     {
-                        totalItems++;
+                        if(!(item is BaseBracelet))
+                            totalItems++;
+
                         totalWeight += (int)item.Weight;
                     }
                 }
@@ -1011,7 +1028,7 @@ namespace Server.Items
                     }
                     else
                     {
-                        if (QueryEquippedWeight(attacker))
+                        if (CanMoveEquipped(attacker))
                             attacker.Stam -= 2;
                     }
                 }
@@ -1030,7 +1047,7 @@ namespace Server.Items
                         }
                         else
                         {
-                            if(QueryEquippedWeight(attacker))
+                            if(CanMoveEquipped(attacker))
                                 attacker.Stam -= (int)(((weapon.Weight + 2) / 2) + 2);
                         }             
                 }

@@ -57,7 +57,7 @@ namespace Server.Perks
                 {
                     if(attacker.InRange(defender, range))
                     {
-                        return (80 / range);
+                        return ((80 / range) / 100);
                     }
                 }             
             }
