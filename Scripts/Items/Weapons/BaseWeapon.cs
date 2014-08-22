@@ -782,8 +782,6 @@ namespace Server.Items
                      chance = 0;
             }
 
-            if (chance > 0)
-            {
                 Direction atkDirection = attacker.Direction;
                 Direction defDirection = defender.Direction;
 
@@ -795,7 +793,6 @@ namespace Server.Items
 
                 if (defDirection != directionToAttacker)
                     chance += 0.66;
-            }
 
             return attacker.CheckSkill(atkSkill.SkillName, chance);
         }
